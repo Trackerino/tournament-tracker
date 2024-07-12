@@ -1,11 +1,9 @@
 import env from './env.js';
-import getAuth from './get-auth.js';
 
+import type { AuthData } from '../types/account-service.js';
 import type { DataResponse } from '../types/event-service';
 
-export default async () => {
-  const auth = await getAuth();
-
+export default async (auth: AuthData) => {
   const res = await fetch(
     `https://events-public-service-live.ol.epicgames.com/api/v1/events/Fortnite/data/${env.EPIC_ACCOUNT_ID}`,
     {
