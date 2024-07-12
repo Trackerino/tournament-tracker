@@ -12,7 +12,7 @@ const envConfigScheme = Type.Object({
   EPIC_DEVICE_ID: Type.String({ minLength: 32, maxLength: 32 }),
   EPIC_DEVICE_SECRET: Type.String({ minLength: 32, maxLength: 32 }),
 
-  WEBHOOK_URL: Type.String({ minLength: 1 }),
+  // WEBHOOK_URL: Type.String({ minLength: 1 }),
   GIT_DO_NOT_COMMIT: Type.Optional(Type.String({ default: 'false' })),
   GIT_DO_NOT_PUSH: Type.Optional(Type.String({ default: 'false' })),
 });

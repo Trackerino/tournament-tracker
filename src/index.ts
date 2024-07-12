@@ -10,17 +10,6 @@ const outputFolder = 'output';
 const eventsFile = `${outputFolder}/events.json`;
 const cmsFile = `${outputFolder}/cms.json`;
 
-// for future webhook?
-const getCacheFile = async <T = unknown>(file: string) => {
-  if (!fs.existsSync(file)) {
-    return null;
-  }
-
-  const content = await fsp.readFile(file, 'utf-8');
-
-  return <T>JSON.parse(content);
-};
-
 const main = async () => {
   if (!fs.existsSync(outputFolder)) {
     await fsp.mkdir(outputFolder, { recursive: true });
@@ -28,15 +17,11 @@ const main = async () => {
 
   const tournamentsCms = await getTournamentCmsData('en-US');
 
-  console.log(tournamentsCms);
-
   if (tournamentsCms.success) {
     await writeFile(cmsFile, JSON.stringify(tournamentsCms.data, null, 3));
   }
 
   const eventsData = await getEventServiceData();
-
-  console.log(eventsData);
 
   if (eventsData.success) {
     await writeFile(eventsFile, JSON.stringify(eventsData.data, null, 3));
@@ -76,46 +61,6 @@ const main = async () => {
   }
 
   execSync('git push');
-
-  // let fieldValue = '';
-  // let overflowCount = 0;
-
-  // updatedAssets.forEach((data) => {
-  //   const assetText = `- ${data.assetId} (v${data.asset.meta.revision})\n`;
-
-  //   if (fieldValue.length + assetText.length > 1000) {
-  //     overflowCount += 1;
-
-  //     return;
-  //   }
-
-  //   fieldValue += assetText;
-  // });
-
-  // if (overflowCount) {
-  //   fieldValue += `- + ${overflowCount} more`;
-  // }
-
-  // const webhookResponse = await needle('post', env.WEBHOOK_URL, {
-  //   content: '<@&1232656166551683102>',
-  //   embeds: [{
-  //     title: 'Update',
-  //     color: 1752220, // Aqua
-  //     description: `**${updatedAssets.length}** assets updated`,
-  //     fields: [{
-  //       name: 'Assets',
-  //       value: fieldValue,
-  //     }],
-  //   }],
-  // }, {
-  //   json: true,
-  // });
-
-  // if (webhookResponse.statusCode !== 204) {
-  //   console.log(webhookResponse.statusCode, webhookResponse.statusMessage, webhookResponse.body);
-
-  //   throw new Error('Failed to send webhook');
-  // }
 };
 
 // eslint-disable-next-line @typescript-eslint/no-floating-promises
