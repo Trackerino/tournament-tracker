@@ -19979,6 +19979,42 @@
          },
          "eventWindows": [
             {
+               "eventWindowId": "S30_OpenTriosCupZB_Event1_BR",
+               "eventTemplateId": "EventTemplate_S30_OpenTriosCup_ZB",
+               "countdownBeginTime": "2024-06-01T19:00:00Z",
+               "beginTime": "2024-06-01T21:00:00Z",
+               "endTime": "2024-06-02T00:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "Leaderboard_S30_Open_Trios_Cup",
+                     "isMainWindowLeaderboard": true
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "additionalRequirements": [
+                  "mfa",
+                  "eula:s30_opencup_rules"
+               ],
+               "metadata": {
+                  "ServerReplays": true,
+                  "RoundType": "Qualifiers",
+                  "disqualifyToken": "S30_FNCS_Banned"
+               }
+            },
+            {
                "eventWindowId": "S30_OpenTriosCupZB_Event2_BR",
                "eventTemplateId": "EventTemplate_S30_OpenTriosCup_ZB",
                "countdownBeginTime": "2024-06-08T19:00:00Z",
