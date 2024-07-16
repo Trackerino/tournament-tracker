@@ -12799,90 +12799,6 @@
       },
       {
          "gameId": "Fortnite",
-         "eventId": "epicgames_S30_FNCSCommunityCups_ASIA_v1",
-         "beginTime": "2024-07-16T09:00:00Z",
-         "endTime": "2024-07-16T12:00:00Z",
-         "displayDataId": "s30_fncs_community_v1",
-         "eventGroup": "Season30_FNCSCommunityCup",
-         "announcementTime": "2024-07-12T15:00:00Z",
-         "regions": [
-            "ASIA"
-         ],
-         "regionMappings": {
-            "ASIA": "ASIACOMP"
-         },
-         "platforms": [
-            "XboxOneGDK",
-            "PS4",
-            "XCloud",
-            "Helios",
-            "Luna",
-            "XCloudMobile",
-            "XB1",
-            "XboxOne",
-            "XSX",
-            "Android",
-            "LunaMobile",
-            "PS5",
-            "HeliosMobile",
-            "GFN",
-            "Switch",
-            "GFNMobile",
-            "Windows"
-         ],
-         "platformMappings": {},
-         "metadata": {
-            "minimumAccountLevel": 15,
-            "AccountLockType": "Window",
-            "TeamLockType": "Window"
-         },
-         "eventWindows": [
-            {
-               "eventWindowId": "S30_FNCSCommunityCups_v1_ASIA",
-               "eventTemplateId": "EventTemplate_S30_FNCSCommunityCups",
-               "countdownBeginTime": "2024-07-16T07:00:00Z",
-               "beginTime": "2024-07-16T09:00:00Z",
-               "endTime": "2024-07-16T12:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "Leaderboard_S30_FNCS_Community_Cups",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s30_fncscommunitycup_rules",
-                  "currentRanking:ranked-br:0"
-               ],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers",
-                  "disqualifyToken": "S30_FNCS_Banned"
-               }
-            }
-         ],
-         "link": {
-            "type": "br:tournament",
-            "code": "tournament_epicgames_s30_fncscommunitycups_asia_v1",
-            "version": 1
-         }
-      },
-      {
-         "gameId": "Fortnite",
          "eventId": "epicgames_S30_FNCSCommunityCups_ASIA_v2",
          "beginTime": "2024-07-20T09:00:00Z",
          "endTime": "2024-07-20T12:00:00Z",
@@ -61486,48 +61402,6 @@
                         "rewardType": "token",
                         "rewardMode": "standard",
                         "value": "S30_FNCS_Major3_SemiFinal_LowerBracket_Round3_OCE",
-                        "quantity": 1
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S30_FNCSCommunityCups_v1_ASIA": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 250,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_garbagefncs",
-                        "quantity": 1
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaBackpack:backpack_fncs_s30",
-                        "quantity": 1
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaPickaxe:pickaxe_angel_fncs",
-                        "quantity": 1
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaItemWrap:wrap_comp30",
-                        "quantity": 1
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaMusicPack:musicpack_213_fncsmajor3",
                         "quantity": 1
                      }
                   ]
