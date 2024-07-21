@@ -5,7 +5,7 @@ import type { DataResponse } from '../types/event-service';
 
 export default async (auth: AuthData) => {
   const res = await fetch(
-    `https://events-public-service-live.ol.epicgames.com/api/v1/events/Fortnite/data/${env.EPIC_ACCOUNT_ID}`,
+    `https://events-public-service-live.ol.epicgames.com/api/v1/events/Fortnite/data/${env.EPIC_ACCOUNT_ID}?showPastEvents=true`,
     {
       headers: {
         Authorization: `${auth.token_type} ${auth.access_token}`,
