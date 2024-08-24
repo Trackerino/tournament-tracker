@@ -1,0 +1,786 @@
+{
+   "events": [
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_S30_FNCS_Major3_GrandFinals_ME",
+         "beginTime": "2024-07-27T15:00:00Z",
+         "endTime": "2024-07-28T18:30:00Z",
+         "displayDataId": "s30_fncs_grandfinals",
+         "eventGroup": "Season30_FNCS_Major3",
+         "announcementTime": "2024-05-24T09:00:00Z",
+         "regions": [
+            "ME"
+         ],
+         "regionMappings": {
+            "ME": "MECOMP"
+         },
+         "platforms": [
+            "XboxOneGDK",
+            "PS4",
+            "XCloud",
+            "Helios",
+            "Luna",
+            "XCloudMobile",
+            "XB1",
+            "XboxOne",
+            "XSX",
+            "Android",
+            "LunaMobile",
+            "PS5",
+            "HeliosMobile",
+            "GFN",
+            "Switch",
+            "GFNMobile",
+            "Windows"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "TeamLockType": "Week",
+            "minimumAccountLevel": 50,
+            "TrackedStats": [
+               "Headshots",
+               "DamageDealt",
+               "DamageReceived",
+               "GainedHealthTimes",
+               "GainedShieldTimes",
+               "Travel_Distance_Ground"
+            ],
+            "DisqualifyType": "Floating",
+            "RegionLockType": "Season",
+            "AccountLockType": "Season"
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S30_FNCS_Major3_GrandFinalDay1_ME",
+               "eventTemplateId": "EventTemplate_S30_FNCS_Major3_GrandFinal",
+               "countdownBeginTime": "2024-07-27T13:00:00Z",
+               "beginTime": "2024-07-27T15:00:00Z",
+               "endTime": "2024-07-27T18:30:00Z",
+               "round": 0,
+               "payoutDelay": 34,
+               "isTBD": false,
+               "visibility": "public",
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S30_FNCS_Major3_GranFinalDay1_DefaultLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [
+                  "S30_FNCS_Major3_GrandFinalist_ME"
+               ],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2",
+                  "S30_FNCS_Banned"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "additionalRequirements": [
+                  "mfa",
+                  "eula:s28_fncs_rules"
+               ],
+               "metadata": {
+                  "ScheduledMatchmakingInitialDelaySeconds": 600,
+                  "asyncPayoutsExclusiveLeaderboardDefs": [
+                     "S30_FNCS_Major3_GrandFinalDay1_CumulativeLeaderboardDef"
+                  ],
+                  "disqualifyToken": "S30_FNCS_Banned",
+                  "SubgroupId": "GrandFinal",
+                  "ServerReplays": true,
+                  "alternativeScoreLocationIndex": 0,
+                  "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+                  "RoundType": "Qualifiers",
+                  "ScheduledMatchmakingMatchDelaySeconds": 2280
+               }
+            },
+            {
+               "eventWindowId": "S30_FNCS_Major3_GrandFinalDay2_ME",
+               "eventTemplateId": "EventTemplate_S30_FNCS_Major3_GrandFinal",
+               "countdownBeginTime": "2024-07-28T13:00:00Z",
+               "beginTime": "2024-07-28T15:00:00Z",
+               "endTime": "2024-07-28T18:30:00Z",
+               "round": 0,
+               "payoutDelay": 34,
+               "isTBD": false,
+               "visibility": "public",
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S30_FNCS_Major3_GrandFinal_DefaultLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "S30_FNCS_Major3_GrandFinalDay2_CumulativeLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [
+                  "S30_FNCS_Major3_GrandFinalist_ME"
+               ],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2",
+                  "S30_FNCS_Banned"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "additionalRequirements": [
+                  "mfa",
+                  "eula:s28_fncs_rules"
+               ],
+               "metadata": {
+                  "ScheduledMatchmakingInitialDelaySeconds": 600,
+                  "disqualifyToken": "S30_FNCS_Banned",
+                  "SubgroupId": "GrandFinal",
+                  "alternativeScoreLocationIndex": 1,
+                  "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+                  "RoundType": "Qualifiers",
+                  "ScheduledMatchmakingMatchDelaySeconds": 2280,
+                  "relevantFloatingScoreId": "cumulative:epicgames_S30_FNCS_Major3_GrandFinals_ME_CumulativeLeaderboard",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s30_fncs_major3_grandfinals_me",
+            "version": 1
+         }
+      }
+   ],
+   "eventSeries": [],
+   "leaderboardDefs": [
+      {
+         "gameId": "Fortnite",
+         "leaderboardDefId": "S30_FNCS_Major3_GrandFinal_DefaultLeaderboardDef",
+         "leaderboardStorageId": "Fortnite_GLOBAL",
+         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+         "leaderboardInstanceIdFormat": "${windowId}",
+         "maxSessionHistorySize": 10,
+         "useIndividualScores": false,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "scoringRuleSetId": "S30_ScoringRules_FNCS_Major3_GrandFinalsDay2",
+         "clampsToZero": true,
+         "payoutsConfig": {
+            "payoutTableIdFormat": "${windowId}",
+            "payoutDate": "windowEnd+PT34M"
+         },
+         "hidePlayerScores": false,
+         "percentileAccuracy": 1,
+         "requiredPlayerListings": []
+      },
+      {
+         "gameId": "Fortnite",
+         "leaderboardDefId": "S30_FNCS_Major3_GrandFinalDay2_CumulativeLeaderboardDef",
+         "leaderboardStorageId": "Fortnite_GLOBAL",
+         "leaderboardInstanceGroupingKeyFormat": "cumulative",
+         "leaderboardInstanceIdFormat": "${eventId}_CumulativeLeaderboard",
+         "maxSessionHistorySize": 20,
+         "useIndividualScores": false,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "scoringRuleSetId": "S30_ScoringRules_FNCS_Major3_GrandFinalsDay2",
+         "clampsToZero": true,
+         "hidePlayerScores": false,
+         "percentileAccuracy": 1,
+         "requiredPlayerListings": []
+      },
+      {
+         "gameId": "Fortnite",
+         "leaderboardDefId": "S30_FNCS_Major3_GranFinalDay1_DefaultLeaderboardDef",
+         "leaderboardStorageId": "Fortnite_GLOBAL",
+         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+         "leaderboardInstanceIdFormat": "${windowId}",
+         "maxSessionHistorySize": 10,
+         "useIndividualScores": false,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "scoringRuleSetId": "S30_ScoringRules_FNCS_Major3_SemiFinals",
+         "clampsToZero": true,
+         "hidePlayerScores": false,
+         "percentileAccuracy": 1,
+         "requiredPlayerListings": []
+      }
+   ],
+   "payoutTables": {
+      "S30_FNCS_Major3_GrandFinalDay2_ME": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 1,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 10000
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_id_804_fncss20male",
+                        "quantity": 1
+                     }
+                  ]
+               },
+               {
+                  "threshold": 2,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 7000
+                     }
+                  ]
+               },
+               {
+                  "threshold": 3,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 5500
+                     }
+                  ]
+               },
+               {
+                  "threshold": 4,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 4500
+                     }
+                  ]
+               },
+               {
+                  "threshold": 5,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 3250
+                     }
+                  ]
+               },
+               {
+                  "threshold": 6,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 2250
+                     }
+                  ]
+               },
+               {
+                  "threshold": 7,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 1500
+                     }
+                  ]
+               },
+               {
+                  "threshold": 8,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 1300
+                     }
+                  ]
+               },
+               {
+                  "threshold": 9,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 1200
+                     }
+                  ]
+               },
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 1000
+                     }
+                  ]
+               },
+               {
+                  "threshold": 15,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 750
+                     }
+                  ]
+               },
+               {
+                  "threshold": 20,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 500
+                     }
+                  ]
+               },
+               {
+                  "threshold": 25,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 250
+                     }
+                  ]
+               },
+               {
+                  "threshold": 50,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 100
+                     }
+                  ]
+               }
+            ],
+            "scoreId": "cumulative:epicgames_S30_FNCS_Major3_GrandFinals_ME_CumulativeLeaderboard"
+         }
+      ]
+   },
+   "scoringRuleSets": {
+      "S30_ScoringRules_FNCS_Major3_GrandFinalsDay2": [
+         {
+            "trackedStat": "PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 16,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 11,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 12,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 13,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 14,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 16,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 17,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 18,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 19,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 21,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 22,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 23,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 24,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 6,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S30_ScoringRules_FNCS_Major3_SemiFinals": [
+         {
+            "trackedStat": "PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 11,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 12,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 13,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 14,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 16,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 17,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 18,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 19,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 21,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 22,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 23,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 24,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 4,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ]
+   },
+   "templates": [
+      {
+         "playlistId": "Playlist_ShowdownTournament_Duos",
+         "matchCap": 6,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "gameId": "Fortnite",
+         "eventTemplateId": "EventTemplate_S30_FNCS_Major3_GrandFinal",
+         "scoringRules": [],
+         "payoutTable": [],
+         "liveSessionAttributes": [],
+         "clampsToZero": false
+      }
+   ]
+}
