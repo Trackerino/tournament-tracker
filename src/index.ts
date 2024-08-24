@@ -10,6 +10,7 @@ import killToken from './utils/kill-token.js';
 
 const outputFolder = 'output';
 const eventsFile = `${outputFolder}/events.json`;
+const devEventsFile = `${outputFolder}/events-dev.json`;
 const cmsFile = `${outputFolder}/cms.json`;
 
 const main = async () => {
@@ -24,30 +25,39 @@ const main = async () => {
   }
 
   const auth = await getAuth();
-  const eventsData = await getEventServiceData(auth);
+  const eventsData = await getEventServiceData(auth, 'live');
+  const devEventsData = await getEventServiceData(auth, 'prod');
 
   if (eventsData.success) {
     await writeFile(eventsFile, JSON.stringify(eventsData.data, null, 3));
   }
 
+  if (devEventsData.success) {
+    await writeFile(devEventsFile, JSON.stringify(devEventsData.data, null, 3));
+  }
+
   await killToken(auth);
 
   const gitStatus = execSync('git status')?.toString('utf-8') || '';
-  const isModified = gitStatus.includes(outputFolder);
+  const changes: string[] = [];
 
-  if (!isModified) {
+  if (gitStatus.includes(cmsFile)) {
+    changes.push('CMS');
+  }
+
+  if (gitStatus.includes(eventsFile)) {
+    changes.push('Events');
+  }
+
+  if (gitStatus.includes(devEventsFile)) {
+    changes.push('Events (Dev)');
+  }
+
+  if (!changes.length) {
     return;
   }
 
-  const cmsModified = gitStatus.includes(cmsFile);
-  const eventsModified = gitStatus.includes(eventsFile);
-
-  // eslint-disable-next-line no-nested-ternary
-  const commitMessage = cmsModified && eventsModified
-    ? 'Tournament CMS & Events Modified'
-    : cmsModified
-      ? 'Tournament CMS Modified'
-      : 'Events Modified';
+  const commitMessage = `Modified ${changes.join(', ')}`
 
   console.log(commitMessage);
 
