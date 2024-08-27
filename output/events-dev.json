@@ -296,13 +296,15 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 10000
+                        "quantity": 10000,
+                        "notifiesPlayer": true
                      },
                      {
                         "rewardType": "game",
                         "rewardMode": "standard",
                         "value": "AthenaPickaxe:pickaxe_id_804_fncss20male",
-                        "quantity": 1
+                        "quantity": 1,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -313,7 +315,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 7000
+                        "quantity": 7000,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -324,7 +327,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 5500
+                        "quantity": 5500,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -335,7 +339,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 4500
+                        "quantity": 4500,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -346,7 +351,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 3250
+                        "quantity": 3250,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -357,7 +363,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 2250
+                        "quantity": 2250,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -368,7 +375,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 1500
+                        "quantity": 1500,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -379,7 +387,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 1300
+                        "quantity": 1300,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -390,7 +399,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 1200
+                        "quantity": 1200,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -401,7 +411,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 1000
+                        "quantity": 1000,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -412,7 +423,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 750
+                        "quantity": 750,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -423,7 +435,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 500
+                        "quantity": 500,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -434,7 +447,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 250
+                        "quantity": 250,
+                        "notifiesPlayer": true
                      }
                   ]
                },
@@ -445,7 +459,8 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 100
+                        "quantity": 100,
+                        "notifiesPlayer": true
                      }
                   ]
                }
