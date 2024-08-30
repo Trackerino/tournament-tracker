@@ -6,7 +6,7 @@ export default async (locale = 'en') => {
   );
 
   if (!res.ok) {
-    console.log('failed fetching tourney cms data', res.status, res.statusText, await res.text());
+    console.log('failed fetching tournament frontend cms data', res.status, res.statusText, await res.text());
 
     return {
       success: false,

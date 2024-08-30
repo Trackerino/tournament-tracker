@@ -5,23 +5,37 @@ import fsp, { writeFile } from 'fs/promises';
 import env from './utils/env.js';
 import getAuth from './utils/get-auth.js';
 import getEventServiceData from './utils/get-event-service-data.js';
-import getTournamentCmsData from './utils/get-tournament-cms-data.js';
+import getTournamentCmsData from './utils/get-tournament-frontend-cms-data.js';
 import killToken from './utils/kill-token.js';
+import getTournamentLeaderboardsCmsData from './utils/get-tournament-leaderboards-cms-data.js';
+import getTournamentScoringRulesCmsData from './utils/get-tournament-scoring-rules-cms-data.js';
 
 const outputFolder = 'output';
 const eventsFile = `${outputFolder}/events.json`;
 const devEventsFile = `${outputFolder}/events-dev.json`;
-const cmsFile = `${outputFolder}/cms.json`;
+const cmsFrontendFile = `${outputFolder}/cms.json`;
+const cmsLeaderboardsFile = `${outputFolder}/cms-leaderboards.json`;
+const cmsScoringRulesFile = `${outputFolder}/cms-scoring-rules.json`;
 
 const main = async () => {
   if (!fs.existsSync(outputFolder)) {
     await fsp.mkdir(outputFolder, { recursive: true });
   }
 
-  const tournamentsCms = await getTournamentCmsData('en-US');
+  const frontendCms = await getTournamentCmsData('en-US');
+  const leaderboardsCms = await getTournamentLeaderboardsCmsData('en-US');
+  const scoringRulesCms = await getTournamentScoringRulesCmsData('en-US');
 
-  if (tournamentsCms.success) {
-    await writeFile(cmsFile, JSON.stringify(tournamentsCms.data, null, 3));
+  if (frontendCms.success) {
+    await writeFile(cmsFrontendFile, JSON.stringify(frontendCms.data, null, 3));
+  }
+
+  if (leaderboardsCms.success) {
+    await writeFile(cmsLeaderboardsFile, JSON.stringify(leaderboardsCms.data, null, 3));
+  }
+
+  if (scoringRulesCms.success) {
+    await writeFile(cmsScoringRulesFile, JSON.stringify(scoringRulesCms.data, null, 3));
   }
 
   const auth = await getAuth();
@@ -41,8 +55,16 @@ const main = async () => {
   const gitStatus = execSync('git status')?.toString('utf-8') || '';
   const changes: string[] = [];
 
-  if (gitStatus.includes(cmsFile)) {
-    changes.push('CMS');
+  if (gitStatus.includes(cmsFrontendFile)) {
+    changes.push('Frontend CMS');
+  }
+
+  if (gitStatus.includes(cmsLeaderboardsFile)) {
+    changes.push('Leaderboards CMS');
+  }
+
+  if (gitStatus.includes(cmsScoringRulesFile)) {
+    changes.push('Scoring Rules CMS');
   }
 
   if (gitStatus.includes(eventsFile)) {
