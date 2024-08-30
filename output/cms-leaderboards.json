@@ -1,0 +1,810 @@
+[
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "Travel_Distance_Ground"
+      ],
+      "leaderboard_id": "another_epicgames_S21_TournamentOfConfirmations_NAE:another_S24_TournamentOfConfirmations_NAE_Event1",
+      "leaderboard_name": "Random Stats",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "DamageDealt"
+      ],
+      "leaderboard_id": "another_epicgames_S21_TournamentOfConfirmations_NAE:another_S24_TournamentOfConfirmations_NAE_Event1",
+      "leaderboard_name": "Random Stats",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "Headshots"
+      ],
+      "leaderboard_id": "another_epicgames_S21_TournamentOfConfirmations_NAE:another_S24_TournamentOfConfirmations_NAE_Event1",
+      "leaderboard_name": "Random Stats",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "cumulative:epicgames_Mammoth_CumulativeLeaderboard",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "cumulative:epicgames_S28_FNCS_Major1_GrandFinals_ASIA_CumulativeLeaderboard",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "cumulative:epicgames_S28_FNCS_Major1_GrandFinals_BR_CumulativeLeaderboard",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "cumulative:epicgames_S28_FNCS_Major1_GrandFinals_EU_CumulativeLeaderboard",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "cumulative:epicgames_S28_FNCS_Major1_GrandFinals_ME_CumulativeLeaderboard",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "cumulative:epicgames_S28_FNCS_Major1_GrandFinals_NAC_CumulativeLeaderboard",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "cumulative:epicgames_S28_FNCS_Major1_GrandFinals_OCE_CumulativeLeaderboard",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "DamageDealt_epicgames_S21_LCTargetPracticeDuos_ASIA:DamageDealt_S21_LCTargetPracticeDuos_ASIA",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "DamageDealt_epicgames_S21_LCTargetPracticeDuos_BR:DamageDealt_S21_LCTargetPracticeDuos_BR",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "DamageDealt_epicgames_S21_LCTargetPracticeDuos_EU:DamageDealt_S21_LCTargetPracticeDuos_EU",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "DamageDealt_epicgames_S21_LCTargetPracticeDuos_ME:DamageDealt_S21_LCTargetPracticeDuos_ME",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "DamageDealt_epicgames_S21_LCTargetPracticeDuos_NAE:DamageDealt_S21_LCTargetPracticeDuos_NAE",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "DamageDealt_epicgames_S21_LCTargetPracticeDuos_NAW:DamageDealt_S21_LCTargetPracticeDuos_NAW",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "DamageDealt_epicgames_S21_LCTargetPracticeDuos_OCE:DamageDealt_S21_LCTargetPracticeDuos_OCE",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Eliminations_epicgames_S21_LCHotDropDuos_ASIA:Eliminations_S21_LCHotDropDuos_ASIA",
+      "leaderboard_name": "Elimination",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Eliminations_epicgames_S21_LCHotDropDuos_BR:Eliminations_S21_LCHotDropDuos_BR",
+      "leaderboard_name": "Elimination",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Eliminations_epicgames_S21_LCHotDropDuos_EU:Eliminations_S21_LCHotDropDuos_EU",
+      "leaderboard_name": "Elimination",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Eliminations_epicgames_S21_LCHotDropDuos_ME:Eliminations_S21_LCHotDropDuos_ME",
+      "leaderboard_name": "Elimination",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Eliminations_epicgames_S21_LCHotDropDuos_NAE:Eliminations_S21_LCHotDropDuos_NAE",
+      "leaderboard_name": "Elimination",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Eliminations_epicgames_S21_LCHotDropDuos_NAW:Eliminations_S21_LCHotDropDuos_NAW",
+      "leaderboard_name": "Elimination",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Eliminations_epicgames_S21_LCHotDropDuos_OCE:Eliminations_S21_LCHotDropDuos_OCE",
+      "leaderboard_name": "Elimination",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "VICTORY_ROYALE_STAT",
+         "CREATIVE_DAMAGE_DEALT_STAT"
+      ],
+      "leaderboard_id": "epicgames_BettoTest_Duos:AltLB",
+      "leaderboard_name": "BettoAltLBDuos",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_BettoTest_Rain5c:BettoRain_Week1_Day1-suffixB",
+      "leaderboard_name": "Atsui",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_BettoTest_Rain5c:BettoRain_Week1_Day2-suffixB",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_BettoTest_Rain5c:BettoTest5c_LeadDef_C_Start",
+      "leaderboard_name": "Rats",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_BettoTest_Rain5c:BettoTest5c_LeadDef_D_End",
+      "leaderboard_name": "Mayo",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_BettoTest_Rain5c:BettoTest5c_LeadDef_E_Ghost",
+      "leaderboard_name": "Ghost",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "VICTORY_ROYALE_STAT",
+         "CREATIVE_DAMAGE_DEALT_STAT"
+      ],
+      "leaderboard_id": "epicgames_BettoTest_Solo:AltLB",
+      "leaderboard_name": "BettoAltLBSolo",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_BigBucks_NAC:3",
+      "leaderboard_name": "CannonLichLuffyKazuya",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_FNCS_GrindFinals_Test:0",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_FNCS_GrindFinals_Test3:Final",
+      "leaderboard_name": "Session",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_Hawk:Hawk_Event1Round1_All",
+      "leaderboard_name": "multiAll",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_Hawk:Hawk_Event1Round1_default",
+      "leaderboard_name": "limitedElims",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_Hawk:Hawk_Event1Round1_limited",
+      "leaderboard_name": "limitedAll",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_Hawk:Hawk_Event1Round1_placement",
+      "leaderboard_name": "placement",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_Penguin:Penguin_Event1Round1_All",
+      "leaderboard_name": "multiAll",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_Penguin:Penguin_Event1Round1_default",
+      "leaderboard_name": "limitedElims",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_Penguin:Penguin_Event1Round1_limited",
+      "leaderboard_name": "limitedAll",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_Penguin:Penguin_Event1Round1_placement",
+      "leaderboard_name": "placement",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_Rain_Duos:Rain_Week1_Day1",
+      "leaderboard_name": "Main",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_Rain_Duos:Rain_Week1_Day1-participation",
+      "leaderboard_name": "Participation",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_Rain_Duos:Rain_Week1_Day1-variant",
+      "leaderboard_name": "Variant",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "WeakPointHit"
+      ],
+      "leaderboard_id": "epicgames_StaminaTutorialEvent:StaminaWindow2",
+      "leaderboard_name": "TestingAltLeaderboardSettings",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ASIA_Week1",
+      "leaderboard_name": "Week 1",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ASIA_Week2",
+      "leaderboard_name": "Week 2",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ASIA_Week3",
+      "leaderboard_name": "Week 3",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ASIA_Week4",
+      "leaderboard_name": "Week 4",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ASIA_Week5",
+      "leaderboard_name": "Week 5",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ASIA_Week6",
+      "leaderboard_name": "Week 6",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ASIA_Week7",
+      "leaderboard_name": "Week 7",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_BR_Week1",
+      "leaderboard_name": "Week 1",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_BR_Week2",
+      "leaderboard_name": "Week 2",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_BR_Week3",
+      "leaderboard_name": "Week 3",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_BR_Week4",
+      "leaderboard_name": "Week 4",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_BR_Week5",
+      "leaderboard_name": "Week 5",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_BR_Week6",
+      "leaderboard_name": "Week 6",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_BR_Week7",
+      "leaderboard_name": "Week 7",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_EU_Week1",
+      "leaderboard_name": "Week 1",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_EU_Week2",
+      "leaderboard_name": "Week 2",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_EU_Week3",
+      "leaderboard_name": "Week 3",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_EU_Week4",
+      "leaderboard_name": "Week 4",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_EU_Week5",
+      "leaderboard_name": "Week 5",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_EU_Week6",
+      "leaderboard_name": "Week 6",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_EU_Week7",
+      "leaderboard_name": "Week 7",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ME_Week1",
+      "leaderboard_name": "Week 1",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ME_Week2",
+      "leaderboard_name": "Week 2",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ME_Week3",
+      "leaderboard_name": "Week 3",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ME_Week4",
+      "leaderboard_name": "Week 4",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ME_Week5",
+      "leaderboard_name": "Week 5",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ME_Week6",
+      "leaderboard_name": "Week 6",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_ME_Week7",
+      "leaderboard_name": "Week 7",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAE_Week1",
+      "leaderboard_name": "Week 1",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAE_Week2",
+      "leaderboard_name": "Week 2",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAE_Week3",
+      "leaderboard_name": "Week 3",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAE_Week4",
+      "leaderboard_name": "Week 4",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAE_Week5",
+      "leaderboard_name": "Week 5",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAE_Week6",
+      "leaderboard_name": "Week 6",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAE_Week7",
+      "leaderboard_name": "Week 7",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAW_Week1",
+      "leaderboard_name": "Week 1",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAW_Week2",
+      "leaderboard_name": "Week 2",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAW_Week3",
+      "leaderboard_name": "Week 3",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAW_Week4",
+      "leaderboard_name": "Week 4",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAW_Week5",
+      "leaderboard_name": "Week 5",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAW_Week6",
+      "leaderboard_name": "Week 6",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_NAW_Week7",
+      "leaderboard_name": "Week 7",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_OCE_Week1",
+      "leaderboard_name": "Week 1",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_OCE_Week2",
+      "leaderboard_name": "Week 2",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_OCE_Week3",
+      "leaderboard_name": "Week 3",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_OCE_Week4",
+      "leaderboard_name": "Week 4",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_OCE_Week5",
+      "leaderboard_name": "Week 5",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_OCE_Week6",
+      "leaderboard_name": "Week 6",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "floating:S22DivisionalElite_OCE_Week7",
+      "leaderboard_name": "Week 7",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Headset_epicgames_S22_SypherPKIconCup_ASIA:Headset_S22_SypherPKIconCup_ASIA",
+      "leaderboard_name": "Alternate",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Headset_epicgames_S22_SypherPKIconCup_BR:Headset_S22_SypherPKIconCup_BR",
+      "leaderboard_name": "Alternate",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Headset_epicgames_S22_SypherPKIconCup_EU:Headset_S22_SypherPKIconCup_EU",
+      "leaderboard_name": "Alternate",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Headset_epicgames_S22_SypherPKIconCup_ME:Headset_S22_SypherPKIconCup_ME",
+      "leaderboard_name": "Alternate",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Headset_epicgames_S22_SypherPKIconCup_NAE:Headset_S22_SypherPKIconCup_NAE",
+      "leaderboard_name": "Alternate",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Headset_epicgames_S22_SypherPKIconCup_NAW:Headset_S22_SypherPKIconCup_NAW",
+      "leaderboard_name": "Alternate",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Headset_epicgames_S22_SypherPKIconCup_OCE:Headset_S22_SypherPKIconCup_OCE",
+      "leaderboard_name": "Alternate",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "MMO_Cache"
+      ],
+      "leaderboard_id": "mmo:epicgames_Doom_Hammer_Duos_Cache",
+      "leaderboard_name": "Cache",
+      "show_details_panel": false
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "MMO_LootIsland"
+      ],
+      "leaderboard_id": "mmo:epicgames_Doom_Hammer_Duos_Loot",
+      "leaderboard_name": "LootIsland",
+      "show_details_panel": false
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "MMO_RadioTower"
+      ],
+      "leaderboard_id": "mmo:epicgames_Doom_Hammer_Duos_RadioTower",
+      "leaderboard_name": "Radio Tower",
+      "show_details_panel": false
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "MMO_RadioTower",
+         "MMO_Cache",
+         "MMO_LootIsland",
+         "MMO_Vault"
+      ],
+      "leaderboard_id": "mmo:epicgames_Doom_Hammer_Duos_Total",
+      "leaderboard_name": "MMOTotals",
+      "show_details_panel": false
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "MMO_Vault"
+      ],
+      "leaderboard_id": "mmo:epicgames_Doom_Hammer_Duos_Valut",
+      "leaderboard_name": "Vault Points",
+      "show_details_panel": false
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         ""
+      ],
+      "leaderboard_id": "mmo:epicgames_MMO_NAC_Vault",
+      "leaderboard_name": "Total Mid Match Objectives",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "MMO_Vault",
+         "MMO_Cache",
+         "MMO_LootIsland"
+      ],
+      "leaderboard_id": "mmo:epicgames_MultiPurposeNew_NAC_All",
+      "leaderboard_name": "Totals",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "MMO_Cache"
+      ],
+      "leaderboard_id": "mmo:epicgames_MultiPurposeNew_NAC_Cache",
+      "leaderboard_name": "Cache Points",
+      "show_details_panel": false
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "MMO_LootIsland"
+      ],
+      "leaderboard_id": "mmo:epicgames_MultiPurposeNew_NAC_Loot",
+      "leaderboard_name": "Island Points",
+      "show_details_panel": false
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "MMO_Vault"
+      ],
+      "leaderboard_id": "mmo:epicgames_MultiPurposeNew_NAC_Vault",
+      "leaderboard_name": "Vault Points",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Stamina_epicgames_S21_TournamentOfPower_ASIA:Stamina_S21_TournamentOfPower_ASIA_Event1",
+      "leaderboard_name": "Kamehameha",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Stamina_epicgames_S21_TournamentOfPower_BR:Stamina_S21_TournamentOfPower_BR_Event1",
+      "leaderboard_name": "Kamehameha",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Stamina_epicgames_S21_TournamentOfPower_EU:Stamina_S21_TournamentOfPower_EU_Event1",
+      "leaderboard_name": "Kamehameha",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Stamina_epicgames_S21_TournamentOfPower_ME:Stamina_S21_TournamentOfPower_ME_Event1",
+      "leaderboard_name": "Kamehameha",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Stamina_epicgames_S21_TournamentOfPower_NAE:Stamina_S21_TournamentOfPower_NAE_Event1",
+      "leaderboard_name": "Kamehameha",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Stamina_epicgames_S21_TournamentOfPower_NAW:Stamina_S21_TournamentOfPower_NAW_Event1",
+      "leaderboard_name": "Kamehameha",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Stamina_epicgames_S21_TournamentOfPower_OCE:Stamina_S21_TournamentOfPower_OCE_Event1",
+      "leaderboard_name": "Kamehameha",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "TeamElimsStat_epicgames_S25_JJKCup_ASIA:TeamElimsStat_S25_JJKCup_ASIA",
+      "leaderboard_name": "Eliminations",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "TeamElimsStat_epicgames_S25_JJKCup_BR:TeamElimsStat_S25_JJKCup_BR",
+      "leaderboard_name": "Eliminations",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "TeamElimsStat_epicgames_S25_JJKCup_EU:TeamElimsStat_S25_JJKCup_EU",
+      "leaderboard_name": "Eliminations",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "TeamElimsStat_epicgames_S25_JJKCup_ME:TeamElimsStat_S25_JJKCup_ME",
+      "leaderboard_name": "Eliminations",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "TeamElimsStat_epicgames_S25_JJKCup_NAC:TeamElimsStat_S25_JJKCup_NAC",
+      "leaderboard_name": "Eliminations",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "TeamElimsStat_epicgames_S25_JJKCup_OCE:TeamElimsStat_S25_JJKCup_OCE",
+      "leaderboard_name": "Eliminations",
+      "show_details_panel": true
+   }
+]
