@@ -298,7 +298,7 @@
                "eventTemplateId": "EventTemplate_S31_PlatformReloadDuosCashCup_Round2",
                "countdownBeginTime": "2024-09-14T09:00:00Z",
                "beginTime": "2024-09-15T11:00:00Z",
-               "endTime": "2024-09-16T12:00:00Z",
+               "endTime": "2024-09-18T12:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
