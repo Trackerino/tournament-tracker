@@ -255,8 +255,8 @@
    },
    {
       "_type": "Tournament Display Info",
-      "background_left_color": "B0D8C0",
-      "background_right_color": "D8D8E0",
+      "background_left_color": "A0D0B0",
+      "background_right_color": "B0C0D0",
       "background_text_color": "161616",
       "base_color": "FFFFFF",
       "details_description": "Details description for BettoTest LCM.",
