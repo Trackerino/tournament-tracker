@@ -295,10 +295,10 @@
             },
             {
                "eventWindowId": "S31_PlatformReloadDuosCashCupPC_Event2Round2_OCE",
-               "eventTemplateId": "EventTemplate_S12_CCV2_Contenders_RainedOut",
-               "countdownBeginTime": "2024-09-13T09:00:00Z",
-               "beginTime": "2024-09-13T11:00:00Z",
-               "endTime": "2024-09-15T12:00:00Z",
+               "eventTemplateId": "EventTemplate_S31_PlatformReloadDuosCashCup_Round2",
+               "countdownBeginTime": "2024-09-14T09:00:00Z",
+               "beginTime": "2024-09-15T11:00:00Z",
+               "endTime": "2024-09-16T12:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -1686,126 +1686,6 @@
       ]
    },
    "templates": [
-      {
-         "playlistId": "Playlist_ShowdownTournament_Duos",
-         "matchCap": 6,
-         "tiebreakerFormula": {
-            "basePointsBits": 11,
-            "components": [
-               {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
-                  "bits": 8,
-                  "aggregation": "sum"
-               },
-               {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-                  "bits": 14,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
-                  "bits": 17,
-                  "aggregation": "avg",
-                  "multiplier": 1000
-               }
-            ]
-         },
-         "gameId": "Fortnite",
-         "eventTemplateId": "EventTemplate_S12_CCV2_Contenders_RainedOut",
-         "scoringRules": [
-            {
-               "trackedStat": "PLACEMENT_STAT_INDEX",
-               "matchRule": "lte",
-               "rewardTiers": [
-                  {
-                     "keyValue": 1,
-                     "pointsEarned": 7,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 2,
-                     "pointsEarned": 4,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 3,
-                     "pointsEarned": 3,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 4,
-                     "pointsEarned": 2,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 5,
-                     "pointsEarned": 3,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 6,
-                     "pointsEarned": 2,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 7,
-                     "pointsEarned": 2,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 8,
-                     "pointsEarned": 2,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 9,
-                     "pointsEarned": 2,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 10,
-                     "pointsEarned": 4,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 15,
-                     "pointsEarned": 3,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 20,
-                     "pointsEarned": 3,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 30,
-                     "pointsEarned": 2,
-                     "multiplicative": false
-                  },
-                  {
-                     "keyValue": 40,
-                     "pointsEarned": 2,
-                     "multiplicative": false
-                  }
-               ]
-            },
-            {
-               "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-               "matchRule": "gte",
-               "rewardTiers": [
-                  {
-                     "keyValue": 1,
-                     "pointsEarned": 4,
-                     "multiplicative": true
-                  }
-               ]
-            }
-         ],
-         "payoutTable": [],
-         "liveSessionAttributes": [],
-         "clampsToZero": false
-      },
       {
          "playlistId": "Playlist_ShowdownTournament_Duos",
          "matchCap": 6,
