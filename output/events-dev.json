@@ -1761,7 +1761,7 @@
       },
       {
          "playlistId": "Playlist_ShowdownTournament_BlastBerryDuo_NoFill",
-         "matchCap": 6,
+         "matchCap": 3,
          "tiebreakerFormula": {
             "basePointsBits": 11,
             "components": [
