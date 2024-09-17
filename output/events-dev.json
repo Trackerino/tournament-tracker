@@ -162,10 +162,10 @@
          "eventGroup": "Season31PlatformReloadDuosCashCupPC",
          "announcementTime": "2024-08-16T04:00:00Z",
          "regions": [
-            "NAE"
+            "OCE"
          ],
          "regionMappings": {
-            "NAE": "NACCOMP"
+            "OCE": "NACCOMP"
          },
          "platforms": [
             "XCloud",
