@@ -172,6 +172,7 @@
             "Helios",
             "Luna",
             "Mac",
+            "XB1",
             "GFN",
             "Windows"
          ],
@@ -328,9 +329,7 @@
                ],
                "metadata": {
                   "ServerReplays": true,
-                  "RoundType": "Qualifiers",
-                  "ScheduledMatchmakingInitialDelaySeconds": 600,
-                  "ScheduledMatchmakingMatchDelaySeconds": 1440
+                  "RoundType": "Qualifiers"
                }
             },
             {
