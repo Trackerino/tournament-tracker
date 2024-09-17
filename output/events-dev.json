@@ -162,10 +162,10 @@
          "eventGroup": "Season31PlatformReloadDuosCashCupPC",
          "announcementTime": "2024-08-16T04:00:00Z",
          "regions": [
-            "OCE"
+            "NAE"
          ],
          "regionMappings": {
-            "OCE": "NAC"
+            "NAE": "NACCOMP"
          },
          "platforms": [
             "XCloud",
@@ -316,7 +316,6 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S31_PlatformReloadDuosCashCupPC_Event2_Round2_OCE",
                   "QAAnalyst"
                ],
                "requireNoneTokensCaller": [
