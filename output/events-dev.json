@@ -165,7 +165,7 @@
             "OCE"
          ],
          "regionMappings": {
-            "OCE": "NAC"
+            "OCE": "NACCOMP"
          },
          "platforms": [
             "XCloud",
