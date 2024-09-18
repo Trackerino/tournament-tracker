@@ -179,7 +179,7 @@
          ],
          "platformMappings": {},
          "metadata": {
-            "minimumAccountLevel": 350,
+            "minimumAccountLevel": 1,
             "AccountLockType": "Week",
             "DisqualifyType": "Window"
          },
