@@ -60,6 +60,10 @@
                "payoutDelay": 34,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s28_fncs_rules",
+                  "mfa"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -79,10 +83,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s28_fncs_rules"
-               ],
                "metadata": {
                   "ScheduledMatchmakingInitialDelaySeconds": 600,
                   "asyncPayoutsExclusiveLeaderboardDefs": [
@@ -107,6 +107,10 @@
                "payoutDelay": 34,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s28_fncs_rules",
+                  "mfa"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -130,10 +134,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s28_fncs_rules"
-               ],
                "metadata": {
                   "ScheduledMatchmakingInitialDelaySeconds": 600,
                   "disqualifyToken": "S30_FNCS_Banned",
@@ -192,6 +192,11 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa",
+                  "currentRanking:ranked-br:6"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -208,11 +213,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules",
-                  "currentRanking:ranked-br:6"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
@@ -228,6 +228,10 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -246,10 +250,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers",
@@ -267,6 +267,11 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa",
+                  "currentRanking:ranked-br:6"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -283,11 +288,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules",
-                  "currentRanking:ranked-br:6"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
@@ -303,6 +303,10 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -322,10 +326,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
@@ -341,6 +341,11 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa",
+                  "currentRanking:ranked-br:6"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -357,11 +362,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules",
-                  "currentRanking:ranked-br:6"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
@@ -377,6 +377,10 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -395,10 +399,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers",
@@ -416,6 +416,11 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa",
+                  "currentRanking:ranked-br:6"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -432,11 +437,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules",
-                  "currentRanking:ranked-br:6"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
@@ -452,6 +452,10 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -470,10 +474,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers",
@@ -491,6 +491,11 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa",
+                  "currentRanking:ranked-br:6"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -507,11 +512,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules",
-                  "currentRanking:ranked-br:6"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
@@ -527,6 +527,10 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -545,10 +549,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers",
@@ -566,6 +566,11 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa",
+                  "currentRanking:ranked-br:6"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -582,11 +587,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules",
-                  "currentRanking:ranked-br:6"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
@@ -602,6 +602,10 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -620,10 +624,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers",
@@ -641,6 +641,11 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa",
+                  "currentRanking:ranked-br:6"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -657,11 +662,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules",
-                  "currentRanking:ranked-br:6"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
@@ -677,6 +677,10 @@
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s31_reloadplatform_rules",
+                  "mfa"
+               ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
@@ -695,10 +699,6 @@
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_reloadplatform_rules"
-               ],
                "metadata": {
                   "ServerReplays": true,
                   "RoundType": "Qualifiers",
