@@ -931,7 +931,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupbsgduos_asia"
          }
       },
       {
@@ -1152,7 +1153,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupbsgduos_br"
          }
       },
       {
@@ -1373,7 +1375,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupbsgduos_eu"
          }
       },
       {
@@ -1594,7 +1597,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupbsgduos_me"
          }
       },
       {
@@ -1817,7 +1821,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupbsgduos_nac"
          }
       },
       {
@@ -2038,7 +2043,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupbsgduos_oce"
          }
       },
       {
@@ -2259,7 +2265,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupeliteduos_asia"
          }
       },
       {
@@ -2480,7 +2487,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupeliteduos_br"
          }
       },
       {
@@ -2701,7 +2709,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupeliteduos_eu"
          }
       },
       {
@@ -2922,7 +2931,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupeliteduos_me"
          }
       },
       {
@@ -3145,7 +3155,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupeliteduos_nac"
          }
       },
       {
@@ -3366,7 +3377,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupeliteduos_oce"
          }
       },
       {
@@ -3587,7 +3599,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcuppdduos_asia"
          }
       },
       {
@@ -3808,7 +3821,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcuppdduos_br"
          }
       },
       {
@@ -4029,7 +4043,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcuppdduos_eu"
          }
       },
       {
@@ -4250,7 +4265,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcuppdduos_me"
          }
       },
       {
@@ -4473,7 +4489,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcuppdduos_nac"
          }
       },
       {
@@ -4694,7 +4711,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcuppdduos_oce"
          }
       },
       {
@@ -4915,7 +4933,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupzbbsgduos_asia"
          }
       },
       {
@@ -5136,7 +5155,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupzbbsgduos_br"
          }
       },
       {
@@ -5357,7 +5377,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupzbbsgduos_eu"
          }
       },
       {
@@ -5578,7 +5599,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupzbbsgduos_me"
          }
       },
       {
@@ -5801,7 +5823,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupzbbsgduos_nac"
          }
       },
       {
@@ -6022,7 +6045,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupzbbsgduos_oce"
          }
       },
       {
@@ -6243,7 +6267,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupzbplatinumduos_asia"
          }
       },
       {
@@ -6464,7 +6489,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupzbplatinumduos_br"
          }
       },
       {
@@ -6685,7 +6711,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupzbplatinumduos_eu"
          }
       },
       {
@@ -6906,7 +6933,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupzbplatinumduos_me"
          }
       },
       {
@@ -7129,7 +7157,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupzbplatinumduos_nac"
          }
       },
       {
@@ -7350,7 +7379,8 @@
             }
          ],
          "link": {
-            "type": "br:tournament"
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s31_rankedcupzbplatinumduos_oce"
          }
       }
    ],
