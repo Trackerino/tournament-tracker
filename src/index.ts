@@ -88,14 +88,10 @@ const main = async () => {
   }
 
   execSync('git add output');
-  execSync(`git commit --no-gpg-sign -m "${commitMessage}"`, {
-    env: {
-      GIT_AUTHOR_NAME: "GitHub Actions",
-      GIT_AUTHOR_EMAIL: `github-actions@github.com`,
-      GIT_COMMITTER_NAME: "GitHub Actions",
-      GIT_COMMITTER_EMAIL: `github-actions@github.com`
-    }
-  });
+  execSync('git config user.email "41898282+github-actions[bot]@users.noreply.github.com"');
+  execSync('git config user.name "github-actions[bot]"');
+  execSync('git config commit.gpgsign false');
+  execSync(`git commit -m "${commitMessage}"`);
 
   if (env.GIT_DO_NOT_PUSH?.toLowerCase() === 'true') {
     return;
