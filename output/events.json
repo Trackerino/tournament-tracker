@@ -54834,7 +54834,7 @@
             },
             {
                "eventWindowId": "S32_PerformanceEvaluationReload_Event3Round1_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round1",
+               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReloadBlastberry_Round1",
                "countdownBeginTime": "2024-11-12T23:00:00Z",
                "beginTime": "2024-11-13T01:00:00Z",
                "endTime": "2024-11-13T03:00:00Z",
@@ -54872,7 +54872,7 @@
             },
             {
                "eventWindowId": "S32_PerformanceEvaluationReload_Event3Round2_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round2",
+               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReloadBlastberry_Round2",
                "countdownBeginTime": "2024-11-13T01:00:00Z",
                "beginTime": "2024-11-13T04:00:00Z",
                "endTime": "2024-11-13T05:30:00Z",
@@ -55005,7 +55005,7 @@
             },
             {
                "eventWindowId": "S32_PerformanceEvaluationReload_Event5Round1_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round1",
+               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReloadBlastberry_Round1",
                "countdownBeginTime": "2024-11-26T23:00:00Z",
                "beginTime": "2024-11-27T01:00:00Z",
                "endTime": "2024-11-27T03:00:00Z",
@@ -55044,7 +55044,7 @@
             },
             {
                "eventWindowId": "S32_PerformanceEvaluationReload_Event5Round2_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round2",
+               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReloadBlastberry_Round2",
                "countdownBeginTime": "2024-11-27T01:00:00Z",
                "beginTime": "2024-11-27T04:00:00Z",
                "endTime": "2024-11-27T05:30:00Z",
@@ -110747,7 +110747,7 @@
          "clampsToZero": false
       },
       {
-         "playlistId": "Playlist_ShowdownTournament_PunchBerryDuo_NoFill",
+         "playlistId": "Playlist_ShowdownTournament_BlastBerryDuo_NoFill",
          "matchCap": 7,
          "tiebreakerFormula": {
             "basePointsBits": 11,
@@ -110784,7 +110784,7 @@
          "clampsToZero": false
       },
       {
-         "playlistId": "Playlist_ShowdownTournament_PunchBerryDuo_NoFill",
+         "playlistId": "Playlist_ShowdownTournament_BlastBerryDuo_NoFill",
          "matchCap": 4,
          "tiebreakerFormula": {
             "basePointsBits": 11,
@@ -110815,6 +110815,80 @@
          },
          "gameId": "Fortnite",
          "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round2",
+         "scoringRules": [],
+         "payoutTable": [],
+         "liveSessionAttributes": [],
+         "clampsToZero": false
+      },
+      {
+         "playlistId": "Playlist_ShowdownTournament_PunchBerryDuo_NoFill",
+         "matchCap": 7,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "gameId": "Fortnite",
+         "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReloadBlastberry_Round1",
+         "scoringRules": [],
+         "payoutTable": [],
+         "liveSessionAttributes": [],
+         "clampsToZero": false
+      },
+      {
+         "playlistId": "Playlist_ShowdownTournament_PunchBerryDuo_NoFill",
+         "matchCap": 4,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "gameId": "Fortnite",
+         "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReloadBlastberry_Round2",
          "scoringRules": [],
          "payoutTable": [],
          "liveSessionAttributes": [],
