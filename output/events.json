@@ -46452,7 +46452,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupConsole_Event2_ASIA",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T07:00:00Z",
                "beginTime": "2024-11-16T09:00:00Z",
                "endTime": "2024-11-16T11:00:00Z",
@@ -46611,7 +46611,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupConsole_Event2_BR",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T19:00:00Z",
                "beginTime": "2024-11-16T21:00:00Z",
                "endTime": "2024-11-16T23:00:00Z",
@@ -46770,7 +46770,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupConsole_Event2_EU",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T14:00:00Z",
                "beginTime": "2024-11-16T16:00:00Z",
                "endTime": "2024-11-16T18:00:00Z",
@@ -46929,7 +46929,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupConsole_Event2_ME",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T13:00:00Z",
                "beginTime": "2024-11-16T15:00:00Z",
                "endTime": "2024-11-16T17:00:00Z",
@@ -47093,7 +47093,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupConsole_Event2_NAC",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T23:00:00Z",
                "beginTime": "2024-11-17T01:00:00Z",
                "endTime": "2024-11-17T03:00:00Z",
@@ -47252,7 +47252,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupConsole_Event2_OCE",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T05:00:00Z",
                "beginTime": "2024-11-16T07:00:00Z",
                "endTime": "2024-11-16T09:00:00Z",
@@ -47410,7 +47410,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupMobile_Event2_ASIA",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T07:00:00Z",
                "beginTime": "2024-11-16T09:00:00Z",
                "endTime": "2024-11-16T11:00:00Z",
@@ -47568,7 +47568,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupMobile_Event2_BR",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T19:00:00Z",
                "beginTime": "2024-11-16T21:00:00Z",
                "endTime": "2024-11-16T23:00:00Z",
@@ -47726,7 +47726,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupMobile_Event2_EU",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T14:00:00Z",
                "beginTime": "2024-11-16T16:00:00Z",
                "endTime": "2024-11-16T18:00:00Z",
@@ -47884,7 +47884,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupMobile_Event2_ME",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T13:00:00Z",
                "beginTime": "2024-11-16T15:00:00Z",
                "endTime": "2024-11-16T17:00:00Z",
@@ -48047,7 +48047,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupMobile_Event2_NAC",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T23:00:00Z",
                "beginTime": "2024-11-17T01:00:00Z",
                "endTime": "2024-11-17T03:00:00Z",
@@ -48205,7 +48205,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupMobile_Event2_OCE",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T05:00:00Z",
                "beginTime": "2024-11-16T07:00:00Z",
                "endTime": "2024-11-16T09:00:00Z",
@@ -48362,7 +48362,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupPC_Event2_ASIA",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T07:00:00Z",
                "beginTime": "2024-11-16T09:00:00Z",
                "endTime": "2024-11-16T11:00:00Z",
@@ -48519,7 +48519,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupPC_Event2_BR",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T19:00:00Z",
                "beginTime": "2024-11-16T21:00:00Z",
                "endTime": "2024-11-16T23:00:00Z",
@@ -48676,7 +48676,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupPC_Event2_EU",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T14:00:00Z",
                "beginTime": "2024-11-16T16:00:00Z",
                "endTime": "2024-11-16T18:00:00Z",
@@ -48833,7 +48833,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupPC_Event2_ME",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T13:00:00Z",
                "beginTime": "2024-11-16T15:00:00Z",
                "endTime": "2024-11-16T17:00:00Z",
@@ -48995,7 +48995,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupPC_Event2_NAC",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T23:00:00Z",
                "beginTime": "2024-11-17T01:00:00Z",
                "endTime": "2024-11-17T03:00:00Z",
@@ -49152,7 +49152,7 @@
             },
             {
                "eventWindowId": "S32_PlatformReloadDuosCashCupPC_Event2_OCE",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
+               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
                "countdownBeginTime": "2024-11-16T05:00:00Z",
                "beginTime": "2024-11-16T07:00:00Z",
                "endTime": "2024-11-16T09:00:00Z",
@@ -62967,20 +62967,15 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_SquadsReloadCup_BR",
-         "beginTime": "2024-11-04T01:00:00Z",
-         "endTime": "2024-11-27T05:30:00Z",
-         "displayDataId": "s31_perfeval_reload",
-         "eventGroup": "Season31_PerformanceEvaluation",
-         "announcementTime": "2024-11-02T06:00:00Z",
+         "beginTime": "2024-11-10T19:00:00Z",
+         "endTime": "2024-11-24T21:00:00Z",
+         "displayDataId": "s32_squadsreload_cash",
+         "eventGroup": "Season32_SquadsReloadCup",
+         "announcementTime": "2024-11-01T10:00:00Z",
          "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
+            "BR"
          ],
-         "regionMappings": {
-            "NAE": "NAC",
-            "NAW": "NAC"
-         },
+         "regionMappings": {},
          "platforms": [
             "XboxOneGDK",
             "PS4",
@@ -63006,36 +63001,41 @@
          "metadata": {
             "minimumAccountLevel": 350,
             "AccountLockType": "Window",
-            "TeamLockType": "Window"
+            "TeamLockType": "Window",
+            "DisqualifyType": "Window"
          },
          "eventWindows": [
             {
-               "eventWindowId": "S32_PerformanceEvaluationReload_Event1Round1_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round1",
-               "countdownBeginTime": "2024-11-03T23:00:00Z",
-               "beginTime": "2024-11-04T01:00:00Z",
-               "endTime": "2024-11-04T03:00:00Z",
+               "eventWindowId": "S32_SquadsReloadCup_Event_BR",
+               "eventTemplateId": "EventTemplate_S32_SquadsReloadCashCup_Round1",
+               "countdownBeginTime": "2024-11-24T17:00:00Z",
+               "beginTime": "2024-11-24T19:00:00Z",
+               "endTime": "2024-11-24T21:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
                "additionalRequirements": [
-                  "eula:s29_perfeval_rules",
-                  "mfa"
+                  "eula:32_rankedcup_rules",
+                  "mfa",
+                  [
+                     "currentRanking:ranked_blastberry_build:6",
+                     "currentRanking:ranked-br:6",
+                     "currentRanking:ranked-zb:6",
+                     "currentRanking:ranked_blastberry_nobuild:6"
+                  ]
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "S32_PerformanceEvaluationReload_Round1_DefaultLeaderboardDef",
+                     "leaderboardDefId": "S32_SquadsReloadCup_Round1_DefaultLeaderboardDef",
                      "isMainWindowLeaderboard": true
                   }
                ],
                "canLiveSpectate": false,
                "requireAllTokens": [],
-               "requireAnyTokens": [
-                  "S31_PerformanceEvaluation_Round1"
-               ],
+               "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
                ],
@@ -63043,37 +63043,40 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "ServerReplays": true,
-                  "RoundType": "Qualifiers",
-                  "SubgroupId": "Week1"
+                  "RoundType": "Qualifiers"
                }
             },
             {
-               "eventWindowId": "S32_PerformanceEvaluationReload_Event2Round1_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round1",
-               "countdownBeginTime": "2024-11-05T23:00:00Z",
-               "beginTime": "2024-11-06T01:00:00Z",
-               "endTime": "2024-11-06T03:00:00Z",
+               "eventWindowId": "S32_SquadsReloadCup_Event1_BR",
+               "eventTemplateId": "EventTemplate_S32_SquadsReloadCashCup_Round1",
+               "countdownBeginTime": "2024-11-10T17:00:00Z",
+               "beginTime": "2024-11-10T19:00:00Z",
+               "endTime": "2024-11-10T21:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
                "additionalRequirements": [
-                  "eula:s29_perfeval_rules",
-                  "mfa"
+                  "eula:32_rankedcup_rules",
+                  "mfa",
+                  [
+                     "currentRanking:ranked_blastberry_build:6",
+                     "currentRanking:ranked-br:6",
+                     "currentRanking:ranked-zb:6",
+                     "currentRanking:ranked_blastberry_nobuild:6"
+                  ]
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "S32_PerformanceEvaluationReload_Round1_DefaultLeaderboardDef",
+                     "leaderboardDefId": "S32_SquadsReloadCup_Round1_DefaultLeaderboardDef",
                      "isMainWindowLeaderboard": true
                   }
                ],
                "canLiveSpectate": false,
                "requireAllTokens": [],
-               "requireAnyTokens": [
-                  "S31_PerformanceEvaluation_Round1"
-               ],
+               "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
                ],
@@ -63081,84 +63084,40 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "ServerReplays": true,
-                  "RoundType": "Qualifiers",
-                  "SubgroupId": "Week2"
+                  "RoundType": "Qualifiers"
                }
             },
             {
-               "eventWindowId": "S32_PerformanceEvaluationReload_Event2Round2_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round2",
-               "countdownBeginTime": "2024-11-06T01:00:00Z",
-               "beginTime": "2024-11-06T04:00:00Z",
-               "endTime": "2024-11-06T05:30:00Z",
+               "eventWindowId": "S32_SquadsReloadCup_Event2_BR",
+               "eventTemplateId": "EventTemplate_S32_SquadsReloadCashCup_Round1",
+               "countdownBeginTime": "2024-11-17T09:00:00Z",
+               "beginTime": "2024-11-17T11:00:00Z",
+               "endTime": "2024-11-17T13:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
                "additionalRequirements": [
-                  "eula:s29_perfeval_rules",
-                  "mfa"
+                  "eula:32_rankedcup_rules",
+                  "mfa",
+                  [
+                     "currentRanking:ranked_blastberry_build:6",
+                     "currentRanking:ranked-br:6",
+                     "currentRanking:ranked-zb:6",
+                     "currentRanking:ranked_blastberry_nobuild:6"
+                  ]
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "S32_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+                     "leaderboardDefId": "S32_SquadsReloadCup_Round1_DefaultLeaderboardDef",
                      "isMainWindowLeaderboard": true
                   }
                ],
                "canLiveSpectate": false,
                "requireAllTokens": [],
-               "requireAnyTokens": [
-                  "S32_PerformanceEvaluationReload_Event2Round2_NAC",
-                  "WeeklyTournamentSpectator"
-               ],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "regionMappings": {
-                  "NAE": "NACCOMPTEST",
-                  "NAW": "NACCOMPTEST",
-                  "NAC": "NACCOMPTEST"
-               },
-               "metadata": {
-                  "ScheduledMatchmakingInitialDelaySeconds": 600,
-                  "SubgroupId": "Week2",
-                  "ServerReplays": true,
-                  "liveSpectateAccessToken": "WeeklyTournamentSpectator",
-                  "RoundType": "Qualifiers",
-                  "ScheduledMatchmakingMatchDelaySeconds": 1440
-               }
-            },
-            {
-               "eventWindowId": "S32_PerformanceEvaluationReload_Event3Round1_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round1",
-               "countdownBeginTime": "2024-11-13T23:00:00Z",
-               "beginTime": "2024-11-14T01:00:00Z",
-               "endTime": "2024-11-14T03:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s29_perfeval_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_PerformanceEvaluationReload_Round1_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [
-                  "S31_PerformanceEvaluation_Round1"
-               ],
+               "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
                ],
@@ -63166,227 +63125,7 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "ServerReplays": true,
-                  "RoundType": "Qualifiers",
-                  "SubgroupId": "Week3"
-               }
-            },
-            {
-               "eventWindowId": "S32_PerformanceEvaluationReload_Event3Round2_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round2",
-               "countdownBeginTime": "2024-11-14T01:00:00Z",
-               "beginTime": "2024-11-14T04:00:00Z",
-               "endTime": "2024-11-14T05:30:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s29_perfeval_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [
-                  "S32_PerformanceEvaluationReload_Event3Round2_NAC",
-                  "WeeklyTournamentSpectator"
-               ],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "regionMappings": {
-                  "NAE": "NACCOMPTEST",
-                  "NAW": "NACCOMPTEST",
-                  "NAC": "NACCOMPTEST"
-               },
-               "metadata": {
-                  "ScheduledMatchmakingInitialDelaySeconds": 600,
-                  "SubgroupId": "Week3",
-                  "ServerReplays": true,
-                  "liveSpectateAccessToken": "WeeklyTournamentSpectator",
-                  "RoundType": "Qualifiers",
-                  "ScheduledMatchmakingMatchDelaySeconds": 1440
-               }
-            },
-            {
-               "eventWindowId": "S32_PerformanceEvaluationReload_Event4Round1_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round1",
-               "countdownBeginTime": "2024-11-19T23:00:00Z",
-               "beginTime": "2024-11-20T01:00:00Z",
-               "endTime": "2024-11-20T03:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s29_perfeval_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_PerformanceEvaluationReload_Round1_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [
-                  "S31_PerformanceEvaluation_Round1"
-               ],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers",
-                  "SubgroupId": "Week4",
-                  "liveSpectateAccessToken": "WeeklyTournamentSpectator"
-               }
-            },
-            {
-               "eventWindowId": "S32_PerformanceEvaluationReload_Event4Round2_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round2",
-               "countdownBeginTime": "2024-11-20T01:00:00Z",
-               "beginTime": "2024-11-20T04:00:00Z",
-               "endTime": "2024-11-20T05:30:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s29_perfeval_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [
-                  "S32_PerformanceEvaluationReload_Event4Round2_NAC",
-                  "WeeklyTournamentSpectator"
-               ],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "regionMappings": {
-                  "NAE": "NACCOMPTEST",
-                  "NAW": "NACCOMPTEST",
-                  "NAC": "NACCOMPTEST"
-               },
-               "metadata": {
-                  "ScheduledMatchmakingInitialDelaySeconds": 600,
-                  "SubgroupId": "Week4",
-                  "ServerReplays": true,
-                  "liveSpectateAccessToken": "WeeklyTournamentSpectator",
-                  "RoundType": "Qualifiers",
-                  "ScheduledMatchmakingMatchDelaySeconds": 1440
-               }
-            },
-            {
-               "eventWindowId": "S32_PerformanceEvaluationReload_Event5Round1_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round1",
-               "countdownBeginTime": "2024-11-26T23:00:00Z",
-               "beginTime": "2024-11-27T01:00:00Z",
-               "endTime": "2024-11-27T03:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s29_perfeval_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_PerformanceEvaluationReload_Round1_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [
-                  "S31_PerformanceEvaluation_Round1"
-               ],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers",
-                  "SubgroupId": "Week4",
-                  "liveSpectateAccessToken": "WeeklyTournamentSpectator"
-               }
-            },
-            {
-               "eventWindowId": "S32_PerformanceEvaluationReload_Event5Round2_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round2",
-               "countdownBeginTime": "2024-11-27T01:00:00Z",
-               "beginTime": "2024-11-27T04:00:00Z",
-               "endTime": "2024-11-27T05:30:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s29_perfeval_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [
-                  "S32_PerformanceEvaluationReload_Event5Round2_NAC",
-                  "WeeklyTournamentSpectator"
-               ],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "regionMappings": {
-                  "NAE": "NACCOMPTEST",
-                  "NAW": "NACCOMPTEST",
-                  "NAC": "NACCOMPTEST"
-               },
-               "metadata": {
-                  "ScheduledMatchmakingInitialDelaySeconds": 600,
-                  "SubgroupId": "Week4",
-                  "ServerReplays": true,
-                  "liveSpectateAccessToken": "WeeklyTournamentSpectator",
-                  "RoundType": "Qualifiers",
-                  "ScheduledMatchmakingMatchDelaySeconds": 1440
+                  "RoundType": "Qualifiers"
                }
             }
          ],
@@ -75265,6 +75004,73 @@
          }
       ],
       "epicgames_S32_SquadsReloadCup_ASIA": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 1,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 375,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               },
+               {
+                  "threshold": 2,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 200,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               },
+               {
+                  "threshold": 3,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 150,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               },
+               {
+                  "threshold": 6,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 125,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               },
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "ecomm",
+                        "rewardMode": "standard",
+                        "value": "USD",
+                        "quantity": 100,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "epicgames_S32_SquadsReloadCup_BR": [
          {
             "scoringType": "rank",
             "ranks": [
@@ -99320,43 +99126,6 @@
          },
          "gameId": "Fortnite",
          "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-         "scoringRules": [],
-         "payoutTable": [],
-         "liveSessionAttributes": [],
-         "clampsToZero": false
-      },
-      {
-         "playlistId": "Playlist_ShowdownTournament_SunflowerDuo_NoFill",
-         "matchCap": 7,
-         "tiebreakerFormula": {
-            "basePointsBits": 11,
-            "components": [
-               {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
-                  "bits": 4,
-                  "aggregation": "sum"
-               },
-               {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-                  "bits": 13,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
-                  "bits": 14,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "TIME_ALIVE_STAT",
-                  "bits": 11,
-                  "aggregation": "avg"
-               }
-            ]
-         },
-         "gameId": "Fortnite",
-         "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCupBlast",
          "scoringRules": [],
          "payoutTable": [],
          "liveSessionAttributes": [],
