@@ -46119,9 +46119,9 @@
             {
                "eventWindowId": "S32_PerformanceEvaluationReload_Event3Round1_NAC",
                "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReloadBlastberry_Round1",
-               "countdownBeginTime": "2024-11-12T23:00:00Z",
-               "beginTime": "2024-11-13T01:00:00Z",
-               "endTime": "2024-11-13T03:00:00Z",
+               "countdownBeginTime": "2024-11-13T23:00:00Z",
+               "beginTime": "2024-11-14T01:00:00Z",
+               "endTime": "2024-11-14T03:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -46157,9 +46157,9 @@
             {
                "eventWindowId": "S32_PerformanceEvaluationReload_Event3Round2_NAC",
                "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReloadBlastberry_Round2",
-               "countdownBeginTime": "2024-11-13T01:00:00Z",
-               "beginTime": "2024-11-13T04:00:00Z",
-               "endTime": "2024-11-13T05:30:00Z",
+               "countdownBeginTime": "2024-11-14T01:00:00Z",
+               "beginTime": "2024-11-14T04:00:00Z",
+               "endTime": "2024-11-14T05:30:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -99021,7 +99021,7 @@
          "clampsToZero": false
       },
       {
-         "playlistId": "Playlist_ShowdownTournament_BlastBerryDuo_NoFill",
+         "playlistId": "Playlist_ShowdownTournament_PunchBerryDuo_NoFill",
          "matchCap": 7,
          "tiebreakerFormula": {
             "basePointsBits": 11,
@@ -99058,7 +99058,7 @@
          "clampsToZero": false
       },
       {
-         "playlistId": "Playlist_ShowdownTournament_BlastBerryDuo_NoFill",
+         "playlistId": "Playlist_ShowdownTournament_PunchBerryDuo_NoFill",
          "matchCap": 4,
          "tiebreakerFormula": {
             "basePointsBits": 11,
@@ -99095,7 +99095,7 @@
          "clampsToZero": false
       },
       {
-         "playlistId": "Playlist_ShowdownTournament_PunchBerryDuo_NoFill",
+         "playlistId": "Playlist_ShowdownTournament_SunflowerDuo_NoFill",
          "matchCap": 7,
          "tiebreakerFormula": {
             "basePointsBits": 11,
@@ -99132,7 +99132,7 @@
          "clampsToZero": false
       },
       {
-         "playlistId": "Playlist_ShowdownTournament_PunchBerryDuo_NoFill",
+         "playlistId": "Playlist_ShowdownTournament_SunflowerDuo_NoFill",
          "matchCap": 4,
          "tiebreakerFormula": {
             "basePointsBits": 11,
