@@ -46631,91 +46631,6 @@
                }
             },
             {
-               "eventWindowId": "S32_PerformanceEvaluationReload_Event3Round1_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round1",
-               "countdownBeginTime": "2024-11-13T23:00:00Z",
-               "beginTime": "2024-11-14T01:00:00Z",
-               "endTime": "2024-11-14T03:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s29_perfeval_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_PerformanceEvaluationReload_Round1_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [
-                  "S31_PerformanceEvaluation_Round1"
-               ],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers",
-                  "SubgroupId": "Week3"
-               }
-            },
-            {
-               "eventWindowId": "S32_PerformanceEvaluationReload_Event3Round2_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round2",
-               "countdownBeginTime": "2024-11-14T01:00:00Z",
-               "beginTime": "2024-11-14T04:00:00Z",
-               "endTime": "2024-11-14T05:30:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s29_perfeval_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [
-                  "S32_PerformanceEvaluationReload_Event3Round2_NAC",
-                  "WeeklyTournamentSpectator"
-               ],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "regionMappings": {
-                  "NAE": "NACCOMPTEST",
-                  "NAW": "NACCOMPTEST",
-                  "NAC": "NACCOMPTEST"
-               },
-               "metadata": {
-                  "ScheduledMatchmakingInitialDelaySeconds": 600,
-                  "SubgroupId": "Week3",
-                  "ServerReplays": true,
-                  "liveSpectateAccessToken": "WeeklyTournamentSpectator",
-                  "RoundType": "Qualifiers",
-                  "ScheduledMatchmakingMatchDelaySeconds": 1440
-               }
-            },
-            {
                "eventWindowId": "S32_PerformanceEvaluationReload_Event4Round1_NAC",
                "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round1",
                "countdownBeginTime": "2024-11-19T23:00:00Z",
@@ -46803,7 +46718,7 @@
             },
             {
                "eventWindowId": "S32_PerformanceEvaluationReload_Event5Round1_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round1",
+               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReloadBlastberry_Round1",
                "countdownBeginTime": "2024-11-26T23:00:00Z",
                "beginTime": "2024-11-27T01:00:00Z",
                "endTime": "2024-11-27T03:00:00Z",
@@ -46842,7 +46757,7 @@
             },
             {
                "eventWindowId": "S32_PerformanceEvaluationReload_Event5Round2_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round2",
+               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReloadBlastberry_Round2",
                "countdownBeginTime": "2024-11-27T01:00:00Z",
                "beginTime": "2024-11-27T04:00:00Z",
                "endTime": "2024-11-27T05:30:00Z",
@@ -92385,25 +92300,6 @@
             ]
          }
       ],
-      "S32_PerformanceEvaluationReload_Event3Round1_NAC": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 20,
-                  "payouts": [
-                     {
-                        "rewardType": "token",
-                        "rewardMode": "standard",
-                        "value": "S32_PerformanceEvaluationReload_Event3Round2_NAC",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
       "S32_PerformanceEvaluationReload_Event4Round1_NAC": [
          {
             "scoringType": "rank",
@@ -100315,6 +100211,80 @@
          },
          "gameId": "Fortnite",
          "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReload_Round2",
+         "scoringRules": [],
+         "payoutTable": [],
+         "liveSessionAttributes": [],
+         "clampsToZero": false
+      },
+      {
+         "playlistId": "Playlist_ShowdownTournament_SunflowerDuo_NoFill",
+         "matchCap": 7,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "gameId": "Fortnite",
+         "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReloadBlastberry_Round1",
+         "scoringRules": [],
+         "payoutTable": [],
+         "liveSessionAttributes": [],
+         "clampsToZero": false
+      },
+      {
+         "playlistId": "Playlist_ShowdownTournament_SunflowerDuo_NoFill",
+         "matchCap": 4,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "gameId": "Fortnite",
+         "eventTemplateId": "EventTemplate_S32_PerformanceEvaluationReloadBlastberry_Round2",
          "scoringRules": [],
          "payoutTable": [],
          "liveSessionAttributes": [],
