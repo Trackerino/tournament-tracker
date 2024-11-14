@@ -63240,7 +63240,6 @@
             "XCloud",
             "Helios",
             "Luna",
-            "IOS",
             "XB1",
             "XboxOne",
             "XSX",
@@ -63251,6 +63250,7 @@
             "Mac",
             "HeliosMobile",
             "GFN",
+            "iOS",
             "Switch",
             "GFNMobile",
             "Windows"
@@ -63269,47 +63269,6 @@
                "countdownBeginTime": "2024-11-10T05:00:00Z",
                "beginTime": "2024-11-10T07:00:00Z",
                "endTime": "2024-11-10T09:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s32_reloadsquads_rules",
-                  "mfa",
-                  [
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_SquadsReloadCup_Round1_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S32_SquadsReloadCup_Event2_ASIA",
-               "eventTemplateId": "EventTemplate_S32_SquadsReloadCashCup_Round1",
-               "countdownBeginTime": "2024-11-17T00:00:01Z",
-               "beginTime": "2024-11-17T02:00:00Z",
-               "endTime": "2024-11-17T04:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -63400,7 +63359,7 @@
          "endTime": "2024-11-24T21:00:00Z",
          "displayDataId": "s32_squadsreload_cash",
          "eventGroup": "Season32_SquadsReloadCup",
-         "announcementTime": "2024-11-01T10:00:00Z",
+         "announcementTime": "2024-11-02T06:00:00Z",
          "regions": [
             "BR"
          ],
@@ -63411,7 +63370,6 @@
             "XCloud",
             "Helios",
             "Luna",
-            "IOS",
             "XB1",
             "XboxOne",
             "XSX",
@@ -63422,6 +63380,7 @@
             "Mac",
             "HeliosMobile",
             "GFN",
+            "iOS",
             "Switch",
             "GFNMobile",
             "Windows"
@@ -63435,47 +63394,6 @@
          },
          "eventWindows": [
             {
-               "eventWindowId": "S32_SquadsReloadCup_Event_BR",
-               "eventTemplateId": "EventTemplate_S32_SquadsReloadCashCup_Round1",
-               "countdownBeginTime": "2024-11-24T17:00:00Z",
-               "beginTime": "2024-11-24T19:00:00Z",
-               "endTime": "2024-11-24T21:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:32_rankedcup_rules",
-                  "mfa",
-                  [
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_SquadsReloadCup_Round1_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
                "eventWindowId": "S32_SquadsReloadCup_Event1_BR",
                "eventTemplateId": "EventTemplate_S32_SquadsReloadCashCup_Round1",
                "countdownBeginTime": "2024-11-10T17:00:00Z",
@@ -63486,7 +63404,7 @@
                "isTBD": false,
                "visibility": "public",
                "additionalRequirements": [
-                  "eula:32_rankedcup_rules",
+                  "eula:s32_reloadsquads_rules",
                   "mfa",
                   [
                      "currentRanking:ranked_blastberry_build:6",
@@ -63517,17 +63435,17 @@
                }
             },
             {
-               "eventWindowId": "S32_SquadsReloadCup_Event2_BR",
+               "eventWindowId": "S32_SquadsReloadCup_Event3_BR",
                "eventTemplateId": "EventTemplate_S32_SquadsReloadCashCup_Round1",
-               "countdownBeginTime": "2024-11-17T09:00:00Z",
-               "beginTime": "2024-11-17T11:00:00Z",
-               "endTime": "2024-11-17T13:00:00Z",
+               "countdownBeginTime": "2024-11-24T17:00:00Z",
+               "beginTime": "2024-11-24T19:00:00Z",
+               "endTime": "2024-11-24T21:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
                "visibility": "public",
                "additionalRequirements": [
-                  "eula:32_rankedcup_rules",
+                  "eula:s32_reloadsquads_rules",
                   "mfa",
                   [
                      "currentRanking:ranked_blastberry_build:6",
@@ -63582,7 +63500,6 @@
             "XCloud",
             "Helios",
             "Luna",
-            "IOS",
             "XB1",
             "XboxOne",
             "XSX",
@@ -63593,6 +63510,7 @@
             "Mac",
             "HeliosMobile",
             "GFN",
+            "iOS",
             "Switch",
             "GFNMobile",
             "Windows"
@@ -63611,47 +63529,6 @@
                "countdownBeginTime": "2024-11-10T12:00:00Z",
                "beginTime": "2024-11-10T14:00:00Z",
                "endTime": "2024-11-10T16:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s32_reloadsquads_rules",
-                  "mfa",
-                  [
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_SquadsReloadCup_Round1_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S32_SquadsReloadCup_Event2_EU",
-               "eventTemplateId": "EventTemplate_S32_SquadsReloadCashCup_Round1",
-               "countdownBeginTime": "2024-11-17T09:00:00Z",
-               "beginTime": "2024-11-17T11:00:00Z",
-               "endTime": "2024-11-17T13:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -63753,7 +63630,6 @@
             "XCloud",
             "Helios",
             "Luna",
-            "IOS",
             "XB1",
             "XboxOne",
             "XSX",
@@ -63764,6 +63640,7 @@
             "Mac",
             "HeliosMobile",
             "GFN",
+            "iOS",
             "Switch",
             "GFNMobile",
             "Windows"
@@ -63782,47 +63659,6 @@
                "countdownBeginTime": "2024-11-10T11:00:00Z",
                "beginTime": "2024-11-10T13:00:00Z",
                "endTime": "2024-11-10T15:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s32_reloadsquads_rules",
-                  "mfa",
-                  [
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_SquadsReloadCup_Round1_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S32_SquadsReloadCup_Event2_ME",
-               "eventTemplateId": "EventTemplate_S32_SquadsReloadCashCup_Round1",
-               "countdownBeginTime": "2024-11-17T10:00:00Z",
-               "beginTime": "2024-11-17T12:00:00Z",
-               "endTime": "2024-11-17T14:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -63929,7 +63765,6 @@
             "XCloud",
             "Helios",
             "Luna",
-            "IOS",
             "XB1",
             "XboxOne",
             "XSX",
@@ -63940,6 +63775,7 @@
             "Mac",
             "HeliosMobile",
             "GFN",
+            "iOS",
             "Switch",
             "GFNMobile",
             "Windows"
@@ -63957,48 +63793,7 @@
                "eventTemplateId": "EventTemplate_S32_SquadsReloadCashCup_Round1",
                "countdownBeginTime": "2024-11-10T20:00:00Z",
                "beginTime": "2024-11-10T22:00:00Z",
-               "endTime": "2024-11-11T00:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s32_reloadsquads_rules",
-                  "mfa",
-                  [
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_SquadsReloadCup_Round1_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S32_SquadsReloadCup_Event2_NAC",
-               "eventTemplateId": "EventTemplate_S32_SquadsReloadCashCup_Round1",
-               "countdownBeginTime": "2024-10-17T15:00:00Z",
-               "beginTime": "2024-11-17T17:00:00Z",
-               "endTime": "2024-11-17T19:00:00Z",
+               "endTime": "2024-11-12T00:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -64100,7 +63895,6 @@
             "XCloud",
             "Helios",
             "Luna",
-            "IOS",
             "XB1",
             "XboxOne",
             "XSX",
@@ -64111,6 +63905,7 @@
             "Mac",
             "HeliosMobile",
             "GFN",
+            "iOS",
             "Switch",
             "GFNMobile",
             "Windows"
@@ -64161,47 +63956,6 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "ServerReplays": false,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S32_SquadsReloadCup_Event2_OCE",
-               "eventTemplateId": "EventTemplate_S32_SquadsReloadCashCup_Round1",
-               "countdownBeginTime": "2024-11-16T23:00:00Z",
-               "beginTime": "2024-11-17T01:00:00Z",
-               "endTime": "2024-11-17T03:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s32_reloadsquads_rules",
-                  "mfa",
-                  [
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S32_SquadsReloadCup_Round1_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
             },
