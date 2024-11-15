@@ -29,7 +29,7 @@ const writeEventsFiles = async (type: string, res: Awaited<ReturnType<typeof get
 
   // so deleted events are actually deleted in git too
   if (fs.existsSync(eventsDir)) {
-    await fsp.rmdir(eventsDir);
+    await fsp.rmdir(eventsDir, { recursive: true });
   }
 
   await fsp.mkdir(eventsDir, { recursive: true });
