@@ -1,0 +1,650 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S31_DuosCashCup_ASIA",
+   "beginTime": "2024-08-28T09:00:00Z",
+   "endTime": "2024-10-24T12:00:00Z",
+   "displayDataId": "s31_brcash_duos",
+   "eventGroup": "Season31DuosCashCup",
+   "announcementTime": "2024-08-16T04:00:00Z",
+   "regions": [
+      "ASIA"
+   ],
+   "regionMappings": {
+      "ASIA": "ASIACOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 350,
+      "AccountLockType": "Window",
+      "TeamLockType": "Window",
+      "DisqualifyType": "Window"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S31_DuosCashCup_Event1Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round1_BR",
+         "countdownBeginTime": "2024-08-28T07:00:00Z",
+         "beginTime": "2024-08-28T09:00:00Z",
+         "endTime": "2024-08-28T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "currentRanking:ranked-br:6",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event1Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round2_BR",
+         "countdownBeginTime": "2024-08-29T07:00:00Z",
+         "beginTime": "2024-08-29T09:00:00Z",
+         "endTime": "2024-08-29T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S31_DuosCashCup_Event1_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event2Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round1_BR",
+         "countdownBeginTime": "2024-09-11T07:00:00Z",
+         "beginTime": "2024-09-11T09:00:00Z",
+         "endTime": "2024-09-11T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "currentRanking:ranked-br:6",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event2Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round2_BR",
+         "countdownBeginTime": "2024-09-12T07:00:00Z",
+         "beginTime": "2024-09-12T09:00:00Z",
+         "endTime": "2024-09-12T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S31_DuosCashCup_Event2_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event3Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round1_BR",
+         "countdownBeginTime": "2024-09-18T07:00:00Z",
+         "beginTime": "2024-09-18T09:00:00Z",
+         "endTime": "2024-09-18T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "currentRanking:ranked-br:6",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event3Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round2_BR",
+         "countdownBeginTime": "2024-09-19T07:00:00Z",
+         "beginTime": "2024-09-19T09:00:00Z",
+         "endTime": "2024-09-19T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S31_DuosCashCup_Event3_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event4Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round1_BR",
+         "countdownBeginTime": "2024-09-25T07:00:00Z",
+         "beginTime": "2024-09-25T09:00:00Z",
+         "endTime": "2024-09-25T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "currentRanking:ranked-br:6",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event4Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round2_BR",
+         "countdownBeginTime": "2024-09-26T07:00:00Z",
+         "beginTime": "2024-09-26T09:00:00Z",
+         "endTime": "2024-09-26T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S31_DuosCashCup_Event4_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event5Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round1_BR",
+         "countdownBeginTime": "2024-10-02T07:00:00Z",
+         "beginTime": "2024-10-02T09:00:00Z",
+         "endTime": "2024-10-02T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "currentRanking:ranked-br:6",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event5Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round2_BR",
+         "countdownBeginTime": "2024-10-03T07:00:00Z",
+         "beginTime": "2024-10-03T09:00:00Z",
+         "endTime": "2024-10-03T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S31_DuosCashCup_Event5_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event6Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round1_BR",
+         "countdownBeginTime": "2024-10-09T07:00:00Z",
+         "beginTime": "2024-10-09T09:00:00Z",
+         "endTime": "2024-10-09T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "currentRanking:ranked-br:6",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event6Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round2_BR",
+         "countdownBeginTime": "2024-10-10T07:00:00Z",
+         "beginTime": "2024-10-10T09:00:00Z",
+         "endTime": "2024-10-10T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S31_DuosCashCup_Event6_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event7Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round1_BR",
+         "countdownBeginTime": "2024-10-16T07:00:00Z",
+         "beginTime": "2024-10-16T09:00:00Z",
+         "endTime": "2024-10-16T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "currentRanking:ranked-br:6",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event7Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round2_BR",
+         "countdownBeginTime": "2024-10-17T07:00:00Z",
+         "beginTime": "2024-10-17T09:00:00Z",
+         "endTime": "2024-10-17T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S31_DuosCashCup_Event7_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event8Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round1_BR",
+         "countdownBeginTime": "2024-10-23T07:00:00Z",
+         "beginTime": "2024-10-23T09:00:00Z",
+         "endTime": "2024-10-23T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "currentRanking:ranked-br:6",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_DuosCashCup_Event8Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S31_DuosCashCup_Round2_BR",
+         "countdownBeginTime": "2024-10-24T07:00:00Z",
+         "beginTime": "2024-10-24T09:00:00Z",
+         "endTime": "2024-10-24T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_duoscash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_Duos_Cash_Cups_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S31_DuosCashCup_Event8_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s31_duoscashcup_asia",
+      "version": 1
+   }
+}

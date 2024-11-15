@@ -1,0 +1,634 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S31_SoloZBVictoryCashCup_EU",
+   "beginTime": "2024-09-02T17:00:00Z",
+   "endTime": "2024-10-21T21:00:00Z",
+   "displayDataId": "s31_victorycash_solozb",
+   "eventGroup": "Season31_SoloZBVictoryCashCup",
+   "announcementTime": "2024-05-24T09:00:00Z",
+   "regions": [
+      "EU"
+   ],
+   "regionMappings": {
+      "EU": "EUCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 350,
+      "AccountLockType": "Window",
+      "TeamLockType": "Window",
+      "DisqualifyType": "Window"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event1Round1_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round1",
+         "countdownBeginTime": "2024-09-02T15:00:00Z",
+         "beginTime": "2024-09-02T17:00:00Z",
+         "endTime": "2024-09-02T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules",
+            "currentRanking:ranked-zb:6"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event1Round2_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round2",
+         "countdownBeginTime": "2024-09-02T18:00:00Z",
+         "beginTime": "2024-09-02T20:00:00Z",
+         "endTime": "2024-09-02T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S31_SoloZBVictoryCashCup_Event1Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event2Round1_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round1",
+         "countdownBeginTime": "2024-09-09T15:00:00Z",
+         "beginTime": "2024-09-09T17:00:00Z",
+         "endTime": "2024-09-09T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules",
+            "currentRanking:ranked-zb:6"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event2Round2_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round2",
+         "countdownBeginTime": "2024-09-09T18:00:00Z",
+         "beginTime": "2024-09-09T20:00:00Z",
+         "endTime": "2024-09-09T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S31_SoloZBVictoryCashCup_Event2Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event3Round1_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round1",
+         "countdownBeginTime": "2024-09-16T15:00:00Z",
+         "beginTime": "2024-09-16T17:00:00Z",
+         "endTime": "2024-09-16T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules",
+            "currentRanking:ranked-zb:6"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event3Round2_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round2",
+         "countdownBeginTime": "2024-09-16T18:00:00Z",
+         "beginTime": "2024-09-16T20:00:00Z",
+         "endTime": "2024-09-16T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S31_SoloZBVictoryCashCup_Event3Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event4Round1_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round1",
+         "countdownBeginTime": "2024-09-23T15:00:00Z",
+         "beginTime": "2024-09-23T17:00:00Z",
+         "endTime": "2024-09-23T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules",
+            "currentRanking:ranked-zb:6"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event4Round2_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round2",
+         "countdownBeginTime": "2024-09-23T18:00:00Z",
+         "beginTime": "2024-09-23T20:00:00Z",
+         "endTime": "2024-09-23T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S31_SoloZBVictoryCashCup_Event4Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event5Round1_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round1",
+         "countdownBeginTime": "2024-09-30T15:00:00Z",
+         "beginTime": "2024-09-30T17:00:00Z",
+         "endTime": "2024-09-30T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules",
+            "currentRanking:ranked-zb:6"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event5Round2_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round2",
+         "countdownBeginTime": "2024-09-30T18:00:00Z",
+         "beginTime": "2024-09-30T20:00:00Z",
+         "endTime": "2024-09-30T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S31_SoloZBVictoryCashCup_Event5Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event6Round1_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round1",
+         "countdownBeginTime": "2024-10-07T15:00:00Z",
+         "beginTime": "2024-10-07T17:00:00Z",
+         "endTime": "2024-10-07T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules",
+            "currentRanking:ranked-zb:6"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event6Round2_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round2",
+         "countdownBeginTime": "2024-10-07T18:00:00Z",
+         "beginTime": "2024-10-07T20:00:00Z",
+         "endTime": "2024-10-07T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S31_SoloZBVictoryCashCup_Event6Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event7Round1_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round1",
+         "countdownBeginTime": "2024-10-14T15:00:00Z",
+         "beginTime": "2024-10-14T17:00:00Z",
+         "endTime": "2024-10-14T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules",
+            "currentRanking:ranked-zb:6"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event7Round2_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round2",
+         "countdownBeginTime": "2024-10-14T18:00:00Z",
+         "beginTime": "2024-10-14T20:00:00Z",
+         "endTime": "2024-10-14T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S31_SoloZBVictoryCashCup_Event7Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event8Round1_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round1",
+         "countdownBeginTime": "2024-10-21T15:00:00Z",
+         "beginTime": "2024-10-21T17:00:00Z",
+         "endTime": "2024-10-21T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules",
+            "currentRanking:ranked-zb:6"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_SoloZBVictoryCashCup_Event8Round2_EU",
+         "eventTemplateId": "EventTemplate_S31_SoloZBVictoryCashCup_Round2",
+         "countdownBeginTime": "2024-10-21T18:00:00Z",
+         "beginTime": "2024-10-21T20:00:00Z",
+         "endTime": "2024-10-21T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_victorycash_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_SoloVictoryCashCup_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S31_SoloZBVictoryCashCup_Event8Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s31_solozbvictorycashcup_eu",
+      "version": 1
+   }
+}

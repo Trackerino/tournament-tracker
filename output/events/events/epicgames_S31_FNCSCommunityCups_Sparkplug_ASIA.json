@@ -1,0 +1,85 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S31_FNCSCommunityCups_Sparkplug_ASIA",
+   "beginTime": "2024-08-24T09:00:00Z",
+   "endTime": "2024-08-24T12:00:00Z",
+   "displayDataId": "s31_fncs_community_sparkplug",
+   "eventGroup": "Season31_FNCSCommunityCup",
+   "announcementTime": "2024-08-16T04:00:00Z",
+   "regions": [
+      "ASIA"
+   ],
+   "regionMappings": {
+      "ASIA": "ASIACOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 50,
+      "AccountLockType": "Window",
+      "TeamLockType": "Window",
+      "DisqualifyType": "Window"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S31_FNCSCommunityCups_Sparkplug_ASIA",
+         "eventTemplateId": "EventTemplate_S31_FNCSCommunityCups",
+         "countdownBeginTime": "2024-08-24T07:00:00Z",
+         "beginTime": "2024-08-24T09:00:00Z",
+         "endTime": "2024-08-24T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s31_fncscommunity_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S31_FNCS_Community_Cups",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s31_fncscommunitycups_sparkplug_asia",
+      "version": 1
+   }
+}

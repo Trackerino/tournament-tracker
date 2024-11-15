@@ -1,0 +1,62 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_BettoTest_24Q4_Solo",
+   "beginTime": "2024-10-03T03:00:00Z",
+   "endTime": "2025-01-31T23:00:00Z",
+   "displayDataId": "bettotest_aqua",
+   "eventGroup": "ESTesting",
+   "announcementTime": "2024-10-03T03:00:00Z",
+   "regions": [
+      "NAE"
+   ],
+   "regionMappings": {},
+   "platforms": [
+      "PS5",
+      "Windows",
+      "XSX"
+   ],
+   "platformMappings": {},
+   "metadata": {},
+   "eventWindows": [
+      {
+         "eventWindowId": "EW_epicgames_BettoTest_24Q4_Solo_Day1",
+         "eventTemplateId": "EventTemplate_BettoTest_Solo",
+         "countdownBeginTime": "2024-10-03T03:00:00Z",
+         "beginTime": "2024-10-03T03:00:00Z",
+         "endTime": "2025-01-31T23:00:00Z",
+         "round": 0,
+         "payoutDelay": 5,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "LeadDef_BettoTest_SeriesPoint_Window",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "LeadDef_BettoTest_Elims",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "QATester"
+         ],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {}
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_bettotest_24q4_solo",
+      "version": 1
+   }
+}

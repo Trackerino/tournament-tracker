@@ -1,0 +1,368 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S31_RankedCupZBBSGDuos_NAC",
+   "beginTime": "2024-08-31T17:00:00Z",
+   "endTime": "2024-11-01T04:00:00Z",
+   "displayDataId": "s31_rankedcup_bsg_duos_zb",
+   "eventGroup": "Season31_RankedCupZBBSGDuos",
+   "announcementTime": "2024-03-13T19:30:00Z",
+   "regions": [
+      "NAC",
+      "NAE",
+      "NAW"
+   ],
+   "regionMappings": {
+      "NAC": "NACCOMP",
+      "NAE": "NACCOMP",
+      "NAW": "NACCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 50,
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S31_RankedCupZBBSGDuos_Event1_NAC",
+         "eventTemplateId": "EventTemplate_S31_RankedCupZBDuos",
+         "countdownBeginTime": "2024-08-31T15:00:00Z",
+         "beginTime": "2024-08-31T17:00:00Z",
+         "endTime": "2024-08-31T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s31_rankedcup_rules",
+            "currentRanking:ranked-zb:0",
+            "mfa",
+            "currentRankingMax:ranked-zb:8"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_RankedCupDuosBSG_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_RankedCupZBBSGDuos_Event2_NAC",
+         "eventTemplateId": "EventTemplate_S31_RankedCupZBDuos",
+         "countdownBeginTime": "2024-09-14T15:00:00Z",
+         "beginTime": "2024-09-14T17:00:00Z",
+         "endTime": "2024-09-14T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s31_rankedcup_rules",
+            "currentRanking:ranked-zb:0",
+            "mfa",
+            "currentRankingMax:ranked-zb:8"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_RankedCupDuosBSG_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_RankedCupZBBSGDuos_Event3_NAC",
+         "eventTemplateId": "EventTemplate_S31_RankedCupZBDuos",
+         "countdownBeginTime": "2024-09-21T15:00:00Z",
+         "beginTime": "2024-09-21T17:00:00Z",
+         "endTime": "2024-09-21T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s31_rankedcup_rules",
+            "currentRanking:ranked-zb:0",
+            "mfa",
+            "currentRankingMax:ranked-zb:8"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_RankedCupDuosBSG_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_RankedCupZBBSGDuos_Event4_NAC",
+         "eventTemplateId": "EventTemplate_S31_RankedCupZBDuos",
+         "countdownBeginTime": "2024-09-28T15:00:00Z",
+         "beginTime": "2024-09-28T17:00:00Z",
+         "endTime": "2024-09-28T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s31_rankedcup_rules",
+            "currentRanking:ranked-zb:0",
+            "mfa",
+            "currentRankingMax:ranked-zb:8"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_RankedCupDuosBSG_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_RankedCupZBBSGDuos_Event5_NAC",
+         "eventTemplateId": "EventTemplate_S31_RankedCupZBDuos",
+         "countdownBeginTime": "2024-10-06T15:00:00Z",
+         "beginTime": "2024-10-06T17:00:00Z",
+         "endTime": "2024-10-06T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s31_rankedcup_rules",
+            "currentRanking:ranked-zb:0",
+            "mfa",
+            "currentRankingMax:ranked-zb:8"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_RankedCupDuosBSG_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_RankedCupZBBSGDuos_Event6_NAC",
+         "eventTemplateId": "EventTemplate_S31_RankedCupZBDuos",
+         "countdownBeginTime": "2024-10-13T15:00:00Z",
+         "beginTime": "2024-10-13T17:00:00Z",
+         "endTime": "2024-10-13T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s31_rankedcup_rules",
+            "currentRanking:ranked-zb:0",
+            "mfa",
+            "currentRankingMax:ranked-zb:8"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_RankedCupDuosBSG_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_RankedCupZBBSGDuos_Event6_NAC_makegood",
+         "eventTemplateId": "EventTemplate_S31_RankedCupZBDuos",
+         "countdownBeginTime": "2024-10-31T22:00:00Z",
+         "beginTime": "2024-11-01T00:00:00Z",
+         "endTime": "2024-11-01T04:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s31_rankedcup_rules",
+            "currentRanking:ranked-zb:0",
+            "mfa",
+            "currentRankingMax:ranked-zb:8"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_RankedCupDuosBSG_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_RankedCupZBBSGDuos_Event7_NAC",
+         "eventTemplateId": "EventTemplate_S31_RankedCupZBDuos",
+         "countdownBeginTime": "2024-10-19T15:00:00Z",
+         "beginTime": "2024-10-19T17:00:00Z",
+         "endTime": "2024-10-19T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s31_rankedcup_rules",
+            "currentRanking:ranked-zb:0",
+            "mfa",
+            "currentRankingMax:ranked-zb:8"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_RankedCupDuosBSG_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S31_RankedCupZBBSGDuos_Event8_NAC_makegood",
+         "eventTemplateId": "EventTemplate_S31_RankedCupZBDuos",
+         "countdownBeginTime": "2024-10-26T15:00:00Z",
+         "beginTime": "2024-10-26T17:00:00Z",
+         "endTime": "2024-10-26T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s31_rankedcup_rules",
+            "currentRanking:ranked-zb:0",
+            "mfa",
+            "currentRankingMax:ranked-zb:8"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S31_RankedCupDuosBSG_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s31_rankedcupzbbsgduos_nac",
+      "version": 1
+   }
+}
