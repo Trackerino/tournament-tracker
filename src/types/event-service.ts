@@ -14,6 +14,8 @@ export interface DataResponse {
 
 export interface SimplifiedEvent {
   eventId: string;
+  platforms: string[];
+  regions: string[];
   eventWindows: SimplifiedEventWindow[];
 }
 

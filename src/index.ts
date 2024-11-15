@@ -9,6 +9,7 @@ import getTournamentCmsData from './utils/get-tournament-frontend-cms-data.js';
 import killToken from './utils/kill-token.js';
 import getTournamentLeaderboardsCmsData from './utils/get-tournament-leaderboards-cms-data.js';
 import getTournamentScoringRulesCmsData from './utils/get-tournament-scoring-rules-cms-data.js';
+import { SimplifiedEvent } from './types/event-service.js';
 
 const outputFolder = 'output';
 const eventsFile = `${outputFolder}/events.json`;
@@ -16,6 +17,31 @@ const devEventsFile = `${outputFolder}/events-dev.json`;
 const cmsFrontendFile = `${outputFolder}/cms.json`;
 const cmsLeaderboardsFile = `${outputFolder}/cms-leaderboards.json`;
 const cmsScoringRulesFile = `${outputFolder}/cms-scoring-rules.json`;
+
+const writeEventsFiles = async (type: string, res: Awaited<ReturnType<typeof getEventServiceData>>) => {
+  if (!res.success) {
+    return;
+  }
+
+  await writeFile(`${outputFolder}/${type}.json`, JSON.stringify(res.data, null, 3));
+
+  const eventsDir = `${outputFolder}/${type}/events`;
+
+  // so deleted events are actually deleted in git too
+  if (fs.existsSync(eventsDir)) {
+    await fsp.rmdir(eventsDir);
+  }
+
+  await fsp.mkdir(eventsDir, { recursive: true });
+
+  const events = <SimplifiedEvent[]>res.data.events;
+
+  for (let i = 0; i < events.length; i += 1) {
+    const event = events[i];
+
+    await writeFile(`${eventsDir}/${event.eventId}.json`, JSON.stringify(event, null, 3));
+  }
+}
 
 const main = async () => {
   if (!fs.existsSync(outputFolder)) {
@@ -42,13 +68,8 @@ const main = async () => {
   const eventsData = await getEventServiceData(auth, 'live');
   const devEventsData = await getEventServiceData(auth, 'prod');
 
-  if (eventsData.success) {
-    await writeFile(eventsFile, JSON.stringify(eventsData.data, null, 3));
-  }
-
-  if (devEventsData.success) {
-    await writeFile(devEventsFile, JSON.stringify(devEventsData.data, null, 3));
-  }
+  await writeEventsFiles('events', eventsData);
+  await writeEventsFiles('events-dev', devEventsData);
 
   await killToken(auth);
 

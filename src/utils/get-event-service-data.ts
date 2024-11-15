@@ -17,13 +17,15 @@ export default async (auth: AuthData, deployment: 'live' | 'prod') => {
     console.log('failed fetching event service data', res.status, res.statusText, await res.text());
 
     return {
-      success: false,
+      success: false as const,
     };
   }
 
   const data = <DataResponse>(await res.json());
 
   data.events.forEach((ev) => {
+    ev.platforms.sort();
+    ev.regions.sort();
     ev.eventWindows.sort((a, b) => a.eventWindowId.localeCompare(b.eventWindowId));
   });
 
@@ -53,7 +55,7 @@ export default async (auth: AuthData, deployment: 'live' | 'prod') => {
   };
 
   return {
-    success: true,
+    success: true as const,
     data: Object.fromEntries(
       Object.entries(result)
         .sort(([a], [b]) => a.localeCompare(b)),
