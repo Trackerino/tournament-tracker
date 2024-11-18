@@ -15,13 +15,7 @@
       "NAE": "NAC",
       "NAW": "NAC"
    },
-   "platforms": [
-      "GFN",
-      "Helios",
-      "Luna",
-      "Windows",
-      "XCloud"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "minimumAccountLevel": 350,

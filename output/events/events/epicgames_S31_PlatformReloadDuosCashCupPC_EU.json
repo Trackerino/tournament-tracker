@@ -10,13 +10,7 @@
       "EU"
    ],
    "regionMappings": {},
-   "platforms": [
-      "GFN",
-      "Helios",
-      "Luna",
-      "Windows",
-      "XCloud"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "minimumAccountLevel": 350,

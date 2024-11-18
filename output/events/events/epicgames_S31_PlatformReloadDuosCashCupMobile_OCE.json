@@ -10,13 +10,7 @@
       "OCE"
    ],
    "regionMappings": {},
-   "platforms": [
-      "Android",
-      "GFNMobile",
-      "IOS",
-      "LunaMobile",
-      "XCloudMobile"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "minimumAccountLevel": 50,
