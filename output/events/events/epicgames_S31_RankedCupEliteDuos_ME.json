@@ -6,9 +6,7 @@
    "displayDataId": "s31_rankedcup_elite_duos_br",
    "eventGroup": "Season31_RankedCupEliteDuos",
    "announcementTime": "2024-03-13T19:30:00Z",
-   "regions": [
-      "ME"
-   ],
+   "regions": [],
    "regionMappings": {
       "ME": "MECOMP"
    },

@@ -6,9 +6,7 @@
    "displayDataId": "s31_victorycash_solozb",
    "eventGroup": "Season31_SoloZBVictoryCashCup",
    "announcementTime": "2024-05-24T09:00:00Z",
-   "regions": [
-      "ME"
-   ],
+   "regions": [],
    "regionMappings": {
       "ME": "MECOMP"
    },

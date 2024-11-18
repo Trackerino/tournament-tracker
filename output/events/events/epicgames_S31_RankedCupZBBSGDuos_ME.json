@@ -6,9 +6,7 @@
    "displayDataId": "s31_rankedcup_bsg_duos_zb",
    "eventGroup": "Season31_RankedCupZBBSGDuos",
    "announcementTime": "2024-03-13T19:30:00Z",
-   "regions": [
-      "ME"
-   ],
+   "regions": [],
    "regionMappings": {
       "ME": "MECOMP"
    },

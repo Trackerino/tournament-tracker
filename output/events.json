@@ -21733,9 +21733,7 @@
          "displayDataId": "s31_rankedcup_bsg_duos_br",
          "eventGroup": "Season31_RankedCupBSGDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "ASIA"
-         ],
+         "regions": [],
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
@@ -22062,9 +22060,7 @@
          "displayDataId": "s31_rankedcup_bsg_duos_br",
          "eventGroup": "Season31_RankedCupBSGDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "BR"
-         ],
+         "regions": [],
          "regionMappings": {
             "BR": "BRCOMP"
          },
@@ -22426,9 +22422,7 @@
          "displayDataId": "s31_rankedcup_bsg_duos_br",
          "eventGroup": "Season31_RankedCupBSGDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {
             "EU": "EUCOMP"
          },
@@ -22755,9 +22749,7 @@
          "displayDataId": "s31_rankedcup_bsg_duos_br",
          "eventGroup": "Season31_RankedCupBSGDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "ME"
-         ],
+         "regions": [],
          "regionMappings": {
             "ME": "MECOMP"
          },
@@ -23049,11 +23041,7 @@
          "displayDataId": "s31_rankedcup_bsg_duos_br",
          "eventGroup": "Season31_RankedCupBSGDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {
             "NAC": "NACCOMP",
             "NAE": "NACCOMP",
@@ -23417,9 +23405,7 @@
          "displayDataId": "s31_rankedcup_bsg_duos_br",
          "eventGroup": "Season31_RankedCupBSGDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "OCE"
-         ],
+         "regions": [],
          "regionMappings": {
             "OCE": "OCECOMP"
          },
@@ -23746,9 +23732,7 @@
          "displayDataId": "s31_rankedcup_elite_duos_br",
          "eventGroup": "Season31_RankedCupEliteDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "ASIA"
-         ],
+         "regions": [],
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
@@ -24067,9 +24051,7 @@
          "displayDataId": "s31_rankedcup_elite_duos_br",
          "eventGroup": "Season31_RankedCupEliteDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "BR"
-         ],
+         "regions": [],
          "regionMappings": {
             "BR": "BRCOMP"
          },
@@ -24422,9 +24404,7 @@
          "displayDataId": "s31_rankedcup_elite_duos_br",
          "eventGroup": "Season31_RankedCupEliteDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {
             "EU": "EUCOMP"
          },
@@ -24743,9 +24723,7 @@
          "displayDataId": "s31_rankedcup_elite_duos_br",
          "eventGroup": "Season31_RankedCupEliteDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "ME"
-         ],
+         "regions": [],
          "regionMappings": {
             "ME": "MECOMP"
          },
@@ -25030,11 +25008,7 @@
          "displayDataId": "s31_rankedcup_elite_duos_br",
          "eventGroup": "Season31_RankedCupEliteDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {
             "NAC": "NACCOMP",
             "NAE": "NACCOMP",
@@ -25389,9 +25363,7 @@
          "displayDataId": "s31_rankedcup_elite_duos_br",
          "eventGroup": "Season31_RankedCupEliteDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "OCE"
-         ],
+         "regions": [],
          "regionMappings": {
             "OCE": "OCECOMP"
          },
@@ -25710,9 +25682,7 @@
          "displayDataId": "s31_rankedcup_pd_duos_br",
          "eventGroup": "Season31_RankedCupPDDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "ASIA"
-         ],
+         "regions": [],
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
@@ -26039,9 +26009,7 @@
          "displayDataId": "s31_rankedcup_pd_duos_br",
          "eventGroup": "Season31_RankedCupPDDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "BR"
-         ],
+         "regions": [],
          "regionMappings": {
             "BR": "BRCOMP"
          },
@@ -26403,9 +26371,7 @@
          "displayDataId": "s31_rankedcup_pd_duos_br",
          "eventGroup": "Season31_RankedCupPDDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {
             "EU": "EUCOMP"
          },
@@ -26732,9 +26698,7 @@
          "displayDataId": "s31_rankedcup_pd_duos_br",
          "eventGroup": "Season31_RankedCupPDDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "ME"
-         ],
+         "regions": [],
          "regionMappings": {
             "ME": "MECOMP"
          },
@@ -27026,11 +26990,7 @@
          "displayDataId": "s31_rankedcup_pd_duos_br",
          "eventGroup": "Season31_RankedCupPDDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {
             "NAC": "NACCOMP",
             "NAE": "NACCOMP",
@@ -27394,9 +27354,7 @@
          "displayDataId": "s31_rankedcup_pd_duos_br",
          "eventGroup": "Season31_RankedCupPDDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "OCE"
-         ],
+         "regions": [],
          "regionMappings": {
             "OCE": "OCECOMP"
          },
@@ -27723,9 +27681,7 @@
          "displayDataId": "s31_rankedcup_bsg_duos_zb",
          "eventGroup": "Season31_RankedCupZBBSGDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "ASIA"
-         ],
+         "regions": [],
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
@@ -28052,9 +28008,7 @@
          "displayDataId": "s31_rankedcup_bsg_duos_zb",
          "eventGroup": "Season31_RankedCupZBBSGDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "BR"
-         ],
+         "regions": [],
          "regionMappings": {
             "BR": "BRCOMP"
          },
@@ -28416,9 +28370,7 @@
          "displayDataId": "s31_rankedcup_bsg_duos_zb",
          "eventGroup": "Season31_RankedCupZBBSGDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {
             "EU": "EUCOMP"
          },
@@ -28745,9 +28697,7 @@
          "displayDataId": "s31_rankedcup_bsg_duos_zb",
          "eventGroup": "Season31_RankedCupZBBSGDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "ME"
-         ],
+         "regions": [],
          "regionMappings": {
             "ME": "MECOMP"
          },
@@ -29039,11 +28989,7 @@
          "displayDataId": "s31_rankedcup_bsg_duos_zb",
          "eventGroup": "Season31_RankedCupZBBSGDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {
             "NAC": "NACCOMP",
             "NAE": "NACCOMP",
@@ -29407,9 +29353,7 @@
          "displayDataId": "s31_rankedcup_bsg_duos_zb",
          "eventGroup": "Season31_RankedCupZBBSGDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "OCE"
-         ],
+         "regions": [],
          "regionMappings": {
             "OCE": "OCECOMP"
          },
@@ -29736,9 +29680,7 @@
          "displayDataId": "s31_rankedcup_platinum_duos_zb",
          "eventGroup": "Season31_RankedCupZBPlatinumDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "ASIA"
-         ],
+         "regions": [],
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
@@ -30057,9 +29999,7 @@
          "displayDataId": "s31_rankedcup_platinum_duos_zb",
          "eventGroup": "Season31_RankedCupZBPlatinumDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "BR"
-         ],
+         "regions": [],
          "regionMappings": {
             "BR": "BRCOMP"
          },
@@ -30412,9 +30352,7 @@
          "displayDataId": "s31_rankedcup_platinum_duos_zb",
          "eventGroup": "Season31_RankedCupZBPlatinumDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {
             "EU": "EUCOMP"
          },
@@ -30733,9 +30671,7 @@
          "displayDataId": "s31_rankedcup_platinum_duos_zb",
          "eventGroup": "Season31_RankedCupZBPlatinumDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "ME"
-         ],
+         "regions": [],
          "regionMappings": {
             "ME": "MECOMP"
          },
@@ -31020,11 +30956,7 @@
          "displayDataId": "s31_rankedcup_platinum_duos_zb",
          "eventGroup": "Season31_RankedCupZBPlatinumDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {
             "NAC": "NACCOMP",
             "NAE": "NACCOMP",
@@ -31379,9 +31311,7 @@
          "displayDataId": "s31_rankedcup_platinum_duos_zb",
          "eventGroup": "Season31_RankedCupZBPlatinumDuos",
          "announcementTime": "2024-03-13T19:30:00Z",
-         "regions": [
-            "OCE"
-         ],
+         "regions": [],
          "regionMappings": {
             "OCE": "OCECOMP"
          },
@@ -32208,9 +32138,7 @@
          "displayDataId": "s31_victorycash_solobr",
          "eventGroup": "Season31_SoloVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "ASIA"
-         ],
+         "regions": [],
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
@@ -32842,9 +32770,7 @@
          "displayDataId": "s31_victorycash_solobr",
          "eventGroup": "Season31_SoloVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "BR"
-         ],
+         "regions": [],
          "regionMappings": {
             "BR": "BRCOMP"
          },
@@ -33476,9 +33402,7 @@
          "displayDataId": "s31_victorycash_solobr",
          "eventGroup": "Season31_SoloVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {
             "EU": "EUCOMP"
          },
@@ -34110,9 +34034,7 @@
          "displayDataId": "s31_victorycash_solobr",
          "eventGroup": "Season31_SoloVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "ME"
-         ],
+         "regions": [],
          "regionMappings": {
             "ME": "MECOMP"
          },
@@ -34744,11 +34666,7 @@
          "displayDataId": "s31_victorycash_solobr",
          "eventGroup": "Season31_SoloVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {
             "NAC": "NACCOMP",
             "NAE": "NACCOMP",
@@ -35382,9 +35300,7 @@
          "displayDataId": "s31_victorycash_solobr",
          "eventGroup": "Season31_SoloVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "OCE"
-         ],
+         "regions": [],
          "regionMappings": {
             "OCE": "OCECOMP"
          },
@@ -36016,9 +35932,7 @@
          "displayDataId": "s31_victorycash_solozb",
          "eventGroup": "Season31_SoloZBVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "ASIA"
-         ],
+         "regions": [],
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
@@ -36650,9 +36564,7 @@
          "displayDataId": "s31_victorycash_solozb",
          "eventGroup": "Season31_SoloZBVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "BR"
-         ],
+         "regions": [],
          "regionMappings": {
             "BR": "BRCOMP"
          },
@@ -37284,9 +37196,7 @@
          "displayDataId": "s31_victorycash_solozb",
          "eventGroup": "Season31_SoloZBVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {
             "EU": "EUCOMP"
          },
@@ -37918,9 +37828,7 @@
          "displayDataId": "s31_victorycash_solozb",
          "eventGroup": "Season31_SoloZBVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "ME"
-         ],
+         "regions": [],
          "regionMappings": {
             "ME": "MECOMP"
          },
@@ -38552,11 +38460,7 @@
          "displayDataId": "s31_victorycash_solozb",
          "eventGroup": "Season31_SoloZBVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {
             "NAC": "NACCOMP",
             "NAE": "NACCOMP",
@@ -39190,9 +39094,7 @@
          "displayDataId": "s31_victorycash_solozb",
          "eventGroup": "Season31_SoloZBVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "OCE"
-         ],
+         "regions": [],
          "regionMappings": {
             "OCE": "OCECOMP"
          },

@@ -6,9 +6,7 @@
    "displayDataId": "s31_rankedcup_platinum_duos_zb",
    "eventGroup": "Season31_RankedCupZBPlatinumDuos",
    "announcementTime": "2024-03-13T19:30:00Z",
-   "regions": [
-      "EU"
-   ],
+   "regions": [],
    "regionMappings": {
       "EU": "EUCOMP"
    },
