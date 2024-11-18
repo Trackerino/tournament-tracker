@@ -6,9 +6,7 @@
    "displayDataId": "s31_pols_cup",
    "eventGroup": "Season31_InfluencerCup",
    "announcementTime": "2024-09-05T15:00:00Z",
-   "regions": [
-      "ASIA"
-   ],
+   "regions": [],
    "regionMappings": {
       "ASIA": "ASIACOMP"
    },

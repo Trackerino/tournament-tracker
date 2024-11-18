@@ -6,9 +6,7 @@
    "displayDataId": "s25_perfeval",
    "eventGroup": "Season31_PerformanceEvaluation",
    "announcementTime": "2024-05-24T09:00:00Z",
-   "regions": [
-      "EU"
-   ],
+   "regions": [],
    "regionMappings": {},
    "platforms": [
       "Android",

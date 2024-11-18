@@ -6,11 +6,7 @@
    "displayDataId": "s31_playstation_sypherpk",
    "eventGroup": "Season31_PlaystationSypherPKCup",
    "announcementTime": "2024-05-24T09:00:00Z",
-   "regions": [
-      "NAC",
-      "NAE",
-      "NAW"
-   ],
+   "regions": [],
    "regionMappings": {
       "NAC": "NACCOMP",
       "NAE": "NACCOMP",

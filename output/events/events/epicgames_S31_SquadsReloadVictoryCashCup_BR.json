@@ -6,9 +6,7 @@
    "displayDataId": "s31_victorycash_squadsreload",
    "eventGroup": "Season31_SquadsReloadVictoryCashCup",
    "announcementTime": "2024-05-24T09:00:00Z",
-   "regions": [
-      "BR"
-   ],
+   "regions": [],
    "regionMappings": {},
    "platforms": [
       "Android",

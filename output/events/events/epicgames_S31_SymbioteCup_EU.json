@@ -6,9 +6,7 @@
    "displayDataId": "s31_symbiotecup",
    "eventGroup": "Season31_SymbioteCup",
    "announcementTime": "2024-10-12T07:00:00Z",
-   "regions": [
-      "EU"
-   ],
+   "regions": [],
    "regionMappings": {
       "EU": "EUCOMP"
    },

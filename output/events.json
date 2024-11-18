@@ -10606,9 +10606,7 @@
          "displayDataId": "s31_pols_cup",
          "eventGroup": "Season31_InfluencerCup",
          "announcementTime": "2024-09-05T15:00:00Z",
-         "regions": [
-            "ASIA"
-         ],
+         "regions": [],
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
@@ -10729,9 +10727,7 @@
          "displayDataId": "s31_felipersa_cup",
          "eventGroup": "Season31_InfluencerCup",
          "announcementTime": "2024-09-05T15:00:00Z",
-         "regions": [
-            "BR"
-         ],
+         "regions": [],
          "regionMappings": {
             "BR": "BRCOMP"
          },
@@ -10852,9 +10848,7 @@
          "displayDataId": "s31_katoo_cup",
          "eventGroup": "Season31_InfluencerCup",
          "announcementTime": "2024-09-05T15:00:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -10973,9 +10967,7 @@
          "displayDataId": "s31_boter_cup",
          "eventGroup": "Season31_InfluencerCup",
          "announcementTime": "2024-09-05T15:00:00Z",
-         "regions": [
-            "ME"
-         ],
+         "regions": [],
          "regionMappings": {
             "ME": "MECOMP"
          },
@@ -11096,11 +11088,7 @@
          "displayDataId": "s31_peachcobbler_cup",
          "eventGroup": "Season31_InfluencerCup",
          "announcementTime": "2024-09-05T15:00:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {
             "NAC": "NACCOMP",
             "NAE": "NACCOMP",
@@ -11223,9 +11211,7 @@
          "displayDataId": "s31_aussieantics_cup",
          "eventGroup": "Season31_InfluencerCup",
          "announcementTime": "2024-09-05T15:00:00Z",
-         "regions": [
-            "OCE"
-         ],
+         "regions": [],
          "regionMappings": {
             "OCE": "OCECOMP"
          },
@@ -11346,9 +11332,7 @@
          "displayDataId": "s25_perfeval",
          "eventGroup": "Season31_PerformanceEvaluation",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -12218,11 +12202,7 @@
          "displayDataId": "s31_perfeval_reload",
          "eventGroup": "Season31_PerformanceEvaluation",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {
             "NAE": "NAC",
             "NAW": "NAC"
@@ -21095,9 +21075,7 @@
          "displayDataId": "s31_playstation_sypherpk",
          "eventGroup": "Season31_PlaystationSypherPKCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "ASIA"
-         ],
+         "regions": [],
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
@@ -21201,9 +21179,7 @@
          "displayDataId": "s31_playstation_sypherpk",
          "eventGroup": "Season31_PlaystationSypherPKCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "BR"
-         ],
+         "regions": [],
          "regionMappings": {
             "BR": "BRCOMP"
          },
@@ -21307,9 +21283,7 @@
          "displayDataId": "s31_playstation_sypherpk",
          "eventGroup": "Season31_PlaystationSypherPKCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "PS4",
@@ -21411,9 +21385,7 @@
          "displayDataId": "s31_playstation_sypherpk",
          "eventGroup": "Season31_PlaystationSypherPKCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "ME"
-         ],
+         "regions": [],
          "regionMappings": {
             "ME": "MECOMP"
          },
@@ -21517,11 +21489,7 @@
          "displayDataId": "s31_playstation_sypherpk",
          "eventGroup": "Season31_PlaystationSypherPKCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {
             "NAC": "NACCOMP",
             "NAE": "NACCOMP",
@@ -21627,9 +21595,7 @@
          "displayDataId": "s31_playstation_sypherpk",
          "eventGroup": "Season31_PlaystationSypherPKCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "OCE"
-         ],
+         "regions": [],
          "regionMappings": {
             "OCE": "OCECOMP"
          },
@@ -39726,9 +39692,7 @@
          "displayDataId": "s31_squadsreload_cash",
          "eventGroup": "Season31_SquadsReloadCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "ASIA"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -39918,9 +39882,7 @@
          "displayDataId": "s31_squadsreload_cash",
          "eventGroup": "Season31_SquadsReloadCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "BR"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -40110,9 +40072,7 @@
          "displayDataId": "s31_squadsreload_cash",
          "eventGroup": "Season31_SquadsReloadCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -40338,9 +40298,7 @@
          "displayDataId": "s31_squadsreload_cash",
          "eventGroup": "Season31_SquadsReloadCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "ME"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -40530,11 +40488,7 @@
          "displayDataId": "s31_squadsreload_cash",
          "eventGroup": "Season31_SquadsReloadCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {
             "NAE": "NAC",
             "NAW": "NAC"
@@ -40727,9 +40681,7 @@
          "displayDataId": "s31_squadsreload_cash",
          "eventGroup": "Season31_SquadsReloadCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "OCE"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -40919,9 +40871,7 @@
          "displayDataId": "s31_victorycash_squadsreload",
          "eventGroup": "Season31_SquadsReloadVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "ASIA"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -41186,9 +41136,7 @@
          "displayDataId": "s31_victorycash_squadsreload",
          "eventGroup": "Season31_SquadsReloadVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "BR"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -41453,9 +41401,7 @@
          "displayDataId": "s31_victorycash_squadsreload",
          "eventGroup": "Season31_SquadsReloadVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -41720,9 +41666,7 @@
          "displayDataId": "s31_victorycash_squadsreload",
          "eventGroup": "Season31_SquadsReloadVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "ME"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -41987,11 +41931,7 @@
          "displayDataId": "s31_victorycash_squadsreload",
          "eventGroup": "Season31_SquadsReloadVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -42256,9 +42196,7 @@
          "displayDataId": "s31_victorycash_squadsreload",
          "eventGroup": "Season31_SquadsReloadVictoryCashCup",
          "announcementTime": "2024-05-24T09:00:00Z",
-         "regions": [
-            "OCE"
-         ],
+         "regions": [],
          "regionMappings": {},
          "platforms": [
             "Android",
@@ -42559,9 +42497,7 @@
          "displayDataId": "s31_symbiotecup",
          "eventGroup": "Season31_SymbioteCup",
          "announcementTime": "2024-10-12T07:00:00Z",
-         "regions": [
-            "ASIA"
-         ],
+         "regions": [],
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
@@ -42644,9 +42580,7 @@
          "displayDataId": "s31_symbiotecup",
          "eventGroup": "Season31_SymbioteCup",
          "announcementTime": "2024-10-12T07:00:00Z",
-         "regions": [
-            "BR"
-         ],
+         "regions": [],
          "regionMappings": {
             "BR": "BRCOMP"
          },
@@ -42729,9 +42663,7 @@
          "displayDataId": "s31_symbiotecup",
          "eventGroup": "Season31_SymbioteCup",
          "announcementTime": "2024-10-12T07:00:00Z",
-         "regions": [
-            "EU"
-         ],
+         "regions": [],
          "regionMappings": {
             "EU": "EUCOMP"
          },
@@ -42814,9 +42746,7 @@
          "displayDataId": "s31_symbiotecup",
          "eventGroup": "Season31_SymbioteCup",
          "announcementTime": "2024-10-12T07:00:00Z",
-         "regions": [
-            "ME"
-         ],
+         "regions": [],
          "regionMappings": {
             "ME": "MECOMP"
          },
@@ -42899,11 +42829,7 @@
          "displayDataId": "s31_symbiotecup",
          "eventGroup": "Season31_SymbioteCup",
          "announcementTime": "2024-10-12T07:00:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
+         "regions": [],
          "regionMappings": {
             "NAC": "NACCOMP",
             "NAE": "NACCOMP",
@@ -42988,9 +42914,7 @@
          "displayDataId": "s31_symbiotecup",
          "eventGroup": "Season31_SymbioteCup",
          "announcementTime": "2024-10-12T07:00:00Z",
-         "regions": [
-            "OCE"
-         ],
+         "regions": [],
          "regionMappings": {
             "OCE": "OCECOMP"
          },
