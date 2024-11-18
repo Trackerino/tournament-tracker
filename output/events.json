@@ -7767,27 +7767,7 @@
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -7852,27 +7832,7 @@
          "regionMappings": {
             "BR": "BRCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -7937,27 +7897,7 @@
          "regionMappings": {
             "EU": "EUCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -8022,27 +7962,7 @@
          "regionMappings": {
             "ME": "MECOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -8111,27 +8031,7 @@
             "NAE": "NACCOMP",
             "NAW": "NACCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -8231,27 +8131,7 @@
          "regionMappings": {
             "OCE": "OCECOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -8710,27 +8590,7 @@
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -8795,27 +8655,7 @@
          "regionMappings": {
             "BR": "BRCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -8880,27 +8720,7 @@
          "regionMappings": {
             "EU": "EUCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -8965,27 +8785,7 @@
          "regionMappings": {
             "ME": "MECOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -9054,27 +8854,7 @@
             "NAE": "NACCOMP",
             "NAW": "NACCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -9139,27 +8919,7 @@
          "regionMappings": {
             "OCE": "OCECOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -9224,27 +8984,7 @@
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -9309,27 +9049,7 @@
          "regionMappings": {
             "BR": "BRCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -9394,27 +9114,7 @@
          "regionMappings": {
             "EU": "EUCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -9479,27 +9179,7 @@
          "regionMappings": {
             "ME": "MECOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -9568,27 +9248,7 @@
             "NAE": "NACCOMP",
             "NAW": "NACCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -9653,27 +9313,7 @@
          "regionMappings": {
             "OCE": "OCECOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -9738,27 +9378,7 @@
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -9823,27 +9443,7 @@
          "regionMappings": {
             "BR": "BRCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -9908,27 +9508,7 @@
          "regionMappings": {
             "EU": "EUCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -9993,27 +9573,7 @@
          "regionMappings": {
             "ME": "MECOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -10082,27 +9642,7 @@
             "NAE": "NACCOMP",
             "NAW": "NACCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -10167,27 +9707,7 @@
          "regionMappings": {
             "OCE": "OCECOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -31117,26 +30637,7 @@
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -31201,26 +30702,7 @@
          "regionMappings": {
             "BR": "BRCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -31285,26 +30767,7 @@
          "regionMappings": {
             "EU": "EUCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -31369,26 +30832,7 @@
          "regionMappings": {
             "ME": "MECOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -31457,26 +30901,7 @@
             "NAE": "NACCOMP",
             "NAW": "NACCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -31541,26 +30966,7 @@
          "regionMappings": {
             "OCE": "OCECOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 50,
@@ -42518,26 +41924,7 @@
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 350,
@@ -42859,26 +42246,7 @@
          "regionMappings": {
             "BR": "BRCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 350,
@@ -43273,26 +42641,7 @@
          "regionMappings": {
             "EU": "EUCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 350,
@@ -43651,26 +43000,7 @@
          "regionMappings": {
             "ME": "MECOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 350,
@@ -44069,26 +43399,7 @@
             "NAE": "NACCOMP",
             "NAW": "NACCOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 350,
@@ -44483,26 +43794,7 @@
          "regionMappings": {
             "OCE": "OCECOMP"
          },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "minimumAccountLevel": 350,

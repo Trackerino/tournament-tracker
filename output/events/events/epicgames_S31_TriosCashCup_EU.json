@@ -12,26 +12,7 @@
    "regionMappings": {
       "EU": "EUCOMP"
    },
-   "platforms": [
-      "Android",
-      "GFN",
-      "GFNMobile",
-      "Helios",
-      "HeliosMobile",
-      "IOS",
-      "Luna",
-      "LunaMobile",
-      "PS4",
-      "PS5",
-      "Switch",
-      "Windows",
-      "XB1",
-      "XCloud",
-      "XCloudMobile",
-      "XSX",
-      "XboxOne",
-      "XboxOneGDK"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "minimumAccountLevel": 350,

@@ -12,27 +12,7 @@
    "regionMappings": {
       "BR": "BRCOMP"
    },
-   "platforms": [
-      "Android",
-      "GFN",
-      "GFNMobile",
-      "Helios",
-      "HeliosMobile",
-      "IOS",
-      "Luna",
-      "LunaMobile",
-      "Mac",
-      "PS4",
-      "PS5",
-      "Switch",
-      "Windows",
-      "XB1",
-      "XCloud",
-      "XCloudMobile",
-      "XSX",
-      "XboxOne",
-      "XboxOneGDK"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "minimumAccountLevel": 50,
