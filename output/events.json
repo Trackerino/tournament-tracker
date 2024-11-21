@@ -9037,71 +9037,6 @@
       },
       {
          "gameId": "Fortnite",
-         "eventId": "epicgames_S31_FNCSCommunityCups_Stashd_EU",
-         "beginTime": "2024-08-22T17:00:00Z",
-         "endTime": "2024-08-22T20:00:00Z",
-         "displayDataId": "s31_fncs_community_stashd",
-         "eventGroup": "Season31_FNCSCommunityCup",
-         "announcementTime": "2024-08-16T04:00:00Z",
-         "regions": [
-            "EU"
-         ],
-         "regionMappings": {
-            "EU": "EUCOMP"
-         },
-         "platforms": [],
-         "platformMappings": {},
-         "metadata": {
-            "minimumAccountLevel": 50,
-            "AccountLockType": "Window",
-            "TeamLockType": "Window",
-            "DisqualifyType": "Window"
-         },
-         "eventWindows": [
-            {
-               "eventWindowId": "S31_FNCSCommunityCups_Stashd_EU",
-               "eventTemplateId": "EventTemplate_S31_FNCSCommunityCups",
-               "countdownBeginTime": "2024-08-22T15:00:00Z",
-               "beginTime": "2024-08-22T17:00:00Z",
-               "endTime": "2024-08-22T20:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_fncscommunity_rules"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "Leaderboard_S31_FNCS_Community_Cups",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            }
-         ],
-         "link": {
-            "type": "br:tournament",
-            "code": "tournament_epicgames_s31_fncscommunitycups_stashd_eu",
-            "version": 1
-         }
-      },
-      {
-         "gameId": "Fortnite",
          "eventId": "epicgames_S31_FNCSCommunityCups_Stashd_NAC",
          "beginTime": "2024-08-23T00:00:00Z",
          "endTime": "2024-08-23T03:00:00Z",
@@ -76530,53 +76465,6 @@
             "ranks": [
                {
                   "threshold": 200,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_bestdressedfncs",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaBackpack:backpack_fncs_s28",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaPickaxe:pickaxe_bestdressedfncs",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaItemWrap:wrap_comp28",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "SparksSong:sid_placeholder_139",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S31_FNCSCommunityCups_Stashd_EU": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 1200,
                   "payouts": [
                      {
                         "rewardType": "game",
