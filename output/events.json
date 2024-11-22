@@ -44463,7 +44463,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupConsole_ASIA",
          "beginTime": "2024-11-09T09:00:00Z",
-         "endTime": "2024-11-23T11:00:00Z",
+         "endTime": "2024-11-09T11:00:00Z",
          "displayDataId": "s32_reloadduos_console",
          "eventGroup": "Season32_PlatformReloadDuosCashCupConsole",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -44528,47 +44528,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupConsole_Event3_ASIA",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T07:00:00Z",
-               "beginTime": "2024-11-23T09:00:00Z",
-               "endTime": "2024-11-23T11:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -44581,7 +44540,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupConsole_BR",
          "beginTime": "2024-11-09T21:00:00Z",
-         "endTime": "2024-11-23T23:00:00Z",
+         "endTime": "2024-11-09T23:00:00Z",
          "displayDataId": "s32_reloadduos_console",
          "eventGroup": "Season32_PlatformReloadDuosCashCupConsole",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -44646,47 +44605,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupConsole_Event3_BR",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T19:00:00Z",
-               "beginTime": "2024-11-23T21:00:00Z",
-               "endTime": "2024-11-23T23:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -44699,7 +44617,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupConsole_EU",
          "beginTime": "2024-11-09T16:00:00Z",
-         "endTime": "2024-11-23T18:00:00Z",
+         "endTime": "2024-11-09T18:00:00Z",
          "displayDataId": "s32_reloadduos_console",
          "eventGroup": "Season32_PlatformReloadDuosCashCupConsole",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -44764,47 +44682,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupConsole_Event3_EU",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T14:00:00Z",
-               "beginTime": "2024-11-23T16:00:00Z",
-               "endTime": "2024-11-23T18:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -44817,7 +44694,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupConsole_ME",
          "beginTime": "2024-11-09T15:00:00Z",
-         "endTime": "2024-11-23T17:00:00Z",
+         "endTime": "2024-11-09T17:00:00Z",
          "displayDataId": "s32_reloadduos_console",
          "eventGroup": "Season32_PlatformReloadDuosCashCupConsole",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -44882,47 +44759,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupConsole_Event3_ME",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T13:00:00Z",
-               "beginTime": "2024-11-23T15:00:00Z",
-               "endTime": "2024-11-23T17:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -44935,7 +44771,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupConsole_NAC",
          "beginTime": "2024-11-10T01:00:00Z",
-         "endTime": "2024-11-24T03:00:00Z",
+         "endTime": "2024-11-10T03:00:00Z",
          "displayDataId": "s32_reloadduos_console",
          "eventGroup": "Season32_PlatformReloadDuosCashCupConsole",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -45005,47 +44841,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupConsole_Event3_NAC",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T23:00:00Z",
-               "beginTime": "2024-11-24T01:00:00Z",
-               "endTime": "2024-11-24T03:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -45058,7 +44853,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupConsole_OCE",
          "beginTime": "2024-11-09T07:00:00Z",
-         "endTime": "2024-11-23T09:00:00Z",
+         "endTime": "2024-11-09T09:00:00Z",
          "displayDataId": "s32_reloadduos_console",
          "eventGroup": "Season32_PlatformReloadDuosCashCupConsole",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -45123,47 +44918,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupConsole_Event3_OCE",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T05:00:00Z",
-               "beginTime": "2024-11-23T07:00:00Z",
-               "endTime": "2024-11-23T09:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -45176,7 +44930,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupMobile_ASIA",
          "beginTime": "2024-11-09T09:00:00Z",
-         "endTime": "2024-11-23T11:00:00Z",
+         "endTime": "2024-11-09T11:00:00Z",
          "displayDataId": "s32_reloadduos_mobile",
          "eventGroup": "Season32_PlatformReloadDuosCashCupMobile",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -45240,47 +44994,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupMobile_Event3_ASIA",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T07:00:00Z",
-               "beginTime": "2024-11-23T09:00:00Z",
-               "endTime": "2024-11-23T11:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -45293,7 +45006,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupMobile_BR",
          "beginTime": "2024-11-09T21:00:00Z",
-         "endTime": "2024-11-23T23:00:00Z",
+         "endTime": "2024-11-09T23:00:00Z",
          "displayDataId": "s32_reloadduos_mobile",
          "eventGroup": "Season32_PlatformReloadDuosCashCupMobile",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -45357,47 +45070,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupMobile_Event3_BR",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T19:00:00Z",
-               "beginTime": "2024-11-23T21:00:00Z",
-               "endTime": "2024-11-23T23:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -45410,7 +45082,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupMobile_EU",
          "beginTime": "2024-11-09T16:00:00Z",
-         "endTime": "2024-11-23T18:00:00Z",
+         "endTime": "2024-11-09T18:00:00Z",
          "displayDataId": "s32_reloadduos_mobile",
          "eventGroup": "Season32_PlatformReloadDuosCashCupMobile",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -45474,47 +45146,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupMobile_Event3_EU",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T14:00:00Z",
-               "beginTime": "2024-11-23T16:00:00Z",
-               "endTime": "2024-11-23T18:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -45527,7 +45158,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupMobile_ME",
          "beginTime": "2024-11-09T15:00:00Z",
-         "endTime": "2024-11-23T17:00:00Z",
+         "endTime": "2024-11-09T17:00:00Z",
          "displayDataId": "s32_reloadduos_mobile",
          "eventGroup": "Season32_PlatformReloadDuosCashCupMobile",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -45591,47 +45222,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupMobile_Event3_ME",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T13:00:00Z",
-               "beginTime": "2024-11-23T15:00:00Z",
-               "endTime": "2024-11-23T17:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -45644,7 +45234,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupMobile_NAC",
          "beginTime": "2024-11-10T01:00:00Z",
-         "endTime": "2024-11-24T03:00:00Z",
+         "endTime": "2024-11-10T03:00:00Z",
          "displayDataId": "s32_reloadduos_mobile",
          "eventGroup": "Season32_PlatformReloadDuosCashCupMobile",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -45713,47 +45303,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupMobile_Event3_NAC",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T23:00:00Z",
-               "beginTime": "2024-11-24T01:00:00Z",
-               "endTime": "2024-11-24T03:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -45766,7 +45315,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupMobile_OCE",
          "beginTime": "2024-11-09T07:00:00Z",
-         "endTime": "2024-11-23T09:00:00Z",
+         "endTime": "2024-11-09T09:00:00Z",
          "displayDataId": "s32_reloadduos_mobile",
          "eventGroup": "Season32_PlatformReloadDuosCashCupMobile",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -45830,47 +45379,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupMobile_Event3_OCE",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T05:00:00Z",
-               "beginTime": "2024-11-23T07:00:00Z",
-               "endTime": "2024-11-23T09:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -45883,7 +45391,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupPC_ASIA",
          "beginTime": "2024-11-09T09:00:00Z",
-         "endTime": "2024-11-23T11:00:00Z",
+         "endTime": "2024-11-09T11:00:00Z",
          "displayDataId": "s32_reloadduos_pc",
          "eventGroup": "Season32_PlatformReloadDuosCashCupPC",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -45946,47 +45454,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupPC_Event3_ASIA",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T07:00:00Z",
-               "beginTime": "2024-11-23T09:00:00Z",
-               "endTime": "2024-11-23T11:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -45999,7 +45466,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupPC_BR",
          "beginTime": "2024-11-09T21:00:00Z",
-         "endTime": "2024-11-23T23:00:00Z",
+         "endTime": "2024-11-09T23:00:00Z",
          "displayDataId": "s32_reloadduos_pc",
          "eventGroup": "Season32_PlatformReloadDuosCashCupPC",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -46062,47 +45529,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupPC_Event3_BR",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T19:00:00Z",
-               "beginTime": "2024-11-23T21:00:00Z",
-               "endTime": "2024-11-23T23:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -46115,7 +45541,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupPC_EU",
          "beginTime": "2024-11-09T16:00:00Z",
-         "endTime": "2024-11-23T18:00:00Z",
+         "endTime": "2024-11-09T18:00:00Z",
          "displayDataId": "s32_reloadduos_pc",
          "eventGroup": "Season32_PlatformReloadDuosCashCupPC",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -46178,47 +45604,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupPC_Event3_EU",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T14:00:00Z",
-               "beginTime": "2024-11-23T16:00:00Z",
-               "endTime": "2024-11-23T18:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -46231,7 +45616,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupPC_ME",
          "beginTime": "2024-11-09T15:00:00Z",
-         "endTime": "2024-11-23T17:00:00Z",
+         "endTime": "2024-11-09T17:00:00Z",
          "displayDataId": "s32_reloadduos_pc",
          "eventGroup": "Season32_PlatformReloadDuosCashCupPC",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -46294,47 +45679,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupPC_Event3_ME",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T13:00:00Z",
-               "beginTime": "2024-11-23T15:00:00Z",
-               "endTime": "2024-11-23T17:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -46347,7 +45691,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupPC_NAC",
          "beginTime": "2024-11-10T01:00:00Z",
-         "endTime": "2024-11-24T03:00:00Z",
+         "endTime": "2024-11-10T03:00:00Z",
          "displayDataId": "s32_reloadduos_pc",
          "eventGroup": "Season32_PlatformReloadDuosCashCupPC",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -46415,47 +45759,6 @@
                   "ServerReplays": true,
                   "RoundType": "Qualifiers"
                }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupPC_Event3_NAC",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T23:00:00Z",
-               "beginTime": "2024-11-24T01:00:00Z",
-               "endTime": "2024-11-24T03:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
             }
          ],
          "link": {
@@ -46468,7 +45771,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PlatformReloadDuosCashCupPC_OCE",
          "beginTime": "2024-11-09T07:00:00Z",
-         "endTime": "2024-11-23T09:00:00Z",
+         "endTime": "2024-11-09T09:00:00Z",
          "displayDataId": "s32_reloadduos_pc",
          "eventGroup": "Season32_PlatformReloadDuosCashCupPC",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -46497,47 +45800,6 @@
                "countdownBeginTime": "2024-11-09T05:00:00Z",
                "beginTime": "2024-11-09T07:00:00Z",
                "endTime": "2024-11-09T09:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s32_reloadplatform_rules",
-                  [
-                     "currentRanking:ranked-br:6",
-                     "currentRanking:ranked-zb:6",
-                     "currentRanking:ranked_blastberry_build:6",
-                     "currentRanking:ranked_blastberry_nobuild:6"
-                  ]
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S32_Platform_Reload_Duos_Cash_Cup",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S32_PlatformReloadDuosCashCupPC_Event3_OCE",
-               "eventTemplateId": "EventTemplate_S32_PlatformReloadDuosCashCup",
-               "countdownBeginTime": "2024-11-23T05:00:00Z",
-               "beginTime": "2024-11-23T07:00:00Z",
-               "endTime": "2024-11-23T09:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
