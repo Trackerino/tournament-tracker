@@ -8513,71 +8513,6 @@
       },
       {
          "gameId": "Fortnite",
-         "eventId": "epicgames_S31_FNCSCommunityCups_Siren_OCE",
-         "beginTime": "2024-08-23T08:00:00Z",
-         "endTime": "2024-08-23T11:00:00Z",
-         "displayDataId": "s31_fncs_community_siren",
-         "eventGroup": "Season31_FNCSCommunityCup",
-         "announcementTime": "2024-08-16T04:00:00Z",
-         "regions": [
-            "OCE"
-         ],
-         "regionMappings": {
-            "OCE": "OCECOMP"
-         },
-         "platforms": [],
-         "platformMappings": {},
-         "metadata": {
-            "minimumAccountLevel": 50,
-            "AccountLockType": "Window",
-            "TeamLockType": "Window",
-            "DisqualifyType": "Window"
-         },
-         "eventWindows": [
-            {
-               "eventWindowId": "S31_FNCSCommunityCups_Siren_OCE",
-               "eventTemplateId": "EventTemplate_S31_FNCSCommunityCups",
-               "countdownBeginTime": "2024-08-23T06:00:00Z",
-               "beginTime": "2024-08-23T08:00:00Z",
-               "endTime": "2024-08-23T11:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s31_fncscommunity_rules"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "Leaderboard_S31_FNCS_Community_Cups",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            }
-         ],
-         "link": {
-            "type": "br:tournament",
-            "code": "tournament_epicgames_s31_fncscommunitycups_siren_oce",
-            "version": 1
-         }
-      },
-      {
-         "gameId": "Fortnite",
          "eventId": "epicgames_S31_FNCSCommunityCups_Sparkplug_ASIA",
          "beginTime": "2024-08-24T09:00:00Z",
          "endTime": "2024-08-24T12:00:00Z",
@@ -75955,53 +75890,6 @@
             "ranks": [
                {
                   "threshold": 1000,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_hitmanfncs",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaBackpack:backpack_fncs_s29",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaPickaxe:pickaxe_spymalefncs",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaItemWrap:wrap_comp29",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "SparksSong:sid_placeholder_199",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S31_FNCSCommunityCups_Siren_OCE": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 200,
                   "payouts": [
                      {
                         "rewardType": "game",
