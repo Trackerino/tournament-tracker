@@ -1,0 +1,139 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S32_PerformanceEvaluation_NAC",
+   "beginTime": "2024-11-27T01:00:00Z",
+   "endTime": "2024-11-27T06:00:00Z",
+   "displayDataId": "s25_perfeval",
+   "eventGroup": "Season31_PerformanceEvaluation",
+   "announcementTime": "2024-11-02T06:00:00Z",
+   "regions": [
+      "NAC",
+      "NAE",
+      "NAW"
+   ],
+   "regionMappings": {
+      "NAC": "NACCOMP",
+      "NAE": "NACCOMP",
+      "NAW": "NAWCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 350,
+      "AccountLockType": "Window",
+      "TeamLockType": "Window"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S32_PerformanceEvaluation_Event5Round1_NAC",
+         "eventTemplateId": "EventTemplate_S32_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2024-11-26T23:00:00Z",
+         "beginTime": "2024-11-27T01:00:00Z",
+         "endTime": "2024-11-27T03:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S32_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S31_PerformanceEvaluation_Round1"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week5",
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+         }
+      },
+      {
+         "eventWindowId": "S32_PerformanceEvaluation_Event5Round2_NAC",
+         "eventTemplateId": "EventTemplate_S32_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2024-11-27T01:00:00Z",
+         "beginTime": "2024-11-27T04:00:00Z",
+         "endTime": "2024-11-27T06:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S32_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S32_PerformanceEvaluation_Event5Round2_NAC",
+            "WeeklyTournamentSpectator"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "NAE": "NACCOMPTEST",
+            "NAW": "NACCOMPTEST",
+            "NAC": "NACCOMPTEST"
+         },
+         "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week5",
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s32_performanceevaluation_nac",
+      "version": 1
+   }
+}
