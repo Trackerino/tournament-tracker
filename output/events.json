@@ -43198,7 +43198,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S32_PerformanceEvaluation_NAC",
          "beginTime": "2024-11-27T01:00:00Z",
-         "endTime": "2024-11-27T06:00:00Z",
+         "endTime": "2024-11-27T06:35:00Z",
          "displayDataId": "s25_perfeval",
          "eventGroup": "Season31_PerformanceEvaluation",
          "announcementTime": "2024-11-02T06:00:00Z",
@@ -43281,10 +43281,10 @@
             },
             {
                "eventWindowId": "S32_PerformanceEvaluation_Event5Round2_NAC",
-               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluation_Round2",
+               "eventTemplateId": "EventTemplate_S32_PerformanceEvaluation_Round2_5matches",
                "countdownBeginTime": "2024-11-27T01:00:00Z",
                "beginTime": "2024-11-27T04:00:00Z",
-               "endTime": "2024-11-27T06:00:00Z",
+               "endTime": "2024-11-27T06:35:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -93233,6 +93233,43 @@
          },
          "gameId": "Fortnite",
          "eventTemplateId": "EventTemplate_S32_PerformanceEvaluation_Round2",
+         "scoringRules": [],
+         "payoutTable": [],
+         "liveSessionAttributes": [],
+         "clampsToZero": false
+      },
+      {
+         "playlistId": "Playlist_ShowdownTournament_Clyde_Duos",
+         "matchCap": 5,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "gameId": "Fortnite",
+         "eventTemplateId": "EventTemplate_S32_PerformanceEvaluation_Round2_5matches",
          "scoringRules": [],
          "payoutTable": [],
          "liveSessionAttributes": [],
