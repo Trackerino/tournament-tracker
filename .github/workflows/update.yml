@@ -31,5 +31,6 @@ jobs:
           EPIC_DEVICE_SECRET: ${{ secrets.EPIC_DEVICE_SECRET }}
 
           WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          WEBHOOK_AUTH: ${{ secrets.WEBHOOK_AUTH }}
         run: |
           yarn dev

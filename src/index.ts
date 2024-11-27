@@ -76,8 +76,12 @@ const main = async () => {
   const gitStatus = execSync('git status')?.toString('utf-8') || '';
   const changes: string[] = [];
 
+  let triggerWebhook = false;
+
   if (gitStatus.includes(cmsFrontendFile)) {
     changes.push('Frontend CMS');
+
+    triggerWebhook = true;
   }
 
   if (gitStatus.includes(cmsLeaderboardsFile)) {
@@ -90,6 +94,8 @@ const main = async () => {
 
   if (gitStatus.includes(eventsFile)) {
     changes.push('Events');
+
+    triggerWebhook = true;
   }
 
   if (gitStatus.includes(devEventsFile)) {
@@ -98,6 +104,24 @@ const main = async () => {
 
   if (!changes.length) {
     return;
+  }
+
+  // we dont have the webhook in local dev, so only run when defined
+  if (triggerWebhook && env.WEBHOOK_URL && env.WEBHOOK_AUTH) {
+    const res = await fetch(env.WEBHOOK_URL, {
+      method: 'POST',
+      headers: {
+        Accept: 'application/vnd.github+json',
+        Authorization: `token ${env.WEBHOOK_AUTH}`,
+      },
+      body: JSON.stringify({
+        event_type: 'tournaments-data-updated',
+      }),
+    });
+
+    if (!res.ok) {
+      console.error(`failed to send webhook - ${res.status} ${res.statusText}: ${await res.text()}`);
+    }
   }
 
   const commitMessage = `Modified ${changes.join(', ')}`
