@@ -263,7 +263,7 @@
       "flavor_description": "Flavor description for BettoTest LCM.",
       "highlight_color": "08E164",
       "loading_screen_image": "https://cdn2.unrealengine.com/23comp-in-game-fncs-tile-1920x1080-1920x1080-998641cfde03.jpg",
-      "long_format_title": "FNCS Last Chance Major",
+      "long_format_title": "FNCS Last Chance Qualifier Duos",
       "pin_earned_text": "Winner!",
       "playlist_tile_image": "https://cdn2.unrealengine.com/23comp-in-game-fncs-tile-1920x1080-1920x1080-998641cfde03.jpg",
       "poster_back_image": "https://cdn2.unrealengine.com/25comp-in-game-fncs-poster-back-750x1080-721ef821c580.jpg",
@@ -273,10 +273,10 @@
       "schedule_info": "August 18th - 20th",
       "secondary_color": "161616",
       "shadow_color": "161616",
-      "short_format_title": "Duos Tournament",
+      "short_format_title": "FNCS LCQ Duos",
       "title_color": "FFFFFF",
       "title_line_1": "BettoTest Last",
-      "title_line_2": "Chance Major",
+      "title_line_2": "Chance Qualifier",
       "tournament_display_id": "bettotest_aqua"
    },
    {
