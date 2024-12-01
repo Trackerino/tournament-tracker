@@ -10,14 +10,7 @@
       "ASIA"
    ],
    "regionMappings": {},
-   "platforms": [
-      "Android",
-      "GFNMobile",
-      "HeliosMobile",
-      "IOS",
-      "LunaMobile",
-      "XCloudMobile"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "minimumAccountLevel": 50,
