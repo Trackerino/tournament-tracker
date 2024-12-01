@@ -1,0 +1,968 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S33_PerformanceEvaluation_EU",
+   "beginTime": "2024-12-03T17:00:00Z",
+   "endTime": "2025-02-18T22:00:00Z",
+   "displayDataId": "s33_perfeval",
+   "eventGroup": "Season33_PerformanceEvaluation",
+   "announcementTime": "2024-11-02T06:00:00Z",
+   "regions": [
+      "EU"
+   ],
+   "regionMappings": {},
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 350,
+      "AccountLockType": "Window",
+      "TeamLockType": "Window"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event10Round1_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2025-02-18T15:00:00Z",
+         "beginTime": "2025-02-18T17:00:00Z",
+         "endTime": "2025-02-18T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_NAW",
+            "S33_FNCS_Division1_ASIA",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMP"
+         },
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week10",
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event10Round2_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2025-02-18T18:00:00Z",
+         "beginTime": "2025-02-18T20:00:00Z",
+         "endTime": "2025-02-18T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "WeeklyTournamentSpectator",
+            "S33_PerformanceEvaluation_Event10Round2_EU"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week10",
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event1Round1_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2024-12-03T15:00:00Z",
+         "beginTime": "2024-12-03T17:00:00Z",
+         "endTime": "2024-12-03T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S31_PerformanceEvaluation_Round1"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMP"
+         },
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week1"
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event1Round2_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2024-12-03T18:00:00Z",
+         "beginTime": "2024-12-03T20:00:00Z",
+         "endTime": "2024-12-03T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_PerformanceEvaluation_Event1Round2_EU",
+            "WeeklyTournamentSpectator"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week1",
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event2Round1_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2024-12-10T15:00:00Z",
+         "beginTime": "2024-12-10T17:00:00Z",
+         "endTime": "2024-12-10T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_NAW",
+            "S33_FNCS_Division1_ASIA",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMP"
+         },
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week2"
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event2Round2_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2024-12-10T18:00:00Z",
+         "beginTime": "2024-12-10T20:00:00Z",
+         "endTime": "2024-12-10T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_PerformanceEvaluation_Event2Round2_EU",
+            "WeeklyTournamentSpectator"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week2",
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event3Round1_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2024-12-17T15:00:00Z",
+         "beginTime": "2024-12-17T17:00:00Z",
+         "endTime": "2024-12-17T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_NAW",
+            "S33_FNCS_Division1_ASIA",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMP"
+         },
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week3"
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event3Round2_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2024-12-17T18:00:00Z",
+         "beginTime": "2024-12-17T20:00:00Z",
+         "endTime": "2024-12-17T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_PerformanceEvaluation_Event3Round2_EU",
+            "WeeklyTournamentSpectator"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week3",
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event4Round1_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2025-01-07T15:00:00Z",
+         "beginTime": "2025-01-07T17:00:00Z",
+         "endTime": "2025-01-07T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_NAW",
+            "S33_FNCS_Division1_ASIA",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMP"
+         },
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week4",
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event4Round2_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2025-01-07T18:00:00Z",
+         "beginTime": "2025-01-07T20:00:00Z",
+         "endTime": "2025-01-07T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_PerformanceEvaluation_Event4Round2_EU",
+            "WeeklyTournamentSpectator"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week4",
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event5Round1_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2025-01-14T15:00:00Z",
+         "beginTime": "2025-01-14T17:00:00Z",
+         "endTime": "2025-01-14T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_NAW",
+            "S33_FNCS_Division1_ASIA",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMP"
+         },
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week5",
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event5Round2_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2025-01-14T18:00:00Z",
+         "beginTime": "2025-01-14T20:00:00Z",
+         "endTime": "2025-01-14T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "WeeklyTournamentSpectator",
+            "S33_PerformanceEvaluation_Event5Round2_EU"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week5",
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event6Round1_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2025-01-21T15:00:00Z",
+         "beginTime": "2025-01-21T17:00:00Z",
+         "endTime": "2025-01-21T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_NAW",
+            "S33_FNCS_Division1_ASIA",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMP"
+         },
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week6",
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event6Round2_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2025-01-21T18:00:00Z",
+         "beginTime": "2025-01-21T20:00:00Z",
+         "endTime": "2025-01-21T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "WeeklyTournamentSpectator",
+            "S33_PerformanceEvaluation_Event6Round2_EU"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week6",
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event7Round1_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2025-01-28T15:00:00Z",
+         "beginTime": "2025-01-28T17:00:00Z",
+         "endTime": "2025-01-28T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_NAW",
+            "S33_FNCS_Division1_ASIA",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMP"
+         },
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week7",
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event7Round2_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2025-01-28T18:00:00Z",
+         "beginTime": "2025-01-28T20:00:00Z",
+         "endTime": "2025-01-28T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "WeeklyTournamentSpectator",
+            "S33_PerformanceEvaluation_Event7Round2_EU"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week7",
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event8Round1_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2025-02-04T15:00:00Z",
+         "beginTime": "2025-02-04T17:00:00Z",
+         "endTime": "2025-02-04T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_NAW",
+            "S33_FNCS_Division1_ASIA",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMP"
+         },
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week8",
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event8Round2_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2025-02-04T18:00:00Z",
+         "beginTime": "2025-02-04T20:00:00Z",
+         "endTime": "2025-02-04T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "WeeklyTournamentSpectator",
+            "S33_PerformanceEvaluation_Event8Round2_EU"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week8",
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event9Round1_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2025-02-11T15:00:00Z",
+         "beginTime": "2025-02-11T17:00:00Z",
+         "endTime": "2025-02-11T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_NAW",
+            "S33_FNCS_Division1_ASIA",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMP"
+         },
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week9",
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+         }
+      },
+      {
+         "eventWindowId": "S33_PerformanceEvaluation_Event9Round2_EU",
+         "eventTemplateId": "EventTemplate_S33_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2025-02-11T18:00:00Z",
+         "beginTime": "2025-02-11T20:00:00Z",
+         "endTime": "2025-02-11T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s29_perfeval_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "WeeklyTournamentSpectator",
+            "S33_PerformanceEvaluation_Event9Round2_EU"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week9",
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingMatchDelaySeconds": 1920
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s33_performanceevaluation_eu",
+      "version": 1
+   }
+}

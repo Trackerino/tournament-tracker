@@ -1,0 +1,540 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S33_FNCSDivisonalCup_Division3_EU",
+   "beginTime": "2024-12-11T18:00:00Z",
+   "endTime": "2025-01-23T21:00:00Z",
+   "displayDataId": "s33_division3",
+   "eventGroup": "Season33_FNCSDivisionalCup_Division3",
+   "announcementTime": "2024-11-15T18:00:00Z",
+   "regions": [
+      "EU"
+   ],
+   "regionMappings": {
+      "EU": "EUCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 350,
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "TeamLockType": "Week"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S33_FNCSDivisionalCup_Division3_Week1Day1_EU",
+         "eventTemplateId": "EventTemplate_S33_FNCSDivision3Cup",
+         "countdownBeginTime": "2024-12-11T16:00:00Z",
+         "beginTime": "2024-12-11T18:00:00Z",
+         "endTime": "2024-12-11T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_division_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S33_DivisionLock_Division1Week1_EU",
+            "S33_DivisionLock_Division2Week1_EU"
+         ],
+         "requireAllTokensCaller": [
+            "S33_CashCupQualified"
+         ],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S33_FNCSDivisionalCup_Division3_Week1Day2_EU",
+         "eventTemplateId": "EventTemplate_S33_FNCSDivision3Cup",
+         "countdownBeginTime": "2024-12-12T16:00:00Z",
+         "beginTime": "2024-12-12T18:00:00Z",
+         "endTime": "2024-12-12T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_division_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S33_DivisionLock_Division1Week1_EU",
+            "S33_DivisionLock_Division2Week1_EU"
+         ],
+         "requireAllTokensCaller": [
+            "S33_CashCupQualified"
+         ],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S33_FNCSDivisionalCup_Division3_Week2Day1_EU",
+         "eventTemplateId": "EventTemplate_S33_FNCSDivision3Cup",
+         "countdownBeginTime": "2024-12-18T16:00:00Z",
+         "beginTime": "2024-12-18T18:00:00Z",
+         "endTime": "2024-12-18T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_division_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S33_DivisionLock_Division1Week2_EU",
+            "S33_DivisionLock_Division2Week2_EU"
+         ],
+         "requireAllTokensCaller": [
+            "S33_CashCupQualified"
+         ],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S33_FNCSDivisionalCup_Division3_Week2Day2_EU",
+         "eventTemplateId": "EventTemplate_S33_FNCSDivision3Cup",
+         "countdownBeginTime": "2024-12-19T16:00:00Z",
+         "beginTime": "2024-12-19T18:00:00Z",
+         "endTime": "2024-12-19T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_division_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S33_DivisionLock_Division1Week2_EU",
+            "S33_DivisionLock_Division2Week2_EU"
+         ],
+         "requireAllTokensCaller": [
+            "S33_CashCupQualified"
+         ],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S33_FNCSDivisionalCup_Division3_Week3Day1_EU",
+         "eventTemplateId": "EventTemplate_S33_FNCSDivision3Cup",
+         "countdownBeginTime": "2025-01-08T16:00:00Z",
+         "beginTime": "2025-01-08T18:00:00Z",
+         "endTime": "2025-01-08T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_division_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S33_DivisionLock_Division1Week3_EU",
+            "S33_DivisionLock_Division2Week3_EU"
+         ],
+         "requireAllTokensCaller": [
+            "S33_CashCupQualified"
+         ],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S33_FNCSDivisionalCup_Division3_Week3Day2_EU",
+         "eventTemplateId": "EventTemplate_S33_FNCSDivision3Cup",
+         "countdownBeginTime": "2025-01-09T16:00:00Z",
+         "beginTime": "2025-01-09T18:00:00Z",
+         "endTime": "2025-01-09T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_division_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S33_DivisionLock_Division1Week3_EU",
+            "S33_DivisionLock_Division2Week3_EU"
+         ],
+         "requireAllTokensCaller": [
+            "S33_CashCupQualified"
+         ],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S33_FNCSDivisionalCup_Division3_Week4Day1_EU",
+         "eventTemplateId": "EventTemplate_S33_FNCSDivision3Cup",
+         "countdownBeginTime": "2025-01-15T16:00:00Z",
+         "beginTime": "2025-01-15T18:00:00Z",
+         "endTime": "2025-01-15T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_division_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S33_DivisionLock_Division1Week4_EU",
+            "S33_DivisionLock_Division2Week4_EU"
+         ],
+         "requireAllTokensCaller": [
+            "S33_CashCupQualified"
+         ],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S33_FNCSDivisionalCup_Division3_Week4Day2_EU",
+         "eventTemplateId": "EventTemplate_S33_FNCSDivision3Cup",
+         "countdownBeginTime": "2025-01-16T16:00:00Z",
+         "beginTime": "2025-01-16T18:00:00Z",
+         "endTime": "2025-01-16T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_division_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S33_DivisionLock_Division1Week4_EU",
+            "S33_DivisionLock_Division2Week4_EU"
+         ],
+         "requireAllTokensCaller": [
+            "S33_CashCupQualified"
+         ],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S33_FNCSDivisionalCup_Division3_Week5Day1_EU",
+         "eventTemplateId": "EventTemplate_S33_FNCSDivision3Cup",
+         "countdownBeginTime": "2025-01-22T16:00:00Z",
+         "beginTime": "2025-01-22T18:00:00Z",
+         "endTime": "2025-01-22T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_division_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S33_DivisionLock_Division1Week5_EU",
+            "S33_DivisionLock_Division2Week5_EU"
+         ],
+         "requireAllTokensCaller": [
+            "S33_CashCupQualified"
+         ],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      },
+      {
+         "eventWindowId": "S33_FNCSDivisionalCup_Division3_Week5Day2_EU",
+         "eventTemplateId": "EventTemplate_S33_FNCSDivision3Cup",
+         "countdownBeginTime": "2025-01-23T16:00:00Z",
+         "beginTime": "2025-01-23T18:00:00Z",
+         "endTime": "2025-01-23T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_division_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S33_DivisionLock_Division1Week5_EU",
+            "S33_DivisionLock_Division2Week5_EU"
+         ],
+         "requireAllTokensCaller": [
+            "S33_CashCupQualified"
+         ],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifiers"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s33_fncsdivisonalcup_division3_eu",
+      "version": 1
+   }
+}
