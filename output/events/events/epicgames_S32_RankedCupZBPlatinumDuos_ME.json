@@ -6,9 +6,7 @@
    "displayDataId": "s32_rankedcup_platinum_duos_zb",
    "eventGroup": "Season32_RankedCupZBPlatinumDuos",
    "announcementTime": "2024-11-02T09:00:00Z",
-   "regions": [
-      "ME"
-   ],
+   "regions": [],
    "regionMappings": {
       "ME": "MECOMP"
    },

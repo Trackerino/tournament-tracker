@@ -6,9 +6,7 @@
    "displayDataId": "s32_rankedcup_bsg_solo_zb",
    "eventGroup": "Season32_RankedCupZBBSGSolo",
    "announcementTime": "2024-11-02T09:00:00Z",
-   "regions": [
-      "BR"
-   ],
+   "regions": [],
    "regionMappings": {
       "BR": "BRCOMP"
    },

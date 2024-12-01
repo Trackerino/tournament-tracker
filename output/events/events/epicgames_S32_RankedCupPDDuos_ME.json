@@ -6,9 +6,7 @@
    "displayDataId": "s32_rankedcup_pd_duos_br",
    "eventGroup": "Season32_RankedCupPDDuos",
    "announcementTime": "2024-11-02T09:00:00Z",
-   "regions": [
-      "ME"
-   ],
+   "regions": [],
    "regionMappings": {
       "ME": "MECOMP"
    },
