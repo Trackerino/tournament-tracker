@@ -6,11 +6,7 @@
    "displayDataId": "s31_perfeval_reload",
    "eventGroup": "Season31_PerformanceEvaluation",
    "announcementTime": "2024-11-02T06:00:00Z",
-   "regions": [
-      "NAC",
-      "NAE",
-      "NAW"
-   ],
+   "regions": [],
    "regionMappings": {
       "NAE": "NAC",
       "NAW": "NAC"

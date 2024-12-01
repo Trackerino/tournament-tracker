@@ -6,9 +6,7 @@
    "displayDataId": "s32_victorycash_solobr",
    "eventGroup": "Season32_SoloVictoryCashCup",
    "announcementTime": "2024-11-02T06:00:00Z",
-   "regions": [
-      "ME"
-   ],
+   "regions": [],
    "regionMappings": {
       "ME": "MECOMP"
    },

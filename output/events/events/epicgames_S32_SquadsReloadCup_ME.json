@@ -6,9 +6,7 @@
    "displayDataId": "s32_squadsreload_cash",
    "eventGroup": "Season31_SquadsReloadCup",
    "announcementTime": "2024-11-01T10:00:00Z",
-   "regions": [
-      "ME"
-   ],
+   "regions": [],
    "regionMappings": {},
    "platforms": [
       "Android",
