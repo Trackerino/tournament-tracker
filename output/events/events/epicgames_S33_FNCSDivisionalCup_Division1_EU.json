@@ -81,7 +81,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week1"
          }
       },
       {
@@ -124,7 +125,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week1"
          }
       },
       {
@@ -160,9 +162,10 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week1",
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920
          }
       },
@@ -172,7 +175,7 @@
          "countdownBeginTime": "2024-12-18T16:00:00Z",
          "beginTime": "2024-12-18T18:00:00Z",
          "endTime": "2024-12-18T21:00:00Z",
-         "round": 0,
+         "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
@@ -206,7 +209,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week2"
          }
       },
       {
@@ -215,7 +219,7 @@
          "countdownBeginTime": "2024-12-19T16:00:00Z",
          "beginTime": "2024-12-19T18:00:00Z",
          "endTime": "2024-12-19T21:00:00Z",
-         "round": 0,
+         "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
@@ -249,7 +253,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week2"
          }
       },
       {
@@ -258,7 +263,7 @@
          "countdownBeginTime": "2024-12-21T14:00:00Z",
          "beginTime": "2024-12-21T16:00:00Z",
          "endTime": "2024-12-21T19:00:00Z",
-         "round": 0,
+         "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
@@ -285,9 +290,10 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week2",
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920
          }
       },
@@ -297,7 +303,7 @@
          "countdownBeginTime": "2025-01-08T16:00:00Z",
          "beginTime": "2025-01-08T18:00:00Z",
          "endTime": "2025-01-08T21:00:00Z",
-         "round": 0,
+         "round": 2,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
@@ -331,7 +337,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week3"
          }
       },
       {
@@ -340,7 +347,7 @@
          "countdownBeginTime": "2025-01-09T16:00:00Z",
          "beginTime": "2025-01-09T18:00:00Z",
          "endTime": "2025-01-09T21:00:00Z",
-         "round": 0,
+         "round": 2,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
@@ -374,7 +381,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week3"
          }
       },
       {
@@ -383,7 +391,7 @@
          "countdownBeginTime": "2025-01-11T14:00:00Z",
          "beginTime": "2025-01-11T16:00:00Z",
          "endTime": "2025-01-11T19:00:00Z",
-         "round": 0,
+         "round": 2,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
@@ -410,9 +418,10 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week3",
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920
          }
       },
@@ -422,7 +431,7 @@
          "countdownBeginTime": "2025-01-15T16:00:00Z",
          "beginTime": "2025-01-15T18:00:00Z",
          "endTime": "2025-01-15T21:00:00Z",
-         "round": 0,
+         "round": 3,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
@@ -456,7 +465,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week4"
          }
       },
       {
@@ -465,7 +475,7 @@
          "countdownBeginTime": "2025-01-16T16:00:00Z",
          "beginTime": "2025-01-16T18:00:00Z",
          "endTime": "2025-01-16T21:00:00Z",
-         "round": 0,
+         "round": 3,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
@@ -499,7 +509,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week4"
          }
       },
       {
@@ -508,7 +519,7 @@
          "countdownBeginTime": "2025-01-18T14:00:00Z",
          "beginTime": "2025-01-18T16:00:00Z",
          "endTime": "2025-01-18T19:00:00Z",
-         "round": 0,
+         "round": 3,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
@@ -535,9 +546,10 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week4",
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920
          }
       },
@@ -547,7 +559,7 @@
          "countdownBeginTime": "2025-01-22T16:00:00Z",
          "beginTime": "2025-01-22T18:00:00Z",
          "endTime": "2025-01-22T21:00:00Z",
-         "round": 0,
+         "round": 4,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
@@ -581,7 +593,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week5"
          }
       },
       {
@@ -590,7 +603,7 @@
          "countdownBeginTime": "2025-01-23T16:00:00Z",
          "beginTime": "2025-01-23T18:00:00Z",
          "endTime": "2025-01-23T21:00:00Z",
-         "round": 0,
+         "round": 4,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
@@ -624,7 +637,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week5"
          }
       },
       {
@@ -633,7 +647,7 @@
          "countdownBeginTime": "2025-01-25T14:00:00Z",
          "beginTime": "2025-01-25T16:00:00Z",
          "endTime": "2025-01-25T19:00:00Z",
-         "round": 0,
+         "round": 4,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
@@ -660,9 +674,10 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "SubgroupId": "Week5",
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920
          }
       }
