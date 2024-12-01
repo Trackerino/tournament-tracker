@@ -6,9 +6,7 @@
    "displayDataId": "s32_rankedcup_elite_duos_br",
    "eventGroup": "Season32_RankedCupEliteDuos",
    "announcementTime": "2024-11-02T09:00:00Z",
-   "regions": [
-      "OCE"
-   ],
+   "regions": [],
    "regionMappings": {
       "OCE": "OCECOMP"
    },
