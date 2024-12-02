@@ -84,7 +84,9 @@
             "RegionLock_S33_FNCSTrial_ME",
             "RegionLock_S33_FNCSTrial_ASIA"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,

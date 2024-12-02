@@ -81,7 +81,9 @@
             "S33_DivisionLock_Division1Week1_ME",
             "S33_DivisionLock_Division2Week1_ME"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -128,7 +130,9 @@
             "S33_DivisionLock_Division1Week1_ME",
             "S33_DivisionLock_Division2Week1_ME"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -175,7 +179,9 @@
             "S33_DivisionLock_Division1Week2_ME",
             "S33_DivisionLock_Division2Week2_ME"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -222,7 +228,9 @@
             "S33_DivisionLock_Division1Week2_ME",
             "S33_DivisionLock_Division2Week2_ME"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -269,7 +277,9 @@
             "S33_DivisionLock_Division1Week3_ME",
             "S33_DivisionLock_Division2Week3_ME"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -316,7 +326,9 @@
             "S33_DivisionLock_Division1Week3_ME",
             "S33_DivisionLock_Division2Week3_ME"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -363,7 +375,9 @@
             "S33_DivisionLock_Division1Week4_ME",
             "S33_DivisionLock_Division2Week4_ME"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -410,7 +424,9 @@
             "S33_DivisionLock_Division1Week4_ME",
             "S33_DivisionLock_Division2Week4_ME"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -457,7 +473,9 @@
             "S33_DivisionLock_Division1Week5_ME",
             "S33_DivisionLock_Division2Week5_ME"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -504,7 +522,9 @@
             "S33_DivisionLock_Division1Week5_ME",
             "S33_DivisionLock_Division2Week5_ME"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
