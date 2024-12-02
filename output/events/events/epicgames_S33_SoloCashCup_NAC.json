@@ -75,7 +75,9 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -159,7 +161,9 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -243,7 +247,9 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -327,7 +333,9 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -411,7 +419,9 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -495,7 +505,9 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -579,7 +591,9 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
@@ -663,7 +677,9 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
          ],
-         "requireAllTokensCaller": [],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
