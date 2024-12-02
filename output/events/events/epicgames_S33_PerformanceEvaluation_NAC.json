@@ -52,8 +52,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -100,8 +100,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -145,8 +145,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -186,8 +186,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -231,8 +231,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -278,8 +278,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -323,8 +323,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -370,8 +370,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -415,8 +415,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -463,8 +463,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -508,8 +508,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -556,8 +556,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -601,8 +601,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -649,8 +649,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -694,8 +694,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -742,8 +742,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -787,8 +787,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -835,8 +835,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -880,8 +880,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -928,8 +928,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s29_perfeval_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
