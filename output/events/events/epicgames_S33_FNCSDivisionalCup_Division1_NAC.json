@@ -65,7 +65,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Qualifiers_CumulativeLeaderboard",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Week1_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -109,7 +109,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Qualifiers_CumulativeLeaderboard",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Week1_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -193,7 +193,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Qualifiers_CumulativeLeaderboard",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Week2_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -237,7 +237,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Qualifiers_CumulativeLeaderboard",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Week2_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -321,7 +321,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Qualifiers_CumulativeLeaderboard",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Week3_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -365,7 +365,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Qualifiers_CumulativeLeaderboard",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Week3_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -449,7 +449,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Qualifiers_CumulativeLeaderboard",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Week4_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -493,7 +493,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Qualifiers_CumulativeLeaderboard",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Week4_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -577,7 +577,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Qualifiers_CumulativeLeaderboard",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Week5_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -621,7 +621,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Qualifiers_CumulativeLeaderboard",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division1Week5_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
