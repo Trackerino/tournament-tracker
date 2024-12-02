@@ -588,9 +588,9 @@
       {
          "eventWindowId": "S33_RankedCupEliteSolo_Event4_OCE",
          "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-         "countdownBeginTime": "2024-12-18T06:00:00Z",
-         "beginTime": "2024-12-18T08:00:00Z",
-         "endTime": "2024-12-18T12:00:00Z",
+         "countdownBeginTime": "2024-12-17T06:00:00Z",
+         "beginTime": "2024-12-17T08:00:00Z",
+         "endTime": "2024-12-17T12:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,

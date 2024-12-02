@@ -604,9 +604,9 @@
       {
          "eventWindowId": "S33_RankedCupPDSolo_Event4_ME",
          "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-         "countdownBeginTime": "2024-12-18T13:00:00Z",
-         "beginTime": "2024-12-18T15:00:00Z",
-         "endTime": "2024-12-18T19:00:00Z",
+         "countdownBeginTime": "2024-12-17T13:00:00Z",
+         "beginTime": "2024-12-17T15:00:00Z",
+         "endTime": "2024-12-17T19:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
