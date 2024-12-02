@@ -63,7 +63,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week1_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -107,7 +107,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week1_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -151,7 +151,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week2_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -195,7 +195,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week2_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -239,7 +239,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week3_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -283,7 +283,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week3_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -327,7 +327,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week4_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -371,7 +371,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week4_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -415,7 +415,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week5_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -459,7 +459,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week5_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
