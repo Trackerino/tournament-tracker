@@ -94,7 +94,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "PlayInStage"
          }
       },
       {
@@ -141,7 +142,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "PlayInStage"
          }
       }
    ],

@@ -89,7 +89,7 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "FinalDay1",
+            "SubgroupId": "Final",
             "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
@@ -135,7 +135,7 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "FinalDay2",
+            "SubgroupId": "Final",
             "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",

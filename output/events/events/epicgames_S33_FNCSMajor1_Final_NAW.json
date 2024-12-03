@@ -89,7 +89,7 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "FinalDay1",
+            "SubgroupId": "Final",
             "ServerReplays": true,
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingMatchDelaySeconds": 2280
@@ -134,7 +134,7 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "FinalDay2",
+            "SubgroupId": "Final",
             "ServerReplays": true,
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingMatchDelaySeconds": 2280
