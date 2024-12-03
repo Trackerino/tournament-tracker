@@ -117,9 +117,9 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Divison1_OCE",
-            "S33_FNCS_Divison2_OCE",
-            "S33_FNCS_Divison3_OCE"
+            "S33_FNCS_Division1_OCE",
+            "S33_FNCS_Division2_OCE",
+            "S33_FNCS_Division3_OCE"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
