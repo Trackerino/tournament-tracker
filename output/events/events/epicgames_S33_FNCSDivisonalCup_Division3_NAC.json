@@ -71,7 +71,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week1_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -120,7 +120,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week1_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -144,9 +144,9 @@
       {
          "eventWindowId": "S33_FNCSDivisionalCup_Division3_Week2Day1_NAC",
          "eventTemplateId": "EventTemplate_S33_FNCSDivision3Cup",
-         "countdownBeginTime": "2024-12-18T22:00:00Z",
-         "beginTime": "2024-12-19T00:00:00Z",
-         "endTime": "2024-12-19T03:00:00Z",
+         "countdownBeginTime": "2024-12-17T22:00:00Z",
+         "beginTime": "2024-12-18T00:00:00Z",
+         "endTime": "2024-12-18T03:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -169,7 +169,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week2_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -218,7 +218,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week2_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -267,7 +267,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week3_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -316,7 +316,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week3_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -365,7 +365,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week4_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -414,7 +414,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week4_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -463,7 +463,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week5_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -512,7 +512,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_CumulativeLeaderboardDef",
+               "leaderboardDefId": "S33_FNCSDivisionalCup_Division2_3_Week5_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
