@@ -82,7 +82,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week1"
          }
       },
       {
@@ -126,15 +127,16 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week1"
          }
       },
       {
          "eventWindowId": "S33_FNCSDivisionalCup_Division2_Week2Day1_ME",
          "eventTemplateId": "EventTemplate_S33_FNCSDivisionalCup",
-         "countdownBeginTime": "2024-12-18T13:00:00Z",
-         "beginTime": "2024-12-18T15:00:00Z",
-         "endTime": "2024-12-18T18:00:00Z",
+         "countdownBeginTime": "2024-12-17T13:00:00Z",
+         "beginTime": "2024-12-17T15:00:00Z",
+         "endTime": "2024-12-17T18:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -170,7 +172,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week2"
          }
       },
       {
@@ -214,7 +217,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week2"
          }
       },
       {
@@ -258,7 +262,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week3"
          }
       },
       {
@@ -302,7 +307,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week3"
          }
       },
       {
@@ -346,7 +352,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week4"
          }
       },
       {
@@ -390,7 +397,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week4"
          }
       },
       {
@@ -434,7 +442,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week5"
          }
       },
       {
@@ -478,7 +487,8 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "SubgroupId": "Week5"
          }
       }
    ],
