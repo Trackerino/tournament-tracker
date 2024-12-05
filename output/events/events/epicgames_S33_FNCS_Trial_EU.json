@@ -53,8 +53,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_divisional_rules",
             "mfa",
-            "eula:s33_fncs_divisional_rules",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",

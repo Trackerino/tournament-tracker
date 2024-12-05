@@ -54,7 +54,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -98,7 +98,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -142,7 +142,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -174,15 +174,15 @@
       {
          "eventWindowId": "S33_FNCSDivisionalCup_Division1_Week2Day1_NAC",
          "eventTemplateId": "EventTemplate_S33_FNCSDivisionalCup",
-         "countdownBeginTime": "2024-12-18T22:00:00Z",
-         "beginTime": "2024-12-19T00:00:00Z",
-         "endTime": "2024-12-19T03:00:00Z",
+         "countdownBeginTime": "2024-12-17T22:00:00Z",
+         "beginTime": "2024-12-18T00:00:00Z",
+         "endTime": "2024-12-18T03:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -226,7 +226,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -270,7 +270,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -310,7 +310,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -354,7 +354,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -398,7 +398,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -438,7 +438,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -482,7 +482,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -526,7 +526,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -566,7 +566,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -610,7 +610,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -654,7 +654,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
