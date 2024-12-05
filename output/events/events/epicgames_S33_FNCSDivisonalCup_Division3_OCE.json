@@ -52,7 +52,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa",
             [
                "currentRanking:ranked-br:6",
@@ -102,7 +102,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa",
             [
                "currentRanking:ranked-br:6",
@@ -152,7 +152,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa",
             [
                "currentRanking:ranked-br:6",
@@ -202,7 +202,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa",
             [
                "currentRanking:ranked-br:6",
@@ -252,7 +252,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa",
             [
                "currentRanking:ranked-br:6",
@@ -302,7 +302,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa",
             [
                "currentRanking:ranked-br:6",
@@ -352,7 +352,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa",
             [
                "currentRanking:ranked-br:6",
@@ -402,7 +402,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa",
             [
                "currentRanking:ranked-br:6",
@@ -452,7 +452,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa",
             [
                "currentRanking:ranked-br:6",
@@ -502,7 +502,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_fncs_division_rules",
+            "eula:s33_divisional_rules",
             "mfa",
             [
                "currentRanking:ranked-br:6",
