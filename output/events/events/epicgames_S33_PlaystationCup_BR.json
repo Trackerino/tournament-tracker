@@ -74,7 +74,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
-            "eula:s33_playstation_rules "
+            "eula:s33_playstation_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
