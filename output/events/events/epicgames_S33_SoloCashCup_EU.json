@@ -50,8 +50,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -93,8 +93,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -136,8 +136,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -179,8 +179,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -222,8 +222,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -265,8 +265,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -308,8 +308,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -351,8 +351,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -394,8 +394,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -437,8 +437,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -480,8 +480,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -523,8 +523,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -566,8 +566,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -609,8 +609,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -652,8 +652,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
@@ -695,8 +695,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_solocash_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-br:6",
                "currentRanking:ranked-zb:6",
