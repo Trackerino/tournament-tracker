@@ -48,7 +48,8 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_PlaystationCupFinal_ASIA"
+            "S33_PlaystationCupFinal_ASIA",
+            "S29_PSCupMarch_Final_Spectator"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
@@ -56,9 +57,10 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ServerReplays": true,
+            "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator",
+            "RoundType": "Qualifiers",
             "ScheduledMatchmakingMatchDelaySeconds": 1920
          }
       },
