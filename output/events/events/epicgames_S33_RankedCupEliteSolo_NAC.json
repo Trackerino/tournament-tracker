@@ -55,8 +55,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -89,8 +89,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -123,8 +123,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -157,8 +157,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -191,8 +191,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -225,8 +225,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -259,8 +259,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -293,8 +293,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -327,8 +327,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -361,8 +361,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -395,8 +395,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -429,8 +429,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -463,8 +463,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -497,8 +497,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -531,8 +531,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -565,8 +565,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -599,8 +599,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -633,8 +633,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -667,8 +667,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -701,8 +701,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -735,8 +735,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -769,8 +769,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_ranked_rules",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],

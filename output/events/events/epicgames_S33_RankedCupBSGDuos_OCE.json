@@ -53,8 +53,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
+            "eula:s33_ranked_rules",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRankingMax:ranked-br:8"
          ],
          "teammateEligibility": "all",
@@ -88,8 +88,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
+            "eula:s33_ranked_rules",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRankingMax:ranked-br:8"
          ],
          "teammateEligibility": "all",
@@ -123,8 +123,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
+            "eula:s33_ranked_rules",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRankingMax:ranked-br:8"
          ],
          "teammateEligibility": "all",
@@ -158,8 +158,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
+            "eula:s33_ranked_rules",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRankingMax:ranked-br:8"
          ],
          "teammateEligibility": "all",
@@ -193,8 +193,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
+            "eula:s33_ranked_rules",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRankingMax:ranked-br:8"
          ],
          "teammateEligibility": "all",
@@ -228,8 +228,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
+            "eula:s33_ranked_rules",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRankingMax:ranked-br:8"
          ],
          "teammateEligibility": "all",
@@ -263,8 +263,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
+            "eula:s33_ranked_rules",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRankingMax:ranked-br:8"
          ],
          "teammateEligibility": "all",
@@ -298,8 +298,8 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
+            "eula:s33_ranked_rules",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRankingMax:ranked-br:8"
          ],
          "teammateEligibility": "all",

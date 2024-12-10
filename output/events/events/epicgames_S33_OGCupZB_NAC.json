@@ -54,7 +54,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -89,7 +89,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -124,7 +124,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -159,7 +159,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -194,7 +194,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -229,7 +229,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -264,7 +264,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -299,7 +299,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
-            "eula:NEED CHANGE"
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],

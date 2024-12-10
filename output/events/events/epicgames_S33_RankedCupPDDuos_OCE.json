@@ -52,9 +52,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRanking:ranked-br:9"
          ],
          "teammateEligibility": "all",
@@ -87,9 +87,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRanking:ranked-br:9"
          ],
          "teammateEligibility": "all",
@@ -122,9 +122,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRanking:ranked-br:9"
          ],
          "teammateEligibility": "all",
@@ -157,9 +157,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRanking:ranked-br:9"
          ],
          "teammateEligibility": "all",
@@ -192,9 +192,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRanking:ranked-br:9"
          ],
          "teammateEligibility": "all",
@@ -227,9 +227,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRanking:ranked-br:9"
          ],
          "teammateEligibility": "all",
@@ -262,9 +262,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRanking:ranked-br:9"
          ],
          "teammateEligibility": "all",
@@ -297,9 +297,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eula:s33_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
-            "eula:NEED CHANGE",
             "currentRanking:ranked-br:9"
          ],
          "teammateEligibility": "all",
