@@ -88,7 +88,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week1"
+            "SubgroupId": "Week1_OCE"
          }
       },
       {
@@ -138,7 +138,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week1"
+            "SubgroupId": "Week1_OCE"
          }
       },
       {
@@ -188,7 +188,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week2"
+            "SubgroupId": "Week2_OCE"
          }
       },
       {
@@ -238,7 +238,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week2"
+            "SubgroupId": "Week2_OCE"
          }
       },
       {
@@ -288,7 +288,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week3"
+            "SubgroupId": "Week3_OCE"
          }
       },
       {
@@ -338,7 +338,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week3"
+            "SubgroupId": "Week3_OCE"
          }
       },
       {
@@ -388,7 +388,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week4"
+            "SubgroupId": "Week4_OCE"
          }
       },
       {
@@ -438,7 +438,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week4"
+            "SubgroupId": "Week4_OCE"
          }
       },
       {
@@ -488,7 +488,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week5"
+            "SubgroupId": "Week5_OCE"
          }
       },
       {
@@ -538,7 +538,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week5"
+            "SubgroupId": "Week5_OCE"
          }
       }
    ],

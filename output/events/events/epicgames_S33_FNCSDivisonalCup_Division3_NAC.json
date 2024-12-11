@@ -90,7 +90,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week1"
+            "SubgroupId": "Week1_NAC"
          }
       },
       {
@@ -140,7 +140,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week1"
+            "SubgroupId": "Week1_NAC"
          }
       },
       {
@@ -190,7 +190,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week2"
+            "SubgroupId": "Week2_NAC"
          }
       },
       {
@@ -240,7 +240,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week2"
+            "SubgroupId": "Week2_NAC"
          }
       },
       {
@@ -290,7 +290,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week3"
+            "SubgroupId": "Week3_NAC"
          }
       },
       {
@@ -340,7 +340,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week3"
+            "SubgroupId": "Week3_NAC"
          }
       },
       {
@@ -390,7 +390,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week4"
+            "SubgroupId": "Week4_NAC"
          }
       },
       {
@@ -440,7 +440,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week4"
+            "SubgroupId": "Week4_NAC"
          }
       },
       {
@@ -490,7 +490,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week5"
+            "SubgroupId": "Week5_NAC"
          }
       },
       {
@@ -540,7 +540,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week5"
+            "SubgroupId": "Week5_NAC"
          }
       }
    ],
