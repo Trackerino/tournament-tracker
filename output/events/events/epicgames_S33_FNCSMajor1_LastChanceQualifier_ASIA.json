@@ -123,8 +123,14 @@
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
+            "S33_RegionLock_FNCSMajor1_LCQ_NAC",
+            "S33_FNCSMajor1_GrandFinalist_ASIA",
+            "S33_RegionLock_FNCSMajor1_LCQ_EU",
+            "S33_RegionLock_FNCSMajor1_LCQ_NAW",
+            "S33_RegionLock_FNCSMajor1_LCQ_ME",
             "S33_FNCS_Banned",
-            "S33_FNCSMajor1_GrandFinalist_ASIA"
+            "S33_RegionLock_FNCSMajor1_LCQ_BR",
+            "S33_RegionLock_FNCSMajor1_LCQ_OCE"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],

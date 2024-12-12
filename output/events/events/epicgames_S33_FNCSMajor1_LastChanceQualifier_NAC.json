@@ -125,15 +125,21 @@
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
+            "S33_RegionLock_FNCSMajor1_LCQ_EU",
+            "S33_RegionLock_FNCSMajor1_LCQ_ME",
             "S33_FNCS_Banned",
-            "S33_FNCSMajor1_GrandFinalist_NAC"
+            "S33_FNCSMajor1_GrandFinalist_NAC",
+            "S33_RegionLock_FNCSMajor1_LCQ_BR",
+            "S33_RegionLock_FNCSMajor1_LCQ_OCE",
+            "S33_RegionLock_FNCSMajor1_LCQ_ASIA",
+            "S33_RegionLock_FNCSMajor1_LCQ_NAW"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "LastChanceLobby"
+            "SubgroupId": "LastChanceQualifier"
          }
       }
    ],
