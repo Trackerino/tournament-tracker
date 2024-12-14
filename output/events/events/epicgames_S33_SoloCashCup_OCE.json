@@ -112,7 +112,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S33_SoloCashCup_Event1Round2_OCE"
+            "S33_SoloCashCup_Event1Round2_OCE_v2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
