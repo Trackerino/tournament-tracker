@@ -1,7 +1,7 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S33_SoloCashCup_EU",
-   "beginTime": "2024-12-13T18:00:00Z",
+   "beginTime": "2024-12-15T13:00:00Z",
    "endTime": "2025-02-18T20:00:00Z",
    "displayDataId": "s33_solocash",
    "eventGroup": "Season33_SoloCashCup",
@@ -42,9 +42,9 @@
       {
          "eventWindowId": "S33_SoloCashCup_Event1Round1_EU",
          "eventTemplateId": "EventTemplate_S33_SoloCashCup_Round1",
-         "countdownBeginTime": "2024-12-13T16:00:00Z",
-         "beginTime": "2024-12-13T18:00:00Z",
-         "endTime": "2024-12-13T21:00:00Z",
+         "countdownBeginTime": "2024-12-15T11:00:00Z",
+         "beginTime": "2024-12-15T13:00:00Z",
+         "endTime": "2024-12-15T16:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
