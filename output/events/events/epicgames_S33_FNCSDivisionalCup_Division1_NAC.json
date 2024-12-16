@@ -212,7 +212,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week2"
+            "SubgroupId": "Week2_NAC"
          }
       },
       {
@@ -256,7 +256,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week2"
+            "SubgroupId": "Week2_NAC"
          }
       },
       {
@@ -293,7 +293,7 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week2",
+            "SubgroupId": "Week2_NAC",
             "ServerReplays": true,
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingMatchDelaySeconds": 1920
@@ -340,7 +340,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week3"
+            "SubgroupId": "Week3_NAC"
          }
       },
       {
@@ -384,7 +384,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week3"
+            "SubgroupId": "Week3_NAC"
          }
       },
       {
@@ -421,7 +421,7 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week3",
+            "SubgroupId": "Week3_NAC",
             "ServerReplays": true,
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingMatchDelaySeconds": 1920
@@ -468,7 +468,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week4"
+            "SubgroupId": "Week4_NAC"
          }
       },
       {
@@ -512,7 +512,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week4"
+            "SubgroupId": "Week4_NAC"
          }
       },
       {
@@ -549,7 +549,7 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week4",
+            "SubgroupId": "Week4_NAC",
             "ServerReplays": true,
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingMatchDelaySeconds": 1920
@@ -596,7 +596,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week5"
+            "SubgroupId": "Week5_NAC"
          }
       },
       {
@@ -640,7 +640,7 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week5"
+            "SubgroupId": "Week5_NAC"
          }
       },
       {
@@ -677,7 +677,7 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week5",
+            "SubgroupId": "Week5_NAC",
             "ServerReplays": true,
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingMatchDelaySeconds": 1920
