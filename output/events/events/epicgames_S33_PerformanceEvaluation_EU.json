@@ -34,8 +34,7 @@
    "platformMappings": {},
    "metadata": {
       "minimumAccountLevel": 350,
-      "AccountLockType": "Window",
-      "TeamLockType": "Window"
+      "AccountLockType": "Window"
    },
    "eventWindows": [
       {
