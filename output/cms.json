@@ -278,7 +278,8 @@
       "title_color": "FFFFFF",
       "title_line_1": "BettoTest Last",
       "title_line_2": "Chance Qualifier",
-      "tournament_display_id": "bettotest_aqua"
+      "tournament_display_id": "bettotest_aqua",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/bettotest-aqua-1560x1024-1560x1024-4f7c13a34636.jpg"
    },
    {
       "_type": "Tournament Display Info",
