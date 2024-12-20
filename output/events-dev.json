@@ -5402,50 +5402,23 @@
       ],
       "Payout_BettoTest_Stratos_Cumulative": [
          {
-            "scoringType": "value",
+            "scoringType": "rank",
             "ranks": [
                {
-                  "threshold": 1,
+                  "threshold": 30,
                   "payouts": [
                      {
-                        "rewardType": "ecomm",
+                        "rewardType": "game",
                         "rewardMode": "standard",
-                        "value": "USD",
-                        "quantity": 100,
+                        "value": "AthenaCharacter:cid_620_athena_commando_l_bigchuggus",
+                        "quantity": 1,
                         "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "scoringType": "value",
-            "ranks": [
-               {
-                  "threshold": 2,
-                  "payouts": [
+                     },
                      {
-                        "rewardType": "ecomm",
+                        "rewardType": "game",
                         "rewardMode": "standard",
-                        "value": "USD",
-                        "quantity": 50,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "scoringType": "value",
-            "ranks": [
-               {
-                  "threshold": 3,
-                  "payouts": [
-                     {
-                        "rewardType": "ecomm",
-                        "rewardMode": "standard",
-                        "value": "USD",
-                        "quantity": 25,
+                        "value": "AthenaCharacter:cid_a_375_athena_commando_f_snowfall_wxw2t",
+                        "quantity": 1,
                         "notifiesPlayer": false
                      }
                   ]
@@ -5456,12 +5429,12 @@
             "scoringType": "rank",
             "ranks": [
                {
-                  "threshold": 25,
+                  "threshold": 60,
                   "payouts": [
                      {
                         "rewardType": "game",
                         "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_620_athena_commando_l_bigchuggus",
+                        "value": "AthenaCharacter:cid_705_athena_commando_m_donut",
                         "quantity": 1,
                         "notifiesPlayer": false
                      }
