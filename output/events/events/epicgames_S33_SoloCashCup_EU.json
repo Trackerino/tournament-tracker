@@ -198,7 +198,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S33_SoloCashCup_Event2Round2_ME"
+            "S33_SoloCashCup_Event2Round2_EU"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
