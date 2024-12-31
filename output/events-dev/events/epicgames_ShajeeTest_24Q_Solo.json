@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_ShajeeTest_24Q_Solo",
    "beginTime": "2024-12-31T17:04:17.137Z",
-   "endTime": "2025-01-31T17:14:17.137Z",
+   "endTime": "2025-03-31T17:14:17.137Z",
    "displayDataId": "s33_rankedcupshajee_bs_solo",
    "eventGroup": "TEST",
    "announcementTime": "2024-12-31T17:04:17.136Z",
@@ -42,16 +42,44 @@
             []
          ],
          "teammateEligibility": "all",
-         "blackoutPeriods": [
+         "blackoutPeriods": [],
+         "scoreLocations": [
             {
-               "beginTime": "2024-12-31T17:04:17.137Z",
-               "endTime": "2024-12-31T17:04:17.137Z",
-               "recurrence": "NONE",
-               "regionExclusive": [
-                  "LNPDCHMJVNG"
-               ]
+               "leaderboardDefId": "S29_RankedCupSolo_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
             }
          ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "NAE": "NA",
+            "NAW": "NA"
+         },
+         "metadata": {
+            "ServerReplays": true,
+            "RoundType": "Qualifs"
+         }
+      },
+      {
+         "eventWindowId": "EW_epicgames_ShajeeTest_24Q5_Solo_Day2",
+         "eventTemplateId": "EventTemplate_S29_RankedCupSolo",
+         "countdownBeginTime": "2025-02-02T17:04:17.137Z",
+         "beginTime": "2025-02-02T17:04:17.137Z",
+         "endTime": "2025-03-31T17:14:17.137Z",
+         "round": 1,
+         "payoutDelay": 2,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "string",
+            []
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
          "scoreLocations": [
             {
                "leaderboardDefId": "S29_RankedCupSolo_DefaultLeaderboardDef",
