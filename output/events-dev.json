@@ -4857,6 +4857,88 @@
             "type": "br:tournament",
             "code": "tournament_epicgames_s31_rankedcuppdduos_oce"
          }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_ShajeeTest_24Q_Solo",
+         "beginTime": "2024-12-31T17:04:17.137Z",
+         "endTime": "2025-01-31T17:14:17.137Z",
+         "displayDataId": "string",
+         "eventGroup": "string",
+         "announcementTime": "2024-12-31T17:04:17.136Z",
+         "regions": [
+            "NAE",
+            "NAW"
+         ],
+         "regionMappings": {
+            "NAE": "NA",
+            "NAW": "NA"
+         },
+         "platforms": [
+            "Mac",
+            "PS4",
+            "Windows",
+            "XboxOne"
+         ],
+         "platformMappings": {
+            "Mac": "PC",
+            "PS4": "Console",
+            "Windows": "PC",
+            "XboxOne": "Console"
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "EW_epicgames_ShajeeTest_24Q5_Solo_Day1",
+               "eventTemplateId": "EventTemplate_BettoTest_Solo",
+               "countdownBeginTime": "2024-12-31T17:04:17.137Z",
+               "beginTime": "2024-12-31T17:04:17.137Z",
+               "endTime": "2025-01-31T17:14:17.137Z",
+               "round": 0,
+               "payoutDelay": 60,
+               "isTBD": true,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "string",
+                  []
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [
+                  {
+                     "beginTime": "2024-12-31T17:04:17.137Z",
+                     "endTime": "2024-12-31T17:04:17.137Z",
+                     "recurrence": "NONE",
+                     "regionExclusive": [
+                        "LNPDCHMJVNG"
+                     ]
+                  }
+               ],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "LeadDef_FedoliTest_SeriesPoint_Window",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "LeadDef_BettoTest_Elims",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "regionMappings": {
+                  "NAE": "NA",
+                  "NAW": "NA"
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_shajeetest_24q5_solo",
+            "version": 1
+         }
       }
    ],
    "eventSeries": [],
