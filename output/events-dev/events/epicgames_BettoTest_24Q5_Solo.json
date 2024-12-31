@@ -29,6 +29,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "tournamentHistory:s24Events:10",
             "mfa",
             "currentRanking:ranked-br:3",
             "tournamentHistory:totalEvents:20"
