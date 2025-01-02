@@ -87,8 +87,12 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
+         "requireAllTokens": [
+            "Test_ShajeeTest_24Q_Solo_Token"
+         ],
+         "requireAnyTokens": [
+            "QATester"
+         ],
          "requireNoneTokensCaller": [],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
