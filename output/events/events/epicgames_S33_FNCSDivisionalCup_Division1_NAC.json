@@ -333,7 +333,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S33_DivisionLock_Division2Week3_NAC",
-            "S33_DivisionLock_Division3Week3_NAC"
+            "S33_DivisionLock_Division3Week3_NAC",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],

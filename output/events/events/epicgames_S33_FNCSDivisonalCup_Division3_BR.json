@@ -279,7 +279,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S33_DivisionLock_Division1Week3_BR",
-            "S33_DivisionLock_Division2Week3_BR"
+            "S33_DivisionLock_Division2Week3_BR",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [
             "S33_CashCup_Qualified"
