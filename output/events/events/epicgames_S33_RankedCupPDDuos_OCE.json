@@ -37,7 +37,6 @@
    "metadata": {
       "minimumAccountLevel": 50,
       "AccountLockType": "Window",
-      "TeamLockType": "Window",
       "DisqualifyType": "Window"
    },
    "eventWindows": [
