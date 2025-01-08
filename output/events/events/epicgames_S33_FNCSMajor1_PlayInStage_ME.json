@@ -88,7 +88,8 @@
             "RegionLock_S33_FNCSMajor1_OCE",
             "RegionLock_S33_FNCSMajor1_EU",
             "RegionLock_S33_FNCSMajor1_ASIA",
-            "RegionLock_S33_FNCSMajor1_NAC"
+            "RegionLock_S33_FNCSMajor1_NAC",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -136,7 +137,8 @@
             "RegionLock_S33_FNCSMajor1_OCE",
             "RegionLock_S33_FNCSMajor1_EU",
             "RegionLock_S33_FNCSMajor1_ASIA",
-            "RegionLock_S33_FNCSMajor1_NAC"
+            "RegionLock_S33_FNCSMajor1_NAC",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
