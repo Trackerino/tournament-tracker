@@ -376,7 +376,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S33_DivisionLock_Division2Week3_BR",
-            "S33_DivisionLock_Division3Week3_BR"
+            "S33_DivisionLock_Division3Week3_BR",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -414,7 +415,8 @@
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2"
+            "EpicAccountPrizingRestriction_v2",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -460,7 +462,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S33_DivisionLock_Division2Week4_BR",
-            "S33_DivisionLock_Division3Week4_BR"
+            "S33_DivisionLock_Division3Week4_BR",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -504,7 +507,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S33_DivisionLock_Division2Week4_BR",
-            "S33_DivisionLock_Division3Week4_BR"
+            "S33_DivisionLock_Division3Week4_BR",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -542,7 +546,8 @@
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2"
+            "EpicAccountPrizingRestriction_v2",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -588,7 +593,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S33_DivisionLock_Division2Week5_BR",
-            "S33_DivisionLock_Division3Week5_BR"
+            "S33_DivisionLock_Division3Week5_BR",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -632,7 +638,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S33_DivisionLock_Division2Week5_BR",
-            "S33_DivisionLock_Division3Week5_BR"
+            "S33_DivisionLock_Division3Week5_BR",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -670,7 +677,8 @@
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2"
+            "EpicAccountPrizingRestriction_v2",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
