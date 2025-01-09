@@ -329,7 +329,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S33_DivisionLock_Division1Week3_ASIA",
-            "S33_DivisionLock_Division2Week3_ASIA"
+            "S33_DivisionLock_Division2Week3_ASIA",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [
             "S33_CashCup_Qualified"
@@ -379,7 +380,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S33_DivisionLock_Division1Week4_ASIA",
-            "S33_DivisionLock_Division2Week4_ASIA"
+            "S33_DivisionLock_Division2Week4_ASIA",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [
             "S33_CashCup_Qualified"
@@ -429,7 +431,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S33_DivisionLock_Division1Week4_ASIA",
-            "S33_DivisionLock_Division2Week4_ASIA"
+            "S33_DivisionLock_Division2Week4_ASIA",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [
             "S33_CashCup_Qualified"
@@ -479,7 +482,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S33_DivisionLock_Division1Week5_ASIA",
-            "S33_DivisionLock_Division2Week5_ASIA"
+            "S33_DivisionLock_Division2Week5_ASIA",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [
             "S33_CashCup_Qualified"
@@ -529,7 +533,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S33_DivisionLock_Division1Week5_ASIA",
-            "S33_DivisionLock_Division2Week5_ASIA"
+            "S33_DivisionLock_Division2Week5_ASIA",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [
             "S33_CashCup_Qualified"
