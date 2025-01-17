@@ -148,41 +148,6 @@
       {
          "eventWindowId": "S33_OGCup_Event4_EU",
          "eventTemplateId": "EventTemplate_S33_OGCup",
-         "countdownBeginTime": "2025-01-19T11:00:00Z",
-         "beginTime": "2025-01-19T13:00:00Z",
-         "endTime": "2025-01-19T16:00:00Z",
-         "round": 0,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "mfa",
-            "eula:s33_og_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "Leaderboard_S33_OG_Cup",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
-         }
-      },
-      {
-         "eventWindowId": "S33_OGCup_Event5_EU",
-         "eventTemplateId": "EventTemplate_S33_OGCup",
          "countdownBeginTime": "2025-01-26T11:00:00Z",
          "beginTime": "2025-01-26T13:00:00Z",
          "endTime": "2025-01-26T16:00:00Z",
@@ -216,7 +181,7 @@
          }
       },
       {
-         "eventWindowId": "S33_OGCup_Event6_EU",
+         "eventWindowId": "S33_OGCup_Event5_EU",
          "eventTemplateId": "EventTemplate_S33_OGCup",
          "countdownBeginTime": "2025-02-02T11:00:00Z",
          "beginTime": "2025-02-02T13:00:00Z",
@@ -251,7 +216,7 @@
          }
       },
       {
-         "eventWindowId": "S33_OGCup_Event7_EU",
+         "eventWindowId": "S33_OGCup_Event6_EU",
          "eventTemplateId": "EventTemplate_S33_OGCup",
          "countdownBeginTime": "2025-02-07T11:00:00Z",
          "beginTime": "2025-02-07T13:00:00Z",
@@ -286,7 +251,7 @@
          }
       },
       {
-         "eventWindowId": "S33_OGCup_Event8_EU",
+         "eventWindowId": "S33_OGCup_Event7_EU",
          "eventTemplateId": "EventTemplate_S33_OGCup",
          "countdownBeginTime": "2025-02-14T11:00:00Z",
          "beginTime": "2025-02-14T13:00:00Z",

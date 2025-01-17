@@ -145,40 +145,6 @@
       {
          "eventWindowId": "S33_RankedCupEliteDuos_Event4_ASIA",
          "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
-         "countdownBeginTime": "2025-01-19T06:00:00Z",
-         "beginTime": "2025-01-19T08:00:00Z",
-         "endTime": "2025-01-19T12:00:00Z",
-         "round": 0,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "currentRanking:ranked-br:15",
-            "eula:s33_ranked_rules",
-            "mfa"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S33_RankedCupDuosE_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
-         }
-      },
-      {
-         "eventWindowId": "S33_RankedCupEliteDuos_Event5_ASIA",
-         "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
          "countdownBeginTime": "2025-01-26T06:00:00Z",
          "beginTime": "2025-01-26T08:00:00Z",
          "endTime": "2025-01-26T12:00:00Z",
@@ -211,7 +177,7 @@
          }
       },
       {
-         "eventWindowId": "S33_RankedCupEliteDuos_Event6_ASIA",
+         "eventWindowId": "S33_RankedCupEliteDuos_Event5_ASIA",
          "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
          "countdownBeginTime": "2025-02-02T06:00:00Z",
          "beginTime": "2025-02-02T08:00:00Z",
@@ -245,7 +211,7 @@
          }
       },
       {
-         "eventWindowId": "S33_RankedCupEliteDuos_Event7_ASIA",
+         "eventWindowId": "S33_RankedCupEliteDuos_Event6_ASIA",
          "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
          "countdownBeginTime": "2025-02-09T06:00:00Z",
          "beginTime": "2025-02-09T08:00:00Z",
@@ -279,7 +245,7 @@
          }
       },
       {
-         "eventWindowId": "S33_RankedCupEliteDuos_Event8_ASIA",
+         "eventWindowId": "S33_RankedCupEliteDuos_Event7_ASIA",
          "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
          "countdownBeginTime": "2025-02-16T06:00:00Z",
          "beginTime": "2025-02-16T08:00:00Z",

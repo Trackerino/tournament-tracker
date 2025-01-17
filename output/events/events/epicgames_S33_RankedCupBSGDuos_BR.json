@@ -148,41 +148,6 @@
       {
          "eventWindowId": "S33_RankedCupBSGDuos_Event4_BR",
          "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
-         "countdownBeginTime": "2025-01-19T18:00:00Z",
-         "beginTime": "2025-01-19T20:00:00Z",
-         "endTime": "2025-01-20T00:00:00Z",
-         "round": 0,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "currentRanking:ranked-br:0",
-            "eula:s33_ranked_rules",
-            "mfa",
-            "currentRankingMax:ranked-br:8"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S33_RankedCupDuosBSG_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
-         }
-      },
-      {
-         "eventWindowId": "S33_RankedCupBSGDuos_Event5_BR",
-         "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
          "countdownBeginTime": "2025-01-26T18:00:00Z",
          "beginTime": "2025-01-26T20:00:00Z",
          "endTime": "2025-01-27T00:00:00Z",
@@ -216,7 +181,7 @@
          }
       },
       {
-         "eventWindowId": "S33_RankedCupBSGDuos_Event6_BR",
+         "eventWindowId": "S33_RankedCupBSGDuos_Event5_BR",
          "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
          "countdownBeginTime": "2025-02-02T18:00:00Z",
          "beginTime": "2025-02-02T20:00:00Z",
@@ -251,7 +216,7 @@
          }
       },
       {
-         "eventWindowId": "S33_RankedCupBSGDuos_Event7_BR",
+         "eventWindowId": "S33_RankedCupBSGDuos_Event6_BR",
          "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
          "countdownBeginTime": "2025-02-09T18:00:00Z",
          "beginTime": "2025-02-09T20:00:00Z",
@@ -286,7 +251,7 @@
          }
       },
       {
-         "eventWindowId": "S33_RankedCupBSGDuos_Event8_BR",
+         "eventWindowId": "S33_RankedCupBSGDuos_Event7_BR",
          "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
          "countdownBeginTime": "2025-02-16T18:00:00Z",
          "beginTime": "2025-02-16T20:00:00Z",

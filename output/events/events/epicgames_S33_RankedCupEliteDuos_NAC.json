@@ -147,40 +147,6 @@
       {
          "eventWindowId": "S33_RankedCupEliteDuos_Event4_NAC",
          "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
-         "countdownBeginTime": "2025-01-19T21:00:00Z",
-         "beginTime": "2025-01-19T23:00:00Z",
-         "endTime": "2025-01-20T03:00:00Z",
-         "round": 0,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "currentRanking:ranked-br:15",
-            "eula:s33_ranked_rules",
-            "mfa"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S33_RankedCupDuosE_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
-         }
-      },
-      {
-         "eventWindowId": "S33_RankedCupEliteDuos_Event5_NAC",
-         "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
          "countdownBeginTime": "2025-01-26T21:00:00Z",
          "beginTime": "2025-01-26T23:00:00Z",
          "endTime": "2025-01-27T03:00:00Z",
@@ -213,7 +179,7 @@
          }
       },
       {
-         "eventWindowId": "S33_RankedCupEliteDuos_Event6_NAC",
+         "eventWindowId": "S33_RankedCupEliteDuos_Event5_NAC",
          "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
          "countdownBeginTime": "2025-02-02T21:00:00Z",
          "beginTime": "2025-02-02T23:00:00Z",
@@ -247,7 +213,7 @@
          }
       },
       {
-         "eventWindowId": "S33_RankedCupEliteDuos_Event7_NAC",
+         "eventWindowId": "S33_RankedCupEliteDuos_Event6_NAC",
          "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
          "countdownBeginTime": "2025-02-09T21:00:00Z",
          "beginTime": "2025-02-09T23:00:00Z",
@@ -281,7 +247,7 @@
          }
       },
       {
-         "eventWindowId": "S33_RankedCupEliteDuos_Event8_NAC",
+         "eventWindowId": "S33_RankedCupEliteDuos_Event7_NAC",
          "eventTemplateId": "EventTemplate_S33_RankedCupDuos",
          "countdownBeginTime": "2025-02-16T21:00:00Z",
          "beginTime": "2025-02-16T23:00:00Z",
