@@ -1,7 +1,7 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S33_FNCSMajor1_Final_EU",
-   "beginTime": "2025-02-15T16:00:00Z",
+   "beginTime": "2025-02-15T17:00:00Z",
    "endTime": "2025-02-16T20:30:00Z",
    "displayDataId": "s33_major1_finals",
    "eventGroup": "Season33_FNCSMajor1",
@@ -35,7 +35,7 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "TeamLockType": "Week",
+      "TeamLockType": "Season",
       "minimumAccountLevel": 350,
       "TrackedStats": [
          "Headshots",
@@ -53,9 +53,9 @@
       {
          "eventWindowId": "S33_FNCSMajor1_Final_Day1_EU",
          "eventTemplateId": "EventTemplate_S33_FNCSMajor1_Final",
-         "countdownBeginTime": "2025-02-15T14:00:00Z",
-         "beginTime": "2025-02-15T16:00:00Z",
-         "endTime": "2025-02-15T19:30:00Z",
+         "countdownBeginTime": "2025-02-15T15:00:00Z",
+         "beginTime": "2025-02-15T17:00:00Z",
+         "endTime": "2025-02-15T20:30:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,

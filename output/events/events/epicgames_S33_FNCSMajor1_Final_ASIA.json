@@ -35,7 +35,7 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "TeamLockType": "Week",
+      "TeamLockType": "Season",
       "minimumAccountLevel": 350,
       "TrackedStats": [
          "Headshots",
