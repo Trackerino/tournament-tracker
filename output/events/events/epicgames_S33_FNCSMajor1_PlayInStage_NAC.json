@@ -98,7 +98,8 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "PlayInStage"
+            "SubgroupId": "PlayInStage",
+            "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_PlayInStage_NAC_cumulative"
          }
       },
       {
@@ -147,7 +148,8 @@
          "metadata": {
             "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "SubgroupId": "PlayInStage"
+            "SubgroupId": "PlayInStage",
+            "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_PlayInStage_NAC_cumulative"
          }
       }
    ],
