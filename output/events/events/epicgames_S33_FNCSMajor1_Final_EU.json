@@ -90,10 +90,11 @@
          "metadata": {
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "SubgroupId": "Final",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 2280
+            "ScheduledMatchmakingMatchDelaySeconds": 2280,
+            "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_Final_EU_cumulative",
+            "ServerReplays": true
          }
       },
       {
@@ -136,10 +137,11 @@
          "metadata": {
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "SubgroupId": "Final",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 2280
+            "ScheduledMatchmakingMatchDelaySeconds": 2280,
+            "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_Final_EU_cumulative",
+            "ServerReplays": true
          }
       }
    ],
