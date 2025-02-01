@@ -185,9 +185,9 @@
       {
          "eventWindowId": "S33_OGCup_Event5_NAC",
          "eventTemplateId": "EventTemplate_S33_OGCup",
-         "countdownBeginTime": "2025-02-02T17:00:00Z",
-         "beginTime": "2025-02-02T19:00:00Z",
-         "endTime": "2025-02-02T22:00:00Z",
+         "countdownBeginTime": "2025-02-02T16:00:00Z",
+         "beginTime": "2025-02-02T18:00:00Z",
+         "endTime": "2025-02-02T21:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,

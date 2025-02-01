@@ -181,41 +181,6 @@
          }
       },
       {
-         "eventWindowId": "S33_OGCup_Event5_OCE",
-         "eventTemplateId": "EventTemplate_S33_OGCup",
-         "countdownBeginTime": "2025-02-02T01:00:00Z",
-         "beginTime": "2025-02-02T03:00:00Z",
-         "endTime": "2025-02-02T06:00:00Z",
-         "round": 0,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "mfa",
-            "eula:s33_og_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "Leaderboard_S33_OG_Cup",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
-         }
-      },
-      {
          "eventWindowId": "S33_OGCup_Event6_OCE",
          "eventTemplateId": "EventTemplate_S33_OGCup",
          "countdownBeginTime": "2025-02-07T06:00:00Z",
