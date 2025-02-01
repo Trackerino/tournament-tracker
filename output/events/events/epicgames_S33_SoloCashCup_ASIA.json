@@ -471,49 +471,6 @@
          }
       },
       {
-         "eventWindowId": "S33_SoloCashCup_Event6Round1_ASIA",
-         "eventTemplateId": "EventTemplate_S33_SoloCashCup_Round1",
-         "countdownBeginTime": "2025-02-01T07:00:00Z",
-         "beginTime": "2025-02-01T09:00:00Z",
-         "endTime": "2025-02-01T12:00:00Z",
-         "round": 0,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "eula:s33_solocash_rules",
-            "mfa",
-            [
-               "currentRanking:ranked-br:6",
-               "currentRanking:ranked-zb:6",
-               "currentRanking:ranked_blastberry_build:6",
-               "currentRanking:ranked_blastberry_nobuild:6"
-            ]
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S33_SoloCashCup_Round1_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2"
-         ],
-         "requireAllTokensCaller": [
-            "S33_CashCup_Qualified"
-         ],
-         "requireAnyTokensCaller": [],
-         "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
-         }
-      },
-      {
          "eventWindowId": "S33_SoloCashCup_Event6Round2_ASIA",
          "eventTemplateId": "EventTemplate_S33_SoloCashCup_Round2",
          "countdownBeginTime": "2025-02-02T02:00:00Z",
