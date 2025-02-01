@@ -49447,9 +49447,9 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event18_ASIA",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T07:00:00Z",
-               "beginTime": "2025-02-01T09:00:00Z",
-               "endTime": "2025-02-01T13:00:00Z",
+               "countdownBeginTime": "2025-02-05T07:00:00Z",
+               "beginTime": "2025-02-05T09:00:00Z",
+               "endTime": "2025-02-05T13:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -49482,9 +49482,9 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event19_ASIA",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T07:00:00Z",
-               "beginTime": "2025-02-05T09:00:00Z",
-               "endTime": "2025-02-05T13:00:00Z",
+               "countdownBeginTime": "2025-02-06T07:00:00Z",
+               "beginTime": "2025-02-06T09:00:00Z",
+               "endTime": "2025-02-06T13:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -49552,41 +49552,6 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event20_ASIA",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T07:00:00Z",
-               "beginTime": "2025-02-06T09:00:00Z",
-               "endTime": "2025-02-06T13:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:0",
-                  "eula:s33_ranked_rules",
-                  "mfa",
-                  "currentRankingMax:ranked-br:8"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloBSG_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event21_ASIA",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T07:00:00Z",
                "beginTime": "2025-02-08T09:00:00Z",
                "endTime": "2025-02-08T13:00:00Z",
@@ -49620,7 +49585,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event22_ASIA",
+               "eventWindowId": "S33_RankedCupBSGSolo_Event21_ASIA",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T07:00:00Z",
                "beginTime": "2025-02-15T09:00:00Z",
@@ -50267,9 +50232,9 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event18_BR",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T19:00:00Z",
-               "beginTime": "2025-02-01T21:00:00Z",
-               "endTime": "2025-02-02T01:00:00Z",
+               "countdownBeginTime": "2025-02-05T19:00:00Z",
+               "beginTime": "2025-02-05T21:00:00Z",
+               "endTime": "2025-02-06T01:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -50302,9 +50267,9 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event19_BR",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T19:00:00Z",
-               "beginTime": "2025-02-05T21:00:00Z",
-               "endTime": "2025-02-06T01:00:00Z",
+               "countdownBeginTime": "2025-02-06T19:00:00Z",
+               "beginTime": "2025-02-06T21:00:00Z",
+               "endTime": "2025-02-07T01:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -50372,41 +50337,6 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event20_BR",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T19:00:00Z",
-               "beginTime": "2025-02-06T21:00:00Z",
-               "endTime": "2025-02-07T01:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:0",
-                  "eula:s33_ranked_rules",
-                  "mfa",
-                  "currentRankingMax:ranked-br:8"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloBSG_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event21_BR",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T19:00:00Z",
                "beginTime": "2025-02-08T21:00:00Z",
                "endTime": "2025-02-09T01:00:00Z",
@@ -50440,7 +50370,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event22_BR",
+               "eventWindowId": "S33_RankedCupBSGSolo_Event21_BR",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T19:00:00Z",
                "beginTime": "2025-02-15T21:00:00Z",
@@ -51087,9 +51017,9 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event18_EU",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T16:00:00Z",
-               "beginTime": "2025-02-01T18:00:00Z",
-               "endTime": "2025-02-01T22:00:00Z",
+               "countdownBeginTime": "2025-02-05T16:00:00Z",
+               "beginTime": "2025-02-05T18:00:00Z",
+               "endTime": "2025-02-05T22:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -51122,9 +51052,9 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event19_EU",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T16:00:00Z",
-               "beginTime": "2025-02-05T18:00:00Z",
-               "endTime": "2025-02-05T22:00:00Z",
+               "countdownBeginTime": "2025-02-06T16:00:00Z",
+               "beginTime": "2025-02-06T18:00:00Z",
+               "endTime": "2025-02-06T22:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -51192,41 +51122,6 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event20_EU",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T16:00:00Z",
-               "beginTime": "2025-02-06T18:00:00Z",
-               "endTime": "2025-02-06T22:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:0",
-                  "eula:s33_ranked_rules",
-                  "mfa",
-                  "currentRankingMax:ranked-br:8"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloBSG_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event21_EU",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T16:00:00Z",
                "beginTime": "2025-02-08T18:00:00Z",
                "endTime": "2025-02-08T22:00:00Z",
@@ -51260,7 +51155,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event22_EU",
+               "eventWindowId": "S33_RankedCupBSGSolo_Event21_EU",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T16:00:00Z",
                "beginTime": "2025-02-15T18:00:00Z",
@@ -51907,9 +51802,9 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event18_ME",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T13:00:00Z",
-               "beginTime": "2025-02-01T15:00:00Z",
-               "endTime": "2025-02-01T19:00:00Z",
+               "countdownBeginTime": "2025-02-05T13:00:00Z",
+               "beginTime": "2025-02-05T15:00:00Z",
+               "endTime": "2025-02-05T19:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -51942,9 +51837,9 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event19_ME",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T13:00:00Z",
-               "beginTime": "2025-02-05T15:00:00Z",
-               "endTime": "2025-02-05T19:00:00Z",
+               "countdownBeginTime": "2025-02-06T13:00:00Z",
+               "beginTime": "2025-02-06T15:00:00Z",
+               "endTime": "2025-02-06T19:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -52012,41 +51907,6 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event20_ME",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T13:00:00Z",
-               "beginTime": "2025-02-06T15:00:00Z",
-               "endTime": "2025-02-06T19:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:0",
-                  "eula:s33_ranked_rules",
-                  "mfa",
-                  "currentRankingMax:ranked-br:8"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloBSG_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event21_ME",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T13:00:00Z",
                "beginTime": "2025-02-08T15:00:00Z",
                "endTime": "2025-02-08T19:00:00Z",
@@ -52080,7 +51940,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event22_ME",
+               "eventWindowId": "S33_RankedCupBSGSolo_Event21_ME",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T13:00:00Z",
                "beginTime": "2025-02-15T15:00:00Z",
@@ -52729,41 +52589,6 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event18_NAC",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T22:00:00Z",
-               "beginTime": "2025-02-02T00:00:00Z",
-               "endTime": "2025-02-02T04:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:0",
-                  "eula:s33_ranked_rules",
-                  "mfa",
-                  "currentRankingMax:ranked-br:8"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloBSG_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event19_NAC",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-05T22:00:00Z",
                "beginTime": "2025-02-06T00:00:00Z",
                "endTime": "2025-02-06T04:00:00Z",
@@ -52797,42 +52622,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event2_NAC",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2024-12-12T22:00:00Z",
-               "beginTime": "2024-12-13T00:00:00Z",
-               "endTime": "2024-12-13T04:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:0",
-                  "eula:s33_ranked_rules",
-                  "mfa",
-                  "currentRankingMax:ranked-br:8"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloBSG_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event20_NAC",
+               "eventWindowId": "S33_RankedCupBSGSolo_Event19_NAC",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-06T22:00:00Z",
                "beginTime": "2025-02-07T00:00:00Z",
@@ -52867,7 +52657,42 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event21_NAC",
+               "eventWindowId": "S33_RankedCupBSGSolo_Event2_NAC",
+               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
+               "countdownBeginTime": "2024-12-14T16:00:00Z",
+               "beginTime": "2024-12-14T18:00:00Z",
+               "endTime": "2024-12-14T22:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "currentRanking:ranked-br:0",
+                  "eula:s33_ranked_rules",
+                  "mfa",
+                  "currentRankingMax:ranked-br:8"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S33_RankedCupSoloBSG_DefaultLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "ServerReplays": true,
+                  "RoundType": "Qualifiers"
+               }
+            },
+            {
+               "eventWindowId": "S33_RankedCupBSGSolo_Event20_NAC",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T22:00:00Z",
                "beginTime": "2025-02-09T00:00:00Z",
@@ -52902,7 +52727,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event22_NAC",
+               "eventWindowId": "S33_RankedCupBSGSolo_Event21_NAC",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T22:00:00Z",
                "beginTime": "2025-02-16T00:00:00Z",
@@ -53549,41 +53374,6 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event18_NAW",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-02T00:00:00Z",
-               "beginTime": "2025-02-02T02:00:00Z",
-               "endTime": "2025-02-02T06:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:0",
-                  "eula:s33_ranked_rules",
-                  "mfa",
-                  "currentRankingMax:ranked-br:8"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloBSG_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event19_NAW",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-06T00:00:00Z",
                "beginTime": "2025-02-06T02:00:00Z",
                "endTime": "2025-02-06T06:00:00Z",
@@ -53617,42 +53407,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event2_NAW",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2024-12-13T00:00:00Z",
-               "beginTime": "2024-12-13T02:00:00Z",
-               "endTime": "2024-12-13T06:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:0",
-                  "eula:s33_ranked_rules",
-                  "mfa",
-                  "currentRankingMax:ranked-br:8"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloBSG_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event20_NAW",
+               "eventWindowId": "S33_RankedCupBSGSolo_Event19_NAW",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-07T00:00:00Z",
                "beginTime": "2025-02-07T02:00:00Z",
@@ -53687,7 +53442,42 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event21_NAW",
+               "eventWindowId": "S33_RankedCupBSGSolo_Event2_NAW",
+               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
+               "countdownBeginTime": "2024-12-14T20:00:00Z",
+               "beginTime": "2024-12-14T22:00:00Z",
+               "endTime": "2024-12-15T02:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "currentRanking:ranked-br:0",
+                  "eula:s33_ranked_rules",
+                  "mfa",
+                  "currentRankingMax:ranked-br:8"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S33_RankedCupSoloBSG_DefaultLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "ServerReplays": true,
+                  "RoundType": "Qualifiers"
+               }
+            },
+            {
+               "eventWindowId": "S33_RankedCupBSGSolo_Event20_NAW",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-09T00:00:00Z",
                "beginTime": "2025-02-09T02:00:00Z",
@@ -53722,7 +53512,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event22_NAW",
+               "eventWindowId": "S33_RankedCupBSGSolo_Event21_NAW",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-16T00:00:00Z",
                "beginTime": "2025-02-16T02:00:00Z",
@@ -54369,9 +54159,9 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event18_OCE",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T06:00:00Z",
-               "beginTime": "2025-02-01T08:00:00Z",
-               "endTime": "2025-02-01T12:00:00Z",
+               "countdownBeginTime": "2025-02-05T06:00:00Z",
+               "beginTime": "2025-02-05T08:00:00Z",
+               "endTime": "2025-02-05T08:10:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -54404,9 +54194,9 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event19_OCE",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T06:00:00Z",
-               "beginTime": "2025-02-05T08:00:00Z",
-               "endTime": "2025-02-05T12:00:00Z",
+               "countdownBeginTime": "2025-02-06T06:00:00Z",
+               "beginTime": "2025-02-06T08:00:00Z",
+               "endTime": "2025-02-06T12:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -54474,41 +54264,6 @@
             {
                "eventWindowId": "S33_RankedCupBSGSolo_Event20_OCE",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T06:00:00Z",
-               "beginTime": "2025-02-06T08:00:00Z",
-               "endTime": "2025-02-06T12:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:0",
-                  "eula:s33_ranked_rules",
-                  "mfa",
-                  "currentRankingMax:ranked-br:8"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloBSG_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event21_OCE",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T06:00:00Z",
                "beginTime": "2025-02-08T08:00:00Z",
                "endTime": "2025-02-08T12:00:00Z",
@@ -54542,7 +54297,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupBSGSolo_Event22_OCE",
+               "eventWindowId": "S33_RankedCupBSGSolo_Event21_OCE",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T06:00:00Z",
                "beginTime": "2025-02-15T08:00:00Z",
@@ -57191,9 +56946,9 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event18_ASIA",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T07:00:00Z",
-               "beginTime": "2025-02-01T09:00:00Z",
-               "endTime": "2025-02-01T13:00:00Z",
+               "countdownBeginTime": "2025-02-05T07:00:00Z",
+               "beginTime": "2025-02-05T09:00:00Z",
+               "endTime": "2025-02-05T13:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -57225,9 +56980,9 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event19_ASIA",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T07:00:00Z",
-               "beginTime": "2025-02-05T09:00:00Z",
-               "endTime": "2025-02-05T13:00:00Z",
+               "countdownBeginTime": "2025-02-06T07:00:00Z",
+               "beginTime": "2025-02-06T09:00:00Z",
+               "endTime": "2025-02-06T13:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -57293,40 +57048,6 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event20_ASIA",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T07:00:00Z",
-               "beginTime": "2025-02-06T09:00:00Z",
-               "endTime": "2025-02-06T13:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:15",
-                  "eula:s33_ranked_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloE_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event21_ASIA",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T07:00:00Z",
                "beginTime": "2025-02-08T09:00:00Z",
                "endTime": "2025-02-08T13:00:00Z",
@@ -57359,7 +57080,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event22_ASIA",
+               "eventWindowId": "S33_RankedCupEliteSolo_Event21_ASIA",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T07:00:00Z",
                "beginTime": "2025-02-15T09:00:00Z",
@@ -57989,9 +57710,9 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event18_BR",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T19:00:00Z",
-               "beginTime": "2025-02-01T21:00:00Z",
-               "endTime": "2025-02-02T01:00:00Z",
+               "countdownBeginTime": "2025-02-05T19:00:00Z",
+               "beginTime": "2025-02-05T21:00:00Z",
+               "endTime": "2025-02-06T01:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -58023,9 +57744,9 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event19_BR",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T19:00:00Z",
-               "beginTime": "2025-02-05T21:00:00Z",
-               "endTime": "2025-02-06T01:00:00Z",
+               "countdownBeginTime": "2025-02-06T19:00:00Z",
+               "beginTime": "2025-02-06T21:00:00Z",
+               "endTime": "2025-02-07T01:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -58091,40 +57812,6 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event20_BR",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T19:00:00Z",
-               "beginTime": "2025-02-06T21:00:00Z",
-               "endTime": "2025-02-07T01:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:15",
-                  "eula:s33_ranked_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloE_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event21_BR",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T19:00:00Z",
                "beginTime": "2025-02-08T21:00:00Z",
                "endTime": "2025-02-09T01:00:00Z",
@@ -58157,7 +57844,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event22_BR",
+               "eventWindowId": "S33_RankedCupEliteSolo_Event21_BR",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T19:00:00Z",
                "beginTime": "2025-02-15T21:00:00Z",
@@ -58787,9 +58474,9 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event18_EU",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T16:00:00Z",
-               "beginTime": "2025-02-01T18:00:00Z",
-               "endTime": "2025-02-01T22:00:00Z",
+               "countdownBeginTime": "2025-02-05T16:00:00Z",
+               "beginTime": "2025-02-05T18:00:00Z",
+               "endTime": "2025-02-05T22:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -58821,9 +58508,9 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event19_EU",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T16:00:00Z",
-               "beginTime": "2025-02-05T18:00:00Z",
-               "endTime": "2025-02-05T22:00:00Z",
+               "countdownBeginTime": "2025-02-06T16:00:00Z",
+               "beginTime": "2025-02-06T18:00:00Z",
+               "endTime": "2025-02-06T22:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -58889,40 +58576,6 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event20_EU",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T16:00:00Z",
-               "beginTime": "2025-02-06T18:00:00Z",
-               "endTime": "2025-02-06T22:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:15",
-                  "eula:s33_ranked_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloE_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event21_EU",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T16:00:00Z",
                "beginTime": "2025-02-08T18:00:00Z",
                "endTime": "2025-02-08T22:00:00Z",
@@ -58955,7 +58608,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event22_EU",
+               "eventWindowId": "S33_RankedCupEliteSolo_Event21_EU",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T16:00:00Z",
                "beginTime": "2025-02-15T18:00:00Z",
@@ -59585,9 +59238,9 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event18_ME",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T13:00:00Z",
-               "beginTime": "2025-02-01T15:00:00Z",
-               "endTime": "2025-02-01T19:00:00Z",
+               "countdownBeginTime": "2025-02-05T13:00:00Z",
+               "beginTime": "2025-02-05T15:00:00Z",
+               "endTime": "2025-02-05T19:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -59619,9 +59272,9 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event19_ME",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T13:00:00Z",
-               "beginTime": "2025-02-05T15:00:00Z",
-               "endTime": "2025-02-05T19:00:00Z",
+               "countdownBeginTime": "2025-02-06T13:00:00Z",
+               "beginTime": "2025-02-06T15:00:00Z",
+               "endTime": "2025-02-06T19:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -59687,40 +59340,6 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event20_ME",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T13:00:00Z",
-               "beginTime": "2025-02-06T15:00:00Z",
-               "endTime": "2025-02-06T19:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:15",
-                  "eula:s33_ranked_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloE_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event21_ME",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T13:00:00Z",
                "beginTime": "2025-02-08T15:00:00Z",
                "endTime": "2025-02-08T19:00:00Z",
@@ -59753,7 +59372,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event22_ME",
+               "eventWindowId": "S33_RankedCupEliteSolo_Event21_ME",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T13:00:00Z",
                "beginTime": "2025-02-15T15:00:00Z",
@@ -60385,40 +60004,6 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event18_NAC",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T22:00:00Z",
-               "beginTime": "2025-02-02T00:00:00Z",
-               "endTime": "2025-02-02T04:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:15",
-                  "eula:s33_ranked_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloE_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event19_NAC",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-05T22:00:00Z",
                "beginTime": "2025-02-06T00:00:00Z",
                "endTime": "2025-02-06T04:00:00Z",
@@ -60451,41 +60036,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event2_NAC",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2024-12-12T22:00:00Z",
-               "beginTime": "2024-12-13T00:00:00Z",
-               "endTime": "2024-12-13T04:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:15",
-                  "eula:s33_ranked_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloE_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event20_NAC",
+               "eventWindowId": "S33_RankedCupEliteSolo_Event19_NAC",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-06T22:00:00Z",
                "beginTime": "2025-02-07T00:00:00Z",
@@ -60519,7 +60070,41 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event21_NAC",
+               "eventWindowId": "S33_RankedCupEliteSolo_Event2_NAC",
+               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
+               "countdownBeginTime": "2024-12-14T16:00:00Z",
+               "beginTime": "2024-12-14T18:00:00Z",
+               "endTime": "2024-12-14T22:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "currentRanking:ranked-br:15",
+                  "eula:s33_ranked_rules",
+                  "mfa"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S33_RankedCupSoloE_DefaultLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "ServerReplays": true,
+                  "RoundType": "Qualifiers"
+               }
+            },
+            {
+               "eventWindowId": "S33_RankedCupEliteSolo_Event20_NAC",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T22:00:00Z",
                "beginTime": "2025-02-09T00:00:00Z",
@@ -60553,7 +60138,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event22_NAC",
+               "eventWindowId": "S33_RankedCupEliteSolo_Event21_NAC",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T22:00:00Z",
                "beginTime": "2025-02-16T00:00:00Z",
@@ -61183,40 +60768,6 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event18_NAW",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-02T00:00:00Z",
-               "beginTime": "2025-02-02T02:00:00Z",
-               "endTime": "2025-02-02T06:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:15",
-                  "eula:s33_ranked_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloE_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event19_NAW",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-06T00:00:00Z",
                "beginTime": "2025-02-06T02:00:00Z",
                "endTime": "2025-02-06T06:00:00Z",
@@ -61249,41 +60800,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event2_NAW",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2024-12-13T00:00:00Z",
-               "beginTime": "2024-12-13T02:00:00Z",
-               "endTime": "2024-12-13T06:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:15",
-                  "eula:s33_ranked_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloE_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event20_NAW",
+               "eventWindowId": "S33_RankedCupEliteSolo_Event19_NAW",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-07T00:00:00Z",
                "beginTime": "2025-02-07T02:00:00Z",
@@ -61317,7 +60834,41 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event21_NAW",
+               "eventWindowId": "S33_RankedCupEliteSolo_Event2_NAW",
+               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
+               "countdownBeginTime": "2024-12-14T20:00:00Z",
+               "beginTime": "2024-12-14T22:00:00Z",
+               "endTime": "2024-12-15T02:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "currentRanking:ranked-br:15",
+                  "eula:s33_ranked_rules",
+                  "mfa"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S33_RankedCupSoloE_DefaultLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "ServerReplays": true,
+                  "RoundType": "Qualifiers"
+               }
+            },
+            {
+               "eventWindowId": "S33_RankedCupEliteSolo_Event20_NAW",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-09T00:00:00Z",
                "beginTime": "2025-02-09T02:00:00Z",
@@ -61351,7 +60902,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event22_NAW",
+               "eventWindowId": "S33_RankedCupEliteSolo_Event21_NAW",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-16T00:00:00Z",
                "beginTime": "2025-02-16T02:00:00Z",
@@ -61981,9 +61532,9 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event18_OCE",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T06:00:00Z",
-               "beginTime": "2025-02-01T08:00:00Z",
-               "endTime": "2025-02-01T12:00:00Z",
+               "countdownBeginTime": "2025-02-05T06:00:00Z",
+               "beginTime": "2025-02-05T08:00:00Z",
+               "endTime": "2025-02-05T08:10:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -62015,9 +61566,9 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event19_OCE",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T06:00:00Z",
-               "beginTime": "2025-02-05T08:00:00Z",
-               "endTime": "2025-02-05T12:00:00Z",
+               "countdownBeginTime": "2025-02-06T06:00:00Z",
+               "beginTime": "2025-02-06T08:00:00Z",
+               "endTime": "2025-02-06T12:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -62083,40 +61634,6 @@
             {
                "eventWindowId": "S33_RankedCupEliteSolo_Event20_OCE",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T06:00:00Z",
-               "beginTime": "2025-02-06T08:00:00Z",
-               "endTime": "2025-02-06T12:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "currentRanking:ranked-br:15",
-                  "eula:s33_ranked_rules",
-                  "mfa"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloE_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event21_OCE",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T06:00:00Z",
                "beginTime": "2025-02-08T08:00:00Z",
                "endTime": "2025-02-08T12:00:00Z",
@@ -62149,7 +61666,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupEliteSolo_Event22_OCE",
+               "eventWindowId": "S33_RankedCupEliteSolo_Event21_OCE",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T06:00:00Z",
                "beginTime": "2025-02-15T08:00:00Z",
@@ -64848,9 +64365,9 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event18_ASIA",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T07:00:00Z",
-               "beginTime": "2025-02-01T09:00:00Z",
-               "endTime": "2025-02-01T13:00:00Z",
+               "countdownBeginTime": "2025-02-05T07:00:00Z",
+               "beginTime": "2025-02-05T09:00:00Z",
+               "endTime": "2025-02-05T13:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -64883,9 +64400,9 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event19_ASIA",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T07:00:00Z",
-               "beginTime": "2025-02-05T09:00:00Z",
-               "endTime": "2025-02-05T13:00:00Z",
+               "countdownBeginTime": "2025-02-06T07:00:00Z",
+               "beginTime": "2025-02-06T09:00:00Z",
+               "endTime": "2025-02-06T13:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -64953,41 +64470,6 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event20_ASIA",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T07:00:00Z",
-               "beginTime": "2025-02-06T09:00:00Z",
-               "endTime": "2025-02-06T13:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s33_ranked_rules",
-                  "currentRankingMax:ranked-br:14",
-                  "mfa",
-                  "currentRanking:ranked-br:9"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloPD_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupPDSolo_Event21_ASIA",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T07:00:00Z",
                "beginTime": "2025-02-08T09:00:00Z",
                "endTime": "2025-02-08T13:00:00Z",
@@ -65021,7 +64503,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupPDSolo_Event22_ASIA",
+               "eventWindowId": "S33_RankedCupPDSolo_Event21_ASIA",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T07:00:00Z",
                "beginTime": "2025-02-15T09:00:00Z",
@@ -65668,9 +65150,9 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event18_BR",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T19:00:00Z",
-               "beginTime": "2025-02-01T21:00:00Z",
-               "endTime": "2025-02-02T01:00:00Z",
+               "countdownBeginTime": "2025-02-05T19:00:00Z",
+               "beginTime": "2025-02-05T21:00:00Z",
+               "endTime": "2025-02-06T01:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -65703,9 +65185,9 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event19_BR",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T19:00:00Z",
-               "beginTime": "2025-02-05T21:00:00Z",
-               "endTime": "2025-02-06T01:00:00Z",
+               "countdownBeginTime": "2025-02-06T19:00:00Z",
+               "beginTime": "2025-02-06T21:00:00Z",
+               "endTime": "2025-02-07T01:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -65773,41 +65255,6 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event20_BR",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T19:00:00Z",
-               "beginTime": "2025-02-06T21:00:00Z",
-               "endTime": "2025-02-07T01:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s33_ranked_rules",
-                  "currentRankingMax:ranked-br:14",
-                  "mfa",
-                  "currentRanking:ranked-br:9"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloPD_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupPDSolo_Event21_BR",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T19:00:00Z",
                "beginTime": "2025-02-08T21:00:00Z",
                "endTime": "2025-02-09T01:00:00Z",
@@ -65841,7 +65288,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupPDSolo_Event22_BR",
+               "eventWindowId": "S33_RankedCupPDSolo_Event21_BR",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T19:00:00Z",
                "beginTime": "2025-02-15T21:00:00Z",
@@ -66488,9 +65935,9 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event18_EU",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T16:00:00Z",
-               "beginTime": "2025-02-01T18:00:00Z",
-               "endTime": "2025-02-01T22:00:00Z",
+               "countdownBeginTime": "2025-02-05T16:00:00Z",
+               "beginTime": "2025-02-05T18:00:00Z",
+               "endTime": "2025-02-05T22:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -66523,9 +65970,9 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event19_EU",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T16:00:00Z",
-               "beginTime": "2025-02-05T18:00:00Z",
-               "endTime": "2025-02-05T22:00:00Z",
+               "countdownBeginTime": "2025-02-06T16:00:00Z",
+               "beginTime": "2025-02-06T18:00:00Z",
+               "endTime": "2025-02-06T22:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -66593,41 +66040,6 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event20_EU",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T16:00:00Z",
-               "beginTime": "2025-02-06T18:00:00Z",
-               "endTime": "2025-02-06T22:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s33_ranked_rules",
-                  "currentRankingMax:ranked-br:14",
-                  "mfa",
-                  "currentRanking:ranked-br:9"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloPD_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupPDSolo_Event21_EU",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T16:00:00Z",
                "beginTime": "2025-02-08T18:00:00Z",
                "endTime": "2025-02-08T22:00:00Z",
@@ -66661,7 +66073,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupPDSolo_Event22_EU",
+               "eventWindowId": "S33_RankedCupPDSolo_Event21_EU",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T16:00:00Z",
                "beginTime": "2025-02-15T18:00:00Z",
@@ -67308,9 +66720,9 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event18_ME",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T13:00:00Z",
-               "beginTime": "2025-02-01T15:00:00Z",
-               "endTime": "2025-02-01T19:00:00Z",
+               "countdownBeginTime": "2025-02-05T13:00:00Z",
+               "beginTime": "2025-02-05T15:00:00Z",
+               "endTime": "2025-02-05T19:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -67343,9 +66755,9 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event19_ME",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T13:00:00Z",
-               "beginTime": "2025-02-05T15:00:00Z",
-               "endTime": "2025-02-05T19:00:00Z",
+               "countdownBeginTime": "2025-02-06T13:00:00Z",
+               "beginTime": "2025-02-06T15:00:00Z",
+               "endTime": "2025-02-06T19:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -67413,41 +66825,6 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event20_ME",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T13:00:00Z",
-               "beginTime": "2025-02-06T15:00:00Z",
-               "endTime": "2025-02-06T19:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s33_ranked_rules",
-                  "currentRankingMax:ranked-br:14",
-                  "mfa",
-                  "currentRanking:ranked-br:9"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloPD_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupPDSolo_Event21_ME",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T13:00:00Z",
                "beginTime": "2025-02-08T15:00:00Z",
                "endTime": "2025-02-08T19:00:00Z",
@@ -67481,7 +66858,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupPDSolo_Event22_ME",
+               "eventWindowId": "S33_RankedCupPDSolo_Event21_ME",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T13:00:00Z",
                "beginTime": "2025-02-15T15:00:00Z",
@@ -68130,41 +67507,6 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event18_NAC",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T22:00:00Z",
-               "beginTime": "2025-02-02T00:00:00Z",
-               "endTime": "2025-02-02T04:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s33_ranked_rules",
-                  "currentRankingMax:ranked-br:14",
-                  "mfa",
-                  "currentRanking:ranked-br:9"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloPD_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupPDSolo_Event19_NAC",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-05T22:00:00Z",
                "beginTime": "2025-02-06T00:00:00Z",
                "endTime": "2025-02-06T04:00:00Z",
@@ -68198,42 +67540,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupPDSolo_Event2_NAC",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2024-12-12T22:00:00Z",
-               "beginTime": "2024-12-13T00:00:00Z",
-               "endTime": "2024-12-13T04:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s33_ranked_rules",
-                  "currentRankingMax:ranked-br:14",
-                  "mfa",
-                  "currentRanking:ranked-br:9"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloPD_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupPDSolo_Event20_NAC",
+               "eventWindowId": "S33_RankedCupPDSolo_Event19_NAC",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-06T22:00:00Z",
                "beginTime": "2025-02-07T00:00:00Z",
@@ -68268,7 +67575,42 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupPDSolo_Event21_NAC",
+               "eventWindowId": "S33_RankedCupPDSolo_Event2_NAC",
+               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
+               "countdownBeginTime": "2024-12-14T16:00:00Z",
+               "beginTime": "2024-12-14T18:00:00Z",
+               "endTime": "2024-12-14T22:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s33_ranked_rules",
+                  "currentRankingMax:ranked-br:14",
+                  "mfa",
+                  "currentRanking:ranked-br:9"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S33_RankedCupSoloPD_DefaultLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "ServerReplays": true,
+                  "RoundType": "Qualifiers"
+               }
+            },
+            {
+               "eventWindowId": "S33_RankedCupPDSolo_Event20_NAC",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T22:00:00Z",
                "beginTime": "2025-02-09T00:00:00Z",
@@ -68303,7 +67645,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupPDSolo_Event22_NAC",
+               "eventWindowId": "S33_RankedCupPDSolo_Event21_NAC",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T22:00:00Z",
                "beginTime": "2025-02-16T00:00:00Z",
@@ -68950,41 +68292,6 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event18_NAW",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-02T00:00:00Z",
-               "beginTime": "2025-02-02T02:00:00Z",
-               "endTime": "2025-02-02T06:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s33_ranked_rules",
-                  "currentRankingMax:ranked-br:14",
-                  "mfa",
-                  "currentRanking:ranked-br:9"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloPD_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupPDSolo_Event19_NAW",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-06T00:00:00Z",
                "beginTime": "2025-02-06T02:00:00Z",
                "endTime": "2025-02-06T06:00:00Z",
@@ -69018,42 +68325,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupPDSolo_Event2_NAW",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2024-12-13T00:00:00Z",
-               "beginTime": "2024-12-13T02:00:00Z",
-               "endTime": "2024-12-13T06:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s33_ranked_rules",
-                  "currentRankingMax:ranked-br:14",
-                  "mfa",
-                  "currentRanking:ranked-br:9"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloPD_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupPDSolo_Event20_NAW",
+               "eventWindowId": "S33_RankedCupPDSolo_Event19_NAW",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-07T00:00:00Z",
                "beginTime": "2025-02-07T02:00:00Z",
@@ -69088,7 +68360,42 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupPDSolo_Event21_NAW",
+               "eventWindowId": "S33_RankedCupPDSolo_Event2_NAW",
+               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
+               "countdownBeginTime": "2024-12-14T20:00:00Z",
+               "beginTime": "2024-12-14T22:00:00Z",
+               "endTime": "2024-12-15T02:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "eula:s33_ranked_rules",
+                  "currentRankingMax:ranked-br:14",
+                  "mfa",
+                  "currentRanking:ranked-br:9"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S33_RankedCupSoloPD_DefaultLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "ServerReplays": true,
+                  "RoundType": "Qualifiers"
+               }
+            },
+            {
+               "eventWindowId": "S33_RankedCupPDSolo_Event20_NAW",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-09T00:00:00Z",
                "beginTime": "2025-02-09T02:00:00Z",
@@ -69123,7 +68430,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupPDSolo_Event22_NAW",
+               "eventWindowId": "S33_RankedCupPDSolo_Event21_NAW",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-16T00:00:00Z",
                "beginTime": "2025-02-16T02:00:00Z",
@@ -69770,9 +69077,9 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event18_OCE",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-01T06:00:00Z",
-               "beginTime": "2025-02-01T08:00:00Z",
-               "endTime": "2025-02-01T12:00:00Z",
+               "countdownBeginTime": "2025-02-05T06:00:00Z",
+               "beginTime": "2025-02-05T08:00:00Z",
+               "endTime": "2025-02-05T08:10:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -69805,9 +69112,9 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event19_OCE",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-05T06:00:00Z",
-               "beginTime": "2025-02-05T08:00:00Z",
-               "endTime": "2025-02-05T12:00:00Z",
+               "countdownBeginTime": "2025-02-06T06:00:00Z",
+               "beginTime": "2025-02-06T08:00:00Z",
+               "endTime": "2025-02-06T12:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -69875,41 +69182,6 @@
             {
                "eventWindowId": "S33_RankedCupPDSolo_Event20_OCE",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-               "countdownBeginTime": "2025-02-06T06:00:00Z",
-               "beginTime": "2025-02-06T08:00:00Z",
-               "endTime": "2025-02-06T12:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s33_ranked_rules",
-                  "currentRankingMax:ranked-br:14",
-                  "mfa",
-                  "currentRanking:ranked-br:9"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S33_RankedCupSoloPD_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            },
-            {
-               "eventWindowId": "S33_RankedCupPDSolo_Event21_OCE",
-               "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-08T06:00:00Z",
                "beginTime": "2025-02-08T08:00:00Z",
                "endTime": "2025-02-08T12:00:00Z",
@@ -69943,7 +69215,7 @@
                }
             },
             {
-               "eventWindowId": "S33_RankedCupPDSolo_Event22_OCE",
+               "eventWindowId": "S33_RankedCupPDSolo_Event21_OCE",
                "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
                "countdownBeginTime": "2025-02-15T06:00:00Z",
                "beginTime": "2025-02-15T08:00:00Z",
@@ -75130,7 +74402,7 @@
                "eventTemplateId": "EventTemplate_S33_SoloCashCup_Round1",
                "countdownBeginTime": "2025-02-01T06:00:00Z",
                "beginTime": "2025-02-01T08:00:00Z",
-               "endTime": "2025-02-01T11:00:00Z",
+               "endTime": "2025-02-01T08:05:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -95856,12 +95128,12 @@
             "scoringType": "rank",
             "ranks": [
                {
-                  "threshold": 600,
+                  "threshold": 0,
                   "payouts": [
                      {
                         "rewardType": "token",
                         "rewardMode": "standard",
-                        "value": "S33_SoloCashCup_Event6Round2_OCE",
+                        "value": "S33_SoloCashCup_Event6Round2_OCE_fake_token",
                         "quantity": 1,
                         "notifiesPlayer": false
                      }

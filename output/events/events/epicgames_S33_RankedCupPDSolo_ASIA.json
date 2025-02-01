@@ -359,9 +359,9 @@
       {
          "eventWindowId": "S33_RankedCupPDSolo_Event18_ASIA",
          "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-         "countdownBeginTime": "2025-02-01T07:00:00Z",
-         "beginTime": "2025-02-01T09:00:00Z",
-         "endTime": "2025-02-01T13:00:00Z",
+         "countdownBeginTime": "2025-02-05T07:00:00Z",
+         "beginTime": "2025-02-05T09:00:00Z",
+         "endTime": "2025-02-05T13:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -394,9 +394,9 @@
       {
          "eventWindowId": "S33_RankedCupPDSolo_Event19_ASIA",
          "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-         "countdownBeginTime": "2025-02-05T07:00:00Z",
-         "beginTime": "2025-02-05T09:00:00Z",
-         "endTime": "2025-02-05T13:00:00Z",
+         "countdownBeginTime": "2025-02-06T07:00:00Z",
+         "beginTime": "2025-02-06T09:00:00Z",
+         "endTime": "2025-02-06T13:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -464,41 +464,6 @@
       {
          "eventWindowId": "S33_RankedCupPDSolo_Event20_ASIA",
          "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
-         "countdownBeginTime": "2025-02-06T07:00:00Z",
-         "beginTime": "2025-02-06T09:00:00Z",
-         "endTime": "2025-02-06T13:00:00Z",
-         "round": 0,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "eula:s33_ranked_rules",
-            "currentRankingMax:ranked-br:14",
-            "mfa",
-            "currentRanking:ranked-br:9"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S33_RankedCupSoloPD_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
-         }
-      },
-      {
-         "eventWindowId": "S33_RankedCupPDSolo_Event21_ASIA",
-         "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
          "countdownBeginTime": "2025-02-08T07:00:00Z",
          "beginTime": "2025-02-08T09:00:00Z",
          "endTime": "2025-02-08T13:00:00Z",
@@ -532,7 +497,7 @@
          }
       },
       {
-         "eventWindowId": "S33_RankedCupPDSolo_Event22_ASIA",
+         "eventWindowId": "S33_RankedCupPDSolo_Event21_ASIA",
          "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
          "countdownBeginTime": "2025-02-15T07:00:00Z",
          "beginTime": "2025-02-15T09:00:00Z",
