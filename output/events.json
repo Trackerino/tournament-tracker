@@ -21991,93 +21991,9 @@
       },
       {
          "gameId": "Fortnite",
-         "eventId": "epicgames_S33_FNCSCommunityCups_EU",
-         "beginTime": "2025-02-01T13:00:00Z",
-         "endTime": "2025-02-01T16:00:00Z",
-         "displayDataId": "s33_fncscommunity",
-         "eventGroup": "Season33_FNCSCommunityCup",
-         "announcementTime": "2025-01-27T15:30:00Z",
-         "regions": [
-            "EU"
-         ],
-         "regionMappings": {
-            "EU": "EUCOMP"
-         },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
-         "platformMappings": {},
-         "metadata": {
-            "minimumAccountLevel": 50,
-            "AccountLockType": "Window",
-            "DisqualifyType": "Window"
-         },
-         "eventWindows": [
-            {
-               "eventWindowId": "S33_FNCSCommunityCups_EU",
-               "eventTemplateId": "EventTemplate_S33_FNCSCommunityCups",
-               "countdownBeginTime": "2025-02-01T11:00:00Z",
-               "beginTime": "2025-02-01T13:00:00Z",
-               "endTime": "2025-02-01T16:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s33_fncscommunity_rules"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "Leaderboard_S33_FNCS_Community_Cups",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "ServerReplays": true,
-                  "RoundType": "Qualifiers"
-               }
-            }
-         ],
-         "link": {
-            "type": "br:tournament",
-            "code": "tournament_epicgames_s33_fncscommunitycups_eu",
-            "version": 1
-         }
-      },
-      {
-         "gameId": "Fortnite",
          "eventId": "epicgames_S33_FNCSCommunityCups_ME",
          "beginTime": "2025-02-01T10:00:00Z",
-         "endTime": "2025-02-01T13:00:00Z",
+         "endTime": "2025-02-01T10:10:00Z",
          "displayDataId": "s33_fncscommunity",
          "eventGroup": "Season33_FNCSCommunityCup",
          "announcementTime": "2025-01-27T15:30:00Z",
@@ -22120,7 +22036,7 @@
                "eventTemplateId": "EventTemplate_S33_FNCSCommunityCups",
                "countdownBeginTime": "2025-02-01T08:00:00Z",
                "beginTime": "2025-02-01T10:00:00Z",
-               "endTime": "2025-02-01T13:00:00Z",
+               "endTime": "2025-02-01T10:10:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -84759,146 +84675,17 @@
             ]
          }
       ],
-      "S33_FNCSCommunityCups_EU": [
-         {
-            "scoringType": "value",
-            "ranks": [
-               {
-                  "threshold": 8,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaDance:spray_fncswildcard",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "scoringType": "value",
-            "ranks": [
-               {
-                  "threshold": 40,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaBackpack:backpack_fncsshield_s33",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 2000,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_heistfncs",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaPickaxe:pickaxe_noisefncs",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaItemWrap:wrap_comp33",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaGlider:Glider_PilonFNCS",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
       "S33_FNCSCommunityCups_ME": [
          {
             "scoringType": "value",
             "ranks": [
                {
-                  "threshold": 8,
+                  "threshold": 1000,
                   "payouts": [
                      {
-                        "rewardType": "game",
+                        "rewardType": "token",
                         "rewardMode": "standard",
-                        "value": "AthenaDance:spray_fncswildcard",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "scoringType": "value",
-            "ranks": [
-               {
-                  "threshold": 40,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaBackpack:backpack_fncsshield_s33",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 200,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_heistfncs",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaPickaxe:pickaxe_noisefncs",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaItemWrap:wrap_comp33",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaGlider:Glider_PilonFNCS",
+                        "value": "fake_token",
                         "quantity": 1,
                         "notifiesPlayer": false
                      }
