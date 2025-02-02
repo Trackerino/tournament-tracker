@@ -81,8 +81,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "S33_FNCS_Banned",
-            "S33_FNCSMajor1_GrandFinalist_NAC"
+            "S33_FNCSMajor1_GrandFinalist_NAC",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -123,8 +123,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "S33_FNCS_Banned",
-            "S33_FNCSMajor1_GrandFinalist_NAC"
+            "S33_FNCSMajor1_GrandFinalist_NAC",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -166,8 +166,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "S33_FNCS_Banned",
-            "S33_FNCSMajor1_GrandFinalist_NAC"
+            "S33_FNCSMajor1_GrandFinalist_NAC",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],

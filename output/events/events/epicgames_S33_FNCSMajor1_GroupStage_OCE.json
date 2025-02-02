@@ -121,8 +121,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "S33_FNCS_Banned",
-            "S33_FNCSMajor1_GrandFinalist_OCE"
+            "S33_FNCSMajor1_GrandFinalist_OCE",
+            "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],

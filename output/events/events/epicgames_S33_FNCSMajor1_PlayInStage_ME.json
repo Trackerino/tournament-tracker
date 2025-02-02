@@ -83,12 +83,12 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "RegionLock_S33_FNCSMajor1_NAW",
-            "RegionLock_S33_FNCSMajor1_BR",
-            "RegionLock_S33_FNCSMajor1_OCE",
-            "RegionLock_S33_FNCSMajor1_EU",
             "RegionLock_S33_FNCSMajor1_ASIA",
+            "RegionLock_S33_FNCSMajor1_BR",
+            "RegionLock_S33_FNCSMajor1_EU",
             "RegionLock_S33_FNCSMajor1_NAC",
+            "RegionLock_S33_FNCSMajor1_NAW",
+            "RegionLock_S33_FNCSMajor1_OCE",
             "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
@@ -133,12 +133,12 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "RegionLock_S33_FNCSMajor1_NAW",
-            "RegionLock_S33_FNCSMajor1_BR",
-            "RegionLock_S33_FNCSMajor1_OCE",
-            "RegionLock_S33_FNCSMajor1_EU",
             "RegionLock_S33_FNCSMajor1_ASIA",
+            "RegionLock_S33_FNCSMajor1_BR",
+            "RegionLock_S33_FNCSMajor1_EU",
             "RegionLock_S33_FNCSMajor1_NAC",
+            "RegionLock_S33_FNCSMajor1_NAW",
+            "RegionLock_S33_FNCSMajor1_OCE",
             "S33_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],

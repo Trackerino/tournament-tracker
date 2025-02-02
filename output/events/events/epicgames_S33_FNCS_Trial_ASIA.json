@@ -75,12 +75,12 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "RegionLock_S33_FNCSTrial_EU",
-            "RegionLock_S33_FNCSTrial_NAW",
-            "RegionLock_S33_FNCSTrial_NAC",
             "RegionLock_S33_FNCSTrial_BR",
-            "RegionLock_S33_FNCSTrial_OCE",
-            "RegionLock_S33_FNCSTrial_ME"
+            "RegionLock_S33_FNCSTrial_EU",
+            "RegionLock_S33_FNCSTrial_ME",
+            "RegionLock_S33_FNCSTrial_NAC",
+            "RegionLock_S33_FNCSTrial_NAW",
+            "RegionLock_S33_FNCSTrial_OCE"
          ],
          "requireAllTokensCaller": [
             "S33_CashCup_Qualified"

@@ -844,8 +844,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S32_PerformanceEvaluation_Event5Round2_EU"
+                  "S32_PerformanceEvaluation_Event5Round2_EU",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -21196,12 +21196,12 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSTrial_EU",
-                  "RegionLock_S33_FNCSTrial_NAW",
-                  "RegionLock_S33_FNCSTrial_NAC",
                   "RegionLock_S33_FNCSTrial_BR",
-                  "RegionLock_S33_FNCSTrial_OCE",
-                  "RegionLock_S33_FNCSTrial_ME"
+                  "RegionLock_S33_FNCSTrial_EU",
+                  "RegionLock_S33_FNCSTrial_ME",
+                  "RegionLock_S33_FNCSTrial_NAC",
+                  "RegionLock_S33_FNCSTrial_NAW",
+                  "RegionLock_S33_FNCSTrial_OCE"
                ],
                "requireAllTokensCaller": [
                   "S33_CashCup_Qualified"
@@ -21296,12 +21296,12 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
+                  "RegionLock_S33_FNCSTrial_ASIA",
                   "RegionLock_S33_FNCSTrial_EU",
-                  "RegionLock_S33_FNCSTrial_NAW",
-                  "RegionLock_S33_FNCSTrial_NAC",
-                  "RegionLock_S33_FNCSTrial_OCE",
                   "RegionLock_S33_FNCSTrial_ME",
-                  "RegionLock_S33_FNCSTrial_ASIA"
+                  "RegionLock_S33_FNCSTrial_NAC",
+                  "RegionLock_S33_FNCSTrial_NAW",
+                  "RegionLock_S33_FNCSTrial_OCE"
                ],
                "requireAllTokensCaller": [
                   "S33_CashCup_Qualified"
@@ -21396,12 +21396,12 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSTrial_NAW",
-                  "RegionLock_S33_FNCSTrial_NAC",
+                  "RegionLock_S33_FNCSTrial_ASIA",
                   "RegionLock_S33_FNCSTrial_BR",
-                  "RegionLock_S33_FNCSTrial_OCE",
                   "RegionLock_S33_FNCSTrial_ME",
-                  "RegionLock_S33_FNCSTrial_ASIA"
+                  "RegionLock_S33_FNCSTrial_NAC",
+                  "RegionLock_S33_FNCSTrial_NAW",
+                  "RegionLock_S33_FNCSTrial_OCE"
                ],
                "requireAllTokensCaller": [
                   "S33_CashCup_Qualified"
@@ -21496,12 +21496,12 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSTrial_EU",
-                  "RegionLock_S33_FNCSTrial_NAW",
-                  "RegionLock_S33_FNCSTrial_NAC",
+                  "RegionLock_S33_FNCSTrial_ASIA",
                   "RegionLock_S33_FNCSTrial_BR",
-                  "RegionLock_S33_FNCSTrial_OCE",
-                  "RegionLock_S33_FNCSTrial_ASIA"
+                  "RegionLock_S33_FNCSTrial_EU",
+                  "RegionLock_S33_FNCSTrial_NAC",
+                  "RegionLock_S33_FNCSTrial_NAW",
+                  "RegionLock_S33_FNCSTrial_OCE"
                ],
                "requireAllTokensCaller": [
                   "S33_CashCup_Qualified"
@@ -21598,12 +21598,12 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSTrial_EU",
-                  "RegionLock_S33_FNCSTrial_NAW",
+                  "RegionLock_S33_FNCSTrial_ASIA",
                   "RegionLock_S33_FNCSTrial_BR",
-                  "RegionLock_S33_FNCSTrial_OCE",
+                  "RegionLock_S33_FNCSTrial_EU",
                   "RegionLock_S33_FNCSTrial_ME",
-                  "RegionLock_S33_FNCSTrial_ASIA"
+                  "RegionLock_S33_FNCSTrial_NAW",
+                  "RegionLock_S33_FNCSTrial_OCE"
                ],
                "requireAllTokensCaller": [
                   "S33_CashCup_Qualified"
@@ -21698,12 +21698,12 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSTrial_EU",
-                  "RegionLock_S33_FNCSTrial_NAC",
+                  "RegionLock_S33_FNCSTrial_ASIA",
                   "RegionLock_S33_FNCSTrial_BR",
-                  "RegionLock_S33_FNCSTrial_OCE",
+                  "RegionLock_S33_FNCSTrial_EU",
                   "RegionLock_S33_FNCSTrial_ME",
-                  "RegionLock_S33_FNCSTrial_ASIA"
+                  "RegionLock_S33_FNCSTrial_NAC",
+                  "RegionLock_S33_FNCSTrial_OCE"
                ],
                "requireAllTokensCaller": [
                   "S33_CashCup_Qualified"
@@ -21798,12 +21798,12 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSTrial_EU",
-                  "RegionLock_S33_FNCSTrial_NAW",
-                  "RegionLock_S33_FNCSTrial_NAC",
+                  "RegionLock_S33_FNCSTrial_ASIA",
                   "RegionLock_S33_FNCSTrial_BR",
+                  "RegionLock_S33_FNCSTrial_EU",
                   "RegionLock_S33_FNCSTrial_ME",
-                  "RegionLock_S33_FNCSTrial_ASIA"
+                  "RegionLock_S33_FNCSTrial_NAC",
+                  "RegionLock_S33_FNCSTrial_NAW"
                ],
                "requireAllTokensCaller": [
                   "S33_CashCup_Qualified"
@@ -35981,8 +35981,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_ASIA"
+                  "S33_FNCSMajor1_GrandFinalist_ASIA",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36022,8 +36022,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_ASIA"
+                  "S33_FNCSMajor1_GrandFinalist_ASIA",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36123,8 +36123,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_BR"
+                  "S33_FNCSMajor1_GrandFinalist_BR",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36164,8 +36164,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_BR"
+                  "S33_FNCSMajor1_GrandFinalist_BR",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36265,8 +36265,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_EU"
+                  "S33_FNCSMajor1_GrandFinalist_EU",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36307,8 +36307,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_EU"
+                  "S33_FNCSMajor1_GrandFinalist_EU",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36350,8 +36350,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_EU"
+                  "S33_FNCSMajor1_GrandFinalist_EU",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36452,8 +36452,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_ME"
+                  "S33_FNCSMajor1_GrandFinalist_ME",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36493,8 +36493,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_ME"
+                  "S33_FNCSMajor1_GrandFinalist_ME",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36596,8 +36596,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_NAC"
+                  "S33_FNCSMajor1_GrandFinalist_NAC",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36638,8 +36638,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_NAC"
+                  "S33_FNCSMajor1_GrandFinalist_NAC",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36681,8 +36681,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_NAC"
+                  "S33_FNCSMajor1_GrandFinalist_NAC",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36783,8 +36783,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_NAW"
+                  "S33_FNCSMajor1_GrandFinalist_NAW",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36824,8 +36824,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_NAW"
+                  "S33_FNCSMajor1_GrandFinalist_NAW",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -36967,8 +36967,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_OCE"
+                  "S33_FNCSMajor1_GrandFinalist_OCE",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -37068,8 +37068,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_ASIA"
+                  "S33_FNCSMajor1_GrandFinalist_ASIA",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -37112,14 +37112,14 @@
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCSMajor1_GrandFinalist_ASIA",
-                  "RegionLock_S33_FNCSMajor1_NAW",
                   "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
-                  "RegionLock_S33_FNCSMajor1_NAC",
-                  "S33_FNCS_Banned",
                   "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
+                  "S33_FNCSMajor1_GrandFinalist_ASIA",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -37217,8 +37217,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_BR"
+                  "S33_FNCSMajor1_GrandFinalist_BR",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -37261,14 +37261,14 @@
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
                   "RegionLock_S33_FNCSMajor1_ASIA",
-                  "RegionLock_S33_FNCSMajor1_NAC",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
                   "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
+                  "S33_FNCSMajor1_GrandFinalist_BR",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -37366,8 +37366,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_EU"
+                  "S33_FNCSMajor1_GrandFinalist_EU",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -37410,13 +37410,13 @@
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
-                  "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
-                  "RegionLock_S33_FNCSMajor1_ME",
                   "RegionLock_S33_FNCSMajor1_ASIA",
-                  "S33_FNCSMajor1_GrandFinalist_EU",
+                  "RegionLock_S33_FNCSMajor1_BR",
+                  "RegionLock_S33_FNCSMajor1_ME",
                   "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
+                  "S33_FNCSMajor1_GrandFinalist_EU",
                   "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
@@ -37515,8 +37515,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_ME"
+                  "S33_FNCSMajor1_GrandFinalist_ME",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -37559,13 +37559,13 @@
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
-                  "RegionLock_S33_FNCSMajor1_BR",
-                  "S33_FNCSMajor1_GrandFinalist_ME",
-                  "RegionLock_S33_FNCSMajor1_OCE",
-                  "RegionLock_S33_FNCSMajor1_EU",
                   "RegionLock_S33_FNCSMajor1_ASIA",
+                  "RegionLock_S33_FNCSMajor1_BR",
+                  "RegionLock_S33_FNCSMajor1_EU",
                   "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
+                  "S33_FNCSMajor1_GrandFinalist_ME",
                   "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
@@ -37666,8 +37666,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_NAC"
+                  "S33_FNCSMajor1_GrandFinalist_NAC",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -37710,14 +37710,14 @@
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
-                  "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
                   "RegionLock_S33_FNCSMajor1_ASIA",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_NAC",
+                  "RegionLock_S33_FNCSMajor1_BR",
                   "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
+                  "S33_FNCSMajor1_GrandFinalist_NAC",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -37815,8 +37815,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_NAW"
+                  "S33_FNCSMajor1_GrandFinalist_NAW",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -37859,14 +37859,14 @@
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_BR",
-                  "S33_FNCSMajor1_GrandFinalist_NAW",
-                  "RegionLock_S33_FNCSMajor1_OCE",
                   "RegionLock_S33_FNCSMajor1_ASIA",
-                  "RegionLock_S33_FNCSMajor1_NAC",
-                  "S33_FNCS_Banned",
+                  "RegionLock_S33_FNCSMajor1_BR",
                   "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_OCE",
+                  "S33_FNCSMajor1_GrandFinalist_NAW",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -37964,8 +37964,8 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "S33_FNCS_Banned",
-                  "S33_FNCSMajor1_GrandFinalist_OCE"
+                  "S33_FNCSMajor1_GrandFinalist_OCE",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -38008,14 +38008,14 @@
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
-                  "RegionLock_S33_FNCSMajor1_BR",
                   "RegionLock_S33_FNCSMajor1_ASIA",
-                  "RegionLock_S33_FNCSMajor1_NAC",
-                  "S33_FNCS_Banned",
+                  "RegionLock_S33_FNCSMajor1_BR",
                   "RegionLock_S33_FNCSMajor1_EU",
                   "RegionLock_S33_FNCSMajor1_ME",
-                  "S33_FNCSMajor1_GrandFinalist_OCE"
+                  "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "S33_FNCSMajor1_GrandFinalist_OCE",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -38117,13 +38117,13 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
                   "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
-                  "RegionLock_S33_FNCSMajor1_NAC",
-                  "S33_FNCS_Banned",
                   "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -38167,13 +38167,13 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
                   "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
-                  "RegionLock_S33_FNCSMajor1_NAC",
-                  "S33_FNCS_Banned",
                   "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -38276,13 +38276,13 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
+                  "RegionLock_S33_FNCSMajor1_ASIA",
+                  "RegionLock_S33_FNCSMajor1_EU",
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAC",
                   "RegionLock_S33_FNCSMajor1_NAW",
                   "RegionLock_S33_FNCSMajor1_OCE",
-                  "RegionLock_S33_FNCSMajor1_ASIA",
-                  "RegionLock_S33_FNCSMajor1_NAC",
-                  "S33_FNCS_Banned",
-                  "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -38326,13 +38326,13 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
+                  "RegionLock_S33_FNCSMajor1_ASIA",
+                  "RegionLock_S33_FNCSMajor1_EU",
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAC",
                   "RegionLock_S33_FNCSMajor1_NAW",
                   "RegionLock_S33_FNCSMajor1_OCE",
-                  "RegionLock_S33_FNCSMajor1_ASIA",
-                  "RegionLock_S33_FNCSMajor1_NAC",
-                  "S33_FNCS_Banned",
-                  "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -38435,12 +38435,12 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
-                  "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
-                  "RegionLock_S33_FNCSMajor1_ME",
                   "RegionLock_S33_FNCSMajor1_ASIA",
+                  "RegionLock_S33_FNCSMajor1_BR",
+                  "RegionLock_S33_FNCSMajor1_ME",
                   "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
                   "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
@@ -38485,12 +38485,12 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
-                  "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
-                  "RegionLock_S33_FNCSMajor1_ME",
                   "RegionLock_S33_FNCSMajor1_ASIA",
+                  "RegionLock_S33_FNCSMajor1_BR",
+                  "RegionLock_S33_FNCSMajor1_ME",
                   "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
                   "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
@@ -38594,12 +38594,12 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
-                  "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
-                  "RegionLock_S33_FNCSMajor1_EU",
                   "RegionLock_S33_FNCSMajor1_ASIA",
+                  "RegionLock_S33_FNCSMajor1_BR",
+                  "RegionLock_S33_FNCSMajor1_EU",
                   "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
                   "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
@@ -38644,12 +38644,12 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
-                  "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
-                  "RegionLock_S33_FNCSMajor1_EU",
                   "RegionLock_S33_FNCSMajor1_ASIA",
+                  "RegionLock_S33_FNCSMajor1_BR",
+                  "RegionLock_S33_FNCSMajor1_EU",
                   "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
                   "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
@@ -38755,13 +38755,13 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
-                  "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
                   "RegionLock_S33_FNCSMajor1_ASIA",
-                  "S33_FNCS_Banned",
+                  "RegionLock_S33_FNCSMajor1_BR",
                   "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -38805,13 +38805,13 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
-                  "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
                   "RegionLock_S33_FNCSMajor1_ASIA",
-                  "S33_FNCS_Banned",
+                  "RegionLock_S33_FNCSMajor1_BR",
                   "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "RegionLock_S33_FNCSMajor1_OCE",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -38914,13 +38914,13 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
                   "RegionLock_S33_FNCSMajor1_ASIA",
-                  "RegionLock_S33_FNCSMajor1_NAC",
-                  "S33_FNCS_Banned",
+                  "RegionLock_S33_FNCSMajor1_BR",
                   "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_OCE",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -38964,13 +38964,13 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_BR",
-                  "RegionLock_S33_FNCSMajor1_OCE",
                   "RegionLock_S33_FNCSMajor1_ASIA",
-                  "RegionLock_S33_FNCSMajor1_NAC",
-                  "S33_FNCS_Banned",
+                  "RegionLock_S33_FNCSMajor1_BR",
                   "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_OCE",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -39073,13 +39073,13 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
-                  "RegionLock_S33_FNCSMajor1_BR",
                   "RegionLock_S33_FNCSMajor1_ASIA",
-                  "RegionLock_S33_FNCSMajor1_NAC",
-                  "S33_FNCS_Banned",
+                  "RegionLock_S33_FNCSMajor1_BR",
                   "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -39123,13 +39123,13 @@
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2",
-                  "RegionLock_S33_FNCSMajor1_NAW",
-                  "RegionLock_S33_FNCSMajor1_BR",
                   "RegionLock_S33_FNCSMajor1_ASIA",
-                  "RegionLock_S33_FNCSMajor1_NAC",
-                  "S33_FNCS_Banned",
+                  "RegionLock_S33_FNCSMajor1_BR",
                   "RegionLock_S33_FNCSMajor1_EU",
-                  "RegionLock_S33_FNCSMajor1_ME"
+                  "RegionLock_S33_FNCSMajor1_ME",
+                  "RegionLock_S33_FNCSMajor1_NAC",
+                  "RegionLock_S33_FNCSMajor1_NAW",
+                  "S33_FNCS_Banned"
                ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
@@ -44231,12 +44231,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -44279,8 +44279,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S33_PerformanceEvaluation_Event10Round2_EU"
+                  "S33_PerformanceEvaluation_Event10Round2_EU",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -44410,12 +44410,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -44502,12 +44502,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -44594,12 +44594,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -44687,12 +44687,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -44735,8 +44735,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S33_PerformanceEvaluation_Event5Round2_EU"
+                  "S33_PerformanceEvaluation_Event5Round2_EU",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -44780,12 +44780,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -44828,8 +44828,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S33_PerformanceEvaluation_Event6Round2_EU"
+                  "S33_PerformanceEvaluation_Event6Round2_EU",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -44873,12 +44873,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -44921,8 +44921,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S33_PerformanceEvaluation_Event7Round2_EU"
+                  "S33_PerformanceEvaluation_Event7Round2_EU",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -44966,12 +44966,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -45014,8 +45014,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S33_PerformanceEvaluation_Event8Round2_EU"
+                  "S33_PerformanceEvaluation_Event8Round2_EU",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -45059,12 +45059,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -45107,8 +45107,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S33_PerformanceEvaluation_Event9Round2_EU"
+                  "S33_PerformanceEvaluation_Event9Round2_EU",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -45201,12 +45201,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -45249,8 +45249,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S33_PerformanceEvaluation_Event10Round2_NAC"
+                  "S33_PerformanceEvaluation_Event10Round2_NAC",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -45380,12 +45380,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -45472,12 +45472,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -45564,12 +45564,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -45657,12 +45657,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -45705,8 +45705,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S33_PerformanceEvaluation_Event5Round2_NAC"
+                  "S33_PerformanceEvaluation_Event5Round2_NAC",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -45750,12 +45750,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -45798,8 +45798,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S33_PerformanceEvaluation_Event6Round2_NAC"
+                  "S33_PerformanceEvaluation_Event6Round2_NAC",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -45843,12 +45843,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -45891,8 +45891,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S33_PerformanceEvaluation_Event7Round2_NAC"
+                  "S33_PerformanceEvaluation_Event7Round2_NAC",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -45936,12 +45936,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -45984,8 +45984,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S33_PerformanceEvaluation_Event8Round2_NAC"
+                  "S33_PerformanceEvaluation_Event8Round2_NAC",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -46029,12 +46029,12 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_FNCS_Division1_ME",
-                  "S33_FNCS_Division1_EU",
-                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_ASIA",
-                  "S33_FNCS_Division1_NAC",
                   "S33_FNCS_Division1_BR",
+                  "S33_FNCS_Division1_EU",
+                  "S33_FNCS_Division1_ME",
+                  "S33_FNCS_Division1_NAC",
+                  "S33_FNCS_Division1_NAW",
                   "S33_FNCS_Division1_OCE"
                ],
                "requireNoneTokensCaller": [
@@ -46077,8 +46077,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "WeeklyTournamentSpectator",
-                  "S33_PerformanceEvaluation_Event9Round2_NAC"
+                  "S33_PerformanceEvaluation_Event9Round2_NAC",
+                  "WeeklyTournamentSpectator"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"
@@ -46155,8 +46155,8 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [
-                  "S33_PlaystationCupFinal_ASIA",
-                  "S29_PSCupMarch_Final_Spectator"
+                  "S29_PSCupMarch_Final_Spectator",
+                  "S33_PlaystationCupFinal_ASIA"
                ],
                "requireNoneTokensCaller": [
                   "EpicAccountPrizingRestriction_v2"

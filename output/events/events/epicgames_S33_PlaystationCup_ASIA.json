@@ -49,8 +49,8 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_PlaystationCupFinal_ASIA",
-            "S29_PSCupMarch_Final_Spectator"
+            "S29_PSCupMarch_Final_Spectator",
+            "S33_PlaystationCupFinal_ASIA"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"

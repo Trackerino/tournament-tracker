@@ -62,12 +62,12 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_ME",
-            "S33_FNCS_Division1_EU",
-            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_ASIA",
-            "S33_FNCS_Division1_NAC",
             "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_OCE"
          ],
          "requireNoneTokensCaller": [
@@ -110,8 +110,8 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "WeeklyTournamentSpectator",
-            "S33_PerformanceEvaluation_Event10Round2_EU"
+            "S33_PerformanceEvaluation_Event10Round2_EU",
+            "WeeklyTournamentSpectator"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
@@ -241,12 +241,12 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_ME",
-            "S33_FNCS_Division1_EU",
-            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_ASIA",
-            "S33_FNCS_Division1_NAC",
             "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_OCE"
          ],
          "requireNoneTokensCaller": [
@@ -333,12 +333,12 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_ME",
-            "S33_FNCS_Division1_EU",
-            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_ASIA",
-            "S33_FNCS_Division1_NAC",
             "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_OCE"
          ],
          "requireNoneTokensCaller": [
@@ -425,12 +425,12 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_ME",
-            "S33_FNCS_Division1_EU",
-            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_ASIA",
-            "S33_FNCS_Division1_NAC",
             "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_OCE"
          ],
          "requireNoneTokensCaller": [
@@ -518,12 +518,12 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_ME",
-            "S33_FNCS_Division1_EU",
-            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_ASIA",
-            "S33_FNCS_Division1_NAC",
             "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_OCE"
          ],
          "requireNoneTokensCaller": [
@@ -566,8 +566,8 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "WeeklyTournamentSpectator",
-            "S33_PerformanceEvaluation_Event5Round2_EU"
+            "S33_PerformanceEvaluation_Event5Round2_EU",
+            "WeeklyTournamentSpectator"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
@@ -611,12 +611,12 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_ME",
-            "S33_FNCS_Division1_EU",
-            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_ASIA",
-            "S33_FNCS_Division1_NAC",
             "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_OCE"
          ],
          "requireNoneTokensCaller": [
@@ -659,8 +659,8 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "WeeklyTournamentSpectator",
-            "S33_PerformanceEvaluation_Event6Round2_EU"
+            "S33_PerformanceEvaluation_Event6Round2_EU",
+            "WeeklyTournamentSpectator"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
@@ -704,12 +704,12 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_ME",
-            "S33_FNCS_Division1_EU",
-            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_ASIA",
-            "S33_FNCS_Division1_NAC",
             "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_OCE"
          ],
          "requireNoneTokensCaller": [
@@ -752,8 +752,8 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "WeeklyTournamentSpectator",
-            "S33_PerformanceEvaluation_Event7Round2_EU"
+            "S33_PerformanceEvaluation_Event7Round2_EU",
+            "WeeklyTournamentSpectator"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
@@ -797,12 +797,12 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_ME",
-            "S33_FNCS_Division1_EU",
-            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_ASIA",
-            "S33_FNCS_Division1_NAC",
             "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_OCE"
          ],
          "requireNoneTokensCaller": [
@@ -845,8 +845,8 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "WeeklyTournamentSpectator",
-            "S33_PerformanceEvaluation_Event8Round2_EU"
+            "S33_PerformanceEvaluation_Event8Round2_EU",
+            "WeeklyTournamentSpectator"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
@@ -890,12 +890,12 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_ME",
-            "S33_FNCS_Division1_EU",
-            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_ASIA",
-            "S33_FNCS_Division1_NAC",
             "S33_FNCS_Division1_BR",
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division1_ME",
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division1_NAW",
             "S33_FNCS_Division1_OCE"
          ],
          "requireNoneTokensCaller": [
@@ -938,8 +938,8 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "WeeklyTournamentSpectator",
-            "S33_PerformanceEvaluation_Event9Round2_EU"
+            "S33_PerformanceEvaluation_Event9Round2_EU",
+            "WeeklyTournamentSpectator"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"

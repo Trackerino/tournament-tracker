@@ -448,8 +448,8 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "WeeklyTournamentSpectator",
-            "S32_PerformanceEvaluation_Event5Round2_EU"
+            "S32_PerformanceEvaluation_Event5Round2_EU",
+            "WeeklyTournamentSpectator"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
