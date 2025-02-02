@@ -35,9 +35,9 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "minimumAccountLevel": 350,
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
+      "minimumAccountLevel": 350,
       "TeamLockType": "Week"
    },
    "eventWindows": [
@@ -86,8 +86,8 @@
          ],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week1_NAW"
          }
       },
@@ -136,8 +136,8 @@
          ],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week1_NAW"
          }
       },
@@ -186,8 +186,8 @@
          ],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week2_NAW"
          }
       },
@@ -236,8 +236,8 @@
          ],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week2_NAW"
          }
       },
@@ -287,8 +287,8 @@
          ],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week3_NAW"
          }
       },
@@ -338,8 +338,8 @@
          ],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week3_NAW"
          }
       },
@@ -389,8 +389,8 @@
          ],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week4_NAW"
          }
       },
@@ -440,8 +440,8 @@
          ],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week4_NAW"
          }
       },
@@ -491,8 +491,8 @@
          ],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week5_NAW"
          }
       },
@@ -542,8 +542,8 @@
          ],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week5_NAW"
          }
       }

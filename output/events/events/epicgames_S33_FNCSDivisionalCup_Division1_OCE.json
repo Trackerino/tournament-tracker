@@ -35,9 +35,9 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "minimumAccountLevel": 350,
       "AccountLockType": "Window",
       "DisqualifyType": "Event",
+      "minimumAccountLevel": 350,
       "TeamLockType": "Week"
    },
    "eventWindows": [
@@ -80,8 +80,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week1"
          }
       },
@@ -124,8 +124,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week1"
          }
       },
@@ -162,11 +162,11 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week1",
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week1"
          }
       },
       {
@@ -208,8 +208,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week2_OCE"
          }
       },
@@ -252,8 +252,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week2_OCE"
          }
       },
@@ -290,11 +290,11 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week2_OCE",
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week2_OCE"
          }
       },
       {
@@ -337,8 +337,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week3_OCE"
          }
       },
@@ -382,8 +382,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week3_OCE"
          }
       },
@@ -421,11 +421,11 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week3_OCE",
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week3_OCE"
          }
       },
       {
@@ -468,8 +468,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week4_OCE"
          }
       },
@@ -513,8 +513,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week4_OCE"
          }
       },
@@ -552,11 +552,11 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week4_OCE",
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week4_OCE"
          }
       },
       {
@@ -599,8 +599,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week5_OCE"
          }
       },
@@ -644,8 +644,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week5_OCE"
          }
       },
@@ -683,11 +683,11 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week5_OCE",
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week5_OCE"
          }
       }
    ],

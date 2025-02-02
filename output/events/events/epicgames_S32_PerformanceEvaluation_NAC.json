@@ -35,8 +35,8 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "minimumAccountLevel": 350,
       "AccountLockType": "Window",
+      "minimumAccountLevel": 350,
       "TeamLockType": "Window"
    },
    "eventWindows": [
@@ -73,10 +73,10 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week5",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true,
+            "SubgroupId": "Week5"
          }
       },
       {
@@ -118,12 +118,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week5",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week5"
          }
       }
    ],

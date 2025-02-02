@@ -36,8 +36,8 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "minimumAccountLevel": 350,
-      "AccountLockType": "Window"
+      "AccountLockType": "Window",
+      "minimumAccountLevel": 350
    },
    "eventWindows": [
       {
@@ -82,10 +82,10 @@
             "NAC": "NACCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week10",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true,
+            "SubgroupId": "Week10"
          }
       },
       {
@@ -125,12 +125,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week10",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week10"
          }
       },
       {
@@ -169,8 +169,8 @@
             "NAC": "NACCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week1"
          }
       },
@@ -211,12 +211,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week1",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week1"
          }
       },
       {
@@ -261,8 +261,8 @@
             "NAC": "NACCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week2"
          }
       },
@@ -303,12 +303,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week2",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week2"
          }
       },
       {
@@ -353,8 +353,8 @@
             "NAC": "NACCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week3"
          }
       },
@@ -395,12 +395,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week3",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week3"
          }
       },
       {
@@ -445,10 +445,10 @@
             "NAC": "NACCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week4",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true,
+            "SubgroupId": "Week4"
          }
       },
       {
@@ -488,12 +488,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week4",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week4"
          }
       },
       {
@@ -538,10 +538,10 @@
             "NAC": "NACCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week5",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true,
+            "SubgroupId": "Week5"
          }
       },
       {
@@ -581,12 +581,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week5",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week5"
          }
       },
       {
@@ -631,10 +631,10 @@
             "NAC": "NACCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week6",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true,
+            "SubgroupId": "Week6"
          }
       },
       {
@@ -674,12 +674,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week6",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week6"
          }
       },
       {
@@ -724,10 +724,10 @@
             "NAC": "NACCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week7",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true,
+            "SubgroupId": "Week7"
          }
       },
       {
@@ -767,12 +767,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week7",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week7"
          }
       },
       {
@@ -817,10 +817,10 @@
             "NAC": "NACCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week8",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true,
+            "SubgroupId": "Week8"
          }
       },
       {
@@ -860,12 +860,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week8",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week8"
          }
       },
       {
@@ -910,10 +910,10 @@
             "NAC": "NACCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week9",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true,
+            "SubgroupId": "Week9"
          }
       },
       {
@@ -953,12 +953,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week9",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week9"
          }
       }
    ],

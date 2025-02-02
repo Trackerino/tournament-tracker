@@ -35,7 +35,10 @@
    ],
    "platformMappings": {},
    "metadata": {
+      "AccountLockType": "Week",
+      "DisqualifyType": "Floating",
       "minimumAccountLevel": 350,
+      "RegionLockType": "Season",
       "TrackedStats": [
          "Headshots",
          "DamageDealt",
@@ -43,10 +46,7 @@
          "GainedHealthTimes",
          "GainedShieldTimes",
          "Travel_Distance_Ground"
-      ],
-      "DisqualifyType": "Floating",
-      "RegionLockType": "Season",
-      "AccountLockType": "Week"
+      ]
    },
    "eventWindows": [
       {
@@ -87,13 +87,13 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Final",
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
-            "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 2280,
             "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_Final_EU_cumulative",
-            "ServerReplays": true
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 2280,
+            "ServerReplays": true,
+            "SubgroupId": "Final"
          }
       },
       {
@@ -134,13 +134,13 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Final",
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
-            "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 2280,
             "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_Final_EU_cumulative",
-            "ServerReplays": true
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 2280,
+            "ServerReplays": true,
+            "SubgroupId": "Final"
          }
       }
    ],

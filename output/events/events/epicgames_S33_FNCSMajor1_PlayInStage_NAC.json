@@ -37,8 +37,11 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "TeamLockType": "Season",
+      "AccountLockType": "Week",
+      "DisqualifyType": "Floating",
       "minimumAccountLevel": 350,
+      "RegionLockType": "Season",
+      "TeamLockType": "Season",
       "TrackedStats": [
          "Headshots",
          "DamageDealt",
@@ -46,10 +49,7 @@
          "GainedHealthTimes",
          "GainedShieldTimes",
          "Travel_Distance_Ground"
-      ],
-      "DisqualifyType": "Floating",
-      "RegionLockType": "Season",
-      "AccountLockType": "Week"
+      ]
    },
    "eventWindows": [
       {
@@ -96,10 +96,10 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
+            "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_PlayInStage_NAC_cumulative",
             "RoundType": "Qualifiers",
-            "SubgroupId": "PlayInStage",
-            "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_PlayInStage_NAC_cumulative"
+            "ServerReplays": true,
+            "SubgroupId": "PlayInStage"
          }
       },
       {
@@ -146,10 +146,10 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
+            "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_PlayInStage_NAC_cumulative",
             "RoundType": "Qualifiers",
-            "SubgroupId": "PlayInStage",
-            "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_PlayInStage_NAC_cumulative"
+            "ServerReplays": true,
+            "SubgroupId": "PlayInStage"
          }
       }
    ],

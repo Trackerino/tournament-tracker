@@ -35,11 +35,11 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "TeamLockType": "Window",
-      "minimumAccountLevel": 350,
+      "AccountLockType": "Window",
       "DisqualifyType": "Window",
+      "minimumAccountLevel": 350,
       "RegionLockType": "Window",
-      "AccountLockType": "Window"
+      "TeamLockType": "Window"
    },
    "eventWindows": [
       {
@@ -87,8 +87,8 @@
          ],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
          }
       }
    ],

@@ -19,9 +19,9 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "minimumAccountLevel": 50,
       "AccountLockType": "Window",
-      "DisqualifyType": "Window"
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50
    },
    "eventWindows": [
       {
@@ -58,11 +58,11 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ServerReplays": true,
             "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true
          }
       },
       {
@@ -96,8 +96,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
          }
       }
    ],

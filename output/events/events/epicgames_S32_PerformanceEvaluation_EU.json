@@ -31,8 +31,8 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "minimumAccountLevel": 350,
       "AccountLockType": "Window",
+      "minimumAccountLevel": 350,
       "TeamLockType": "Window"
    },
    "eventWindows": [
@@ -72,8 +72,8 @@
             "EU": "EUCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week1"
          }
       },
@@ -114,12 +114,12 @@
             "EU": "EUCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week1",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week1"
          }
       },
       {
@@ -158,8 +158,8 @@
             "EU": "EUCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week2"
          }
       },
@@ -200,12 +200,12 @@
             "EU": "EUCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week2",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week2"
          }
       },
       {
@@ -244,8 +244,8 @@
             "EU": "EUCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week3"
          }
       },
@@ -286,12 +286,12 @@
             "EU": "EUCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week3",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week3"
          }
       },
       {
@@ -330,10 +330,10 @@
             "EU": "EUCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week4",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true,
+            "SubgroupId": "Week4"
          }
       },
       {
@@ -373,12 +373,12 @@
             "EU": "EUCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week4",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week4"
          }
       },
       {
@@ -417,10 +417,10 @@
             "EU": "EUCOMP"
          },
          "metadata": {
-            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week5",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true,
+            "SubgroupId": "Week5"
          }
       },
       {
@@ -460,12 +460,12 @@
             "EU": "EUCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week5",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1920
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week5"
          }
       }
    ],

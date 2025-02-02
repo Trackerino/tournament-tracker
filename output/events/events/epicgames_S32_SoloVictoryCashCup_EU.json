@@ -33,9 +33,9 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "minimumAccountLevel": 350,
       "AccountLockType": "Window",
-      "DisqualifyType": "Window"
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 350
    },
    "eventWindows": [
       {
@@ -75,8 +75,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
          }
       },
       {
@@ -112,8 +112,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
          }
       },
       {
@@ -153,8 +153,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
          }
       },
       {
@@ -190,8 +190,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
          }
       },
       {
@@ -231,8 +231,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
          }
       },
       {
@@ -268,8 +268,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
          }
       },
       {
@@ -309,8 +309,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
          }
       },
       {
@@ -346,8 +346,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifiers"
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
          }
       }
    ],

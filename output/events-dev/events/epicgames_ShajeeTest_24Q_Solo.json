@@ -60,8 +60,8 @@
             "NAW": "NA"
          },
          "metadata": {
-            "ServerReplays": true,
-            "RoundType": "Qualifs"
+            "RoundType": "Qualifs",
+            "ServerReplays": true
          }
       }
    ],

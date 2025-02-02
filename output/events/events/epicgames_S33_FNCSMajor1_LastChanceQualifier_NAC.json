@@ -37,8 +37,11 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "TeamLockType": "Week",
+      "AccountLockType": "Week",
+      "DisqualifyType": "Floating",
       "minimumAccountLevel": 350,
+      "RegionLockType": "Season",
+      "TeamLockType": "Week",
       "TrackedStats": [
          "Headshots",
          "DamageDealt",
@@ -46,10 +49,7 @@
          "GainedHealthTimes",
          "GainedShieldTimes",
          "Travel_Distance_Ground"
-      ],
-      "DisqualifyType": "Floating",
-      "RegionLockType": "Season",
-      "AccountLockType": "Week"
+      ]
    },
    "eventWindows": [
       {
@@ -87,11 +87,11 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "LastChanceLobby",
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 2280
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 2280,
+            "ServerReplays": true,
+            "SubgroupId": "LastChanceLobby"
          }
       },
       {
@@ -137,8 +137,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "LastChanceQualifier"
          }
       }

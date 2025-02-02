@@ -34,8 +34,8 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "minimumAccountLevel": 350,
       "AccountLockType": "Window",
+      "minimumAccountLevel": 350,
       "TeamLockType": "Window"
    },
    "eventWindows": [
@@ -72,8 +72,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week1"
          }
       },
@@ -110,8 +110,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
             "RoundType": "Qualifiers",
+            "ServerReplays": true,
             "SubgroupId": "Week2"
          }
       },
@@ -154,12 +154,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week2",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1440
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1440,
+            "ServerReplays": true,
+            "SubgroupId": "Week2"
          }
       },
       {
@@ -195,10 +195,10 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "ServerReplays": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "SubgroupId": "Week4",
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator"
+            "ServerReplays": true,
+            "SubgroupId": "Week4"
          }
       },
       {
@@ -240,12 +240,12 @@
             "NAC": "NACCOMPTEST"
          },
          "metadata": {
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "SubgroupId": "Week4",
-            "ServerReplays": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingMatchDelaySeconds": 1440
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1440,
+            "ServerReplays": true,
+            "SubgroupId": "Week4"
          }
       }
    ],
