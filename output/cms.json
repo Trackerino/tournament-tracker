@@ -11128,8 +11128,8 @@
    {
       "_type": "Tournament Display Info",
       "background_left_color": "BC3900",
-      "background_right_color": "3332FE",
-      "background_text_color": "161616",
+      "background_right_color": "FF730C",
+      "background_text_color": "3332FE",
       "base_color": "FFFFFF",
       "details_description": "This event is open to all eligible players. Play in this single-round tournament to win early access to the new Rise of Midas set! Players must be at least 13 years old (or such other age, if greater, as may be required in their country of residence), have MFA enabled and an account level of 15 or greater. For more details see: https://www.epicgames.com/fortnite/competitive/rules-library",
       "flavor_description": "Hop in this exciting solo tournament for an opportunity to win the new Rise of Midas set early!",
