@@ -11127,7 +11127,7 @@
    },
    {
       "_type": "Tournament Display Info",
-      "background_left_color": "BC3900",
+      "background_left_color": "3332FE",
       "background_right_color": "FF730C",
       "background_text_color": "161616",
       "base_color": "FFFFFF",
@@ -11143,7 +11143,7 @@
       "primary_color": "FFFFFF",
       "schedule_info": "March 24",
       "secondary_color": "161616",
-      "shadow_color": "3332FE",
+      "shadow_color": "161616",
       "short_format_title": "Solo Tournament",
       "title_color": "FFFFFF",
       "title_line_1": "Rise of Midas",
