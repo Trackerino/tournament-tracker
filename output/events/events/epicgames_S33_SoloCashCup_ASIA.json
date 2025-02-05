@@ -516,9 +516,9 @@
       {
          "eventWindowId": "S33_SoloCashCup_Event7Round2_ASIA",
          "eventTemplateId": "EventTemplate_S33_SoloCashCup_Round2",
-         "countdownBeginTime": "2025-02-06T06:00:00Z",
-         "beginTime": "2025-02-06T08:00:00Z",
-         "endTime": "2025-02-06T11:00:00Z",
+         "countdownBeginTime": "2025-02-06T07:00:00Z",
+         "beginTime": "2025-02-06T09:00:00Z",
+         "endTime": "2025-02-06T12:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,

@@ -602,9 +602,9 @@
       {
          "eventWindowId": "S33_SoloCashCup_Event7Round2_BR",
          "eventTemplateId": "EventTemplate_S33_SoloCashCup_Round2",
-         "countdownBeginTime": "2025-02-06T18:00:00Z",
-         "beginTime": "2025-02-06T20:00:00Z",
-         "endTime": "2025-02-06T23:00:00Z",
+         "countdownBeginTime": "2025-02-06T19:00:00Z",
+         "beginTime": "2025-02-06T21:00:00Z",
+         "endTime": "2025-02-07T00:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
