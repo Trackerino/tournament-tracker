@@ -84762,7 +84762,7 @@
                      {
                         "rewardType": "game",
                         "rewardMode": "standard",
-                        "value": "AthenaGlider:Glider_PilonFNCS",
+                        "value": "AthenaGlider:glider_pilonfncs",
                         "quantity": 1,
                         "notifiesPlayer": false
                      }
@@ -84836,7 +84836,7 @@
                      {
                         "rewardType": "game",
                         "rewardMode": "standard",
-                        "value": "AthenaGlider:Glider_PilonFNCS",
+                        "value": "AthenaGlider:glider_pilonfncs",
                         "quantity": 1,
                         "notifiesPlayer": false
                      }
