@@ -37724,7 +37724,7 @@
                "metadata": {
                   "RoundType": "Qualifiers",
                   "ServerReplays": true,
-                  "SubgroupId": "LastChanceQualifier"
+                  "SubgroupId": "LastChanceLobby"
                }
             }
          ],
@@ -37873,7 +37873,7 @@
                "metadata": {
                   "RoundType": "Qualifiers",
                   "ServerReplays": true,
-                  "SubgroupId": "LastChanceQualifier"
+                  "SubgroupId": "LastChanceLobby"
                }
             }
          ],
