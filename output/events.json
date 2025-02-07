@@ -36302,7 +36302,7 @@
                ],
                "canLiveSpectate": false,
                "requireAllTokens": [
-                  "S33_FNCSMajor1_Group2_EU"
+                  "S33_FNCSMajor1_Group2_EU_v2"
                ],
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
@@ -36345,7 +36345,7 @@
                ],
                "canLiveSpectate": false,
                "requireAllTokens": [
-                  "S33_FNCSMajor1_Group3_EU"
+                  "S33_FNCSMajor1_Group3_EU_v2"
                ],
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
@@ -36633,7 +36633,7 @@
                ],
                "canLiveSpectate": false,
                "requireAllTokens": [
-                  "S33_FNCSMajor1_Group2_NAC"
+                  "S33_FNCSMajor1_Group2_NAC_v2"
                ],
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
@@ -36676,7 +36676,7 @@
                ],
                "canLiveSpectate": false,
                "requireAllTokens": [
-                  "S33_FNCSMajor1_Group3_NAC"
+                  "S33_FNCSMajor1_Group3_NAC_v2"
                ],
                "requireAnyTokens": [],
                "requireNoneTokensCaller": [
