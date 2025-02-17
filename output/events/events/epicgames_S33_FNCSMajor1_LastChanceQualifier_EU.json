@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S33_FNCSMajor1_LastChanceQualifier_EU",
-   "beginTime": "2025-02-12T17:00:00Z",
-   "endTime": "2025-02-13T18:30:00Z",
+   "beginTime": "2025-02-12T18:00:00Z",
+   "endTime": "2025-02-13T19:30:00Z",
    "displayDataId": "s33_major1_lcq",
    "eventGroup": "Season33_FNCSMajor1",
    "announcementTime": "2024-11-15T15:00:00Z",
@@ -53,9 +53,9 @@
       {
          "eventWindowId": "S33_FNCSMajor1_LastChanceLobby_EU",
          "eventTemplateId": "EventTemplate_S33_FNCSMajor1_LastChanceLobby",
-         "countdownBeginTime": "2025-02-13T15:00:00Z",
-         "beginTime": "2025-02-13T17:00:00Z",
-         "endTime": "2025-02-13T18:30:00Z",
+         "countdownBeginTime": "2025-02-13T16:00:00Z",
+         "beginTime": "2025-02-13T18:00:00Z",
+         "endTime": "2025-02-13T19:30:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -87,7 +87,7 @@
          "metadata": {
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 2280,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
             "ServerReplays": true,
             "SubgroupId": "LastChanceLobby"
          }
@@ -95,9 +95,9 @@
       {
          "eventWindowId": "S33_FNCSMajor1_LastChanceQualifier_EU",
          "eventTemplateId": "EventTemplate_S33_FNCSMajor1_LastChanceQualifier",
-         "countdownBeginTime": "2025-02-12T15:00:00Z",
-         "beginTime": "2025-02-12T17:00:00Z",
-         "endTime": "2025-02-12T20:00:00Z",
+         "countdownBeginTime": "2025-02-12T16:00:00Z",
+         "beginTime": "2025-02-12T18:00:00Z",
+         "endTime": "2025-02-12T21:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,

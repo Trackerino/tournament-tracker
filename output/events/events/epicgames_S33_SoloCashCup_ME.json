@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S33_SoloCashCup_ME",
    "beginTime": "2024-12-13T15:00:00Z",
-   "endTime": "2025-02-18T18:00:00Z",
+   "endTime": "2025-02-19T18:00:00Z",
    "displayDataId": "s33_solocash",
    "eventGroup": "Season33_SoloCashCup",
    "announcementTime": "2024-11-30T06:00:00Z",
@@ -458,6 +458,92 @@
          "canLiveSpectate": false,
          "requireAllTokens": [
             "S33_SoloCashCup_Event5Round2_ME"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S33_SoloCashCup_Event6Round1_ME",
+         "eventTemplateId": "EventTemplate_S33_SoloCashCup_Round1",
+         "countdownBeginTime": "2025-02-14T13:00:00Z",
+         "beginTime": "2025-02-14T15:00:00Z",
+         "endTime": "2025-02-14T18:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_solocash_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_SoloCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S33_SoloCashCup_Event6Round2_ME",
+         "eventTemplateId": "EventTemplate_S33_SoloCashCup_Round2",
+         "countdownBeginTime": "2025-02-19T13:00:00Z",
+         "beginTime": "2025-02-19T15:00:00Z",
+         "endTime": "2025-02-19T18:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_solocash_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_SoloCashCup_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S33_SoloCashCup_Event6Round2_ME"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [

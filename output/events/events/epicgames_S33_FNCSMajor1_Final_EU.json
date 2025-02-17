@@ -77,7 +77,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S33_FNCSMajor1_GrandFinalist_EU"
+            "S33_FNCSMajor1_GrandFinalist_EUv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -124,7 +124,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S33_FNCSMajor1_GrandFinalist_EU"
+            "S33_FNCSMajor1_GrandFinalist_EUv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [

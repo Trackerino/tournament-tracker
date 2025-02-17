@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S33_FNCSMajor1_Final_OCE",
-   "beginTime": "2025-02-15T07:00:00Z",
-   "endTime": "2025-02-16T10:30:00Z",
+   "beginTime": "2025-02-15T08:00:00Z",
+   "endTime": "2025-02-16T11:30:00Z",
    "displayDataId": "s33_major1_finals",
    "eventGroup": "Season33_FNCSMajor1",
    "announcementTime": "2024-11-15T15:00:00Z",
@@ -52,9 +52,9 @@
       {
          "eventWindowId": "S33_FNCSMajor1_Final_Day1_OCE",
          "eventTemplateId": "EventTemplate_S33_FNCSMajor1_Final",
-         "countdownBeginTime": "2025-02-15T05:00:00Z",
-         "beginTime": "2025-02-15T07:00:00Z",
-         "endTime": "2025-02-15T10:30:00Z",
+         "countdownBeginTime": "2025-02-15T06:00:00Z",
+         "beginTime": "2025-02-15T08:00:00Z",
+         "endTime": "2025-02-15T11:30:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -77,7 +77,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S33_FNCSMajor1_GrandFinalist_OCE"
+            "S33_FNCSMajor1_GrandFinalist_OCEv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -98,9 +98,9 @@
       {
          "eventWindowId": "S33_FNCSMajor1_Final_Day2_OCE",
          "eventTemplateId": "EventTemplate_S33_FNCSMajor1_Final",
-         "countdownBeginTime": "2025-02-16T05:00:00Z",
-         "beginTime": "2025-02-16T07:00:00Z",
-         "endTime": "2025-02-16T10:30:00Z",
+         "countdownBeginTime": "2025-02-16T06:00:00Z",
+         "beginTime": "2025-02-16T08:00:00Z",
+         "endTime": "2025-02-16T11:30:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -123,7 +123,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S33_FNCSMajor1_GrandFinalist_OCE"
+            "S33_FNCSMajor1_GrandFinalist_OCEv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -133,6 +133,7 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_Final_OCE_cumulative",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,

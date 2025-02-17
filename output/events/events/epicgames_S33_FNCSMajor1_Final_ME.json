@@ -77,7 +77,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S33_FNCSMajor1_GrandFinalist_ME"
+            "S33_FNCSMajor1_GrandFinalist_MEv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -87,6 +87,7 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_Final_ME_cumulative",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
@@ -123,7 +124,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S33_FNCSMajor1_GrandFinalist_ME"
+            "S33_FNCSMajor1_GrandFinalist_MEv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -133,6 +134,7 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "relevantFloatingScoreId": "cumulative:epicgames_S33_FNCSMajor1_Final_ME_cumulative",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,

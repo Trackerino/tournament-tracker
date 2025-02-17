@@ -26,6 +26,9 @@
       "Windows": "PC",
       "XboxOne": "Console"
    },
+   "metadata": {
+      "tournamentType": "CashCup"
+   },
    "eventWindows": [
       {
          "eventWindowId": "EW_epicgames_ShajeeTest_24Q5_Solo_Day1",
