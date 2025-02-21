@@ -6,9 +6,7 @@
    "displayDataId": "s33_major1_lcq",
    "eventGroup": "Season33_FNCSMajor1",
    "announcementTime": "2024-11-15T15:00:00Z",
-   "regions": [
-      "ME"
-   ],
+   "regions": [],
    "regionMappings": {
       "ME": "MECOMP"
    },
