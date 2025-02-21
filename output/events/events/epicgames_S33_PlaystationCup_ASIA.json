@@ -6,16 +6,13 @@
    "displayDataId": "s33_playstation",
    "eventGroup": "Season33_PlaystationCup",
    "announcementTime": "2024-12-01T09:00:00Z",
-   "regions": [
-      "ASIA"
-   ],
+   "regions": [],
    "regionMappings": {
       "ASIA": "ASIACOMP"
    },
    "platforms": [
       "PS4",
-      "PS5",
-      "Windows"
+      "PS5"
    ],
    "platformMappings": {},
    "metadata": {

@@ -6,9 +6,7 @@
    "displayDataId": "s33_playstation",
    "eventGroup": "Season33_PlaystationCup",
    "announcementTime": "2024-12-01T09:00:00Z",
-   "regions": [
-      "OCE"
-   ],
+   "regions": [],
    "regionMappings": {
       "OCE": "OCECOMP"
    },
