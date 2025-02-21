@@ -12,27 +12,7 @@
    "regionMappings": {
       "OCE": "OCECOMP"
    },
-   "platforms": [
-      "Android",
-      "GFN",
-      "GFNMobile",
-      "Helios",
-      "HeliosMobile",
-      "IOS",
-      "Luna",
-      "LunaMobile",
-      "Mac",
-      "PS4",
-      "PS5",
-      "Switch",
-      "Windows",
-      "XB1",
-      "XCloud",
-      "XCloudMobile",
-      "XSX",
-      "XboxOne",
-      "XboxOneGDK"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
@@ -352,7 +332,7 @@
          "eventTemplateId": "EventTemplate_S33_RankedCupSolo",
          "countdownBeginTime": "2025-02-05T06:00:00Z",
          "beginTime": "2025-02-05T08:00:00Z",
-         "endTime": "2025-02-05T12:00:00Z",
+         "endTime": "2025-02-05T08:10:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,

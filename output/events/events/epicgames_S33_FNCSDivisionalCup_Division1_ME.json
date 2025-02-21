@@ -6,9 +6,7 @@
    "displayDataId": "s33_division1",
    "eventGroup": "Season33_FNCSDivisionalCup_Division1",
    "announcementTime": "2024-11-15T15:00:00Z",
-   "regions": [
-      "ME"
-   ],
+   "regions": [],
    "regionMappings": {
       "ME": "MECOMP"
    },
