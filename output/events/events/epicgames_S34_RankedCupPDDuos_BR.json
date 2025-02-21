@@ -1,0 +1,329 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S34_RankedCupPDDuos_BR",
+   "beginTime": "2025-03-09T20:00:00Z",
+   "endTime": "2025-04-28T00:00:00Z",
+   "displayDataId": "s34_rankedcup_pd_duos",
+   "eventGroup": "Season34_RankedCupPDDuos",
+   "announcementTime": "2025-02-21T09:00:00Z",
+   "regions": [
+      "BR"
+   ],
+   "regionMappings": {
+      "BR": "BRCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S34_RankedCupPDDuos_Event1_BR",
+         "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
+         "countdownBeginTime": "2025-03-09T18:00:00Z",
+         "beginTime": "2025-03-09T20:00:00Z",
+         "endTime": "2025-03-10T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S34_ranked_rules",
+            "currentRankingMax:ranked-br:14",
+            "mfa",
+            "currentRanking:ranked-br:9"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_RankedCupDuosPD_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S34_RankedCupPDDuos_Event2_BR",
+         "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
+         "countdownBeginTime": "2025-03-16T18:00:00Z",
+         "beginTime": "2025-03-16T20:00:00Z",
+         "endTime": "2025-03-17T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S34_ranked_rules",
+            "currentRankingMax:ranked-br:14",
+            "mfa",
+            "currentRanking:ranked-br:9"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_RankedCupDuosPD_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S34_RankedCupPDDuos_Event3_BR",
+         "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
+         "countdownBeginTime": "2025-03-23T18:00:00Z",
+         "beginTime": "2025-03-23T20:00:00Z",
+         "endTime": "2025-03-24T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S34_ranked_rules",
+            "currentRankingMax:ranked-br:14",
+            "mfa",
+            "currentRanking:ranked-br:9"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_RankedCupDuosPD_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S34_RankedCupPDDuos_Event4_BR",
+         "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
+         "countdownBeginTime": "2025-03-30T18:00:00Z",
+         "beginTime": "2025-03-30T20:00:00Z",
+         "endTime": "2025-03-31T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S34_ranked_rules",
+            "currentRankingMax:ranked-br:14",
+            "mfa",
+            "currentRanking:ranked-br:9"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_RankedCupDuosPD_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S34_RankedCupPDDuos_Event5_BR",
+         "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
+         "countdownBeginTime": "2025-04-06T18:00:00Z",
+         "beginTime": "2025-04-06T20:00:00Z",
+         "endTime": "2025-04-07T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S34_ranked_rules",
+            "currentRankingMax:ranked-br:14",
+            "mfa",
+            "currentRanking:ranked-br:9"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_RankedCupDuosPD_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S34_RankedCupPDDuos_Event6_BR",
+         "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
+         "countdownBeginTime": "2025-04-13T18:00:00Z",
+         "beginTime": "2025-04-13T20:00:00Z",
+         "endTime": "2025-04-14T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S34_ranked_rules",
+            "currentRankingMax:ranked-br:14",
+            "mfa",
+            "currentRanking:ranked-br:9"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_RankedCupDuosPD_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S34_RankedCupPDDuos_Event7_BR",
+         "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
+         "countdownBeginTime": "2025-04-20T18:00:00Z",
+         "beginTime": "2025-04-20T20:00:00Z",
+         "endTime": "2025-04-21T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S34_ranked_rules",
+            "currentRankingMax:ranked-br:14",
+            "mfa",
+            "currentRanking:ranked-br:9"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_RankedCupDuosPD_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S34_RankedCupPDDuos_Event8_BR",
+         "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
+         "countdownBeginTime": "2025-04-27T18:00:00Z",
+         "beginTime": "2025-04-27T20:00:00Z",
+         "endTime": "2025-04-28T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S34_ranked_rules",
+            "currentRankingMax:ranked-br:14",
+            "mfa",
+            "currentRanking:ranked-br:9"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_RankedCupDuosPD_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s34_rankedcuppdduos_br",
+      "version": 1
+   }
+}

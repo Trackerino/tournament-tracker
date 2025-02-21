@@ -1,0 +1,296 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S33_OGCup_NAC",
+   "beginTime": "2024-12-15T19:00:00Z",
+   "endTime": "2025-02-15T03:00:00Z",
+   "displayDataId": "s33_og_cup",
+   "eventGroup": "Season33_OGCup",
+   "announcementTime": "2024-12-06T14:00:00Z",
+   "regions": [
+      "NAC",
+      "NAE"
+   ],
+   "regionMappings": {
+      "NAC": "NACCOMP",
+      "NAE": "NACCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S33_OGCup_Event1_NAC",
+         "eventTemplateId": "EventTemplate_S33_OGCup",
+         "countdownBeginTime": "2024-12-15T17:00:00Z",
+         "beginTime": "2024-12-15T19:00:00Z",
+         "endTime": "2024-12-15T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s33_og_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S33_OG_Cup",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S33_OGCup_Event2_NAC",
+         "eventTemplateId": "EventTemplate_S33_OGCup",
+         "countdownBeginTime": "2024-12-22T17:00:00Z",
+         "beginTime": "2024-12-22T19:00:00Z",
+         "endTime": "2024-12-22T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s33_og_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S33_OG_Cup",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S33_OGCup_Event3_NAC",
+         "eventTemplateId": "EventTemplate_S33_OGCup",
+         "countdownBeginTime": "2025-01-12T17:00:00Z",
+         "beginTime": "2025-01-12T19:00:00Z",
+         "endTime": "2025-01-12T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s33_og_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S33_OG_Cup",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S33_OGCup_Event4_NAC",
+         "eventTemplateId": "EventTemplate_S33_OGCup",
+         "countdownBeginTime": "2025-01-26T17:00:00Z",
+         "beginTime": "2025-01-26T19:00:00Z",
+         "endTime": "2025-01-26T22:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s33_og_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S33_OG_Cup",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S33_OGCup_Event5_NAC",
+         "eventTemplateId": "EventTemplate_S33_OGCup",
+         "countdownBeginTime": "2025-02-02T16:00:00Z",
+         "beginTime": "2025-02-02T18:00:00Z",
+         "endTime": "2025-02-02T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s33_og_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S33_OG_Cup",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S33_OGCup_Event6_NAC",
+         "eventTemplateId": "EventTemplate_S33_OGCup",
+         "countdownBeginTime": "2025-02-07T22:00:00Z",
+         "beginTime": "2025-02-08T00:00:00Z",
+         "endTime": "2025-02-08T03:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s33_og_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S33_OG_Cup",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S33_OGCup_Event7_NAC",
+         "eventTemplateId": "EventTemplate_S33_OGCup",
+         "countdownBeginTime": "2025-02-14T22:00:00Z",
+         "beginTime": "2025-02-15T00:00:00Z",
+         "endTime": "2025-02-15T03:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s33_og_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S33_OG_Cup",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s33_ogcup_nac",
+      "version": 1
+   }
+}

@@ -1,0 +1,189 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S34_FNCSMajor2_GroupStage_NAC",
+   "beginTime": "2025-04-13T21:00:00Z",
+   "endTime": "2025-04-21T00:00:00Z",
+   "displayDataId": "s34_major2_group",
+   "eventGroup": "Season34_FNCSMajor2",
+   "announcementTime": "2025-02-21T09:00:00Z",
+   "regions": [
+      "NAC",
+      "NAE"
+   ],
+   "regionMappings": {
+      "NAC": "NACCOMP",
+      "NAE": "NACCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Week",
+      "DisqualifyType": "Floating",
+      "minimumAccountLevel": 350,
+      "RegionLockType": "Season",
+      "TeamLockType": "Season",
+      "TrackedStats": [
+         "Headshots",
+         "DamageDealt",
+         "DamageReceived",
+         "GainedHealthTimes",
+         "GainedShieldTimes",
+         "Travel_Distance_Ground"
+      ]
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S34_FNCSMajor2_GroupStage_Group1_NAC",
+         "eventTemplateId": "EventTemplate_S34_FNCSMajor2_GroupStage",
+         "countdownBeginTime": "2025-04-13T19:00:00Z",
+         "beginTime": "2025-04-13T21:00:00Z",
+         "endTime": "2025-04-14T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_FNCSMajor2_GroupStage_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S34_FNCSMajor2_Group1_NAC"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S34_FNCSMajor2_GrandFinalist_NAC",
+            "S34_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 2280,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S34_FNCSMajor2_GroupStage_Group2_NAC",
+         "eventTemplateId": "EventTemplate_S34_FNCSMajor2_GroupStage",
+         "countdownBeginTime": "2025-04-19T19:00:00Z",
+         "beginTime": "2025-04-19T21:00:00Z",
+         "endTime": "2025-04-20T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_FNCSMajor2_GroupStage_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S34_FNCSMajor2_Group2_NAC_v2"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S34_FNCSMajor2_GrandFinalist_NAC",
+            "S34_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 2280,
+            "ServerReplays": true,
+            "SubgroupId": "Group2"
+         }
+      },
+      {
+         "eventWindowId": "S34_FNCSMajor2_GroupStage_Group3_NAC",
+         "eventTemplateId": "EventTemplate_S34_FNCSMajor2_GroupStage",
+         "countdownBeginTime": "2025-04-20T19:00:00Z",
+         "beginTime": "2025-04-20T21:00:00Z",
+         "endTime": "2025-04-21T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_FNCSMajor2_GroupStage_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S34_FNCSMajor2_Group3_NAC_v2"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S34_FNCSMajor2_GrandFinalist_NAC",
+            "S34_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 2280,
+            "ServerReplays": true,
+            "SubgroupId": "Group3"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s34_fncsmajor2_groupstage_nac",
+      "version": 1
+   }
+}

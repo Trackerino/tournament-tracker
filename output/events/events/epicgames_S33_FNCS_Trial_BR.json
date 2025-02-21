@@ -1,0 +1,100 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S33_FNCS_Trial_BR",
+   "beginTime": "2024-12-07T20:00:00Z",
+   "endTime": "2024-12-07T23:00:00Z",
+   "displayDataId": "s33_fncs_trial",
+   "eventGroup": "Season33_FNCSTrial",
+   "announcementTime": "2024-11-15T15:00:00Z",
+   "regions": [
+      "BR"
+   ],
+   "regionMappings": {
+      "BR": "BRCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 350,
+      "RegionLockType": "Window",
+      "TeamLockType": "Window"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S33_FNCS_Trial_BR",
+         "eventTemplateId": "EventTemplate_S33_FNCS_Trial",
+         "countdownBeginTime": "2024-12-07T18:00:00Z",
+         "beginTime": "2024-12-07T20:00:00Z",
+         "endTime": "2024-12-07T23:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_divisional_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S33_FNCS_Trial_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "RegionLock_S33_FNCSTrial_ASIA",
+            "RegionLock_S33_FNCSTrial_EU",
+            "RegionLock_S33_FNCSTrial_ME",
+            "RegionLock_S33_FNCSTrial_NAC",
+            "RegionLock_S33_FNCSTrial_NAW",
+            "RegionLock_S33_FNCSTrial_OCE"
+         ],
+         "requireAllTokensCaller": [
+            "S33_CashCup_Qualified"
+         ],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s33_fncs_trial_br",
+      "version": 1
+   }
+}

@@ -1,0 +1,510 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S32_TriosCashCup_ASIA",
+   "beginTime": "2024-11-07T09:00:00Z",
+   "endTime": "2024-11-24T12:00:00Z",
+   "displayDataId": "s32_brcash_trios",
+   "eventGroup": "Season32_TriosCashCup",
+   "announcementTime": "2024-11-02T06:00:00Z",
+   "regions": [
+      "ASIA"
+   ],
+   "regionMappings": {
+      "ASIA": "ASIACOMP"
+   },
+   "platforms": [],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 350,
+      "TeamLockType": "Window"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S32_TriosCashCup_Event1Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S32_TriosCashCup_Round1",
+         "countdownBeginTime": "2024-11-07T07:00:00Z",
+         "beginTime": "2024-11-07T09:00:00Z",
+         "endTime": "2024-11-07T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s32_trioscash_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S32_Trios_Cash_Cup_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S32_TriosCashCup_Event1Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S32_TriosCashCup_Round2",
+         "countdownBeginTime": "2024-11-11T07:00:00Z",
+         "beginTime": "2024-11-11T09:00:00Z",
+         "endTime": "2024-11-11T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s32_trioscash_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S32_Trios_Cash_Cup_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S32_TriosCashCup_Event1_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S32_TriosCashCup_Event2Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S32_TriosCashCup_Round1",
+         "countdownBeginTime": "2024-11-09T03:00:00Z",
+         "beginTime": "2024-11-09T05:00:00Z",
+         "endTime": "2024-11-09T08:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s32_trioscash_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S32_Trios_Cash_Cup_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S32_TriosCashCup_Event2Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S32_TriosCashCup_Round2",
+         "countdownBeginTime": "2024-11-09T07:00:00Z",
+         "beginTime": "2024-11-09T09:00:00Z",
+         "endTime": "2024-11-09T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s32_trioscash_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S32_Trios_Cash_Cup_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S32_TriosCashCup_Event2_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S32_TriosCashCup_Event3Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S32_TriosCashCup_Round1",
+         "countdownBeginTime": "2024-11-13T07:00:00Z",
+         "beginTime": "2024-11-13T09:00:00Z",
+         "endTime": "2024-11-13T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s32_trioscash_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S32_Trios_Cash_Cup_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S32_TriosCashCup_Event3Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S32_TriosCashCup_Round2",
+         "countdownBeginTime": "2024-11-14T07:00:00Z",
+         "beginTime": "2024-11-14T09:00:00Z",
+         "endTime": "2024-11-14T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s32_trioscash_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S32_Trios_Cash_Cup_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S32_TriosCashCup_Event3_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S32_TriosCashCup_Event4Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S32_TriosCashCup_Round1",
+         "countdownBeginTime": "2024-11-16T03:00:00Z",
+         "beginTime": "2024-11-16T05:00:00Z",
+         "endTime": "2024-11-16T08:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s32_trioscash_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S32_Trios_Cash_Cup_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S32_TriosCashCup_Event4Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S32_TriosCashCup_Round2",
+         "countdownBeginTime": "2024-11-16T07:00:00Z",
+         "beginTime": "2024-11-16T09:00:00Z",
+         "endTime": "2024-11-16T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s32_trioscash_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S32_Trios_Cash_Cup_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S32_TriosCashCup_Event4_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S32_TriosCashCup_Event5Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S32_TriosCashCup_Round1",
+         "countdownBeginTime": "2024-11-20T07:00:00Z",
+         "beginTime": "2024-11-20T09:00:00Z",
+         "endTime": "2024-11-20T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s32_trioscash_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S32_Trios_Cash_Cup_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S32_TriosCashCup_Event5Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S32_TriosCashCup_Round2",
+         "countdownBeginTime": "2024-11-24T07:00:00Z",
+         "beginTime": "2024-11-24T09:00:00Z",
+         "endTime": "2024-11-24T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s32_trioscash_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S32_Trios_Cash_Cup_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S32_TriosCashCup_Event5_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S32_TriosCashCup_Event6Round1_ASIA",
+         "eventTemplateId": "EventTemplate_S32_TriosCashCup_Round1",
+         "countdownBeginTime": "2024-11-23T03:00:00Z",
+         "beginTime": "2024-11-23T05:00:00Z",
+         "endTime": "2024-11-23T08:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s32_trioscash_rules",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S32_Trios_Cash_Cup_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S32_TriosCashCup_Event6Round2_ASIA",
+         "eventTemplateId": "EventTemplate_S32_TriosCashCup_Round2",
+         "countdownBeginTime": "2024-11-23T07:00:00Z",
+         "beginTime": "2024-11-23T09:00:00Z",
+         "endTime": "2024-11-23T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s32_trioscash_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Leaderboard_S32_Trios_Cash_Cup_R_2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S32_TriosCashCup_Event6_Round2_ASIA"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s32_trioscashcup_asia",
+      "version": 1
+   }
+}
