@@ -6,9 +6,7 @@
    "displayDataId": "s33_solocash",
    "eventGroup": "Season33_SoloCashCup",
    "announcementTime": "2024-11-30T06:00:00Z",
-   "regions": [
-      "OCE"
-   ],
+   "regions": [],
    "regionMappings": {
       "OCE": "OCECOMP"
    },
