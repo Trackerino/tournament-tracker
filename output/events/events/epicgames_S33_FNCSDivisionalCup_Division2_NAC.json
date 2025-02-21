@@ -6,10 +6,7 @@
    "displayDataId": "s33_division2",
    "eventGroup": "Season33_FNCSDivisionalCup_Division2",
    "announcementTime": "2024-11-15T00:00:01Z",
-   "regions": [
-      "NAC",
-      "NAE"
-   ],
+   "regions": [],
    "regionMappings": {
       "NAC": "NACCOMP",
       "NAE": "NACCOMP"
