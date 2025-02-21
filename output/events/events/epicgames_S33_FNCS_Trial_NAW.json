@@ -6,9 +6,7 @@
    "displayDataId": "s33_fncs_trial",
    "eventGroup": "Season33_FNCSTrial",
    "announcementTime": "2024-11-15T15:00:00Z",
-   "regions": [
-      "NAW"
-   ],
+   "regions": [],
    "regionMappings": {
       "NAW": "NAWCOMP"
    },
