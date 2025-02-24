@@ -14488,7 +14488,7 @@
    },
    {
       "_type": "Tournament Display Info",
-      "background_left_color": " 9C0013",
+      "background_left_color": "9C0013",
       "background_right_color": "F31630",
       "background_text_color": "161616",
       "background_title": "",
