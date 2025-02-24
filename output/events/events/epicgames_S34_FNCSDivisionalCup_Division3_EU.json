@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S34_FNCSDivisionalCup_Division3_EU",
    "beginTime": "2025-03-05T18:00:02Z",
-   "endTime": "2025-04-03T21:00:02Z",
+   "endTime": "2025-04-03T20:00:02Z",
    "displayDataId": "s34_division3",
    "eventGroup": "Season34_FNCSDivisionalCup_Division3",
    "announcementTime": "2025-02-21T09:00:02Z",
@@ -81,7 +81,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S34_DivisionLock_Division1Week1_EU",
-            "S34_DivisionLock_Division2Week1_EU"
+            "S34_DivisionLock_Division2Week1_EU",
+            "S34_FNCS_Banned"
          ],
          "requireAllTokensCaller": [
             "S34_CashCup_Qualified"
@@ -133,7 +134,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S34_DivisionLock_Division1Week1_EU",
-            "S34_DivisionLock_Division2Week1_EU"
+            "S34_DivisionLock_Division2Week1_EU",
+            "S34_FNCS_Banned"
          ],
          "requireAllTokensCaller": [
             "S34_CashCup_Qualified"
@@ -185,7 +187,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S34_DivisionLock_Division1Week2_EU",
-            "S34_DivisionLock_Division2Week2_EU"
+            "S34_DivisionLock_Division2Week2_EU",
+            "S34_FNCS_Banned"
          ],
          "requireAllTokensCaller": [
             "S34_CashCup_Qualified"
@@ -237,7 +240,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S34_DivisionLock_Division1Week2_EU",
-            "S34_DivisionLock_Division2Week2_EU"
+            "S34_DivisionLock_Division2Week2_EU",
+            "S34_FNCS_Banned"
          ],
          "requireAllTokensCaller": [
             "S34_CashCup_Qualified"
@@ -464,9 +468,9 @@
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division3_Week5Day1_EU",
          "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
-         "countdownBeginTime": "2025-04-02T16:00:02Z",
-         "beginTime": "2025-04-02T18:00:02Z",
-         "endTime": "2025-04-02T21:00:02Z",
+         "countdownBeginTime": "2025-04-02T15:00:02Z",
+         "beginTime": "2025-04-02T17:00:02Z",
+         "endTime": "2025-04-02T20:00:02Z",
          "round": 5,
          "payoutDelay": 32,
          "isTBD": false,
@@ -517,9 +521,9 @@
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division3_Week5Day2_EU",
          "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
-         "countdownBeginTime": "2025-04-03T16:00:02Z",
-         "beginTime": "2025-04-03T18:00:02Z",
-         "endTime": "2025-04-03T21:00:02Z",
+         "countdownBeginTime": "2025-04-03T15:00:02Z",
+         "beginTime": "2025-04-03T17:00:02Z",
+         "endTime": "2025-04-03T20:00:02Z",
          "round": 5,
          "payoutDelay": 32,
          "isTBD": false,

@@ -75,7 +75,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S34_DivisionLock_Division2Week1_BR",
-            "S34_DivisionLock_Division3Week1_BR"
+            "S34_DivisionLock_Division3Week1_BR",
+            "S34_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -119,7 +120,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S34_DivisionLock_Division2Week1_BR",
-            "S34_DivisionLock_Division3Week1_BR"
+            "S34_DivisionLock_Division3Week1_BR",
+            "S34_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -157,7 +159,8 @@
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2"
+            "EpicAccountPrizingRestriction_v2",
+            "S34_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -203,7 +206,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S34_DivisionLock_Division2Week2_BR",
-            "S34_DivisionLock_Division3Week2_BR"
+            "S34_DivisionLock_Division3Week2_BR",
+            "S34_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -247,7 +251,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "S34_DivisionLock_Division2Week2_BR",
-            "S34_DivisionLock_Division3Week2_BR"
+            "S34_DivisionLock_Division3Week2_BR",
+            "S34_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -285,7 +290,8 @@
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2"
+            "EpicAccountPrizingRestriction_v2",
+            "S34_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
