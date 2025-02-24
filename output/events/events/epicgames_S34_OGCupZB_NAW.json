@@ -41,7 +41,7 @@
    },
    "eventWindows": [
       {
-         "eventWindowId": "S33_OGCupZB_Event1_NAW",
+         "eventWindowId": "S34_OGCupZB_Event1_NAW",
          "eventTemplateId": "EventTemplate_S34_OGCupZB",
          "countdownBeginTime": "2025-03-02T19:00:00Z",
          "beginTime": "2025-03-02T21:00:00Z",
@@ -76,7 +76,7 @@
          }
       },
       {
-         "eventWindowId": "S33_OGCupZB_Event2_NAW",
+         "eventWindowId": "S34_OGCupZB_Event2_NAW",
          "eventTemplateId": "EventTemplate_S34_OGCupZB",
          "countdownBeginTime": "2025-03-09T19:00:00Z",
          "beginTime": "2025-03-09T21:00:00Z",
@@ -111,7 +111,7 @@
          }
       },
       {
-         "eventWindowId": "S33_OGCupZB_Event3_NAW",
+         "eventWindowId": "S34_OGCupZB_Event3_NAW",
          "eventTemplateId": "EventTemplate_S34_OGCupZB",
          "countdownBeginTime": "2025-03-16T19:00:00Z",
          "beginTime": "2025-03-16T21:00:00Z",
@@ -146,7 +146,7 @@
          }
       },
       {
-         "eventWindowId": "S33_OGCupZB_Event4_NAW",
+         "eventWindowId": "S34_OGCupZB_Event4_NAW",
          "eventTemplateId": "EventTemplate_S34_OGCupZB",
          "countdownBeginTime": "2025-03-23T19:00:00Z",
          "beginTime": "2025-03-23T21:00:00Z",
@@ -181,7 +181,7 @@
          }
       },
       {
-         "eventWindowId": "S33_OGCupZB_Event5_NAW",
+         "eventWindowId": "S34_OGCupZB_Event5_NAW",
          "eventTemplateId": "EventTemplate_S34_OGCupZB",
          "countdownBeginTime": "2025-03-30T19:00:00Z",
          "beginTime": "2025-03-30T21:00:00Z",
@@ -216,7 +216,7 @@
          }
       },
       {
-         "eventWindowId": "S33_OGCupZB_Event6_NAW",
+         "eventWindowId": "S34_OGCupZB_Event6_NAW",
          "eventTemplateId": "EventTemplate_S34_OGCupZB",
          "countdownBeginTime": "2025-04-06T19:00:00Z",
          "beginTime": "2025-04-06T21:00:00Z",
@@ -251,7 +251,7 @@
          }
       },
       {
-         "eventWindowId": "S33_OGCupZB_Event7_NAW",
+         "eventWindowId": "S34_OGCupZB_Event7_NAW",
          "eventTemplateId": "EventTemplate_S34_OGCupZB",
          "countdownBeginTime": "2025-04-13T19:00:00Z",
          "beginTime": "2025-04-13T21:00:00Z",
@@ -286,7 +286,7 @@
          }
       },
       {
-         "eventWindowId": "S33_OGCupZB_Event8_NAW",
+         "eventWindowId": "S34_OGCupZB_Event8_NAW",
          "eventTemplateId": "EventTemplate_S34_OGCupZB",
          "countdownBeginTime": "2025-04-20T19:00:00Z",
          "beginTime": "2025-04-20T21:00:00Z",
