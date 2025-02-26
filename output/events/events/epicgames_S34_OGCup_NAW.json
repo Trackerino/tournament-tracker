@@ -51,8 +51,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s34_og_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -86,8 +86,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s34_og_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -121,8 +121,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s34_og_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -156,8 +156,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s34_og_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -191,8 +191,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s34_og_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -226,8 +226,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s34_og_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -261,8 +261,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s34_og_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -296,8 +296,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s34_og_rules",
-            "mfa"
+            "mfa",
+            "eula:s33_og_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
