@@ -41,10 +41,6 @@
       "DisqualifyType": "Floating",
       "minimumAccountLevel": 350,
       "RegionLockType": "Season",
-      "requireSystemFeatures": [
-         "SecureBoot",
-         "CryptoProcessor"
-      ],
       "TeamLockType": "Week",
       "TrackedStats": [
          "Headshots",
