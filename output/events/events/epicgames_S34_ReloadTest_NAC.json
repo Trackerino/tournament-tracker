@@ -1,0 +1,84 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S34_ReloadTest_NAC",
+   "beginTime": "2025-02-28T00:00:00Z",
+   "endTime": "2025-02-28T02:30:00Z",
+   "displayDataId": "s34_reloadopen",
+   "eventGroup": "Season34_ReloadTest",
+   "announcementTime": "2024-11-02T06:00:00Z",
+   "regions": [
+      "NAC",
+      "NAE"
+   ],
+   "regionMappings": {
+      "NAC": "NACCOMP",
+      "NAE": "NACCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S34_ReloadTest_Event1_NAC",
+         "eventTemplateId": "EventTemplate_S34_ReloadTest",
+         "countdownBeginTime": "2025-02-27T22:00:00Z",
+         "beginTime": "2025-02-28T00:00:00Z",
+         "endTime": "2025-02-28T02:30:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s34_reloadopen_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_ReloadTest_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s34_reloadtest_nac",
+      "version": 1
+   }
+}
