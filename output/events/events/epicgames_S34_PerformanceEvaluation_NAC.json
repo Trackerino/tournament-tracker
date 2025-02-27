@@ -80,7 +80,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMP"
+            "NAC": "NACCOMP",
+            "NAE": "NACCOMP"
          },
          "metadata": {
             "RoundType": "Qualifiers",
@@ -122,7 +123,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMPTEST"
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -172,7 +174,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMP"
+            "NAC": "NACCOMP",
+            "NAE": "NACCOMP"
          },
          "metadata": {
             "RoundType": "Qualifiers",
@@ -214,7 +217,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMPTEST"
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -264,7 +268,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMP"
+            "NAC": "NACCOMP",
+            "NAE": "NACCOMP"
          },
          "metadata": {
             "RoundType": "Qualifiers",
@@ -306,7 +311,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMPTEST"
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -356,7 +362,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMP"
+            "NAC": "NACCOMP",
+            "NAE": "NACCOMP"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -399,7 +406,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMPTEST"
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -449,7 +457,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMP"
+            "NAC": "NACCOMP",
+            "NAE": "NACCOMP"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -492,7 +501,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMPTEST"
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -542,7 +552,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMP"
+            "NAC": "NACCOMP",
+            "NAE": "NACCOMP"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -585,7 +596,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMPTEST"
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -635,7 +647,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMP"
+            "NAC": "NACCOMP",
+            "NAE": "NACCOMP"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -678,7 +691,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMPTEST"
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -728,7 +742,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMP"
+            "NAC": "NACCOMP",
+            "NAE": "NACCOMP"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -771,7 +786,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMPTEST"
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -821,7 +837,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMP"
+            "NAC": "NACCOMP",
+            "NAE": "NACCOMP"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
@@ -864,7 +881,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMPTEST"
+            "NAC": "NACCOMPTEST",
+            "NAE": "NACCOMPTEST"
          },
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
