@@ -6,7 +6,9 @@
    "displayDataId": "s34_major2_group",
    "eventGroup": "Season34_FNCSMajor2",
    "announcementTime": "2025-02-21T09:00:00Z",
-   "regions": [],
+   "regions": [
+      "BR"
+   ],
    "regionMappings": {
       "BR": "BRCOMP"
    },
@@ -37,6 +39,10 @@
       "DisqualifyType": "Floating",
       "minimumAccountLevel": 350,
       "RegionLockType": "Season",
+      "requireSystemFeatures": [
+         "SecureBoot",
+         "CryptoProcessor"
+      ],
       "TeamLockType": "Season",
       "TrackedStats": [
          "Headshots",
