@@ -37,11 +37,7 @@
    "metadata": {
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
-      "minimumAccountLevel": 350,
-      "requireSystemFeatures": [
-         "SecureBoot",
-         "CryptoProcessor"
-      ]
+      "minimumAccountLevel": 350
    },
    "eventWindows": [
       {
