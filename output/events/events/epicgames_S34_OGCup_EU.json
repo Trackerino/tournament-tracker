@@ -45,7 +45,7 @@
          "eventTemplateId": "EventTemplate_S34_OGCup",
          "countdownBeginTime": "2025-03-02T11:00:00Z",
          "beginTime": "2025-03-02T13:00:00Z",
-         "endTime": "2025-03-02T16:00:00Z",
+         "endTime": "2025-03-02T16:15:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
