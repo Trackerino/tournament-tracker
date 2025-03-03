@@ -134,9 +134,9 @@
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division1_Week1Final_NAW",
          "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup_Final",
-         "countdownBeginTime": "2025-03-08T00:00:00Z",
-         "beginTime": "2025-03-08T02:00:00Z",
-         "endTime": "2025-03-08T05:00:00Z",
+         "countdownBeginTime": "2025-03-09T00:00:00Z",
+         "beginTime": "2025-03-09T02:00:00Z",
+         "endTime": "2025-03-09T05:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
