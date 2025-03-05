@@ -47,7 +47,7 @@
    "eventWindows": [
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division3_Week1Day1_BR",
-         "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
+         "eventTemplateId": "EventTemplate_S34_FNCSDivision3Cup",
          "countdownBeginTime": "2025-03-05T19:00:02Z",
          "beginTime": "2025-03-05T21:00:02Z",
          "endTime": "2025-03-06T00:00:02Z",
@@ -100,7 +100,7 @@
       },
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division3_Week1Day2_BR",
-         "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
+         "eventTemplateId": "EventTemplate_S34_FNCSDivision3Cup",
          "countdownBeginTime": "2025-03-06T19:00:02Z",
          "beginTime": "2025-03-06T21:00:02Z",
          "endTime": "2025-03-07T00:00:02Z",
@@ -153,7 +153,7 @@
       },
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division3_Week2Day1_BR",
-         "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
+         "eventTemplateId": "EventTemplate_S34_FNCSDivision3Cup",
          "countdownBeginTime": "2025-03-12T19:00:02Z",
          "beginTime": "2025-03-12T21:00:02Z",
          "endTime": "2025-03-13T00:00:02Z",
@@ -206,7 +206,7 @@
       },
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division3_Week2Day2_BR",
-         "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
+         "eventTemplateId": "EventTemplate_S34_FNCSDivision3Cup",
          "countdownBeginTime": "2025-03-13T19:00:02Z",
          "beginTime": "2025-03-13T21:00:02Z",
          "endTime": "2025-03-14T00:00:02Z",
@@ -259,7 +259,7 @@
       },
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division3_Week3Day1_BR",
-         "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
+         "eventTemplateId": "EventTemplate_S34_FNCSDivision3Cup",
          "countdownBeginTime": "2025-03-19T19:00:02Z",
          "beginTime": "2025-03-19T21:00:02Z",
          "endTime": "2025-03-20T00:00:02Z",
@@ -312,7 +312,7 @@
       },
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division3_Week3Day2_BR",
-         "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
+         "eventTemplateId": "EventTemplate_S34_FNCSDivision3Cup",
          "countdownBeginTime": "2025-03-20T19:00:02Z",
          "beginTime": "2025-03-20T21:00:02Z",
          "endTime": "2025-03-21T00:00:02Z",
@@ -365,7 +365,7 @@
       },
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division3_Week4Day1_BR",
-         "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
+         "eventTemplateId": "EventTemplate_S34_FNCSDivision3Cup",
          "countdownBeginTime": "2025-03-26T19:00:02Z",
          "beginTime": "2025-03-26T21:00:02Z",
          "endTime": "2025-03-27T00:00:02Z",
@@ -418,7 +418,7 @@
       },
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division3_Week4Day2_BR",
-         "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
+         "eventTemplateId": "EventTemplate_S34_FNCSDivision3Cup",
          "countdownBeginTime": "2025-03-27T19:00:02Z",
          "beginTime": "2025-03-27T21:00:02Z",
          "endTime": "2025-03-28T00:00:02Z",
@@ -471,7 +471,7 @@
       },
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division3_Week5Day1_BR",
-         "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
+         "eventTemplateId": "EventTemplate_S34_FNCSDivision3Cup",
          "countdownBeginTime": "2025-04-02T19:00:02Z",
          "beginTime": "2025-04-02T21:00:02Z",
          "endTime": "2025-04-03T00:00:02Z",
@@ -524,7 +524,7 @@
       },
       {
          "eventWindowId": "S34_FNCSDivisionalCup_Division3_Week5Day2_BR",
-         "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
+         "eventTemplateId": "EventTemplate_S34_FNCSDivision3Cup",
          "countdownBeginTime": "2025-04-03T19:00:02Z",
          "beginTime": "2025-04-03T21:00:02Z",
          "endTime": "2025-04-04T00:00:02Z",
