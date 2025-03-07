@@ -37,7 +37,8 @@
    "metadata": {
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
-      "minimumAccountLevel": 50
+      "minimumAccountLevel": 50,
+      "webId": "S34_LanternFestCup"
    },
    "eventWindows": [
       {

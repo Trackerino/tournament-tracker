@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S34_LanternFestCup_OCE",
-   "beginTime": "2025-03-08T07:00:00Z",
-   "endTime": "2025-03-08T10:00:00Z",
+   "beginTime": "2025-03-08T08:00:00Z",
+   "endTime": "2025-03-08T11:00:00Z",
    "displayDataId": "s34_lantern",
    "eventGroup": "Season34_LanternFestCup",
    "announcementTime": "2025-03-04T17:00:00Z",
@@ -37,15 +37,16 @@
    "metadata": {
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
-      "minimumAccountLevel": 50
+      "minimumAccountLevel": 50,
+      "webId": "S34_LanternFestCup"
    },
    "eventWindows": [
       {
          "eventWindowId": "S34_LanternFestCup_OCE",
          "eventTemplateId": "EventTemplate_S34_LanternFestCup",
-         "countdownBeginTime": "2025-03-08T05:00:00Z",
-         "beginTime": "2025-03-08T07:00:00Z",
-         "endTime": "2025-03-08T10:00:00Z",
+         "countdownBeginTime": "2025-03-08T06:00:00Z",
+         "beginTime": "2025-03-08T08:00:00Z",
+         "endTime": "2025-03-08T11:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
