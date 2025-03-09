@@ -52,7 +52,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa",
             "currentRankingMax:ranked-br:8"
          ],
@@ -87,7 +87,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa",
             "currentRankingMax:ranked-br:8"
          ],
@@ -122,7 +122,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa",
             "currentRankingMax:ranked-br:8"
          ],
@@ -157,7 +157,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa",
             "currentRankingMax:ranked-br:8"
          ],
@@ -192,7 +192,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa",
             "currentRankingMax:ranked-br:8"
          ],
@@ -227,7 +227,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa",
             "currentRankingMax:ranked-br:8"
          ],
@@ -262,7 +262,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa",
             "currentRankingMax:ranked-br:8"
          ],
@@ -297,7 +297,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:0",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa",
             "currentRankingMax:ranked-br:8"
          ],
