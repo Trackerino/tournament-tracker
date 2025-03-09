@@ -45,13 +45,13 @@
          "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
          "countdownBeginTime": "2025-03-09T05:00:05Z",
          "beginTime": "2025-03-09T07:00:05Z",
-         "endTime": "2025-03-09T11:00:05Z",
+         "endTime": "2025-03-09T11:45:05Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -86,7 +86,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -121,7 +121,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -156,7 +156,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -191,7 +191,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -226,7 +226,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -261,7 +261,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -296,7 +296,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"

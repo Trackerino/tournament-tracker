@@ -51,7 +51,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -86,7 +86,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -121,7 +121,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -156,7 +156,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -191,7 +191,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -226,7 +226,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -261,7 +261,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"
@@ -296,7 +296,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "currentRankingMax:ranked-br:14",
             "mfa",
             "currentRanking:ranked-br:9"

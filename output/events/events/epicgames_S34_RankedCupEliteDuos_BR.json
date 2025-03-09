@@ -52,7 +52,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -86,7 +86,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -120,7 +120,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -154,7 +154,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -188,7 +188,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -222,7 +222,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -256,7 +256,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -290,7 +290,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "currentRanking:ranked-br:15",
-            "eula:S34_ranked_rules",
+            "eula:s34_ranked_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
