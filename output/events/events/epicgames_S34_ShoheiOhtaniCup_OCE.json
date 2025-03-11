@@ -1,11 +1,11 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S34_ShoheiOhtaniCup_OCE",
-   "beginTime": "2025-03-15T07:00:00Z",
-   "endTime": "2025-03-15T10:00:00Z",
+   "beginTime": "2025-03-15T08:00:00Z",
+   "endTime": "2025-03-15T11:00:00Z",
    "displayDataId": "s34_ohtani",
    "eventGroup": "Season34_ShoheiOhtaniCup",
-   "announcementTime": "2025-03-10T01:00:00Z",
+   "announcementTime": "2025-03-10T23:00:00Z",
    "regions": [
       "OCE"
    ],
@@ -42,9 +42,9 @@
       {
          "eventWindowId": "S34_ShoheiOhtaniCup_OCE",
          "eventTemplateId": "EventTemplate_S34_ShoheiOhtaniCup",
-         "countdownBeginTime": "2025-03-15T05:00:00Z",
-         "beginTime": "2025-03-15T07:00:00Z",
-         "endTime": "2025-03-15T10:00:00Z",
+         "countdownBeginTime": "2025-03-15T06:00:00Z",
+         "beginTime": "2025-03-15T08:00:00Z",
+         "endTime": "2025-03-15T11:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
