@@ -29,6 +29,7 @@
             "XboxOne": "Console"
          },
          "metadata": {
+            "minimumAccountLevel": 0,
             "tournamentType": "CashCup"
          },
          "eventWindows": [
