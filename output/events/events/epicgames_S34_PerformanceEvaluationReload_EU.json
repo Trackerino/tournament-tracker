@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S34_PerformanceEvaluationReload_EU",
    "beginTime": "2025-03-17T17:00:00Z",
-   "endTime": "2025-03-17T22:00:00Z",
+   "endTime": "2025-03-17T21:30:00Z",
    "displayDataId": "s34_perfeval_reload",
    "eventGroup": "Season34_PerformanceEvaluationReload",
    "announcementTime": "2025-02-21T09:00:00Z",
@@ -35,7 +35,8 @@
    "metadata": {
       "AccountLockType": "Window",
       "minimumAccountLevel": 350,
-      "TeamLockType": "Window"
+      "TeamLockType": "Window",
+      "webId": "S34_PerformanceEvaluationReload"
    },
    "eventWindows": [
       {
@@ -90,7 +91,7 @@
          "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round2",
          "countdownBeginTime": "2025-03-17T18:00:00Z",
          "beginTime": "2025-03-17T20:00:00Z",
-         "endTime": "2025-03-17T22:00:00Z",
+         "endTime": "2025-03-17T21:30:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
