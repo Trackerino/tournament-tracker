@@ -104,7 +104,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S34_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "leaderboardDefId": "S34_PerformanceEvaluationReload_Round2_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             }
          ],
