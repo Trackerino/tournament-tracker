@@ -256,8 +256,8 @@
       {
          "eventWindowId": "S34_SoloCashCup_Event3Round2_NAW",
          "eventTemplateId": "EventTemplate_S34_SoloCashCup_Round2",
-         "countdownBeginTime": "2025-03-25T22:00:00Z",
-         "beginTime": "2025-03-26T00:00:00Z",
+         "countdownBeginTime": "2025-03-24T22:00:00Z",
+         "beginTime": "2025-03-25T00:00:00Z",
          "endTime": "2025-03-26T03:00:00Z",
          "round": 0,
          "payoutDelay": 32,
