@@ -15,5 +15,22 @@
             ]
          }
       ]
+   },
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 8,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "Spray_BRCup:spray_headset",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
    }
 ]
