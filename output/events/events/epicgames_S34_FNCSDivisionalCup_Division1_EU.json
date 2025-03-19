@@ -182,7 +182,7 @@
          "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
          "countdownBeginTime": "2025-03-12T16:00:00Z",
          "beginTime": "2025-03-12T18:00:00Z",
-         "endTime": "2025-03-12T21:15:00Z",
+         "endTime": "2025-03-12T21:00:00Z",
          "round": 2,
          "payoutDelay": 32,
          "isTBD": false,
@@ -313,7 +313,7 @@
          "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
          "countdownBeginTime": "2025-03-19T16:00:00Z",
          "beginTime": "2025-03-19T18:00:00Z",
-         "endTime": "2025-03-19T21:00:00Z",
+         "endTime": "2025-03-19T18:30:00Z",
          "round": 3,
          "payoutDelay": 32,
          "isTBD": false,
@@ -331,6 +331,51 @@
             },
             {
                "leaderboardDefId": "S34_FNCSDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S34_FNCS_Division1_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "S34_DivisionLock_Division2Week3_EU",
+            "S34_DivisionLock_Division3Week3_EU",
+            "S34_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week3_EU"
+         }
+      },
+      {
+         "eventWindowId": "S34_FNCSDivisionalCup_Division1_Week3Day1_EU_makegood",
+         "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup",
+         "countdownBeginTime": "2025-03-19T16:00:00Z",
+         "beginTime": "2025-03-19T19:00:00Z",
+         "endTime": "2025-03-19T22:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s34_divisional_rules",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_FNCSDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S34_FNCSDivisionalCup_Division1Weekly_mg_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -375,7 +420,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S34_FNCSDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "leaderboardDefId": "S34_FNCSDivisionalCup_Division1Weekly_mg_CumulativeLeaderboard",
                "isMainWindowLeaderboard": false
             }
          ],

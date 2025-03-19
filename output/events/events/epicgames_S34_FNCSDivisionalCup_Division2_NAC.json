@@ -44,7 +44,8 @@
          "SecureBoot",
          "CryptoProcessor"
       ],
-      "TeamLockType": "Week"
+      "TeamLockType": "Week",
+      "webId": "S34_FNCSDivisionalCup_Division2"
    },
    "eventWindows": [
       {
