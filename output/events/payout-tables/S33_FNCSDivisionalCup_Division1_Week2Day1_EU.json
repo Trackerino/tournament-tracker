@@ -1,0 +1,19 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 0,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "rolling",
+                  "value": "S33_DivisionLock_Division1Week2_EU",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]

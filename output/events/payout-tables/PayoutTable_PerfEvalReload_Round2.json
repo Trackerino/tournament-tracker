@@ -1,0 +1,19 @@
+[
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 4,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 400,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]

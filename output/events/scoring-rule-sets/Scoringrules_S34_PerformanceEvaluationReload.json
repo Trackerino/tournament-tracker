@@ -1,0 +1,24 @@
+[
+   {
+      "trackedStat": "PLACEMENT_STAT_INDEX",
+      "matchRule": "lte",
+      "rewardTiers": [
+         {
+            "keyValue": 10,
+            "pointsEarned": 50,
+            "multiplicative": false
+         }
+      ]
+   },
+   {
+      "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+      "matchRule": "gte",
+      "rewardTiers": [
+         {
+            "keyValue": 1,
+            "pointsEarned": 1,
+            "multiplicative": true
+         }
+      ]
+   }
+]

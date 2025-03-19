@@ -1,0 +1,19 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 1000,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "rolling",
+                  "value": "S34_FNCSMajor2_GrandFinalist_ASIA",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]

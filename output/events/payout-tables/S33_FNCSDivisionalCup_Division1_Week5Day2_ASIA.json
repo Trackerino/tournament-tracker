@@ -1,0 +1,37 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 0,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "rolling",
+                  "value": "S33_DivisionLock_Division1Week5_ASIA",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 33,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S33_FNCS_Division1Week5_Final_ASIA",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ],
+      "scoreId": "cumulative:epicgames_S33_FNCSDivisionalCup_Division1_ASIA_Week5_cumulative"
+   }
+]

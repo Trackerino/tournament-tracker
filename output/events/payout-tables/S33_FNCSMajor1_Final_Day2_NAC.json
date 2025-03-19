@@ -1,0 +1,116 @@
+[
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 1,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 60000,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 2,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 25500,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 3,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 17000,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 4,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 11900,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 5,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 9350,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 10,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 6800,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 15,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 3400,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 20,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 1700,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 25,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 850,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ],
+      "scoreId": "cumulative:epicgames_S33_FNCSMajor1_Final_NAC_cumulative"
+   }
+]

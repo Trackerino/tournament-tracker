@@ -1,0 +1,26 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 0,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "rolling",
+                  "value": "S34_DivisionLock_Division3Week5_OCE",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               },
+               {
+                  "rewardType": "token",
+                  "rewardMode": "rolling",
+                  "value": "S34_FNCS_Division3_OCE",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]

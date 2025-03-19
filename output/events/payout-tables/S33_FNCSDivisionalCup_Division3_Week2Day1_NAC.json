@@ -1,0 +1,26 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 0,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "rolling",
+                  "value": "S33_DivisionLock_Division3Week2_NAC",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               },
+               {
+                  "rewardType": "token",
+                  "rewardMode": "rolling",
+                  "value": "S33_FNCS_Division3_NAC",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]

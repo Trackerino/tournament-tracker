@@ -1,0 +1,41 @@
+{
+   "gameId": "Fortnite",
+   "leaderboardDefId": "Leaderboard_S33_OG_Cup",
+   "leaderboardStorageId": "Fortnite_GLOBAL",
+   "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+   "leaderboardInstanceIdFormat": "${windowId}",
+   "maxSessionHistorySize": 10,
+   "useIndividualScores": true,
+   "tiebreakerFormula": {
+      "basePointsBits": 11,
+      "components": [
+         {
+            "trackedStat": "VICTORY_ROYALE_STAT",
+            "bits": 4,
+            "aggregation": "sum"
+         },
+         {
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "bits": 13,
+            "aggregation": "avg",
+            "multiplier": 100
+         },
+         {
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+            "bits": 14,
+            "aggregation": "avg",
+            "multiplier": 100
+         },
+         {
+            "trackedStat": "TIME_ALIVE_STAT",
+            "bits": 11,
+            "aggregation": "avg"
+         }
+      ]
+   },
+   "scoringRuleSetId": "Scoringrules_S33_OG_Cup",
+   "clampsToZero": true,
+   "hidePlayerScores": false,
+   "percentileAccuracy": 1,
+   "requiredPlayerListings": []
+}

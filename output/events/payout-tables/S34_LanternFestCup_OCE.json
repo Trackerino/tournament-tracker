@@ -1,0 +1,40 @@
+[
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 200,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaCharacter:character_paperblaze",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaCharacter:character_paperglow",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaBackpack:backpack_paperglow",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaBackpack:backpack_paperblaze",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]
