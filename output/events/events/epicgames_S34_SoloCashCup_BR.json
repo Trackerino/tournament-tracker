@@ -41,7 +41,8 @@
       "requireSystemFeatures": [
          "SecureBoot",
          "CryptoProcessor"
-      ]
+      ],
+      "tournamentType": "CashCup"
    },
    "eventWindows": [
       {
