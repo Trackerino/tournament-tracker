@@ -45,6 +45,7 @@
          "CryptoProcessor"
       ],
       "TeamLockType": "Week",
+      "tournamentType": "FNCS",
       "webId": "S34_FNCSDivisionalCup_Division2"
    },
    "eventWindows": [
