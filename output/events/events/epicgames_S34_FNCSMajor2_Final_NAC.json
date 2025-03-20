@@ -45,6 +45,7 @@
          "SecureBoot",
          "CryptoProcessor"
       ],
+      "tournamentType": "FNCS",
       "TrackedStats": [
          "Headshots",
          "DamageDealt",
@@ -52,7 +53,8 @@
          "GainedHealthTimes",
          "GainedShieldTimes",
          "Travel_Distance_Ground"
-      ]
+      ],
+      "webId": "S34_FNCSMajor2_Final"
    },
    "eventWindows": [
       {

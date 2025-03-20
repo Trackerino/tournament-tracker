@@ -43,6 +43,7 @@
          "SecureBoot",
          "CryptoProcessor"
       ],
+      "tournamentType": "FNCS",
       "TrackedStats": [
          "Headshots",
          "DamageDealt",
@@ -50,7 +51,8 @@
          "GainedHealthTimes",
          "GainedShieldTimes",
          "Travel_Distance_Ground"
-      ]
+      ],
+      "webId": "S34_FNCSMajor2_Final"
    },
    "eventWindows": [
       {
@@ -91,6 +93,7 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "relevantFloatingScoreId": "cumulative:epicgames_S34_FNCSMajor2_Final_ME_cumulative",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
@@ -137,6 +140,7 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "relevantFloatingScoreId": "cumulative:epicgames_S34_FNCSMajor2_Final_ME_cumulative",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
