@@ -38,6 +38,7 @@
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
       "minimumAccountLevel": 50,
+      "tournamentType": "ShopCup",
       "webId": "S34_LanternFestCup"
    },
    "eventWindows": [
