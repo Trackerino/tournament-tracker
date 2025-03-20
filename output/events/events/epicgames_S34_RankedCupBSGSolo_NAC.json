@@ -40,7 +40,8 @@
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
       "minimumAccountLevel": 50,
-      "TeamLockType": "Window"
+      "TeamLockType": "Window",
+      "tournamentType": "RankedCup"
    },
    "eventWindows": [
       {
