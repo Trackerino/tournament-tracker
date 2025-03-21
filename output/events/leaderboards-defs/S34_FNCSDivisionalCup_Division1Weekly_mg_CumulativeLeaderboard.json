@@ -3,7 +3,7 @@
    "leaderboardDefId": "S34_FNCSDivisionalCup_Division1Weekly_mg_CumulativeLeaderboard",
    "leaderboardStorageId": "Fortnite_GLOBAL",
    "leaderboardInstanceGroupingKeyFormat": "cumulative",
-   "leaderboardInstanceIdFormat": "${eventId}_Week${round}_cumulative_makegood",
+   "leaderboardInstanceIdFormat": "${eventId}_Week${round}_cumulative_mg",
    "maxSessionHistorySize": 20,
    "useIndividualScores": false,
    "tiebreakerFormula": {
