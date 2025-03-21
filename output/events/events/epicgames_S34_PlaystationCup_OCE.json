@@ -3,7 +3,7 @@
    "eventId": "epicgames_S34_PlaystationCup_OCE",
    "beginTime": "2025-04-29T09:00:00Z",
    "endTime": "2025-04-30T12:00:00Z",
-   "displayDataId": "S34_Playstation",
+   "displayDataId": "s34_playstation",
    "eventGroup": "Season34_PlaystationCup",
    "announcementTime": "2025-03-06T17:00:00Z",
    "regions": [
