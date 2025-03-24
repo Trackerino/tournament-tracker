@@ -5274,10 +5274,12 @@
       "secondary_color": "161616",
       "shadow_color": "161616",
       "short_format_title": "Cup",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-ranked-cups-02-800x800-800x800-6f6e9097db02.jpg",
       "title_color": "FFFFFF",
       "title_line_1": "Test Cup",
       "title_line_2": "TEST TEST TEST TEST TEST TEST TEST",
-      "tournament_display_id": "test_cup"
+      "tournament_display_id": "test_cup",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-33-30-textures-ranked-3up-1560x1024-1560x1018-79774f0f0b14.png"
    },
    {
       "_type": "Tournament Display Info",
