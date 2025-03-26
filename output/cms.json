@@ -1200,10 +1200,12 @@
       "secondary_color": "161616",
       "shadow_color": "161616",
       "short_format_title": "Solo Tournament",
+      "square_poster_image": "https://cdn2.unrealengine.com/squareriseofmidas-803x803-724e3493c71b.jpg",
       "title_color": "FFFFFF",
       "title_line_1": "Rise of Midas",
       "title_line_2": "Cup",
-      "tournament_display_id": "s29_riseofmidas"
+      "tournament_display_id": "s29_riseofmidas",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/29comp-riseofmidascup-in-game-tile-1920x1080-1920x1080-9079ec37005e.jpg"
    },
    {
       "_type": "Tournament Display Info",
