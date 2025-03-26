@@ -35,6 +35,10 @@
    "metadata": {
       "AccountLockType": "Window",
       "minimumAccountLevel": 350,
+      "requireSystemFeatures": [
+         "SecureBoot",
+         "CryptoProcessor"
+      ],
       "TeamLockType": "Window",
       "tournamentType": "WorkshopCup",
       "webId": "S34_PerformanceEvaluation"
