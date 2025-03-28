@@ -184,9 +184,9 @@
       {
          "eventWindowId": "S34_OGCupZB_Event5_ME",
          "eventTemplateId": "EventTemplate_S34_OGCupZB",
-         "countdownBeginTime": "2025-03-30T08:00:00Z",
-         "beginTime": "2025-03-30T10:00:00Z",
-         "endTime": "2025-03-30T13:00:00Z",
+         "countdownBeginTime": "2025-03-30T17:00:00Z",
+         "beginTime": "2025-03-30T19:00:00Z",
+         "endTime": "2025-03-30T22:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
