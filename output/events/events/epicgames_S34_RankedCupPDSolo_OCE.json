@@ -185,9 +185,9 @@
       {
          "eventWindowId": "S34_RankedCupPDSolo_Event13_OCE",
          "eventTemplateId": "EventTemplate_S34_RankedCupSolo",
-         "countdownBeginTime": "2025-04-09T05:00:05Z",
-         "beginTime": "2025-04-09T07:00:05Z",
-         "endTime": "2025-04-09T11:00:05Z",
+         "countdownBeginTime": "2025-04-09T06:00:05Z",
+         "beginTime": "2025-04-09T08:00:05Z",
+         "endTime": "2025-04-09T12:00:05Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
