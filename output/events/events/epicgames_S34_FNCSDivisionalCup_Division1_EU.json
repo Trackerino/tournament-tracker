@@ -576,11 +576,11 @@
          }
       },
       {
-         "eventWindowId": "S34_FNCSDivisionalCup_Division1_Week4Final_EU",
+         "eventWindowId": "S34_FNCSDivisionalCup_Division1_Week4Final_EU_mg",
          "eventTemplateId": "EventTemplate_S34_FNCSDivisionalCup_Final",
-         "countdownBeginTime": "2025-03-29T14:00:00Z",
-         "beginTime": "2025-03-29T16:00:00Z",
-         "endTime": "2025-03-29T19:00:00Z",
+         "countdownBeginTime": "2025-03-31T15:00:00Z",
+         "beginTime": "2025-03-31T17:00:00Z",
+         "endTime": "2025-03-31T20:00:00Z",
          "round": 4,
          "payoutDelay": 32,
          "isTBD": false,
