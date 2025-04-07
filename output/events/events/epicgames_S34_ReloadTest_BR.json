@@ -1,0 +1,125 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S34_ReloadTest_BR",
+   "beginTime": "2025-04-08T21:00:00Z",
+   "endTime": "2025-04-15T23:30:00Z",
+   "displayDataId": "s34_reloadopen",
+   "eventGroup": "Season34_ReloadTest",
+   "announcementTime": "2025-02-21T09:00:00Z",
+   "regions": [
+      "BR"
+   ],
+   "regionMappings": {
+      "BR": "BRCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "minimumAccountLevel": 50,
+      "TeamLockType": "Window",
+      "tournamentType": "WorkshopCup",
+      "webId": "S34_ReloadTestBR"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S34_ReloadTest_Event1_BR",
+         "eventTemplateId": "EventTemplate_S34_ReloadTestSunflower",
+         "countdownBeginTime": "2025-04-08T19:00:00Z",
+         "beginTime": "2025-04-08T21:00:00Z",
+         "endTime": "2025-04-08T23:30:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s34_reloadopen_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_ReloadTestBR_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "BR": "BRCOMP"
+         },
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week1"
+         }
+      },
+      {
+         "eventWindowId": "S34_ReloadTest_Event2_BR",
+         "eventTemplateId": "EventTemplate_S34_ReloadTestDashberry",
+         "countdownBeginTime": "2025-04-15T19:00:00Z",
+         "beginTime": "2025-04-15T21:00:00Z",
+         "endTime": "2025-04-15T23:30:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s34_reloadopen_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_ReloadTestBR_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "BR": "BRCOMP"
+         },
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week2"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s34_reloadtest_br",
+      "version": 1
+   }
+}
