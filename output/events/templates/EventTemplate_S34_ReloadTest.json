@@ -1,6 +1,6 @@
 {
    "playlistId": "Playlist_ShowdownTournament_PunchBerryDuo_NoFill",
-   "matchCap": 0,
+   "matchCap": 10,
    "tiebreakerFormula": {
       "basePointsBits": 11,
       "components": [
