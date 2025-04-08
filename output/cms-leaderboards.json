@@ -298,6 +298,12 @@
    {
       "_type": "Leaderboard Display Info",
       "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCupBRBronze_Event1_NAE",
+      "leaderboard_name": "Hidden",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCupBRBronze_Event1_NAE_Bronze",
       "leaderboard_name": "Bronze",
       "show_details_panel": true
    },
