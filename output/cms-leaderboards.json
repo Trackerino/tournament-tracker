@@ -297,49 +297,49 @@
    },
    {
       "_type": "Leaderboard Display Info",
-      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCup_BRBronze_Event1_NAE",
+      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCupBRBronze_Event1_NAE",
       "leaderboard_name": "Bronze",
       "show_details_panel": true
    },
    {
       "_type": "Leaderboard Display Info",
-      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCup_BRBronze_Event1_NAE_Champion",
+      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCupBRBronze_Event1_NAE_Champion",
       "leaderboard_name": "Champion",
       "show_details_panel": true
    },
    {
       "_type": "Leaderboard Display Info",
-      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCup_BRBronze_Event1_NAE_Diamond",
+      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCupBRBronze_Event1_NAE_Diamond",
       "leaderboard_name": "Diamond",
       "show_details_panel": true
    },
    {
       "_type": "Leaderboard Display Info",
-      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCup_BRBronze_Event1_NAE_Elite",
+      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCupBRBronze_Event1_NAE_Elite",
       "leaderboard_name": "Elite",
       "show_details_panel": true
    },
    {
       "_type": "Leaderboard Display Info",
-      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCup_BRBronze_Event1_NAE_Gold",
+      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCupBRBronze_Event1_NAE_Gold",
       "leaderboard_name": "Gold",
       "show_details_panel": true
    },
    {
       "_type": "Leaderboard Display Info",
-      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCup_BRBronze_Event1_NAE_Platinum",
+      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCupBRBronze_Event1_NAE_Platinum",
       "leaderboard_name": "Platinum",
       "show_details_panel": true
    },
    {
       "_type": "Leaderboard Display Info",
-      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCup_BRBronze_Event1_NAE_Silver",
+      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCupBRBronze_Event1_NAE_Silver",
       "leaderboard_name": "Silver",
       "show_details_panel": true
    },
    {
       "_type": "Leaderboard Display Info",
-      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCup_BRBronze_Event1_NAE_Unreal",
+      "leaderboard_id": "epicgames_Snek_RankedCupBRBronze_NAE:Test_RankedCupBRBronze_Event1_NAE_Unreal",
       "leaderboard_name": "Unreal",
       "show_details_panel": true
    },
