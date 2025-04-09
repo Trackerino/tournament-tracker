@@ -67,8 +67,6 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_NAW",
-            "S33_FNCS_Division2_NAW",
             "S34_FNCS_Division1_NAW",
             "S34_FNCS_Division2_NAW"
          ],
@@ -150,8 +148,6 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_NAW",
-            "S33_FNCS_Division2_NAW",
             "S34_FNCS_Division1_NAW",
             "S34_FNCS_Division2_NAW"
          ],

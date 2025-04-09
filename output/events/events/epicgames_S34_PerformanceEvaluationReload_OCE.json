@@ -47,7 +47,7 @@
          "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round1Sunflower",
          "countdownBeginTime": "2025-04-09T05:00:00Z",
          "beginTime": "2025-04-09T08:00:00Z",
-         "endTime": "2025-04-09T10:00:00Z",
+         "endTime": "2025-04-09T09:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -67,8 +67,6 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_OCE",
-            "S33_FNCS_Division2_OCE",
             "S34_FNCS_Division1_OCE",
             "S34_FNCS_Division2_OCE"
          ],
@@ -79,48 +77,6 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "RoundType": "Qualifiers",
-            "ServerReplays": true,
-            "SubgroupId": "Week1"
-         }
-      },
-      {
-         "eventWindowId": "S34_PerformanceEvaluationReload_Event1Round2_OCE",
-         "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round2Sunflower",
-         "countdownBeginTime": "2025-04-09T08:00:00Z",
-         "beginTime": "2025-04-09T11:00:00Z",
-         "endTime": "2025-04-09T12:30:00Z",
-         "round": 0,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "mfa",
-            "eula:s33_perfeval_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S34_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [
-            "S34_PerformanceEvaluationReload_Event1Round2_OCE",
-            "WeeklyTournamentSpectator"
-         ],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "metadata": {
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
-            "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1440,
             "ServerReplays": true,
             "SubgroupId": "Week1"
          }
@@ -150,8 +106,6 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_OCE",
-            "S33_FNCS_Division2_OCE",
             "S34_FNCS_Division1_OCE",
             "S34_FNCS_Division2_OCE"
          ],
