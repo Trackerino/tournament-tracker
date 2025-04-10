@@ -503,9 +503,9 @@
       {
          "eventWindowId": "S34_SoloCashCup_Event6Round2_EU",
          "eventTemplateId": "EventTemplate_S34_SoloCashCup_Round2",
-         "countdownBeginTime": "2025-04-13T14:00:00Z",
-         "beginTime": "2025-04-13T16:00:00Z",
-         "endTime": "2025-04-13T19:00:00Z",
+         "countdownBeginTime": "2025-04-12T15:00:00Z",
+         "beginTime": "2025-04-12T17:00:00Z",
+         "endTime": "2025-04-12T20:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
