@@ -219,9 +219,9 @@
       {
          "eventWindowId": "S34_RankedCupBSGDuos_Event6_EU",
          "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
-         "countdownBeginTime": "2025-04-13T14:00:06Z",
-         "beginTime": "2025-04-13T16:00:06Z",
-         "endTime": "2025-04-13T20:00:06Z",
+         "countdownBeginTime": "2025-04-12T15:00:06Z",
+         "beginTime": "2025-04-12T17:00:06Z",
+         "endTime": "2025-04-12T21:00:06Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,

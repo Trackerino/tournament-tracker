@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S34_FNCSCommunityCups_NAW",
-   "beginTime": "2025-04-13T01:00:00Z",
-   "endTime": "2025-04-13T04:00:00Z",
+   "beginTime": "2025-04-12T21:00:00Z",
+   "endTime": "2025-04-13T00:00:00Z",
    "displayDataId": "s34_fncscommunity",
    "eventGroup": "Season34_FNCSCommunityCup",
    "announcementTime": "2025-04-08T14:00:00Z",
@@ -44,9 +44,9 @@
       {
          "eventWindowId": "S34_FNCSCommunityCups_NAW",
          "eventTemplateId": "EventTemplate_S34_FNCSCommunityCups",
-         "countdownBeginTime": "2025-04-12T23:00:00Z",
-         "beginTime": "2025-04-13T01:00:00Z",
-         "endTime": "2025-04-13T04:00:00Z",
+         "countdownBeginTime": "2025-04-12T19:00:00Z",
+         "beginTime": "2025-04-12T21:00:00Z",
+         "endTime": "2025-04-13T00:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
