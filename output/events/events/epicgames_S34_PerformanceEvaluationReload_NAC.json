@@ -129,6 +129,89 @@
       },
       {
          "eventWindowId": "S34_PerformanceEvaluationReload_Event2Round1_NAC",
+         "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round1Sunflower",
+         "countdownBeginTime": "2025-04-10T21:00:00Z",
+         "beginTime": "2025-04-10T23:00:00Z",
+         "endTime": "2025-04-11T01:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s33_perfeval_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_PerformanceEvaluationReloadAll_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_FNCS_Division1_NAC",
+            "S33_FNCS_Division2_NAC",
+            "S34_FNCS_Division1_NAC",
+            "S34_FNCS_Division2_NAC"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week2"
+         }
+      },
+      {
+         "eventWindowId": "S34_PerformanceEvaluationReload_Event2Round2_NAC",
+         "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round2Sunflower",
+         "countdownBeginTime": "2025-04-11T00:00:00Z",
+         "beginTime": "2025-04-11T02:00:00Z",
+         "endTime": "2025-04-11T03:30:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s33_perfeval_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S34_PerformanceEvaluationReload_Event2Round2_NAC",
+            "WeeklyTournamentSpectator"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1440,
+            "ServerReplays": true,
+            "SubgroupId": "Week2"
+         }
+      },
+      {
+         "eventWindowId": "S34_PerformanceEvaluationReload_Event3Round1_NAC",
          "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round1Dashberry",
          "countdownBeginTime": "2025-04-16T21:00:00Z",
          "beginTime": "2025-04-16T23:00:00Z",
@@ -169,7 +252,7 @@
          }
       },
       {
-         "eventWindowId": "S34_PerformanceEvaluationReload_Event2Round2_NAC",
+         "eventWindowId": "S34_PerformanceEvaluationReload_Event3Round2_NAC",
          "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round2Dashberry",
          "countdownBeginTime": "2025-04-17T00:00:00Z",
          "beginTime": "2025-04-17T02:00:00Z",
@@ -193,7 +276,7 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S34_PerformanceEvaluationReload_Event2Round2_NAC",
+            "S34_PerformanceEvaluationReload_Event3Round2_NAC",
             "WeeklyTournamentSpectator"
          ],
          "requireNoneTokensCaller": [

@@ -127,10 +127,10 @@
       },
       {
          "eventWindowId": "S34_PerformanceEvaluationReloadAll_Event2Round1_EU",
-         "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round1Dashberry",
-         "countdownBeginTime": "2025-04-16T15:00:00Z",
-         "beginTime": "2025-04-16T17:00:00Z",
-         "endTime": "2025-04-16T19:00:00Z",
+         "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round1Sunflower",
+         "countdownBeginTime": "2025-04-10T15:00:00Z",
+         "beginTime": "2025-04-10T17:00:00Z",
+         "endTime": "2025-04-10T19:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -168,10 +168,10 @@
       },
       {
          "eventWindowId": "S34_PerformanceEvaluationReloadAll_Event2Round2_EU",
-         "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round2Dashberry",
-         "countdownBeginTime": "2025-04-16T18:00:00Z",
-         "beginTime": "2025-04-16T20:00:00Z",
-         "endTime": "2025-04-16T21:30:00Z",
+         "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round2Sunflower",
+         "countdownBeginTime": "2025-04-10T18:00:00Z",
+         "beginTime": "2025-04-10T20:00:00Z",
+         "endTime": "2025-04-10T21:30:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -206,6 +206,89 @@
             "ScheduledMatchmakingMatchDelaySeconds": 1440,
             "ServerReplays": true,
             "SubgroupId": "Week2"
+         }
+      },
+      {
+         "eventWindowId": "S34_PerformanceEvaluationReloadAll_Event3Round1_EU",
+         "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round1Dashberry",
+         "countdownBeginTime": "2025-04-16T15:00:00Z",
+         "beginTime": "2025-04-16T17:00:00Z",
+         "endTime": "2025-04-16T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s33_perfeval_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_PerformanceEvaluationReloadAll_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S33_FNCS_Division1_EU",
+            "S33_FNCS_Division2_EU",
+            "S34_FNCS_Division1_EU",
+            "S34_FNCS_Division2_EU"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week3"
+         }
+      },
+      {
+         "eventWindowId": "S34_PerformanceEvaluationReloadAll_Event3Round2_EU",
+         "eventTemplateId": "EventTemplate_S34_PerformanceEvaluationReload_Round2Dashberry",
+         "countdownBeginTime": "2025-04-16T18:00:00Z",
+         "beginTime": "2025-04-16T20:00:00Z",
+         "endTime": "2025-04-16T21:30:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s33_perfeval_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S34_PerformanceEvaluationReload_Event3Round2_EU",
+            "WeeklyTournamentSpectator"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1440,
+            "ServerReplays": true,
+            "SubgroupId": "Week3"
          }
       }
    ],
