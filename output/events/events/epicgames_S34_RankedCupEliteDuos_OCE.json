@@ -214,9 +214,9 @@
       {
          "eventWindowId": "S34_RankedCupEliteDuos_Event6_OCE",
          "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
-         "countdownBeginTime": "2025-04-13T05:00:04Z",
-         "beginTime": "2025-04-13T07:00:04Z",
-         "endTime": "2025-04-13T11:00:04Z",
+         "countdownBeginTime": "2025-04-12T06:00:04Z",
+         "beginTime": "2025-04-12T08:00:04Z",
+         "endTime": "2025-04-12T12:00:04Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,

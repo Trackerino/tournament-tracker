@@ -214,9 +214,9 @@
       {
          "eventWindowId": "S34_RankedCupEliteDuos_Event6_ASIA",
          "eventTemplateId": "EventTemplate_S34_RankedCupDuos",
-         "countdownBeginTime": "2025-04-13T06:00:04Z",
-         "beginTime": "2025-04-13T08:00:04Z",
-         "endTime": "2025-04-13T12:00:04Z",
+         "countdownBeginTime": "2025-04-12T07:00:04Z",
+         "beginTime": "2025-04-12T09:00:04Z",
+         "endTime": "2025-04-12T13:00:04Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
