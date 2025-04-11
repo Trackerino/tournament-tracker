@@ -53,7 +53,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
-            "eula:NEED CHANGE"
+            "eula:s34_fncscommunity_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
