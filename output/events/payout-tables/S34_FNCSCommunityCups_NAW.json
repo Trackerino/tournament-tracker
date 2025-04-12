@@ -63,14 +63,14 @@
                {
                   "rewardType": "game",
                   "rewardMode": "standard",
-                  "value": "AthenaMusicPack:sparkssong:sid_placeholder_543",
+                  "value": "SparksSong:sid_placeholder_543",
                   "quantity": 1,
                   "notifiesPlayer": false
                },
                {
                   "rewardType": "game",
                   "rewardMode": "standard",
-                  "value": "AthenaBackpack:backpack_fncss34",
+                  "value": "AthenaBackpack:backpack_fnc_s34",
                   "quantity": 1,
                   "notifiesPlayer": false
                }
