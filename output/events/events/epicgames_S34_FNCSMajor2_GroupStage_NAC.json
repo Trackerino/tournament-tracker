@@ -124,7 +124,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S34_FNCSMajor2_Group2_NAC_v2"
+            "S34_FNCSMajor2_Group2_NAC"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -167,7 +167,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S34_FNCSMajor2_Group3_NAC_v2"
+            "S34_FNCSMajor2_Group3_NAC"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
