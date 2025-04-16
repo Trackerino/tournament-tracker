@@ -150,7 +150,6 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_BR",
             "S34_FNCS_Division1_BR"
          ],
          "requireNoneTokensCaller": [

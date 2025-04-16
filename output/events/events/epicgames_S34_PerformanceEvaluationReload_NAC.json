@@ -235,7 +235,6 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S33_FNCS_Division1_NAC",
             "S34_FNCS_Division1_NAC"
          ],
          "requireNoneTokensCaller": [
