@@ -32,6 +32,13 @@
                   "value": "AthenaBackpack:backpack_paperblaze",
                   "quantity": 1,
                   "notifiesPlayer": false
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaCharacter:character_rankedtrooper",
+                  "quantity": 1,
+                  "notifiesPlayer": false
                }
             ]
          }
