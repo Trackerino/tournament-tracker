@@ -8,7 +8,7 @@
                {
                   "rewardType": "game",
                   "rewardMode": "standard",
-                  "value": "AthenaCharacter:character_rankedtrooper_noble",
+                  "value": "AthenaCharacter:character_rankedtroopernoble",
                   "quantity": 1,
                   "notifiesPlayer": false
                }
