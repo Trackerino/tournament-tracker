@@ -238,7 +238,7 @@
             "S34_FNCS_Division1_NAC",
             "S34_FNCS_Division1_NAW",
             "S34_FNCS_Division1_OCE",
-            "pro_am_participant"
+            "pro_am_participant_v2"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
@@ -325,7 +325,7 @@
             "S34_FNCS_Division1_NAC",
             "S34_FNCS_Division1_NAW",
             "S34_FNCS_Division1_OCE",
-            "pro_am_participant"
+            "pro_am_participant_v2"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2"
