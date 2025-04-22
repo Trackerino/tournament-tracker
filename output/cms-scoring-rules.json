@@ -1,6 +1,150 @@
 [
    {
       "_type": "Scoring Rules Display Info",
+      "description": "Bronze Placement Points",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "Bronze Placement Points",
+      "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
+      "rule_name": "berryBR_Bronze_PLACEMENT_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Bronze Elimination,other=Bronze Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Bronze Elimination,other=Bronze Eliminations)",
+      "poster_interval_description": "{0} - {1} Bronze Eliminations",
+      "rule_name": "berryBR_Bronze_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "Champion Placement Points",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "Champion Placement Points",
+      "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
+      "rule_name": "berryBR_Champion_PLACEMENT_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Champion Elimination,other=Champion Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Champion Elimination,other=Champion Eliminations)",
+      "poster_interval_description": "{0} - {1} Champion Eliminations",
+      "rule_name": "berryBR_Champion_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "Diamond Placement Points",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "Diamond Placement Points",
+      "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
+      "rule_name": "berryBR_Diamond_PLACEMENT_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Diamond Elimination,other=Diamond Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Diamond Elimination,other=Diamond Eliminations)",
+      "poster_interval_description": "{0} - {1} Diamond Eliminations",
+      "rule_name": "berryBR_Diamond_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "Elite Placement Points",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "Elite Placement Points",
+      "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
+      "rule_name": "berryBR_Elite_PLACEMENT_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Elite Elimination,other=Elite Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Elite Elimination,other=Elite Eliminations)",
+      "poster_interval_description": "{0} - {1} Elite Eliminations",
+      "rule_name": "berryBR_Elite_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "Gold Placement Points",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "Gold Placement Points",
+      "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
+      "rule_name": "berryBR_Gold_PLACEMENT_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Gold Elimination,other=Gold Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Gold Elimination,other=Gold Eliminations)",
+      "poster_interval_description": "{0} - {1} Gold Eliminations",
+      "rule_name": "berryBR_Gold_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "Platinum Placement Points",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "Platinum Placement Points",
+      "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
+      "rule_name": "berryBR_Platinum_PLACEMENT_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Platinum Elimination,other=Platinum Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Platinum Elimination,other=Platinum Eliminations)",
+      "poster_interval_description": "{0} - {1} Platinum Eliminations",
+      "rule_name": "berryBR_Platinum_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "Silver Placement Points",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "Silver Placement Points",
+      "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
+      "rule_name": "berryBR_Silver_PLACEMENT_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Silver Elimination,other=Silver Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Silver Elimination,other=Silver Eliminations)",
+      "poster_interval_description": "{0} - {1} Silver Eliminations",
+      "rule_name": "berryBR_Silver_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "Unreal Placement Points",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "Unreal Placement Points",
+      "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
+      "rule_name": "berryBR_Unreal_PLACEMENT_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Unreal Elimination,other=Unreal Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Unreal Elimination,other=Unreal Eliminations)",
+      "poster_interval_description": "{0} - {1} Unreal Eliminations",
+      "rule_name": "berryBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
       "description": "{0} {0}|plural(one=Bow Elimination,other=Bow Eliminations)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
