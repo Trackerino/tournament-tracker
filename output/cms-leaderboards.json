@@ -378,10 +378,90 @@
    {
       "_type": "Leaderboard Display Info",
       "displayed_tracked_stat": [
+         "figmentBR_Bronze_PLACEMENT_STAT_INDEX",
+         "figmentBR_Bronze_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalBRFigment_NAC:S35_ranked-figment-build_Bronze",
+      "leaderboard_name": "Bronze",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentBR_Champion_PLACEMENT_STAT_INDEX",
+         "figmentBR_Champion_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalBRFigment_NAC:S35_ranked-figment-build_Champion",
+      "leaderboard_name": "Champion",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentBR_Diamond_PLACEMENT_STAT_INDEX",
+         "figmentBR_Diamond_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalBRFigment_NAC:S35_ranked-figment-build_Diamond",
+      "leaderboard_name": "Diamond",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentBR_Elite_PLACEMENT_STAT_INDEX",
+         "figmentBR_Elite_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalBRFigment_NAC:S35_ranked-figment-build_Elite",
+      "leaderboard_name": "Elite",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentBR_Gold_PLACEMENT_STAT_INDEX",
+         "figmentBR_Gold_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalBRFigment_NAC:S35_ranked-figment-build_Gold",
+      "leaderboard_name": "Gold",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentBR_Platinum_PLACEMENT_STAT_INDEX",
+         "figmentBR_Platinum_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalBRFigment_NAC:S35_ranked-figment-build_Platinum",
+      "leaderboard_name": "Platinum",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentBR_Silver_PLACEMENT_STAT_INDEX",
+         "figmentBR_Silver_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalBRFigment_NAC:S35_ranked-figment-build_Silver",
+      "leaderboard_name": "Silver",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentBR_Unreal_PLACEMENT_STAT_INDEX",
+         "figmentBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalBRFigment_NAC:S35_ranked-figment-build_Unreal",
+      "leaderboard_name": "Unreal",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
          "berryBR_Bronze_PLACEMENT_STAT_INDEX",
          "berryBR_Bronze_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_blastberry_build_Bronze",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_ranked_blastberry_build_Bronze",
       "leaderboard_name": "Bronze",
       "show_details_panel": true
    },
@@ -391,7 +471,7 @@
          "berryBR_Champion_PLACEMENT_STAT_INDEX",
          "berryBR_Champion_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_blastberry_build_Champion",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_ranked_blastberry_build_Champion",
       "leaderboard_name": "Champion",
       "show_details_panel": true
    },
@@ -401,7 +481,7 @@
          "berryBR_Diamond_PLACEMENT_STAT_INDEX",
          "berryBR_Diamond_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_blastberry_build_Diamond",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_ranked_blastberry_build_Diamond",
       "leaderboard_name": "Diamond",
       "show_details_panel": true
    },
@@ -411,7 +491,7 @@
          "berryBR_Elite_PLACEMENT_STAT_INDEX",
          "berryBR_Elite_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_blastberry_build_Elite",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_ranked_blastberry_build_Elite",
       "leaderboard_name": "Elite",
       "show_details_panel": true
    },
@@ -421,7 +501,7 @@
          "berryBR_Gold_PLACEMENT_STAT_INDEX",
          "berryBR_Gold_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_blastberry_build_Gold",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_ranked_blastberry_build_Gold",
       "leaderboard_name": "Gold",
       "show_details_panel": true
    },
@@ -431,7 +511,7 @@
          "berryBR_Platinum_PLACEMENT_STAT_INDEX",
          "berryBR_Platinum_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_blastberry_build_Platinum",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_ranked_blastberry_build_Platinum",
       "leaderboard_name": "Platinum",
       "show_details_panel": true
    },
@@ -441,7 +521,7 @@
          "berryBR_Silver_PLACEMENT_STAT_INDEX",
          "berryBR_Silver_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_blastberry_build_Silver",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_ranked_blastberry_build_Silver",
       "leaderboard_name": "Silver",
       "show_details_panel": true
    },
@@ -451,7 +531,7 @@
          "berryBR_Unreal_PLACEMENT_STAT_INDEX",
          "berryBR_Unreal_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_blastberry_build_Unreal",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalReload_NAC:S35_ranked_blastberry_build_Unreal",
       "leaderboard_name": "Unreal",
       "show_details_panel": true
    },
@@ -541,7 +621,7 @@
          "berryZB_Bronze_PLACEMENT_STAT_INDEX",
          "berryZB_Bronze_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_blastberry_nobuild_Bronze",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_ranked_blastberry_nobuild_Bronze",
       "leaderboard_name": "Bronze",
       "show_details_panel": true
    },
@@ -551,7 +631,7 @@
          "berryZB_Champion_PLACEMENT_STAT_INDEX",
          "berryZB_Champion_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_blastberry_nobuild_Champion",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_ranked_blastberry_nobuild_Champion",
       "leaderboard_name": "Champion",
       "show_details_panel": true
    },
@@ -561,7 +641,7 @@
          "berryZB_Diamond_PLACEMENT_STAT_INDEX",
          "berryZB_Diamond_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_blastberry_nobuild_Diamond",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_ranked_blastberry_nobuild_Diamond",
       "leaderboard_name": "Diamond",
       "show_details_panel": true
    },
@@ -571,7 +651,7 @@
          "berryZB_Elite_PLACEMENT_STAT_INDEX",
          "berryZB_Elite_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_blastberry_nobuild_Elite",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_ranked_blastberry_nobuild_Elite",
       "leaderboard_name": "Elite",
       "show_details_panel": true
    },
@@ -581,7 +661,7 @@
          "berryZB_Gold_PLACEMENT_STAT_INDEX",
          "berryZB_Gold_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_blastberry_nobuild_Gold",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_ranked_blastberry_nobuild_Gold",
       "leaderboard_name": "Gold",
       "show_details_panel": true
    },
@@ -591,7 +671,7 @@
          "berryZB_Platinum_PLACEMENT_STAT_INDEX",
          "berryZB_Platinum_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_blastberry_nobuild_Platinum",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_ranked_blastberry_nobuild_Platinum",
       "leaderboard_name": "Platinum",
       "show_details_panel": true
    },
@@ -601,7 +681,7 @@
          "berryZB_Silver_PLACEMENT_STAT_INDEX",
          "berryZB_Silver_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_blastberry_nobuild_Silver",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_ranked_blastberry_nobuild_Silver",
       "leaderboard_name": "Silver",
       "show_details_panel": true
    },
@@ -611,7 +691,7 @@
          "berryZB_Unreal_PLACEMENT_STAT_INDEX",
          "berryZB_Unreal_TEAM_ELIMS_STAT_INDEX"
       ],
-      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_blastberry_nobuild_Unreal",
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBReload_NAC:S35_ranked_blastberry_nobuild_Unreal",
       "leaderboard_name": "Unreal",
       "show_details_panel": true
    },
