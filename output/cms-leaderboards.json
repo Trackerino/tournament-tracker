@@ -618,6 +618,86 @@
    {
       "_type": "Leaderboard Display Info",
       "displayed_tracked_stat": [
+         "figmentZB_Bronze_PLACEMENT_STAT_INDEX",
+         "figmentZB_Bronze_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBFigment_NAC:S35_ranked-figment-nobuild_Bronze",
+      "leaderboard_name": "Bronze",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentZB_Champion_PLACEMENT_STAT_INDEX",
+         "figmentZB_Champion_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBFigment_NAC:S35_ranked-figment-nobuild_Champion",
+      "leaderboard_name": "Champion",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentZB_Diamond_PLACEMENT_STAT_INDEX",
+         "figmentZB_Diamond_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBFigment_NAC:S35_ranked-figment-nobuild_Diamond",
+      "leaderboard_name": "Diamond",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentZB_Elite_PLACEMENT_STAT_INDEX",
+         "figmentZB_Elite_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBFigment_NAC:S35_ranked-figment-nobuild_Elite",
+      "leaderboard_name": "Elite",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentZB_Gold_PLACEMENT_STAT_INDEX",
+         "figmentZB_Gold_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBFigment_NAC:S35_ranked-figment-nobuild_Gold",
+      "leaderboard_name": "Gold",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentZB_Platinum_PLACEMENT_STAT_INDEX",
+         "figmentZB_Platinum_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBFigment_NAC:S35_ranked-figment-nobuild_Platinum",
+      "leaderboard_name": "Platinum",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentZB_Silver_PLACEMENT_STAT_INDEX",
+         "figmentZB_Silver_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBFigment_NAC:S35_ranked-figment-nobuild_Silver",
+      "leaderboard_name": "Silver",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "figmentZB_Unreal_PLACEMENT_STAT_INDEX",
+         "figmentZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "leaderboard_id": "epicgames_Snek_RankedCupDivisionalZBFigment_NAC:S35_ranked-figment-nobuild_Unreal",
+      "leaderboard_name": "Unreal",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
          "berryZB_Bronze_PLACEMENT_STAT_INDEX",
          "berryZB_Bronze_TEAM_ELIMS_STAT_INDEX"
       ],
