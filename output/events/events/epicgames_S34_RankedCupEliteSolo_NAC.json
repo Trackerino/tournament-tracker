@@ -376,7 +376,9 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [],
-         "requireNoneTokensCaller": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
