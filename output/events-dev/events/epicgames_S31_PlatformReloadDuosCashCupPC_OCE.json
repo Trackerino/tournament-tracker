@@ -1,0 +1,66 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S31_PlatformReloadDuosCashCupPC_OCE",
+   "beginTime": "2024-08-30T08:00:00Z",
+   "endTime": "2025-02-27T10:00:00Z",
+   "displayDataId": "s12_fncs_week1_large",
+   "eventGroup": "Season31PlatformReloadDuosCashCupPC",
+   "announcementTime": "2024-08-16T04:00:00Z",
+   "regions": [
+      "NAE"
+   ],
+   "regionMappings": {
+      "NAE": "NAC",
+      "NAW": "NAC"
+   },
+   "platforms": [
+      "Windows"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 0
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S31_PlatformReloadDuosCashCupPC_Event1Round1_OCE",
+         "eventTemplateId": "EventTemplate_S31_PlatformReloadDuosCashCup_Round1",
+         "countdownBeginTime": "2024-08-30T06:00:00Z",
+         "beginTime": "2024-08-30T08:00:00Z",
+         "endTime": "2025-02-27T10:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:crab",
+            "mfa",
+            "QAAnalyst"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "LeaderboardDef_S31_Platform_Reload_Duos_Cash_Cup_R_1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s31_platformreloadduoscashcuppc_oce",
+      "version": 1
+   }
+}

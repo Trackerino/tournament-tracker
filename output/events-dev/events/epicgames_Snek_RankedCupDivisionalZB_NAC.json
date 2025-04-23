@@ -1,0 +1,118 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_Snek_RankedCupDivisionalZB_NAC",
+   "beginTime": "2025-04-22T01:00:00Z",
+   "endTime": "2026-04-12T05:00:00Z",
+   "displayDataId": "s34_rankedcup_elite_solo",
+   "eventGroup": "TEST",
+   "announcementTime": "2024-10-01T13:00:00Z",
+   "regions": [
+      "NAC"
+   ],
+   "regionMappings": {
+      "NAE": "NACCOMP",
+      "NAW": "NACCOMP",
+      "NAC": "NACCOMP"
+   },
+   "platforms": [
+      "Windows"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "coreZB": "coreZB",
+      "minimumAccountLevel": 15,
+      "tournamentType": "RankedCup",
+      "TrackedStats": [
+         "${rankedMode.statName}_Bronze_PLACEMENT_STAT_INDEX",
+         "${rankedMode.statName}_Bronze_TEAM_ELIMS_STAT_INDEX",
+         "${rankedMode.statName}_Silver_PLACEMENT_STAT_INDEX",
+         "${rankedMode.statName}_Silver_TEAM_ELIMS_STAT_INDEX",
+         "${rankedMode.statName}_Gold_PLACEMENT_STAT_INDEX",
+         "${rankedMode.statName}_Gold_TEAM_ELIMS_STAT_INDEX",
+         "${rankedMode.statName}_Platinum_PLACEMENT_STAT_INDEX",
+         "${rankedMode.statName}_Platinum_TEAM_ELIMS_STAT_INDEX",
+         "${rankedMode.statName}_Diamond_PLACEMENT_STAT_INDEX",
+         "${rankedMode.statName}_Diamond_TEAM_ELIMS_STAT_INDEX",
+         "${rankedMode.statName}_Elite_PLACEMENT_STAT_INDEX",
+         "${rankedMode.statName}_Elite_TEAM_ELIMS_STAT_INDEX",
+         "${rankedMode.statName}_Unreal_PLACEMENT_STAT_INDEX",
+         "${rankedMode.statName}_Unreal_TEAM_ELIMS_STAT_INDEX"
+      ]
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S35_ranked-zb",
+         "eventTemplateId": "EventTemplate_NoBuildBR_RC_Duos",
+         "countdownBeginTime": "2024-10-06T23:00:00Z",
+         "beginTime": "2025-04-22T01:00:00Z",
+         "endTime": "2026-04-12T05:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "mfa",
+            "eula:crab",
+            "adps:g-a81a33a3b9a7",
+            "currentRanking:ranked-zb:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "MainLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "BronzeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "SilverLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "GoldLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "PlatinumLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "DiamondLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "EliteLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "ChampionLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "UnrealLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "hideScoreLocationsIndexes": [
+               null
+            ],
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_snek_rankedcupdivisionalzb_nac"
+   }
+}

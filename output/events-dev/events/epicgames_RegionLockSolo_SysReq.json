@@ -1,0 +1,93 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_RegionLockSolo_SysReq",
+   "beginTime": "2023-06-23T06:00:00Z",
+   "endTime": "2025-08-29T19:20:00Z",
+   "displayDataId": "limited_test_event_Solo",
+   "eventGroup": "Some_Test_Tournament",
+   "announcementTime": "2023-01-04T00:00:00Z",
+   "regions": [
+      "ASIA"
+   ],
+   "regionMappings": {},
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "ACFeatureNoBans": "false",
+      "minimumAccountLevel": 1,
+      "RegionLockType": "Week",
+      "requireSystemFeatures": [
+         "CryptoProcessor",
+         "SecureBoot"
+      ]
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "AC_Window",
+         "eventTemplateId": "EventTemplate_AC_Solos",
+         "countdownBeginTime": "2023-01-07T21:10:12Z",
+         "beginTime": "2023-06-23T06:00:00Z",
+         "endTime": "2025-08-29T19:20:00Z",
+         "round": 1,
+         "payoutDelay": 5,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:crab",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "AC_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction",
+            "RegionLock_BR",
+            "RegionLock_EU",
+            "RegionLock_ME",
+            "RegionLock_NAC",
+            "RegionLock_OCE"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RecordCustomMatchScores": true,
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubGroupId": "testSub"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_regionlocksolo_sysreq",
+      "version": 1
+   }
+}

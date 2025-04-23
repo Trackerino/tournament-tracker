@@ -1,0 +1,19 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 75,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaGlider:umbrella_rankedpantheon",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               }
+            ]
+         }
+      ]
+   }
+]

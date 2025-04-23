@@ -1,0 +1,109 @@
+[
+   {
+      "trackedStat": "berryBR_Elite_PLACEMENT_STAT_INDEX",
+      "matchRule": "lte",
+      "rewardTiers": [
+         {
+            "keyValue": 1,
+            "pointsEarned": 19,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 2,
+            "pointsEarned": 10,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 3,
+            "pointsEarned": 8,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 4,
+            "pointsEarned": 8,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 5,
+            "pointsEarned": 8,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 6,
+            "pointsEarned": 6,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 7,
+            "pointsEarned": 6,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 8,
+            "pointsEarned": 6,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 9,
+            "pointsEarned": 6,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 10,
+            "pointsEarned": 6,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 15,
+            "pointsEarned": 6,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 20,
+            "pointsEarned": 6,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 25,
+            "pointsEarned": 5,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 30,
+            "pointsEarned": 5,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 35,
+            "pointsEarned": 5,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 40,
+            "pointsEarned": 5,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 50,
+            "pointsEarned": 5,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 75,
+            "pointsEarned": 5,
+            "multiplicative": false
+         }
+      ]
+   },
+   {
+      "trackedStat": "berryBR_Elite_TEAM_ELIMS_STAT_INDEX",
+      "matchRule": "gte",
+      "rewardTiers": [
+         {
+            "keyValue": 1,
+            "pointsEarned": 6,
+            "multiplicative": true
+         }
+      ]
+   }
+]

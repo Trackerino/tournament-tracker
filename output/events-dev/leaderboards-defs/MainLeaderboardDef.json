@@ -1,0 +1,40 @@
+{
+   "gameId": "Fortnite",
+   "leaderboardDefId": "MainLeaderboardDef",
+   "leaderboardStorageId": "Fortnite_GLOBAL",
+   "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+   "leaderboardInstanceIdFormat": "${windowId}",
+   "maxSessionHistorySize": 21,
+   "useIndividualScores": false,
+   "tiebreakerFormula": {
+      "basePointsBits": 11,
+      "components": [
+         {
+            "trackedStat": "VICTORY_ROYALE_STAT",
+            "bits": 4,
+            "aggregation": "sum"
+         },
+         {
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "bits": 12,
+            "aggregation": "avg",
+            "multiplier": 100
+         },
+         {
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+            "bits": 14,
+            "aggregation": "avg",
+            "multiplier": 100
+         },
+         {
+            "trackedStat": "TIME_ALIVE_STAT",
+            "bits": 11,
+            "aggregation": "avg"
+         }
+      ]
+   },
+   "scoringRuleSetId": "S35_ranked-br_Elite",
+   "clampsToZero": true,
+   "hidePlayerScores": false,
+   "requiredPlayerListings": []
+}

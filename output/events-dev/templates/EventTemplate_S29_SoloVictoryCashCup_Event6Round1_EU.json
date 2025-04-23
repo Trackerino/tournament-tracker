@@ -1,0 +1,72 @@
+{
+   "playlistId": "Playlist_ShowdownTournament_Solo",
+   "matchCap": 7,
+   "tiebreakerFormula": {
+      "basePointsBits": 11,
+      "components": [
+         {
+            "trackedStat": "VICTORY_ROYALE_STAT",
+            "bits": 4,
+            "aggregation": "sum"
+         },
+         {
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "bits": 13,
+            "aggregation": "avg",
+            "multiplier": 100
+         },
+         {
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+            "bits": 14,
+            "aggregation": "avg",
+            "multiplier": 100
+         },
+         {
+            "trackedStat": "TIME_ALIVE_STAT",
+            "bits": 11,
+            "aggregation": "avg"
+         }
+      ]
+   },
+   "gameId": "Fortnite",
+   "eventTemplateId": "EventTemplate_S29_SoloVictoryCashCup_Event6Round1_EU",
+   "scoringRules": [],
+   "payoutTable": [
+      {
+         "scoringType": "value",
+         "ranks": [
+            {
+               "threshold": 0,
+               "payouts": [
+                  {
+                     "rewardType": "token",
+                     "rewardMode": "rolling",
+                     "value": "RegionLock_S29_SoloVictoryCashCup_EU",
+                     "quantity": 1,
+                     "notifiesPlayer": true
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "scoringType": "rank",
+         "ranks": [
+            {
+               "threshold": 11500,
+               "payouts": [
+                  {
+                     "rewardType": "token",
+                     "rewardMode": "standard",
+                     "value": "S29_SoloVictoryCashCup_Event6Round2_EU",
+                     "quantity": 1,
+                     "notifiesPlayer": true
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "liveSessionAttributes": [],
+   "clampsToZero": false
+}

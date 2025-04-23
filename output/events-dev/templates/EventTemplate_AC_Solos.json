@@ -1,0 +1,14 @@
+{
+   "playlistId": "Playlist_ShowdownTournament_Solo",
+   "matchCap": 0,
+   "tiebreakerFormula": {
+      "basePointsBits": 53,
+      "components": []
+   },
+   "gameId": "Fortnite",
+   "eventTemplateId": "EventTemplate_AC_Solos",
+   "scoringRules": [],
+   "payoutTable": [],
+   "liveSessionAttributes": [],
+   "clampsToZero": false
+}

@@ -1,0 +1,109 @@
+[
+   {
+      "trackedStat": "berryZB_Silver_PLACEMENT_STAT_INDEX",
+      "matchRule": "lte",
+      "rewardTiers": [
+         {
+            "keyValue": 1,
+            "pointsEarned": 27,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 2,
+            "pointsEarned": 14,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 3,
+            "pointsEarned": 12,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 4,
+            "pointsEarned": 12,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 5,
+            "pointsEarned": 12,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 6,
+            "pointsEarned": 10,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 7,
+            "pointsEarned": 10,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 8,
+            "pointsEarned": 10,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 9,
+            "pointsEarned": 10,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 10,
+            "pointsEarned": 10,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 15,
+            "pointsEarned": 10,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 20,
+            "pointsEarned": 10,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 25,
+            "pointsEarned": 9,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 30,
+            "pointsEarned": 9,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 35,
+            "pointsEarned": 9,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 40,
+            "pointsEarned": 9,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 50,
+            "pointsEarned": 9,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 75,
+            "pointsEarned": 9,
+            "multiplicative": false
+         }
+      ]
+   },
+   {
+      "trackedStat": "berryZB_Silver_TEAM_ELIMS_STAT_INDEX",
+      "matchRule": "gte",
+      "rewardTiers": [
+         {
+            "keyValue": 1,
+            "pointsEarned": 2,
+            "multiplicative": true
+         }
+      ]
+   }
+]

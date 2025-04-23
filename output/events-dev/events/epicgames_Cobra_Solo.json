@@ -1,0 +1,84 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_Cobra_Solo",
+   "beginTime": "2025-04-06T20:00:00Z",
+   "endTime": "2025-08-22T04:00:00Z",
+   "displayDataId": "s33_rankedcup_bs_solo",
+   "eventGroup": "TEST",
+   "announcementTime": "2024-01-14T08:00:00Z",
+   "regions": [
+      "NAC",
+      "NAE",
+      "NAW"
+   ],
+   "regionMappings": {
+      "NAE": "NACCOMP",
+      "NAW": "NACCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 0
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "CobraSolo_Event1_NAC",
+         "eventTemplateId": "EventTemplate_S29_RankedCupSolo",
+         "countdownBeginTime": "2024-01-21T18:00:00Z",
+         "beginTime": "2025-04-06T20:00:00Z",
+         "endTime": "2025-08-22T04:00:00Z",
+         "round": 0,
+         "payoutDelay": 2,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:crab",
+            "mfa",
+            "currentRanking:ranked-br:6",
+            "currentRankingMax:ranked-br:8"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S29_RankedCupSolo_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_cobra_solo",
+      "version": 1
+   }
+}

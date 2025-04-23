@@ -1,0 +1,340 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S29_SoloVictoryCashCup_EU",
+   "beginTime": "2024-03-17T18:00:00Z",
+   "endTime": "2025-05-05T19:00:00Z",
+   "displayDataId": "s29_victorycash_solobr",
+   "eventGroup": "Season29_SoloVictoryCashCup",
+   "announcementTime": "2024-03-08T10:00:00Z",
+   "regions": [
+      "EU"
+   ],
+   "regionMappings": {},
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "Luna",
+      "LunaMobile",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 15,
+      "RegionLockType": "Season",
+      "TeamLockType": "Window"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S29_SoloVictoryCashCup_Event1Round1_EU",
+         "eventTemplateId": "EventTemplate_S29_SoloVictoryCashCup_Event1Round1_EU",
+         "countdownBeginTime": "2024-03-17T17:40:00Z",
+         "beginTime": "2024-03-17T18:00:00Z",
+         "endTime": "2025-03-17T20:00:00Z",
+         "round": 0,
+         "payoutDelay": 2,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "currentRanking:ranked-br:0",
+            "mfa",
+            "eula:s29_victorycashcup_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S29_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "RegionLock_S29_SoloVictoryCashCup_ASIA",
+            "RegionLock_S29_SoloVictoryCashCup_BR",
+            "RegionLock_S29_SoloVictoryCashCup_ME",
+            "RegionLock_S29_SoloVictoryCashCup_NAC",
+            "RegionLock_S29_SoloVictoryCashCup_OCE"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "NACCOMP"
+         },
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S29_SoloVictoryCashCup_Event2Round1_EU",
+         "eventTemplateId": "EventTemplate_S29_SoloVictoryCashCup_Event2Round1_EU",
+         "countdownBeginTime": "2025-03-22T17:40:00Z",
+         "beginTime": "2025-03-22T18:00:00Z",
+         "endTime": "2025-03-22T20:00:00Z",
+         "round": 0,
+         "payoutDelay": 2,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "mfa",
+            "eula:s29_victorycashcup_rules",
+            "currentRanking:ranked-br:1"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S29_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "RegionLock_S29_SoloVictoryCashCup_ASIA",
+            "RegionLock_S29_SoloVictoryCashCup_BR",
+            "RegionLock_S29_SoloVictoryCashCup_ME",
+            "RegionLock_S29_SoloVictoryCashCup_NAC",
+            "RegionLock_S29_SoloVictoryCashCup_OCE"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "NACCOMP"
+         },
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S29_SoloVictoryCashCup_Event3Round1_EU",
+         "eventTemplateId": "EventTemplate_S29_SoloVictoryCashCup_Event3Round1_EU",
+         "countdownBeginTime": "2025-03-29T16:00:00Z",
+         "beginTime": "2025-03-29T18:00:00Z",
+         "endTime": "2025-03-29T20:00:00Z",
+         "round": 0,
+         "payoutDelay": 2,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "currentRanking:ranked-br:0",
+            "mfa",
+            "eula:s29_victorycashcup_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S29_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "RegionLock_S29_SoloVictoryCashCup_ASIA",
+            "RegionLock_S29_SoloVictoryCashCup_BR",
+            "RegionLock_S29_SoloVictoryCashCup_ME",
+            "RegionLock_S29_SoloVictoryCashCup_NAC",
+            "RegionLock_S29_SoloVictoryCashCup_OCE"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S29_SoloVictoryCashCup_Event4Round1_EU",
+         "eventTemplateId": "EventTemplate_S29_SoloVictoryCashCup_Event4Round1_EU",
+         "countdownBeginTime": "2025-03-31T10:00:00Z",
+         "beginTime": "2025-03-31T12:00:00Z",
+         "endTime": "2025-03-31T14:00:00Z",
+         "round": 0,
+         "payoutDelay": 2,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "currentRanking:ranked-br:0",
+            "mfa",
+            "eula:s29_victorycashcup_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S29_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "RegionLock_S29_SoloVictoryCashCup_ASIA",
+            "RegionLock_S29_SoloVictoryCashCup_BR",
+            "RegionLock_S29_SoloVictoryCashCup_ME",
+            "RegionLock_S29_SoloVictoryCashCup_NAC",
+            "RegionLock_S29_SoloVictoryCashCup_OCE"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S29_SoloVictoryCashCup_Event5Round1_EU",
+         "eventTemplateId": "EventTemplate_S29_SoloVictoryCashCup_Event5Round1_EU",
+         "countdownBeginTime": "2025-04-03T15:00:00Z",
+         "beginTime": "2025-04-03T17:00:00Z",
+         "endTime": "2025-04-03T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 2,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "currentRanking:ranked-br:0",
+            "mfa",
+            "eula:s29_victorycashcup_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S29_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "RegionLock_S29_SoloVictoryCashCup_ASIA",
+            "RegionLock_S29_SoloVictoryCashCup_BR",
+            "RegionLock_S29_SoloVictoryCashCup_ME",
+            "RegionLock_S29_SoloVictoryCashCup_NAC",
+            "RegionLock_S29_SoloVictoryCashCup_OCE"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S29_SoloVictoryCashCup_Event6Round1_EU",
+         "eventTemplateId": "EventTemplate_S29_SoloVictoryCashCup_Event6Round1_EU",
+         "countdownBeginTime": "2025-04-24T15:00:00Z",
+         "beginTime": "2025-04-24T17:00:00Z",
+         "endTime": "2025-04-24T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 2,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "currentRanking:ranked-br:0",
+            "mfa",
+            "eula:s29_victorycashcup_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S29_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "RegionLock_S29_SoloVictoryCashCup_ASIA",
+            "RegionLock_S29_SoloVictoryCashCup_BR",
+            "RegionLock_S29_SoloVictoryCashCup_ME",
+            "RegionLock_S29_SoloVictoryCashCup_NAC",
+            "RegionLock_S29_SoloVictoryCashCup_OCE"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S29_SoloVictoryCashCup_Event7Round1_EU",
+         "eventTemplateId": "EventTemplate_S29_SoloVictoryCashCup_Event7Round1_EU",
+         "countdownBeginTime": "2025-05-05T15:00:00Z",
+         "beginTime": "2025-05-05T17:00:00Z",
+         "endTime": "2025-05-05T19:00:00Z",
+         "round": 0,
+         "payoutDelay": 2,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "currentRanking:ranked-br:0",
+            "mfa",
+            "eula:s29_victorycashcup_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S29_SoloVictoryCashCup_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "RegionLock_S29_SoloVictoryCashCup_ASIA",
+            "RegionLock_S29_SoloVictoryCashCup_BR",
+            "RegionLock_S29_SoloVictoryCashCup_ME",
+            "RegionLock_S29_SoloVictoryCashCup_NAC",
+            "RegionLock_S29_SoloVictoryCashCup_OCE"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s29_solovictorycashcup_eu",
+      "version": 1
+   }
+}
