@@ -5287,7 +5287,7 @@
    },
    {
       "_type": "Tournament Display Info",
-      "background_left_color": "FFFFFF",
+      "background_left_color": "E56455",
       "background_right_color": "FFFFFF",
       "background_text_color": "161616",
       "base_color": "",
@@ -5307,7 +5307,7 @@
       "shadow_color": "",
       "short_format_title": "",
       "square_poster_image": "https://cdn2.unrealengine.com/pro-am-shield-2160x2160-18af5db523bf.jpg",
-      "title_color": "FFFFFF",
+      "title_color": "",
       "title_line_1": "FNCS Pro-Am",
       "title_line_2": "",
       "tournament_display_id": "s35_proam_2025",
