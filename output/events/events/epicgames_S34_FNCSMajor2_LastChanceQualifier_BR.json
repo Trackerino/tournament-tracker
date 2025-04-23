@@ -85,12 +85,14 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
             "S34_FNCSMajor2_GrandFinalist_BR",
             "S34_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -129,6 +131,7 @@
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
             "RegionLock_S34_FNCSMajor2_ASIA",
             "RegionLock_S34_FNCSMajor2_EU",
             "RegionLock_S34_FNCSMajor2_ME",
@@ -141,6 +144,7 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ServerReplays": true,
             "SubgroupId": "LastChanceLobby"
