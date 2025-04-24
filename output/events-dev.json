@@ -3241,6 +3241,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -3360,6 +3370,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -3479,6 +3499,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -3598,6 +3628,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -3717,6 +3757,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -3836,6 +3886,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -3955,6 +4015,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -4074,6 +4144,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -4193,6 +4273,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -4312,6 +4402,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -4431,6 +4531,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -4550,6 +4660,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -4669,6 +4789,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -4788,6 +4918,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -4907,6 +5047,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -5026,6 +5176,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -5145,6 +5305,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -5264,6 +5434,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -5383,6 +5563,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -5502,6 +5692,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -5621,6 +5821,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -5740,6 +5950,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -5859,6 +6079,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
@@ -5978,6 +6208,16 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "defaultLeaderboardByRank": {
+                     "EliteLeaderboardDefID": "16:16",
+                     "PlatinumLeaderboardDefID": "12:14",
+                     "UnrealLeaderboardDefID": "17:17",
+                     "ChampionLeaderboardDefID": "15:15",
+                     "SilverLeaderboardDefID": "3:5",
+                     "DiamondLeaderboardDefID": "9:11",
+                     "BronzeLeaderboardDefID": "0:2",
+                     "GoldLeaderboardDefID": "6:8"
+                  },
                   "hideScoreLocationsIndexes": [
                      0
                   ],
