@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S34_RankedCupPDSolo_NAC",
    "beginTime": "2025-03-06T00:00:05Z",
-   "endTime": "2025-04-27T03:00:05Z",
+   "endTime": "2025-04-20T03:00:05Z",
    "displayDataId": "s34_rankedcup_pd_solo",
    "eventGroup": "Season34_RankedCupPDSolo",
    "announcementTime": "2025-02-21T09:00:05Z",
@@ -352,43 +352,6 @@
          "requireAllTokens": [],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S34_RankedCupPDSolo_Event18_NAC",
-         "eventTemplateId": "EventTemplate_S34_RankedCupSolo",
-         "countdownBeginTime": "2025-04-26T21:00:05Z",
-         "beginTime": "2025-04-26T23:00:05Z",
-         "endTime": "2025-04-27T03:00:05Z",
-         "round": 0,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "eula:s34_ranked_rules",
-            "currentRankingMax:ranked-br:14",
-            "mfa",
-            "currentRanking:ranked-br:9"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S34_RankedCupSoloPD_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-         ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
