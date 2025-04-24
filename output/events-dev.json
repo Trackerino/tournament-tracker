@@ -3242,8 +3242,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -3360,8 +3361,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -3478,8 +3480,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -3596,8 +3599,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -3714,8 +3718,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-build",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -3832,8 +3837,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-build",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -3950,8 +3956,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-build",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4068,8 +4075,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-build",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4186,8 +4194,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4304,8 +4313,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4422,8 +4432,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4540,8 +4551,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4658,8 +4670,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4776,8 +4789,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4894,8 +4908,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -5012,8 +5027,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -5130,8 +5146,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -5248,8 +5265,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -5366,8 +5384,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -5484,8 +5503,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -5602,8 +5622,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -5720,8 +5741,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -5838,8 +5860,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -5956,8 +5979,9 @@
                "requireAnyTokensCaller": [],
                "metadata": {
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
+                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }

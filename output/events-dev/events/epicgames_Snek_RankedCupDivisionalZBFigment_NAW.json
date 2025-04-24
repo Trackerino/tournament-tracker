@@ -104,8 +104,9 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "hideScoreLocationsIndexes": [
-               null
+               0
             ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
             "RoundType": "Qualifiers",
             "ServerReplays": true
          }
