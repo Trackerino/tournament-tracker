@@ -1,10 +1,10 @@
 [
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Bronze Placement Points",
+      "description": "Reach Top {0} (Bronze)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Bronze Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryBR_Bronze_PLACEMENT_STAT_INDEX"
    },
@@ -19,10 +19,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Champion Placement Points",
+      "description": " Reach Top {0} (Champion)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Champion Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryBR_Champion_PLACEMENT_STAT_INDEX"
    },
@@ -37,10 +37,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Diamond Placement Points",
+      "description": "Reach Top {0} (Diamond)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Diamond Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryBR_Diamond_PLACEMENT_STAT_INDEX"
    },
@@ -55,10 +55,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Elite Placement Points",
+      "description": "Reach Top {0} (Elite)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Elite Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryBR_Elite_PLACEMENT_STAT_INDEX"
    },
@@ -73,10 +73,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Gold Placement Points",
+      "description": "Reach Top {0} (Gold)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Gold Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryBR_Gold_PLACEMENT_STAT_INDEX"
    },
@@ -91,10 +91,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Platinum Placement Points",
+      "description": "Reach Top {0} (Platinum)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Platinum Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryBR_Platinum_PLACEMENT_STAT_INDEX"
    },
@@ -109,10 +109,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Silver Placement Points",
+      "description": "Reach Top {0} (Silver)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Silver Placement Points",
+      "poster_description": " {0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryBR_Silver_PLACEMENT_STAT_INDEX"
    },
@@ -127,10 +127,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Unreal Placement Points",
+      "description": "Reach Top {0} (Unreal)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Unreal Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryBR_Unreal_PLACEMENT_STAT_INDEX"
    },
@@ -145,10 +145,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Bronze Placement Points",
+      "description": "Reach Top {0} (Bronze)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Bronze Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryZB_Bronze_PLACEMENT_STAT_INDEX"
    },
@@ -163,10 +163,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Champion Placement Points",
+      "description": "Reach Top {0} (Champion)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Champion Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryZB_Champion_PLACEMENT_STAT_INDEX"
    },
@@ -181,10 +181,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Diamond Placement Points",
+      "description": "Reach Top {0} (Diamond)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Diamond Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryZB_Diamond_PLACEMENT_STAT_INDEX"
    },
@@ -199,10 +199,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Elite Placement Points",
+      "description": "Reach Top {0} (Elite)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Elite Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryZB_Elite_PLACEMENT_STAT_INDEX"
    },
@@ -217,10 +217,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Gold Placement Points",
+      "description": "Reach Top {0} (Gold)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Gold Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryZB_Gold_PLACEMENT_STAT_INDEX"
    },
@@ -235,10 +235,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Platinum Placement Points",
+      "description": "Reach Top {0} (Platinum)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Platinum Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryZB_Platinum_PLACEMENT_STAT_INDEX"
    },
@@ -253,10 +253,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Silver Placement Points",
+      "description": "Reach Top {0} (Silver)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Silver Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryZB_Silver_PLACEMENT_STAT_INDEX"
    },
@@ -271,10 +271,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Unreal Placement Points",
+      "description": "Reach Top {0} (Unreal)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Unreal Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "berryZB_Unreal_PLACEMENT_STAT_INDEX"
    },
@@ -298,10 +298,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Bronze Placement Points",
+      "description": "Reach Top {0} (Bronze)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Bronze Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreBR_Bronze_PLACEMENT_STAT_INDEX"
    },
@@ -316,10 +316,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Champion Placement Points",
+      "description": "Reach Top {0} (Champion)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Champion Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreBR_Champion_PLACEMENT_STAT_INDEX"
    },
@@ -334,10 +334,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Diamond Placement Points",
+      "description": "Reach Top {0} (Diamond)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Diamond Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreBR_Diamond_PLACEMENT_STAT_INDEX"
    },
@@ -352,10 +352,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Elite Placement Points",
+      "description": " Reach Top {0} (Elite)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Elite Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreBR_Elite_PLACEMENT_STAT_INDEX"
    },
@@ -370,10 +370,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Gold Placement Points",
+      "description": "Reach Top {0} (Gold)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Gold Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreBR_Gold_PLACEMENT_STAT_INDEX"
    },
@@ -388,10 +388,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Platinum Placement Points",
+      "description": "Reach Top {0} (Platinum)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Platinum Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreBR_Platinum_PLACEMENT_STAT_INDEX"
    },
@@ -406,10 +406,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Silver Placement Points",
+      "description": "Reach Top {0} (Silver)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Silver Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreBR_Silver_PLACEMENT_STAT_INDEX"
    },
@@ -424,10 +424,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Unreal Placement Points",
+      "description": "Reach Top {0} (Unreal)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Unreal Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreBR_Unreal_PLACEMENT_STAT_INDEX"
    },
@@ -442,10 +442,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Bronze Placement Points",
+      "description": "Reach Top {0} (Bronze)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Bronze Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreZB_Bronze_PLACEMENT_STAT_INDEX"
    },
@@ -460,10 +460,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Champion Placement Points",
+      "description": "Reach Top {0} (Champion)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Champion Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreZB_Champion_PLACEMENT_STAT_INDEX"
    },
@@ -478,10 +478,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Diamond Placement Points",
+      "description": "Reach Top {0} (Diamond)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Diamond Placement Points",
+      "poster_description": " {0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreZB_Diamond_PLACEMENT_STAT_INDEX"
    },
@@ -496,10 +496,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Elite Placement Points",
+      "description": "Reach Top {0} (Elite)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Elite Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreZB_Elite_PLACEMENT_STAT_INDEX"
    },
@@ -514,10 +514,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Gold Placement Points",
+      "description": "Reach Top {0} (Gold)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Gold Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreZB_Gold_PLACEMENT_STAT_INDEX"
    },
@@ -532,10 +532,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Platinum Placement Points",
+      "description": "Reach Top {0} (Platinum)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Platinum Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreZB_Platinum_PLACEMENT_STAT_INDEX"
    },
@@ -550,10 +550,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Silver Placement Points",
+      "description": "Reach Top {0} (Silver)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Silver Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreZB_Silver_PLACEMENT_STAT_INDEX"
    },
@@ -568,10 +568,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Unreal Placement Points",
+      "description": "Reach Top {0} (Unreal)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Unreal Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "coreZB_Unreal_PLACEMENT_STAT_INDEX"
    },
@@ -741,10 +741,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Bronze Placement Points",
+      "description": "Reach Top {0} (Bronze)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Bronze Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentBR_Bronze_PLACEMENT_STAT_INDEX"
    },
@@ -759,10 +759,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Champion Placement Points",
+      "description": "Reach Top {0} (Champion)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Champion Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentBR_Champion_PLACEMENT_STAT_INDEX"
    },
@@ -777,10 +777,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Diamond Placement Points",
+      "description": "Reach Top {0} (Diamond)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Diamond Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentBR_Diamond_PLACEMENT_STAT_INDEX"
    },
@@ -795,10 +795,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Elite Placement Points",
+      "description": "Reach Top {0} (Elite)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Elite Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentBR_Elite_PLACEMENT_STAT_INDEX"
    },
@@ -813,10 +813,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Gold Placement Points",
+      "description": "Reach Top {0} (Gold)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Gold Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentBR_Gold_PLACEMENT_STAT_INDEX"
    },
@@ -831,10 +831,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Platinum Placement Points",
+      "description": "Reach Top {0} (Platinum)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Platinum Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentBR_Platinum_PLACEMENT_STAT_INDEX"
    },
@@ -849,10 +849,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Silver Placement Points",
+      "description": "Reach Top {0} (Silver)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Silver Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentBR_Silver_PLACEMENT_STAT_INDEX"
    },
@@ -867,10 +867,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Unreal Placement Points",
+      "description": "Reach Top {0} (Unreal)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Unreal Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentBR_Unreal_PLACEMENT_STAT_INDEX"
    },
@@ -885,10 +885,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Bronze Placement Points",
+      "description": "Reach Top {0} (Bronze)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Bronze Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentZB_Bronze_PLACEMENT_STAT_INDEX"
    },
@@ -903,10 +903,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Champion Placement Points",
+      "description": "Reach Top {0} (Champion)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Champion Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentZB_Champion_PLACEMENT_STAT_INDEX"
    },
@@ -921,10 +921,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Diamond Placement Points",
+      "description": "Reach Top {0} (Diamond)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Diamond Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentZB_Diamond_PLACEMENT_STAT_INDEX"
    },
@@ -939,10 +939,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Elite Placement Points",
+      "description": "Reach Top {0} (Elite)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Elite Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentZB_Elite_PLACEMENT_STAT_INDEX"
    },
@@ -957,10 +957,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Gold Placement Points",
+      "description": "Reach Top {0} (Gold)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Gold Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentZB_Gold_PLACEMENT_STAT_INDEX"
    },
@@ -975,10 +975,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Platinum Placement Points",
+      "description": "Reach Top {0} (Platinum)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Platinum Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentZB_Platinum_PLACEMENT_STAT_INDEX"
    },
@@ -993,10 +993,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Silver Placement Points",
+      "description": "Reach Top {0} (Silver)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Silver Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentZB_Silver_PLACEMENT_STAT_INDEX"
    },
@@ -1011,10 +1011,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "Unreal Placement Points",
+      "description": "Reach Top {0} (Unreal)",
       "hide_score_toast_notifications": false,
       "icon": " /Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "Unreal Placement Points",
+      "poster_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "poster_interval_description": "{0}{0}|ordinal(one=st,two=nd,few=rd,other=th) - {1}{1}|ordinal(one=st,two=nd,few=rd,other=th) Place",
       "rule_name": "figmentZB_Unreal_PLACEMENT_STAT_INDEX"
    },
