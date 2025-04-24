@@ -349,42 +349,6 @@
          }
       },
       {
-         "eventWindowId": "S34_RankedCupEliteSolo_Event18_ASIA",
-         "eventTemplateId": "EventTemplate_S34_RankedCupSolo",
-         "countdownBeginTime": "2025-04-26T07:00:04Z",
-         "beginTime": "2025-04-26T09:00:04Z",
-         "endTime": "2025-04-26T13:00:04Z",
-         "round": 0,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "currentRanking:ranked-br:15",
-            "eula:s34_ranked_rules",
-            "mfa"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S34_RankedCupSoloE_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
          "eventWindowId": "S34_RankedCupEliteSolo_Event2_ASIA",
          "eventTemplateId": "EventTemplate_S34_RankedCupSolo",
          "countdownBeginTime": "2025-03-06T07:00:04Z",
