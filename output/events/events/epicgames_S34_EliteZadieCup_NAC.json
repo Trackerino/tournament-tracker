@@ -56,7 +56,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
-            "eula:tbd"
+            "eula:s34_zadie_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -91,7 +91,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
-            "eula:tbd"
+            "eula:s34_zadie_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
