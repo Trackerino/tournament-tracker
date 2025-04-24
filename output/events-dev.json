@@ -3252,7 +3252,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
@@ -3381,7 +3381,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
@@ -3510,7 +3510,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
@@ -3639,7 +3639,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
@@ -3768,7 +3768,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-build",
                   "RoundType": "Qualifiers",
@@ -3897,7 +3897,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-build",
                   "RoundType": "Qualifiers",
@@ -4026,7 +4026,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-build",
                   "RoundType": "Qualifiers",
@@ -4155,7 +4155,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-build",
                   "RoundType": "Qualifiers",
@@ -4284,7 +4284,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
@@ -4413,7 +4413,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
@@ -4542,7 +4542,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
@@ -4671,7 +4671,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
@@ -4800,7 +4800,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
@@ -4929,7 +4929,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
@@ -5058,7 +5058,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
@@ -5187,7 +5187,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
@@ -5316,7 +5316,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
                   "RoundType": "Qualifiers",
@@ -5445,7 +5445,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
                   "RoundType": "Qualifiers",
@@ -5574,7 +5574,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
                   "RoundType": "Qualifiers",
@@ -5703,7 +5703,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
                   "RoundType": "Qualifiers",
@@ -5832,7 +5832,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
@@ -5961,7 +5961,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
@@ -6090,7 +6090,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
@@ -6219,7 +6219,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",

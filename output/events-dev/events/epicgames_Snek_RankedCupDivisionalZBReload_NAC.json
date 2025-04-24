@@ -114,7 +114,7 @@
                "GoldLeaderboardDefID": "6:8"
             },
             "hideScoreLocationsIndexes": [
-               0
+               null
             ],
             "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
             "RoundType": "Qualifiers",
