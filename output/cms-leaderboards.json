@@ -638,8 +638,8 @@
    {
       "_type": "Leaderboard Display Info",
       "displayed_tracked_stat": [
-         "coreBR_Bronze_PLACEMENT_STAT_INDEX",
-         "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX"
+         "BRONZE_PLACEMENT_STAT_INDEX",
+         "BRONZE_TEAM_ELIMS_STAT_INDEX"
       ],
       "leaderboard_id": "epicgames_Snek_RankedCupDivisionalBR_NAC:S35_ranked-br_Bronze",
       "leaderboard_name": "Bronze",
