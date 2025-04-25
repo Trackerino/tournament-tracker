@@ -87,6 +87,7 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
             "S34_FNCSMajor2_GrandFinalist_NAC",
             "S34_FNCS_Banned"
          ],
@@ -131,6 +132,7 @@
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
             "RegionLock_S34_FNCSMajor2_ASIA",
             "RegionLock_S34_FNCSMajor2_BR",
             "RegionLock_S34_FNCSMajor2_EU",

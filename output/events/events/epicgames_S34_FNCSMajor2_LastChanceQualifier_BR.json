@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S34_FNCSMajor2_LastChanceQualifier_BR",
    "beginTime": "2025-04-23T21:00:00Z",
-   "endTime": "2025-04-25T22:30:00Z",
+   "endTime": "2025-04-24T22:30:00Z",
    "displayDataId": "s34_major2_lcq",
    "eventGroup": "Season34_FNCSMajor2",
    "announcementTime": "2025-02-21T09:00:00Z",
@@ -61,7 +61,7 @@
          "eventTemplateId": "EventTemplate_S34_FNCSMajor2_LastChanceLobby",
          "countdownBeginTime": "2025-04-24T19:00:00Z",
          "beginTime": "2025-04-24T21:00:00Z",
-         "endTime": "2025-04-25T22:30:00Z",
+         "endTime": "2025-04-24T22:30:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -92,7 +92,6 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -144,7 +143,6 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ServerReplays": true,
             "SubgroupId": "LastChanceLobby"
