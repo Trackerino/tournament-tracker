@@ -60,39 +60,19 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "MainLeaderboardDef",
+               "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "BronzeLeaderboardDef",
+               "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                "isMainWindowLeaderboard": false
             },
             {
-               "leaderboardDefId": "SilverLeaderboardDef",
+               "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                "isMainWindowLeaderboard": false
             },
             {
-               "leaderboardDefId": "GoldLeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "PlatinumLeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "DiamondLeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "EliteLeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "ChampionLeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "UnrealLeaderboardDef",
+               "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -114,7 +94,7 @@
                "GoldLeaderboardDefID": "6:8"
             },
             "hideScoreLocationsIndexes": [
-               null
+               0
             ],
             "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
             "RoundType": "Qualifiers",

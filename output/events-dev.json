@@ -3198,39 +3198,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -3252,7 +3232,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
@@ -3327,39 +3307,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -3381,7 +3341,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
@@ -3585,39 +3545,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -3639,7 +3579,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
@@ -3714,39 +3654,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -3768,7 +3688,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-build",
                   "RoundType": "Qualifiers",
@@ -3843,39 +3763,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -3897,7 +3797,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-build",
                   "RoundType": "Qualifiers",
@@ -4101,39 +4001,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -4155,7 +4035,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-build",
                   "RoundType": "Qualifiers",
@@ -4230,39 +4110,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -4284,7 +4144,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
@@ -4359,39 +4219,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -4413,7 +4253,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
@@ -4617,39 +4457,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -4671,7 +4491,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
@@ -4746,39 +4566,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -4800,7 +4600,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
@@ -4875,39 +4675,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -4929,7 +4709,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
@@ -5133,39 +4913,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -5187,7 +4947,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
@@ -5262,39 +5022,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -5316,7 +5056,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
                   "RoundType": "Qualifiers",
@@ -5391,39 +5131,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -5445,7 +5165,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
                   "RoundType": "Qualifiers",
@@ -5649,39 +5369,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -5703,7 +5403,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
                   "RoundType": "Qualifiers",
@@ -5778,39 +5478,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -5832,7 +5512,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
@@ -5907,39 +5587,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -5961,7 +5621,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
@@ -6165,39 +5825,19 @@
                "blackoutPeriods": [],
                "scoreLocations": [
                   {
-                     "leaderboardDefId": "MainLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
                      "isMainWindowLeaderboard": true
                   },
                   {
-                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
                      "isMainWindowLeaderboard": false
                   },
                   {
-                     "leaderboardDefId": "GoldLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "PlatinumLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "DiamondLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "EliteLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "ChampionLeaderboardDef",
-                     "isMainWindowLeaderboard": false
-                  },
-                  {
-                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
                      "isMainWindowLeaderboard": false
                   }
                ],
@@ -6219,7 +5859,7 @@
                      "GoldLeaderboardDefID": "6:8"
                   },
                   "hideScoreLocationsIndexes": [
-                     null
+                     0
                   ],
                   "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
@@ -6562,6 +6202,161 @@
             ]
          },
          "scoringRuleSetId": "${windowId}_Gold",
+         "clampsToZero": true,
+         "hidePlayerScores": false,
+         "requiredPlayerListings": []
+      },
+      {
+         "gameId": "Fortnite",
+         "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
+         "leaderboardStorageId": "Fortnite_QA",
+         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+         "leaderboardInstanceIdFormat": "${windowId}",
+         "maxSessionHistorySize": 0,
+         "useIndividualScores": false,
+         "tiebreakerFormula": {
+            "basePointsBits": 12,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 12,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 12,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               }
+            ]
+         },
+         "scoringRuleSetId": "BettoTest_BasicRuleSet",
+         "clampsToZero": true,
+         "hidePlayerScores": false,
+         "requiredPlayerListings": []
+      },
+      {
+         "gameId": "Fortnite",
+         "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Bronze",
+         "leaderboardStorageId": "Fortnite_QA",
+         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+         "leaderboardInstanceIdFormat": "${windowId}-Bronze",
+         "maxSessionHistorySize": 0,
+         "useIndividualScores": false,
+         "tiebreakerFormula": {
+            "basePointsBits": 12,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 12,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 12,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "scoringRuleSetId": "S35_BettoTest_Sejuega_Bronze",
+         "clampsToZero": true,
+         "hidePlayerScores": false,
+         "requiredPlayerListings": []
+      },
+      {
+         "gameId": "Fortnite",
+         "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Gold",
+         "leaderboardStorageId": "Fortnite_QA",
+         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+         "leaderboardInstanceIdFormat": "${windowId}-Gold",
+         "maxSessionHistorySize": 0,
+         "useIndividualScores": false,
+         "tiebreakerFormula": {
+            "basePointsBits": 12,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 12,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 12,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "scoringRuleSetId": "S35_BettoTest_Sejuega_Gold",
+         "clampsToZero": true,
+         "hidePlayerScores": false,
+         "requiredPlayerListings": []
+      },
+      {
+         "gameId": "Fortnite",
+         "leaderboardDefId": "LeadDef_S35_BettoTest_Sejuega_Silver",
+         "leaderboardStorageId": "Fortnite_QA",
+         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+         "leaderboardInstanceIdFormat": "${windowId}-Silver",
+         "maxSessionHistorySize": 0,
+         "useIndividualScores": false,
+         "tiebreakerFormula": {
+            "basePointsBits": 12,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 12,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 12,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "scoringRuleSetId": "S35_BettoTest_Sejuega_Silver",
          "clampsToZero": true,
          "hidePlayerScores": false,
          "requiredPlayerListings": []
@@ -7064,6 +6859,50 @@
       ]
    },
    "scoringRuleSets": {
+      "BettoTest_BasicRuleSet": [
+         {
+            "trackedStat": "PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 3,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 5,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
       "DefaultScoringRuleSet": [
          {
             "trackedStat": "PLACEMENT_STAT_INDEX",
@@ -7609,6 +7448,333 @@
          },
          {
             "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 1,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_BettoTest_Sejuega_Bronze": [
+         {
+            "trackedStat": "BRONZE_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 30,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 15,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "BRONZE_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 1,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_BettoTest_Sejuega_Gold": [
+         {
+            "trackedStat": "GOLD_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 30,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 15,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "GOLD_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 1,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_BettoTest_Sejuega_Silver": [
+         {
+            "trackedStat": "SILVER_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 30,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 15,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "SILVER_TEAM_ELIMS_STAT_INDEX",
             "matchRule": "gte",
             "rewardTiers": [
                {
