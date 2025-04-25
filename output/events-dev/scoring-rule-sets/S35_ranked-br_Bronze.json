@@ -1,6 +1,6 @@
 [
    {
-      "trackedStat": "coreBR_Bronze_PLACEMENT_STAT_INDEX",
+      "trackedStat": "BRONZE_PLACEMENT_STAT_INDEX",
       "matchRule": "lte",
       "rewardTiers": [
          {
@@ -96,7 +96,7 @@
       ]
    },
    {
-      "trackedStat": "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+      "trackedStat": "BRONZE_TEAM_ELIMS_STAT_INDEX",
       "matchRule": "gte",
       "rewardTiers": [
          {
