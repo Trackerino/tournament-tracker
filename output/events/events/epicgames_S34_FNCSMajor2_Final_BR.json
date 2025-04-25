@@ -83,7 +83,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S34_FNCSMajor2_GrandFinalist_BR"
+            "S34_FNCSMajor2_GrandFinalist_BR_v2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -130,7 +130,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S34_FNCSMajor2_GrandFinalist_BR"
+            "S34_FNCSMajor2_GrandFinalist_BR_v2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
