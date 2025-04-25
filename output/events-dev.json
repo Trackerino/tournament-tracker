@@ -7621,7 +7621,7 @@
       ],
       "S35_ranked_blastberry_build_Bronze": [
          {
-            "trackedStat": "berryBR_Bronze_PLACEMENT_STAT_INDEX",
+            "trackedStat": "BRONZE_PLACEMENT_STAT_INDEX",
             "matchRule": "lte",
             "rewardTiers": [
                {
@@ -7717,7 +7717,7 @@
             ]
          },
          {
-            "trackedStat": "berryBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+            "trackedStat": "BRONZE_TEAM_ELIMS_STAT_INDEX",
             "matchRule": "gte",
             "rewardTiers": [
                {
@@ -8493,7 +8493,7 @@
       ],
       "S35_ranked_blastberry_nobuild_Bronze": [
          {
-            "trackedStat": "berryZB_Bronze_PLACEMENT_STAT_INDEX",
+            "trackedStat": "BRONZE_PLACEMENT_STAT_INDEX",
             "matchRule": "lte",
             "rewardTiers": [
                {
@@ -8589,7 +8589,7 @@
             ]
          },
          {
-            "trackedStat": "berryZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+            "trackedStat": "BRONZE_TEAM_ELIMS_STAT_INDEX",
             "matchRule": "gte",
             "rewardTiers": [
                {
@@ -10237,7 +10237,7 @@
       ],
       "S35_ranked-figment-build_Bronze": [
          {
-            "trackedStat": "figmentBR_Bronze_PLACEMENT_STAT_INDEX",
+            "trackedStat": "BRONZE_PLACEMENT_STAT_INDEX",
             "matchRule": "lte",
             "rewardTiers": [
                {
@@ -10333,7 +10333,7 @@
             ]
          },
          {
-            "trackedStat": "figmentBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+            "trackedStat": "BRONZE_TEAM_ELIMS_STAT_INDEX",
             "matchRule": "gte",
             "rewardTiers": [
                {
@@ -11109,7 +11109,7 @@
       ],
       "S35_ranked-figment-nobuild_Bronze": [
          {
-            "trackedStat": "figmentZB_Bronze_PLACEMENT_STAT_INDEX",
+            "trackedStat": "BRONZE_PLACEMENT_STAT_INDEX",
             "matchRule": "lte",
             "rewardTiers": [
                {
@@ -11205,7 +11205,7 @@
             ]
          },
          {
-            "trackedStat": "figmentZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+            "trackedStat": "BRONZE_TEAM_ELIMS_STAT_INDEX",
             "matchRule": "gte",
             "rewardTiers": [
                {
