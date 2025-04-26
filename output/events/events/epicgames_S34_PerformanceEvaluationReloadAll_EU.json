@@ -54,6 +54,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
@@ -95,6 +96,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
@@ -137,6 +139,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
@@ -178,6 +181,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
@@ -220,6 +224,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
@@ -261,6 +266,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
@@ -303,6 +309,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
@@ -348,6 +355,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
@@ -390,6 +398,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
@@ -435,6 +444,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s33_perfeval_rules"
          ],
          "teammateEligibility": "all",
