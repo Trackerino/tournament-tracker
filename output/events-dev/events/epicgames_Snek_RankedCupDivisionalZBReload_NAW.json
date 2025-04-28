@@ -1,13 +1,13 @@
 {
    "gameId": "Fortnite",
-   "eventId": "epicgames_Snek_RankedCupDivisionalv2ZBReload_NAC",
-   "beginTime": "2025-04-22T01:00:00Z",
-   "endTime": "2026-04-12T05:00:00Z",
+   "eventId": "epicgames_Snek_RankedCupDivisionalZBReload_NAW",
+   "beginTime": "2025-04-22T02:00:00Z",
+   "endTime": "2026-04-12T06:00:00Z",
    "displayDataId": "s34_rankedcup_elite_solo",
    "eventGroup": "TEST",
-   "announcementTime": "2024-10-01T13:00:00Z",
+   "announcementTime": "2024-10-01T14:00:00Z",
    "regions": [
-      "NAC"
+      "NAW"
    ],
    "regionMappings": {
       "NAE": "NAC",
@@ -26,9 +26,9 @@
       {
          "eventWindowId": "S35_ranked_blastberry_nobuild",
          "eventTemplateId": "EventTemplate_SunflowerDuo_NoFill",
-         "countdownBeginTime": "2024-10-06T23:00:00Z",
-         "beginTime": "2025-04-22T01:00:00Z",
-         "endTime": "2026-04-12T05:00:00Z",
+         "countdownBeginTime": "2024-10-07T00:00:00Z",
+         "beginTime": "2025-04-22T02:00:00Z",
+         "endTime": "2026-04-12T06:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -107,6 +107,6 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_epicgames_snek_rankedcupdivisionalv2zbreload_nac"
+      "code": "tournament_epicgames_snek_rankedcupdivisionalzbreload_naw"
    }
 }
