@@ -6279,7 +6279,7 @@
                }
             ]
          },
-         "scoringRuleSetId": "S35_ranked-zb_Bronze",
+         "scoringRuleSetId": "EmptyScoringRules",
          "clampsToZero": true,
          "hidePlayerScores": false,
          "requiredPlayerListings": []
@@ -6765,6 +6765,7 @@
             ]
          }
       ],
+      "EmptyScoringRules": [],
       "S28_ScoringRules_RankedCupSolo_v22": [
          {
             "trackedStat": "PLACEMENT_STAT_INDEX",

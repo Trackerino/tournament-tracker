@@ -33,7 +33,7 @@
          }
       ]
    },
-   "scoringRuleSetId": "S35_ranked-zb_Bronze",
+   "scoringRuleSetId": "EmptyScoringRules",
    "clampsToZero": true,
    "hidePlayerScores": false,
    "requiredPlayerListings": []
