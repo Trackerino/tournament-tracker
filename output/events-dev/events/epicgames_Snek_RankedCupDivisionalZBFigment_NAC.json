@@ -97,7 +97,7 @@
                "GoldLeaderboardDefID": "6:8"
             },
             "hideScoreLocationsIndexes": [
-               7
+               0
             ],
             "RankTrackTypeForMatchStatsPrefixes": "ranked-figment-nobuild",
             "RoundType": "Qualifiers",
