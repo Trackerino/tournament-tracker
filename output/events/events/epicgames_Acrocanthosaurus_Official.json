@@ -61,7 +61,7 @@
          "round": 0,
          "payoutDelay": 10000,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
