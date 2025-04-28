@@ -1,0 +1,112 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_Snek_RankedCupDivisionalv2BR_NAC",
+   "beginTime": "2025-04-22T01:00:00Z",
+   "endTime": "2026-04-12T05:00:00Z",
+   "displayDataId": "s34_rankedcup_elite_solo",
+   "eventGroup": "TEST",
+   "announcementTime": "2024-10-01T13:00:00Z",
+   "regions": [
+      "NAC"
+   ],
+   "regionMappings": {
+      "NAE": "NACCOMP",
+      "NAW": "NACCOMP",
+      "NAC": "NACCOMP"
+   },
+   "platforms": [
+      "Windows"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 15,
+      "tournamentType": "RankedCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S35_ranked-br",
+         "eventTemplateId": "EventTemplate_RC_Solo",
+         "countdownBeginTime": "2024-10-06T23:00:00Z",
+         "beginTime": "2025-04-22T01:00:00Z",
+         "endTime": "2026-04-12T05:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "mfa",
+            "eula:crab",
+            "adps:g-a81a33a3b9a7",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "MainLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "BronzeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "SilverLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "GoldLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "PlatinumLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "DiamondLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "EliteLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "ChampionLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "UnrealLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "EliteLeaderboardDefID": "16:16",
+               "PlatinumLeaderboardDefID": "12:14",
+               "UnrealLeaderboardDefID": "17:17",
+               "ChampionLeaderboardDefID": "15:15",
+               "SilverLeaderboardDefID": "3:5",
+               "DiamondLeaderboardDefID": "9:11",
+               "BronzeLeaderboardDefID": "0:2",
+               "GoldLeaderboardDefID": "6:8"
+            },
+            "hideScoreLocationsIndexes": [
+               7
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_snek_rankedcupdivisionalv2br_nac"
+   }
+}
