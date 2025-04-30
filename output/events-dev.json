@@ -6736,20 +6736,6 @@
                         "value": "AthenaCharacter:character_soupgoal",
                         "quantity": 1,
                         "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_922_athena_commando_m_parcelprank",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaPickaxe:pickaxe_soupgoal",
-                        "quantity": 1,
-                        "notifiesPlayer": true
                      }
                   ]
                }
@@ -6781,20 +6767,6 @@
                         "rewardType": "game",
                         "rewardMode": "standard",
                         "value": "AthenaCharacter:character_soupgoal",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_922_athena_commando_m_parcelprank",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaPickaxe:pickaxe_soupgoal",
                         "quantity": 1,
                         "notifiesPlayer": true
                      }
@@ -6830,20 +6802,6 @@
                         "value": "AthenaCharacter:character_soupgoal",
                         "quantity": 1,
                         "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_922_athena_commando_m_parcelprank",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaPickaxe:pickaxe_soupgoal",
-                        "quantity": 1,
-                        "notifiesPlayer": true
                      }
                   ]
                }
@@ -6875,20 +6833,6 @@
                         "rewardType": "game",
                         "rewardMode": "standard",
                         "value": "AthenaCharacter:character_soupgoal",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_922_athena_commando_m_parcelprank",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaPickaxe:pickaxe_soupgoal",
                         "quantity": 1,
                         "notifiesPlayer": true
                      }
@@ -6924,20 +6868,6 @@
                         "value": "AthenaCharacter:character_soupgoal",
                         "quantity": 1,
                         "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_922_athena_commando_m_parcelprank",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaPickaxe:pickaxe_soupgoal",
-                        "quantity": 1,
-                        "notifiesPlayer": true
                      }
                   ]
                }
@@ -6969,20 +6899,6 @@
                         "rewardType": "game",
                         "rewardMode": "standard",
                         "value": "AthenaCharacter:character_soupgoal",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_922_athena_commando_m_parcelprank",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaPickaxe:pickaxe_soupgoal",
                         "quantity": 1,
                         "notifiesPlayer": true
                      }
