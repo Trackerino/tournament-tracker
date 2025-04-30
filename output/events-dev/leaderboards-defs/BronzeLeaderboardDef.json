@@ -35,6 +35,10 @@
    },
    "scoringRuleSetId": "${windowId}_Bronze",
    "clampsToZero": true,
+   "payoutsConfig": {
+      "payoutTableIdFormat": "Payout_Bronze",
+      "payoutDate": "instantiation+PT0S"
+   },
    "hidePlayerScores": false,
    "requiredPlayerListings": []
 }
