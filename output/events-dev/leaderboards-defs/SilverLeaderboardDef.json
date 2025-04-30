@@ -35,6 +35,10 @@
    },
    "scoringRuleSetId": "${windowId}_Silver",
    "clampsToZero": true,
+   "payoutsConfig": {
+      "payoutTableIdFormat": "${windowId}_Silver",
+      "payoutDate": "instantiation+PT0S"
+   },
    "hidePlayerScores": false,
    "requiredPlayerListings": []
 }
