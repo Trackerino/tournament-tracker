@@ -1,11 +1,11 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S35_FNCSCommunityCups_Clix_OCE",
-   "beginTime": "2025-05-03T07:00:00Z",
-   "endTime": "2025-05-03T09:30:00Z",
+   "beginTime": "2025-05-03T08:00:00Z",
+   "endTime": "2025-05-03T10:30:00Z",
    "displayDataId": "s35_fncs_clix",
    "eventGroup": "Season35_FNCSCommunityCup",
-   "announcementTime": "2025-04-28T15:00:00Z",
+   "announcementTime": "2025-04-08T14:00:00Z",
    "regions": [
       "OCE"
    ],
@@ -44,9 +44,9 @@
       {
          "eventWindowId": "S35_FNCSCommunityCups_Clix_OCE",
          "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
-         "countdownBeginTime": "2025-05-03T05:00:00Z",
-         "beginTime": "2025-05-03T07:00:00Z",
-         "endTime": "2025-05-03T09:30:00Z",
+         "countdownBeginTime": "2025-05-03T06:00:00Z",
+         "beginTime": "2025-05-03T08:00:00Z",
+         "endTime": "2025-05-03T10:30:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
