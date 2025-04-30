@@ -5,47 +5,47 @@
       "rewardTiers": [
          {
             "keyValue": 1,
-            "pointsEarned": 10,
+            "pointsEarned": 1,
             "multiplicative": false
          },
          {
             "keyValue": 2,
-            "pointsEarned": 9,
+            "pointsEarned": 1,
             "multiplicative": false
          },
          {
             "keyValue": 3,
-            "pointsEarned": 8,
+            "pointsEarned": 1,
             "multiplicative": false
          },
          {
             "keyValue": 4,
-            "pointsEarned": 7,
+            "pointsEarned": 1,
             "multiplicative": false
          },
          {
             "keyValue": 5,
-            "pointsEarned": 6,
+            "pointsEarned": 1,
             "multiplicative": false
          },
          {
             "keyValue": 6,
-            "pointsEarned": 5,
+            "pointsEarned": 1,
             "multiplicative": false
          },
          {
             "keyValue": 7,
-            "pointsEarned": 4,
+            "pointsEarned": 1,
             "multiplicative": false
          },
          {
             "keyValue": 8,
-            "pointsEarned": 3,
+            "pointsEarned": 1,
             "multiplicative": false
          },
          {
             "keyValue": 9,
-            "pointsEarned": 2,
+            "pointsEarned": 1,
             "multiplicative": false
          },
          {
