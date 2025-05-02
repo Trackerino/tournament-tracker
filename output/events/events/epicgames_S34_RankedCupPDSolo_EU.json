@@ -6,9 +6,7 @@
    "displayDataId": "s34_rankedcup_pd_solo",
    "eventGroup": "Season34_RankedCupPDSolo",
    "announcementTime": "2025-02-21T09:00:05Z",
-   "regions": [
-      "EU"
-   ],
+   "regions": [],
    "regionMappings": {
       "EU": "EUCOMP"
    },
