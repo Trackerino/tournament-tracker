@@ -6,9 +6,7 @@
    "displayDataId": "s34_perfeval_reload",
    "eventGroup": "Season34_PerformanceEvaluationReload",
    "announcementTime": "2025-02-21T09:00:00Z",
-   "regions": [
-      "ASIA"
-   ],
+   "regions": [],
    "regionMappings": {
       "ASIA": "ASIACOMP"
    },
