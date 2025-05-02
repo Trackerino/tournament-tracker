@@ -1,11 +1,11 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S35_RankedCupBSGDuos_OCE",
-   "beginTime": "2025-05-16T09:00:00Z",
-   "endTime": "2025-05-30T13:00:00Z",
+   "beginTime": "2025-05-16T09:00:02Z",
+   "endTime": "2025-05-30T13:00:02Z",
    "displayDataId": "s35_ranked_duos_bsg",
    "eventGroup": "Season35_RankedCupBSGDuos",
-   "announcementTime": "2025-05-02T08:00:00Z",
+   "announcementTime": "2025-05-02T08:00:02Z",
    "regions": [
       "OCE"
    ],
@@ -44,9 +44,9 @@
       {
          "eventWindowId": "S35_RankedCupBSGDuos_Event1_OCE",
          "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
-         "countdownBeginTime": "2025-05-16T07:00:00Z",
-         "beginTime": "2025-05-16T09:00:00Z",
-         "endTime": "2025-05-16T13:00:00Z",
+         "countdownBeginTime": "2025-05-16T07:00:02Z",
+         "beginTime": "2025-05-16T09:00:02Z",
+         "endTime": "2025-05-16T13:00:02Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -83,9 +83,9 @@
       {
          "eventWindowId": "S35_RankedCupBSGDuos_Event2_OCE",
          "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
-         "countdownBeginTime": "2025-05-23T07:00:00Z",
-         "beginTime": "2025-05-23T09:00:00Z",
-         "endTime": "2025-05-23T13:00:00Z",
+         "countdownBeginTime": "2025-05-23T07:00:02Z",
+         "beginTime": "2025-05-23T09:00:02Z",
+         "endTime": "2025-05-23T13:00:02Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -122,9 +122,9 @@
       {
          "eventWindowId": "S35_RankedCupBSGDuos_Event3_OCE",
          "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
-         "countdownBeginTime": "2025-05-30T07:00:00Z",
-         "beginTime": "2025-05-30T09:00:00Z",
-         "endTime": "2025-05-30T13:00:00Z",
+         "countdownBeginTime": "2025-05-30T07:00:02Z",
+         "beginTime": "2025-05-30T09:00:02Z",
+         "endTime": "2025-05-30T13:00:02Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
