@@ -70,7 +70,9 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S35_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S33_FNCS_Division1_OCE",
             "S33_FNCS_Division2_OCE",
@@ -79,7 +81,8 @@
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S35_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -113,13 +116,16 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S35_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S35_FNSCShowdown_Event1Round2_OCE"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S35_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -155,7 +161,9 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S35_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S33_FNCS_Division1_OCE",
             "S33_FNCS_Division2_OCE",
@@ -164,7 +172,8 @@
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S35_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -198,13 +207,16 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S35_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S35_FNSCShowdown_Event2Round2_OCE"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S35_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -240,7 +252,9 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S35_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S33_FNCS_Division1_OCE",
             "S33_FNCS_Division2_OCE",
@@ -249,7 +263,8 @@
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S35_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -283,13 +298,16 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S35_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S35_FNSCShowdown_Event3Round2_OCE"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S35_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
