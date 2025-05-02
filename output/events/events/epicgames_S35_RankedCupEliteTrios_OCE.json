@@ -1,0 +1,164 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S35_RankedCupEliteTrios_OCE",
+   "beginTime": "2025-05-18T09:00:00Z",
+   "endTime": "2025-06-01T13:00:00Z",
+   "displayDataId": "s35_zadieranked_trios",
+   "eventGroup": "Season35_RankedCupEliteTrios",
+   "announcementTime": "2025-05-02T08:00:00Z",
+   "regions": [
+      "OCE"
+   ],
+   "regionMappings": {
+      "OCE": "OCECOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "tournamentType": "RankedCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S35_RankedCupEliteTrios_Event1_OCE",
+         "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+         "countdownBeginTime": "2025-05-18T07:00:00Z",
+         "beginTime": "2025-05-18T09:00:00Z",
+         "endTime": "2025-05-18T13:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "currentRanking:ranked-br:15",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_ranked_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S35_RankedCupTriosE_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S35_RankedCupEliteTrios_Event2_OCE",
+         "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+         "countdownBeginTime": "2025-05-25T07:00:00Z",
+         "beginTime": "2025-05-25T09:00:00Z",
+         "endTime": "2025-05-25T13:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "currentRanking:ranked-br:15",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_ranked_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S35_RankedCupTriosE_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S35_RankedCupEliteTrios_Event3_OCE",
+         "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
+         "countdownBeginTime": "2025-06-01T07:00:00Z",
+         "beginTime": "2025-06-01T09:00:00Z",
+         "endTime": "2025-06-01T13:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "currentRanking:ranked-br:15",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_ranked_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S35_RankedCupTriosE_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s35_rankedcupelitetrios_oce",
+      "version": 1
+   }
+}
