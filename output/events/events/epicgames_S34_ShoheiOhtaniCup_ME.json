@@ -6,9 +6,7 @@
    "displayDataId": "s34_ohtani",
    "eventGroup": "Season34_ShoheiOhtaniCup",
    "announcementTime": "2025-03-10T23:00:00Z",
-   "regions": [
-      "ME"
-   ],
+   "regions": [],
    "regionMappings": {
       "ME": "MECOMP"
    },

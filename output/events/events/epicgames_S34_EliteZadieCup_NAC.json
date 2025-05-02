@@ -6,10 +6,7 @@
    "displayDataId": "s34_zadiereload",
    "eventGroup": "Season34_EliteZadieCup",
    "announcementTime": "2025-03-10T23:00:00Z",
-   "regions": [
-      "NAC",
-      "NAE"
-   ],
+   "regions": [],
    "regionMappings": {
       "NAC": "NACCOMP",
       "NAE": "NACCOMP"

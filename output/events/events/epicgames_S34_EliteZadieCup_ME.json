@@ -6,9 +6,7 @@
    "displayDataId": "s34_zadiereload",
    "eventGroup": "Season34_EliteZadieCup",
    "announcementTime": "2025-04-17T18:00:00Z",
-   "regions": [
-      "ME"
-   ],
+   "regions": [],
    "regionMappings": {
       "ME": "MECOMP"
    },
