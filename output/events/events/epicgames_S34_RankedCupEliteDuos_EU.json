@@ -6,9 +6,7 @@
    "displayDataId": "s34_rankedcup_elite_duos",
    "eventGroup": "Season34_RankedCupEliteDuos",
    "announcementTime": "2025-02-21T09:00:04Z",
-   "regions": [
-      "EU"
-   ],
+   "regions": [],
    "regionMappings": {
       "EU": "EUCOMP"
    },
