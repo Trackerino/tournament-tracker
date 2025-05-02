@@ -6,9 +6,7 @@
    "displayDataId": "s34_reloadopen",
    "eventGroup": "Season34_ReloadTest",
    "announcementTime": "2025-02-21T09:00:00Z",
-   "regions": [
-      "BR"
-   ],
+   "regions": [],
    "regionMappings": {
       "BR": "BRCOMP"
    },
