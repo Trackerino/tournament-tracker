@@ -6,9 +6,7 @@
    "displayDataId": "s34_fncscommunity",
    "eventGroup": "Season34_FNCSCommunityCup",
    "announcementTime": "2025-04-08T14:00:00Z",
-   "regions": [
-      "NAW"
-   ],
+   "regions": [],
    "regionMappings": {
       "NAW": "NAWCOMP"
    },

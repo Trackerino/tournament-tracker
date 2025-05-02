@@ -6,9 +6,7 @@
    "displayDataId": "s34_clix",
    "eventGroup": "Season34_ClixIconCup",
    "announcementTime": "2025-03-17T22:00:00Z",
-   "regions": [
-      "BR"
-   ],
+   "regions": [],
    "regionMappings": {
       "BR": "BRCOMP"
    },
