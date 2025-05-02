@@ -59,9 +59,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s35_fncs_showdown",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -105,9 +105,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s35_fncs_showdown",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -150,9 +150,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s35_fncs_showdown",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -196,9 +196,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s35_fncs_showdown",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -241,9 +241,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s35_fncs_showdown",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -287,9 +287,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s35_fncs_showdown",
             "mfa",
-            "adps:g-a81a33a3b9a7"
+            "adps:g-a81a33a3b9a7",
+            "eula:s35_showdown_rules"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
