@@ -61,7 +61,7 @@
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "public",
+         "visibility": "locked",
          "additionalRequirements": [
             "eula:s33_fncs_rules",
             "mfa"
@@ -111,7 +111,7 @@
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "public",
+         "visibility": "locked",
          "additionalRequirements": [
             "eula:s33_fncs_rules",
             "mfa"
