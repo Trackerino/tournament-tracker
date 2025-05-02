@@ -6,9 +6,7 @@
    "displayDataId": "s34_og_cup",
    "eventGroup": "Season34_OGCup",
    "announcementTime": "2025-02-21T09:00:00Z",
-   "regions": [
-      "EU"
-   ],
+   "regions": [],
    "regionMappings": {
       "EU": "EUCOMP"
    },
