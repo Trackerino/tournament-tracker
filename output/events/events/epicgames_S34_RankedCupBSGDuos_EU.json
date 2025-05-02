@@ -6,9 +6,7 @@
    "displayDataId": "S34_rankedcup_bsg_duos",
    "eventGroup": "Season34_RankedCupBSGDuos",
    "announcementTime": "2025-02-21T09:00:06Z",
-   "regions": [
-      "EU"
-   ],
+   "regions": [],
    "regionMappings": {
       "EU": "EUCOMP"
    },

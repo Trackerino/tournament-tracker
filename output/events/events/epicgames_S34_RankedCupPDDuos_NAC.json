@@ -6,10 +6,7 @@
    "displayDataId": "s34_rankedcup_pd_duos",
    "eventGroup": "Season34_RankedCupPDDuos",
    "announcementTime": "2025-02-21T09:00:05Z",
-   "regions": [
-      "NAC",
-      "NAE"
-   ],
+   "regions": [],
    "regionMappings": {
       "NAC": "NACCOMP",
       "NAE": "NACCOMP"
