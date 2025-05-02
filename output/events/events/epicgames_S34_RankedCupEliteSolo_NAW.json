@@ -6,9 +6,7 @@
    "displayDataId": "s34_rankedcup_elite_solo",
    "eventGroup": "Season34_RankedCupEliteSolo",
    "announcementTime": "2025-02-21T09:00:04Z",
-   "regions": [
-      "NAW"
-   ],
+   "regions": [],
    "regionMappings": {
       "NAW": "NAWCOMP"
    },
