@@ -1,0 +1,164 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S35_ReloadRankedCup_Elite_Duos_BR",
+   "beginTime": "2025-05-11T21:00:00Z",
+   "endTime": "2025-05-28T00:00:00Z",
+   "displayDataId": "s35_zadieranked_duosreload",
+   "eventGroup": "Season35ReloadRankedCupEliteDuos",
+   "announcementTime": "2025-05-02T08:00:06Z",
+   "regions": [
+      "BR"
+   ],
+   "regionMappings": {
+      "BR": "BRCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "tournamentType": "RankedCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S35_ReloadRankedCup_Elite_Duos_Event1_BR",
+         "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+         "countdownBeginTime": "2025-05-11T19:00:00Z",
+         "beginTime": "2025-05-11T21:00:00Z",
+         "endTime": "2025-05-12T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "currentRanking:ranked_blastberry_build:15",
+            "eula:s35_ranked_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S35_RankedCupReloadDuosE_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S35_ReloadRankedCup_Elite_Duos_Event2_BR",
+         "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+         "countdownBeginTime": "2025-05-20T19:00:00Z",
+         "beginTime": "2025-05-20T21:00:00Z",
+         "endTime": "2025-05-21T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "currentRanking:ranked_blastberry_build:15",
+            "eula:s35_ranked_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S35_RankedCupReloadDuosE_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S35_ReloadRankedCup_Elite_Duos_Event3_BR",
+         "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+         "countdownBeginTime": "2025-05-27T19:00:00Z",
+         "beginTime": "2025-05-27T21:00:00Z",
+         "endTime": "2025-05-28T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            "currentRanking:ranked_blastberry_build:15",
+            "eula:s35_ranked_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S35_RankedCupReloadDuosE_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s35_reloadrankedcup_elite_duos_br",
+      "version": 1
+   }
+}
