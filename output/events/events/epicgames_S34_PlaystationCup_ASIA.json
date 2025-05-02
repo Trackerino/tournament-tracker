@@ -6,9 +6,7 @@
    "displayDataId": "s34_playstation",
    "eventGroup": "Season34_PlaystationCup",
    "announcementTime": "2025-03-06T17:00:00Z",
-   "regions": [
-      "ASIA"
-   ],
+   "regions": [],
    "regionMappings": {
       "ASIA": "ASIACOMP"
    },
