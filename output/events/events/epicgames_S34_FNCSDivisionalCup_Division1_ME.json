@@ -6,9 +6,7 @@
    "displayDataId": "s34_division1",
    "eventGroup": "Season34_FNCSDivisionalCup_Division1",
    "announcementTime": "2025-02-21T09:00:00Z",
-   "regions": [
-      "ME"
-   ],
+   "regions": [],
    "regionMappings": {
       "ME": "MECOMP"
    },
