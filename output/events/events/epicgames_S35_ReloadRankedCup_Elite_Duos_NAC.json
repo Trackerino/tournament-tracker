@@ -56,7 +56,7 @@
          "additionalRequirements": [
             "mfa",
             "adps:g-a81a33a3b9a7",
-            "currentRanking:ranked_blastberry_build-br:15",
+            "currentRanking:ranked_blastberry_build:15",
             "eula:s35_ranked_rules"
          ],
          "teammateEligibility": "all",
@@ -94,7 +94,7 @@
          "additionalRequirements": [
             "mfa",
             "adps:g-a81a33a3b9a7",
-            "currentRanking:ranked_blastberry_build-br:15",
+            "currentRanking:ranked_blastberry_build:15",
             "eula:s35_ranked_rules"
          ],
          "teammateEligibility": "all",
@@ -132,7 +132,7 @@
          "additionalRequirements": [
             "mfa",
             "adps:g-a81a33a3b9a7",
-            "currentRanking:ranked_blastberry_build-br:15",
+            "currentRanking:ranked_blastberry_build:15",
             "eula:s35_ranked_rules"
          ],
          "teammateEligibility": "all",
