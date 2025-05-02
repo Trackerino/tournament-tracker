@@ -6,13 +6,8 @@
    "displayDataId": "s34_perfeval",
    "eventGroup": "Season34_PerformanceEvaluation",
    "announcementTime": "2025-02-21T09:00:00Z",
-   "regions": [
-      "NAC",
-      "NAE"
-   ],
-   "regionMappings": {
-      "NAE": "NAC"
-   },
+   "regions": [],
+   "regionMappings": {},
    "platforms": [
       "Android",
       "GFN",
