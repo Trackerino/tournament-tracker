@@ -6,9 +6,7 @@
    "displayDataId": "s34_lantern",
    "eventGroup": "Season34_LanternFestCup",
    "announcementTime": "2025-03-04T17:00:00Z",
-   "regions": [
-      "ASIA"
-   ],
+   "regions": [],
    "regionMappings": {
       "ASIA": "ASIACOMP"
    },
