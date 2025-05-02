@@ -6,9 +6,7 @@
    "displayDataId": "s34_thunderbolts",
    "eventGroup": "Season34_ThunderboltsCup",
    "announcementTime": "2025-03-04T17:00:00Z",
-   "regions": [
-      "NAW"
-   ],
+   "regions": [],
    "regionMappings": {
       "NAW": "NAWCOMP"
    },
