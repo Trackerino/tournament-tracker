@@ -55,7 +55,7 @@
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s33_perfeval",
             "mfa"
@@ -100,7 +100,7 @@
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s33_perfeval",
             "mfa"
@@ -141,7 +141,7 @@
          "round": 2,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s33_perfeval",
             "mfa"
@@ -186,7 +186,7 @@
          "round": 2,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s33_perfeval",
             "mfa"
@@ -227,7 +227,7 @@
          "round": 3,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s33_perfeval",
             "mfa"
@@ -272,7 +272,7 @@
          "round": 3,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s33_perfeval",
             "mfa"
@@ -313,7 +313,7 @@
          "round": 4,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s33_perfeval",
             "mfa"
@@ -358,7 +358,7 @@
          "round": 4,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s33_perfeval",
             "mfa"
