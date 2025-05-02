@@ -6,9 +6,7 @@
    "displayDataId": "s34_solocash",
    "eventGroup": "Season34_SoloCashCup",
    "announcementTime": "2025-02-21T06:00:00Z",
-   "regions": [
-      "ASIA"
-   ],
+   "regions": [],
    "regionMappings": {
       "ASIA": "ASIACOMP"
    },
