@@ -432,13 +432,13 @@
       "displayed_tracked_stat": [
          "ApplesConsumed"
       ],
-      "leaderboard_id": "epicgames_Deeor_Duos:DeerDay1_NAC_Apples",
+      "leaderboard_id": "epicgames_Deer_Duos:DeerDay1_NAC_Apples",
       "leaderboard_name": "Apples Consumed",
       "show_details_panel": true
    },
    {
       "_type": "Leaderboard Display Info",
-      "leaderboard_id": "epicgames_Deeor_Duos:DeerDay1_NAC_Suvival",
+      "leaderboard_id": "epicgames_Deer_Duos:DeerDay1_NAC_Suvival",
       "leaderboard_name": "Time Alive",
       "show_details_panel": true
    },
