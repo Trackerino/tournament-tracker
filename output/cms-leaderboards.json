@@ -439,7 +439,7 @@
    {
       "_type": "Leaderboard Display Info",
       "leaderboard_id": "epicgames_Deer_Duos:DeerDay1_NAC_Survival",
-      "leaderboard_name": "Time Alive",
+      "leaderboard_name": "Time Survived",
       "show_details_panel": true
    },
    {
