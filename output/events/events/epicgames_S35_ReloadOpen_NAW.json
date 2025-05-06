@@ -54,6 +54,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s34_reloadopen_rules"
          ],
          "teammateEligibility": "all",
@@ -67,7 +68,9 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [],
-         "requireNoneTokensCaller": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
@@ -87,6 +90,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s34_reloadopen_rules"
          ],
          "teammateEligibility": "all",
@@ -100,7 +104,9 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [],
-         "requireNoneTokensCaller": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
@@ -120,6 +126,7 @@
          "visibility": "public",
          "additionalRequirements": [
             "mfa",
+            "adps:g-a81a33a3b9a7",
             "eula:s34_reloadopen_rules"
          ],
          "teammateEligibility": "all",
@@ -133,7 +140,9 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [],
-         "requireNoneTokensCaller": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
