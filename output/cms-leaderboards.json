@@ -430,7 +430,9 @@
    {
       "_type": "Leaderboard Display Info",
       "displayed_tracked_stat": [
-         "EACH_ApplesConsumed"
+         "ApplesConsumed",
+         "Apple",
+         "wid_athena_apple"
       ],
       "leaderboard_id": "epicgames_Deer_Duos:DeerDay1_NAC_Apples",
       "leaderboard_name": "Apples Consumed",
