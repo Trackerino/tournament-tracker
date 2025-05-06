@@ -376,6 +376,42 @@
       "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
       "poster_description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
       "poster_interval_description": "{0} - {1} Apples Consumed",
+      "rule_name": "Weapon.NumHealSelf:Item.Consumable.Apple"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
+      "poster_description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
+      "poster_interval_description": "{0} - {1} Apples Consumed",
+      "rule_name": "Weapon.NumHealSelf:Tag:Consumable:wid_athena_apple"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
+      "poster_description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
+      "poster_interval_description": "{0} - {1} Apples Consumed",
+      "rule_name": "Weapon.TotalHealSelf:Item.Consumable.Apple"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
+      "poster_description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
+      "poster_interval_description": "{0} - {1} Apples Consumed",
+      "rule_name": "Weapon.TotalHealSelf:Tag:Consumable:wid_athena_apple"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
+      "poster_description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
+      "poster_interval_description": "{0} - {1} Apples Consumed",
       "rule_name": "wid_athena_apple"
    }
 ]
