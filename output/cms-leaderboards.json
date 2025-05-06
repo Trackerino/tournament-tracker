@@ -430,15 +430,16 @@
    {
       "_type": "Leaderboard Display Info",
       "displayed_tracked_stat": [
-         "ApplesConsumed",
-         "Apple",
-         "wid_athena_apple",
-         "Weapon.NumHealSelf:Item.Consumable.Apple",
-         "Weapon.NumHealSelf:Tag:Consumable:wid_athena_apple",
-         "Weapon.TotalHealSelf:Item.Consumable.Apple",
-         "Weapon.TotalHealSelf:Tag:Consumable:wid_athena_apple",
-         "Weapon_NumHealSelf-Item_Consumable_Apple",
-         "Weapon_NumHealSelf-Tag-Consumable-wid_athena_apple"
+         "Weapon_NumHealSelf-Item_Consumable_Apple"
+      ],
+      "leaderboard_id": "epicgames_Deer_Duos:DeerDay1_NAC",
+      "leaderboard_name": "Main",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "Weapon_NumHealSelf-Item_Consumable_Apple"
       ],
       "leaderboard_id": "epicgames_Deer_Duos:DeerDay1_NAC_Apples",
       "leaderboard_name": "Apples Consumed",
@@ -446,6 +447,9 @@
    },
    {
       "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "TIME_ALIVE_STAT"
+      ],
       "leaderboard_id": "epicgames_Deer_Duos:DeerDay1_NAC_Survival",
       "leaderboard_name": "Time Survived",
       "show_details_panel": true
