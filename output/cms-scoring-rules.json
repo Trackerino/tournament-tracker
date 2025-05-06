@@ -6,6 +6,15 @@
       "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
       "poster_description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
       "poster_interval_description": "{0} - {1} Apples Consumed",
+      "rule_name": "Apple"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
+      "poster_description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
+      "poster_interval_description": "{0} - {1} Apples Consumed",
       "rule_name": "ApplesConsumed"
    },
    {
@@ -359,5 +368,14 @@
       "poster_description": "Victory Royale",
       "poster_interval_description": "Victory Royale",
       "rule_name": "VICTORY_ROYALE_STAT"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
+      "poster_description": "{0} {0}|plural(one=Apple Consumed,other=Apples Consumed)",
+      "poster_interval_description": "{0} - {1} Apples Consumed",
+      "rule_name": "wid_athena_apple"
    }
 ]
