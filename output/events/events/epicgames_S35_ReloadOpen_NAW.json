@@ -37,7 +37,9 @@
    "metadata": {
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
-      "minimumAccountLevel": 50
+      "minimumAccountLevel": 50,
+      "tournamentType": "WorkshopCup",
+      "webId": "S35_ReloadOpenCup"
    },
    "eventWindows": [
       {
