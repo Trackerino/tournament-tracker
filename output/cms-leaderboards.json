@@ -436,7 +436,9 @@
          "Weapon.NumHealSelf:Item.Consumable.Apple",
          "Weapon.NumHealSelf:Tag:Consumable:wid_athena_apple",
          "Weapon.TotalHealSelf:Item.Consumable.Apple",
-         "Weapon.TotalHealSelf:Tag:Consumable:wid_athena_apple"
+         "Weapon.TotalHealSelf:Tag:Consumable:wid_athena_apple",
+         "Weapon_NumHealSelf-Item_Consumable_Apple",
+         "Weapon_NumHealSelf-Tag-Consumable-wid_athena_apple"
       ],
       "leaderboard_id": "epicgames_Deer_Duos:DeerDay1_NAC_Apples",
       "leaderboard_name": "Apples Consumed",
