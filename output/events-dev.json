@@ -1983,7 +1983,7 @@
          ],
          "platformMappings": {},
          "metadata": {
-            "minimumAccountLevel": 0
+            "minimumAccountLevel": 1
          },
          "eventWindows": [
             {
