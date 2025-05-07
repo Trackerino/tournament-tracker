@@ -5,7 +5,7 @@
    "endTime": "2025-08-22T04:00:00Z",
    "displayDataId": "s33_rankedcup_bs_solo",
    "eventGroup": "TEST",
-   "announcementTime": "2024-01-14T08:00:00Z",
+   "announcementTime": "2025-01-14T08:00:00Z",
    "regions": [
       "NAC",
       "NAE",
@@ -37,7 +37,8 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "minimumAccountLevel": 1
+      "minimumAccountLevel": 1,
+      "tournamentType": "RankedCup"
    },
    "eventWindows": [
       {
