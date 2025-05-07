@@ -54,7 +54,8 @@
          "additionalRequirements": [
             "eula:crab",
             "mfa",
-            "currentRanking:ranked-br:6"
+            "currentRanking:ranked-br:6",
+            "currentRankingMax:ranked-br:8"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
