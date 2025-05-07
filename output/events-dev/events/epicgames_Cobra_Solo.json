@@ -1,7 +1,7 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_Cobra_Solo",
-   "beginTime": "2025-04-06T20:00:00Z",
+   "beginTime": "2025-05-06T20:00:00Z",
    "endTime": "2025-08-22T04:00:00Z",
    "displayDataId": "s33_rankedcup_bs_solo",
    "eventGroup": "TEST",
@@ -44,17 +44,17 @@
       {
          "eventWindowId": "CobraSolo_Event1_NAC",
          "eventTemplateId": "EventTemplate_S29_RankedCupSolo",
-         "countdownBeginTime": "2024-01-21T18:00:00Z",
-         "beginTime": "2025-04-06T20:00:00Z",
+         "countdownBeginTime": "2024-05-01T18:00:00Z",
+         "beginTime": "2025-05-06T20:00:00Z",
          "endTime": "2025-08-22T04:00:00Z",
          "round": 0,
          "payoutDelay": 2,
          "isTBD": false,
          "visibility": "private",
          "additionalRequirements": [
-            "currentRanking:ranked-br:2",
             "eula:crab",
-            "mfa"
+            "mfa",
+            "currentRanking:ranked-br:6"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
