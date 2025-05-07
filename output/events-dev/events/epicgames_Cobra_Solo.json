@@ -52,10 +52,9 @@
          "isTBD": false,
          "visibility": "private",
          "additionalRequirements": [
+            "currentRanking:ranked-br:2",
             "eula:crab",
-            "mfa",
-            "currentRanking:ranked-br:6",
-            "currentRankingMax:ranked-br:8"
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
