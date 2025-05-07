@@ -439,7 +439,8 @@
    {
       "_type": "Leaderboard Display Info",
       "displayed_tracked_stat": [
-         "Weapon_NumHealSelf-Item_Consumable_Apple"
+         "Weapon_NumHealSelf-Item_Consumable_Apple",
+         "ApplesConsumed"
       ],
       "leaderboard_id": "epicgames_Deer_Duos:DeerDay1_NAC_Apples",
       "leaderboard_name": "Apples Consumed",
