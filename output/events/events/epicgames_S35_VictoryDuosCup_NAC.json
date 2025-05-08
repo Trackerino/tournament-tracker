@@ -42,8 +42,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eeula:s35_duosconsole_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-figment-nobuild:6",
                "currentRanking:ranked-figment-build:6",
@@ -87,8 +87,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eeula:s35_duosconsole_rules",
             "mfa",
-            "eula:TBD",
             "adps:g-a81a33a3b9a7"
          ],
          "teammateEligibility": "all",
@@ -126,8 +126,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eeula:s35_duosconsole_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-figment-nobuild:6",
                "currentRanking:ranked-figment-build:6",
@@ -171,8 +171,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eeula:s35_duosconsole_rules",
             "mfa",
-            "eula:TBD",
             "adps:g-a81a33a3b9a7"
          ],
          "teammateEligibility": "all",
@@ -210,8 +210,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eeula:s35_duosconsole_rules",
             "mfa",
-            "eula:TBD",
             [
                "currentRanking:ranked-figment-nobuild:6",
                "currentRanking:ranked-figment-build:6",
@@ -255,8 +255,8 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eeula:s35_duosconsole_rules",
             "mfa",
-            "eula:TBD",
             "adps:g-a81a33a3b9a7"
          ],
          "teammateEligibility": "all",
