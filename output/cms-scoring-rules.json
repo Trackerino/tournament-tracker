@@ -1,6 +1,15 @@
 [
    {
       "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Ground Apple Consumed,other=Ground Apples Consumed)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
+      "poster_description": "{0} {0}|plural(one=Ground Apple Consumed,other=Ground Apples Consumed)",
+      "poster_interval_description": "{0} - {1} Ground Apples Consumed",
+      "rule_name": "ApplesConsumed"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
       "description": "{0} {0}|plural(one=Bow Elimination,other=Bow Eliminations)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
