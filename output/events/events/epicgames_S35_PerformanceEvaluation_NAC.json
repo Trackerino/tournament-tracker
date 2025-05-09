@@ -59,7 +59,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval",
+            "eula:s33_perfeval_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -104,7 +104,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval",
+            "eula:s33_perfeval_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -146,7 +146,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval",
+            "eula:s33_perfeval_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -191,7 +191,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval",
+            "eula:s33_perfeval_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -233,7 +233,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval",
+            "eula:s33_perfeval_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -278,7 +278,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval",
+            "eula:s33_perfeval_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -320,7 +320,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval",
+            "eula:s33_perfeval_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -365,7 +365,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval",
+            "eula:s33_perfeval_rules",
             "mfa"
          ],
          "teammateEligibility": "all",
