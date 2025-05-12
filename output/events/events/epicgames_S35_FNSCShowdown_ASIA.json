@@ -74,6 +74,8 @@
             "S35_CashCup_Qualified"
          ],
          "requireAnyTokens": [
+            "S33_FNCS_Division1_ASIA",
+            "S33_FNCS_Division2_ASIA",
             "S34_FNCS_Division1_ASIA",
             "S34_FNCS_Division2_ASIA"
          ],
@@ -163,6 +165,8 @@
             "S35_CashCup_Qualified"
          ],
          "requireAnyTokens": [
+            "S33_FNCS_Division1_ASIA",
+            "S33_FNCS_Division2_ASIA",
             "S34_FNCS_Division1_ASIA",
             "S34_FNCS_Division2_ASIA"
          ],
@@ -252,6 +256,8 @@
             "S35_CashCup_Qualified"
          ],
          "requireAnyTokens": [
+            "S33_FNCS_Division1_ASIA",
+            "S33_FNCS_Division2_ASIA",
             "S34_FNCS_Division1_ASIA",
             "S34_FNCS_Division2_ASIA"
          ],

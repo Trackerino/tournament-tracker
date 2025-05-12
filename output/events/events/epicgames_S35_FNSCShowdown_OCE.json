@@ -74,6 +74,8 @@
             "S35_CashCup_Qualified"
          ],
          "requireAnyTokens": [
+            "S33_FNCS_Division1_OCE",
+            "S33_FNCS_Division2_OCE",
             "S34_FNCS_Division1_OCE",
             "S34_FNCS_Division2_OCE"
          ],
@@ -163,6 +165,8 @@
             "S35_CashCup_Qualified"
          ],
          "requireAnyTokens": [
+            "S33_FNCS_Division1_OCE",
+            "S33_FNCS_Division2_OCE",
             "S34_FNCS_Division1_OCE",
             "S34_FNCS_Division2_OCE"
          ],
@@ -252,6 +256,8 @@
             "S35_CashCup_Qualified"
          ],
          "requireAnyTokens": [
+            "S33_FNCS_Division1_OCE",
+            "S33_FNCS_Division2_OCE",
             "S34_FNCS_Division1_OCE",
             "S34_FNCS_Division2_OCE"
          ],
