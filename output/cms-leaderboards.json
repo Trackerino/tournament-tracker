@@ -438,21 +438,33 @@
    },
    {
       "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "Weapon_NumHealSelf-Item_Consumable_Apple"
+      ],
       "displayed_tracked_stat": [
          "Weapon_NumHealSelf-Item_Consumable_Apple",
          "ApplesConsumed"
       ],
       "leaderboard_id": "epicgames_Deer_Duos:DeerDay1_NAC_Apples",
       "leaderboard_name": "Apples Consumed",
+      "match_history_tracked_stats": [
+         "Weapon_NumHealSelf-Item_Consumable_Apple"
+      ],
       "show_details_panel": true
    },
    {
       "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "TIME_ALIVE_STAT"
+      ],
       "displayed_tracked_stat": [
          "TIME_ALIVE_STAT"
       ],
       "leaderboard_id": "epicgames_Deer_Duos:DeerDay1_NAC_Survival",
       "leaderboard_name": "Time Survived",
+      "match_history_tracked_stats": [
+         "TIME_ALIVE_STAT"
+      ],
       "show_details_panel": true
    },
    {
@@ -531,6 +543,132 @@
       "_type": "Leaderboard Display Info",
       "leaderboard_id": "epicgames_Rain_Duos:Rain_Week1_Day1-variant",
       "leaderboard_name": "Variant",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "Weapon_NumHealSelf-Item_Consumable_Apple"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_ASIA:S35_FreeingFortniteCup_ASIA_apples",
+      "leaderboard_name": "Apples Consumed",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "TIME_ALIVE_STAT"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_ASIA:S35_FreeingFortniteCup_ASIA_timealive",
+      "leaderboard_name": "Time Survived",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "Weapon_NumHealSelf-Item_Consumable_Apple"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_BR:S35_FreeingFortniteCup_BR_apples",
+      "leaderboard_name": "Apples Consumed",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "TIME_ALIVE_STAT"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_BR:S35_FreeingFortniteCup_BR_timealive",
+      "leaderboard_name": "Time Survived",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "Weapon_NumHealSelf-Item_Consumable_Apple"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_EU:S35_FreeingFortniteCup_EU_apples",
+      "leaderboard_name": "Apples Consumed",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "TIME_ALIVE_STAT"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_EU:S35_FreeingFortniteCup_EU_timealive",
+      "leaderboard_name": "Time Survived",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "Weapon_NumHealSelf-Item_Consumable_Apple"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_ME:S35_FreeingFortniteCup_ME_apples",
+      "leaderboard_name": "Apples Consumed",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "TIME_ALIVE_STAT"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_ME:S35_FreeingFortniteCup_ME_timealive",
+      "leaderboard_name": "Time Survived",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "Weapon_NumHealSelf-Item_Consumable_Apple"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_NAC:S35_FreeingFortniteCup_NAC_apples",
+      "leaderboard_name": "Apples Consumed",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "TIME_ALIVE_STAT"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_NAC:S35_FreeingFortniteCup_NAC_timealive",
+      "leaderboard_name": "Time Survived",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "Weapon_NumHealSelf-Item_Consumable_Apple"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_NAW:S35_FreeingFortniteCup_NAW_apples",
+      "leaderboard_name": "Apples Consumed",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "TIME_ALIVE_STAT"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_NAW:S35_FreeingFortniteCup_NAW_timealive",
+      "leaderboard_name": "Time Survived",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "Weapon_NumHealSelf-Item_Consumable_Apple"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_OCE:S35_FreeingFortniteCup_OCE_apples",
+      "leaderboard_name": "Apples Consumed",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "displayed_tracked_stat": [
+         "TIME_ALIVE_STAT"
+      ],
+      "leaderboard_id": "epicgames_S35_FreeingFortniteCup_OCE:S35_FreeingFortniteCup_OCE_timealive",
+      "leaderboard_name": "Time Survived",
       "show_details_panel": true
    },
    {
