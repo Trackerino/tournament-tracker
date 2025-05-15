@@ -1,7 +1,7 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S35_RankedCupEliteDuos_NAC",
-   "beginTime": "2025-05-16T23:00:00Z",
+   "beginTime": "2025-05-15T23:00:00Z",
    "endTime": "2025-05-31T03:00:00Z",
    "displayDataId": "s35_zadieranked_duos",
    "eventGroup": "Season35_RankedCupEliteDuos",
@@ -46,9 +46,9 @@
       {
          "eventWindowId": "S35_RankedCupEliteDuos_Event1_NAC",
          "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
-         "countdownBeginTime": "2025-05-16T21:00:00Z",
-         "beginTime": "2025-05-16T23:00:00Z",
-         "endTime": "2025-05-17T03:00:00Z",
+         "countdownBeginTime": "2025-05-15T21:00:00Z",
+         "beginTime": "2025-05-15T23:00:00Z",
+         "endTime": "2025-05-16T03:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
