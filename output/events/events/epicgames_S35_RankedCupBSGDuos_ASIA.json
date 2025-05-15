@@ -1,7 +1,7 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S35_RankedCupBSGDuos_ASIA",
-   "beginTime": "2025-05-16T09:00:02Z",
+   "beginTime": "2025-05-15T09:00:02Z",
    "endTime": "2025-05-30T13:00:02Z",
    "displayDataId": "s35_ranked_duos_bsg",
    "eventGroup": "Season35_RankedCupBSGDuos",
@@ -44,9 +44,9 @@
       {
          "eventWindowId": "S35_RankedCupBSGDuos_Event1_ASIA",
          "eventTemplateId": "EventTemplate_S35_RankedCupDuos",
-         "countdownBeginTime": "2025-05-16T07:00:02Z",
-         "beginTime": "2025-05-16T09:00:02Z",
-         "endTime": "2025-05-16T13:00:02Z",
+         "countdownBeginTime": "2025-05-15T07:00:02Z",
+         "beginTime": "2025-05-15T09:00:02Z",
+         "endTime": "2025-05-15T13:00:02Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
