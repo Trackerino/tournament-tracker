@@ -39,13 +39,7 @@
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
       "minimumAccountLevel": 350,
-      "requireSystemFeatures": [
-         "SecureBoot",
-         "CryptoProcessor"
-      ],
-      "TeamLockType": "Window",
-      "tournamentType": "WorkshopCup",
-      "webId": "S35_PerformanceEvaluation"
+      "TeamLockType": "Window"
    },
    "eventWindows": [
       {
@@ -59,7 +53,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -104,7 +98,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -128,7 +122,6 @@
             "NAE": "NACCOMPTEST"
          },
          "metadata": {
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -146,7 +139,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -191,7 +184,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -215,7 +208,6 @@
             "NAE": "NACCOMPTEST"
          },
          "metadata": {
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -233,7 +225,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -278,7 +270,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -302,7 +294,6 @@
             "NAE": "NACCOMPTEST"
          },
          "metadata": {
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -320,7 +311,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -365,7 +356,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -389,7 +380,6 @@
             "NAE": "NACCOMPTEST"
          },
          "metadata": {
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,

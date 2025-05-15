@@ -37,13 +37,7 @@
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
       "minimumAccountLevel": 350,
-      "requireSystemFeatures": [
-         "SecureBoot",
-         "CryptoProcessor"
-      ],
-      "TeamLockType": "Window",
-      "tournamentType": "WorkshopCup",
-      "webId": "S35_PerformanceEvaluation"
+      "TeamLockType": "Window"
    },
    "eventWindows": [
       {
@@ -51,13 +45,13 @@
          "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round1",
          "countdownBeginTime": "2025-05-09T15:00:00Z",
          "beginTime": "2025-05-09T17:00:00Z",
-         "endTime": "2025-05-09T20:45:00Z",
+         "endTime": "2025-05-09T19:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -95,14 +89,14 @@
          "eventWindowId": "S35_PerformanceEvaluation_Event1Round2_EU",
          "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round2",
          "countdownBeginTime": "2025-05-09T18:00:00Z",
-         "beginTime": "2025-05-09T21:45:00Z",
-         "endTime": "2025-05-09T23:45:00Z",
+         "beginTime": "2025-05-09T20:00:00Z",
+         "endTime": "2025-05-09T22:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -125,7 +119,6 @@
             "EU": "EUCOMPTEST"
          },
          "metadata": {
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -143,7 +136,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -188,7 +181,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -211,7 +204,6 @@
             "EU": "EUCOMPTEST"
          },
          "metadata": {
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -229,7 +221,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -274,7 +266,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -297,7 +289,6 @@
             "EU": "EUCOMPTEST"
          },
          "metadata": {
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -315,7 +306,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -360,7 +351,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s33_perfeval_rules",
+            "eula:s33_perfeval",
             "mfa"
          ],
          "teammateEligibility": "all",
@@ -383,7 +374,6 @@
             "EU": "EUCOMPTEST"
          },
          "metadata": {
-            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1920,
