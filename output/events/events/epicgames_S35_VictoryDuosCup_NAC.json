@@ -101,7 +101,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S35_VictoryDuoCup_Event1Round2_NAC"
+            "S35_VictoryDuosCup_Event1Round2_NAC"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [

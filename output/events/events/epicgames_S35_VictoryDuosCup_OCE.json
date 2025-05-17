@@ -99,7 +99,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S35_VictoryDuoCup_Event1Round2_OCE"
+            "S35_VictoryDuosCup_Event1Round2_OCE"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
