@@ -40,6 +40,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eeula:s35_duosconsole_rules",
             "mfa",
             [
                "currentRanking:ranked-figment-nobuild:6",
@@ -49,8 +50,7 @@
                "currentRanking:ranked_blastberry_build:6",
                "currentRanking:ranked_blastberry_nobuild:6"
             ],
-            "adps:g-a81a33a3b9a7",
-            "eula:s35_duosconsole_rules"
+            "adps:g-a81a33a3b9a7"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -85,9 +85,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eeula:s35_duosconsole_rules",
             "mfa",
-            "adps:g-a81a33a3b9a7",
-            "eula:s35_duosconsole_rules"
+            "adps:g-a81a33a3b9a7"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -124,6 +124,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eeula:s35_duosconsole_rules",
             "mfa",
             [
                "currentRanking:ranked-figment-nobuild:6",
@@ -133,8 +134,7 @@
                "currentRanking:ranked_blastberry_build:6",
                "currentRanking:ranked_blastberry_nobuild:6"
             ],
-            "adps:g-a81a33a3b9a7",
-            "eula:s35_duosconsole_rules"
+            "adps:g-a81a33a3b9a7"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -169,9 +169,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eeula:s35_duosconsole_rules",
             "mfa",
-            "adps:g-a81a33a3b9a7",
-            "eula:s35_duosconsole_rules"
+            "adps:g-a81a33a3b9a7"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -208,6 +208,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eeula:s35_duosconsole_rules",
             "mfa",
             [
                "currentRanking:ranked-figment-nobuild:6",
@@ -217,8 +218,7 @@
                "currentRanking:ranked_blastberry_build:6",
                "currentRanking:ranked_blastberry_nobuild:6"
             ],
-            "adps:g-a81a33a3b9a7",
-            "eula:s35_duosconsole_rules"
+            "adps:g-a81a33a3b9a7"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -253,9 +253,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
+            "eeula:s35_duosconsole_rules",
             "mfa",
-            "adps:g-a81a33a3b9a7",
-            "eula:s35_duosconsole_rules"
+            "adps:g-a81a33a3b9a7"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
