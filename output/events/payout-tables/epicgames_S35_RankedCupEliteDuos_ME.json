@@ -20,7 +20,7 @@
       "scoringType": "rank",
       "ranks": [
          {
-            "threshold": 10,
+            "threshold": 20,
             "payouts": [
                {
                   "rewardType": "game",
