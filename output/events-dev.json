@@ -3141,6 +3141,179 @@
       },
       {
          "gameId": "Fortnite",
+         "eventId": "epicgames_S35_VictoryDuosCup_OCE",
+         "beginTime": "2025-05-17T05:00:00Z",
+         "endTime": "2025-05-31T07:00:00Z",
+         "displayDataId": "s35_duosconsole",
+         "eventGroup": "Season35_VictoryDuosCup",
+         "announcementTime": "2025-05-02T08:00:00Z",
+         "regions": [
+            "OCE"
+         ],
+         "regionMappings": {
+            "OCE": "OCECOMP"
+         },
+         "platforms": [
+            "PS4",
+            "PS5",
+            "Switch",
+            "XB1",
+            "XSX",
+            "XboxOne",
+            "XboxOneGDK"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "AccountLockType": "Window",
+            "DisqualifyType": "Window",
+            "minimumAccountLevel": 50,
+            "tournamentType": "VictoryCup"
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S35_VictoryDuosCup_Event1Round1_OCE",
+               "eventTemplateId": "EventTemplate_S35_VictoryDuosCup_Round1",
+               "countdownBeginTime": "2025-05-17T03:00:00Z",
+               "beginTime": "2025-05-17T05:00:00Z",
+               "endTime": "2025-05-17T07:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "private",
+               "additionalRequirements": [
+                  "mfa",
+                  [
+                     "currentRanking:ranked-figment-nobuild:6",
+                     "currentRanking:ranked-figment-build:6",
+                     "currentRanking:ranked-zb:6",
+                     "currentRanking:ranked-br:6",
+                     "currentRanking:ranked_blastberry_build:6",
+                     "currentRanking:ranked_blastberry_nobuild:6"
+                  ],
+                  "adps:g-a81a33a3b9a7",
+                  "eula:s35_duosconsole_rules"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S35_VictoryDuosCup_Round1_DefaultLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2",
+                  "Permanent_Tournament_Ban"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            },
+            {
+               "eventWindowId": "S35_VictoryDuosCup_Event2Round1_OCE",
+               "eventTemplateId": "EventTemplate_S35_VictoryDuosCup_Round1",
+               "countdownBeginTime": "2025-05-24T03:00:00Z",
+               "beginTime": "2025-05-24T05:00:00Z",
+               "endTime": "2025-05-24T07:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "private",
+               "additionalRequirements": [
+                  "mfa",
+                  [
+                     "currentRanking:ranked-figment-nobuild:6",
+                     "currentRanking:ranked-figment-build:6",
+                     "currentRanking:ranked-zb:6",
+                     "currentRanking:ranked-br:6",
+                     "currentRanking:ranked_blastberry_build:6",
+                     "currentRanking:ranked_blastberry_nobuild:6"
+                  ],
+                  "adps:g-a81a33a3b9a7",
+                  "eula:s35_duosconsole_rules"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S35_VictoryDuosCup_Round1_DefaultLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2",
+                  "Permanent_Tournament_Ban"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            },
+            {
+               "eventWindowId": "S35_VictoryDuosCup_Event3Round1_OCE",
+               "eventTemplateId": "EventTemplate_S35_VictoryDuosCup_Round1",
+               "countdownBeginTime": "2025-05-31T03:00:00Z",
+               "beginTime": "2025-05-31T05:00:00Z",
+               "endTime": "2025-05-31T07:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "private",
+               "additionalRequirements": [
+                  "mfa",
+                  [
+                     "currentRanking:ranked-figment-nobuild:6",
+                     "currentRanking:ranked-figment-build:6",
+                     "currentRanking:ranked-zb:6",
+                     "currentRanking:ranked-br:6",
+                     "currentRanking:ranked_blastberry_build:6",
+                     "currentRanking:ranked_blastberry_nobuild:6"
+                  ],
+                  "adps:g-a81a33a3b9a7",
+                  "eula:s35_duosconsole_rules"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S35_VictoryDuosCup_Round1_DefaultLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2",
+                  "Permanent_Tournament_Ban"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s35_victoryduoscup_oce",
+            "version": 1
+         }
+      },
+      {
+         "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalBR_ME",
          "beginTime": "2025-04-21T22:00:00Z",
          "endTime": "2026-04-12T02:00:00Z",
@@ -6501,6 +6674,51 @@
       },
       {
          "gameId": "Fortnite",
+         "leaderboardDefId": "S35_VictoryDuosCup_Round1_DefaultLeaderboardDef",
+         "leaderboardStorageId": "Fortnite_GLOBAL",
+         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+         "leaderboardInstanceIdFormat": "${windowId}",
+         "maxSessionHistorySize": 10,
+         "useIndividualScores": false,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "scoringRuleSetId": "S35_ScoringRules_VictoryDuosR1",
+         "clampsToZero": true,
+         "payoutsConfig": {
+            "payoutTableIdFormat": "${windowId}",
+            "payoutDate": "windowEnd+PT32M"
+         },
+         "hidePlayerScores": false,
+         "percentileAccuracy": 1,
+         "requiredPlayerListings": []
+      },
+      {
+         "gameId": "Fortnite",
          "leaderboardDefId": "SilverLeaderboardDef",
          "leaderboardStorageId": "Fortnite_GLOBAL",
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
@@ -6890,6 +7108,63 @@
                         "value": "AthenaCharacter:character_soupgoal",
                         "quantity": 1,
                         "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_VictoryDuosCup_Event1Round1_OCE": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 250,
+                  "payouts": [
+                     {
+                        "rewardType": "token",
+                        "rewardMode": "standard",
+                        "value": "S35_VictoryDuosCup_Event1Round2_OCE",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_VictoryDuosCup_Event2Round1_OCE": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 250,
+                  "payouts": [
+                     {
+                        "rewardType": "token",
+                        "rewardMode": "standard",
+                        "value": "S35_VictoryDuosCup_Event2Round2_OCE",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_VictoryDuosCup_Event3Round1_OCE": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 250,
+                  "payouts": [
+                     {
+                        "rewardType": "token",
+                        "rewardMode": "standard",
+                        "value": "S35_VictoryDuosCup_Event3Round2_OCE",
+                        "quantity": 1,
+                        "notifiesPlayer": false
                      }
                   ]
                }
@@ -12686,6 +12961,150 @@
             ]
          }
       ],
+      "S35_ScoringRules_VictoryDuosR1": [
+         {
+            "trackedStat": "PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 11,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 12,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 13,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 14,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 16,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 17,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 18,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 19,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 21,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 22,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 23,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 24,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 2,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
       "Scoringrules_S29_Duos_Cash_Cups_R_1": [
          {
             "trackedStat": "PLACEMENT_STAT_INDEX",
@@ -14149,6 +14568,43 @@
          },
          "gameId": "Fortnite",
          "eventTemplateId": "EventTemplate_S31_PlatformReloadDuosCashCup_Round1",
+         "scoringRules": [],
+         "payoutTable": [],
+         "liveSessionAttributes": [],
+         "clampsToZero": false
+      },
+      {
+         "playlistId": "Playlist_ShowdownTournament_Duos",
+         "matchCap": 7,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "gameId": "Fortnite",
+         "eventTemplateId": "EventTemplate_S35_VictoryDuosCup_Round1",
          "scoringRules": [],
          "payoutTable": [],
          "liveSessionAttributes": [],
