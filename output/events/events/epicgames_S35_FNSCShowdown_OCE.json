@@ -1,6 +1,6 @@
 {
    "gameId": "Fortnite",
-   "eventId": "epicgames_S35_FNCSShowdown_OCE",
+   "eventId": "epicgames_S35_FNSCShowdown_OCE",
    "beginTime": "2025-05-13T08:00:00Z",
    "endTime": "2025-05-28T11:00:00Z",
    "displayDataId": "s35_fncsshowdown",
@@ -322,7 +322,7 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_epicgames_s35_fncsshowdown_oce",
+      "code": "tournament_epicgames_s35_fnscshowdown_oce",
       "version": 1
    }
 }
