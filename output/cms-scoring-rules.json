@@ -1,15 +1,6 @@
 [
    {
       "_type": "Scoring Rules Display Info",
-      "description": "{0} {0}|plural(one=Wild Apple Consumed,other=Wild Apples Consumed)",
-      "hide_score_toast_notifications": false,
-      "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
-      "poster_description": "{0} {0}|plural(one=Wild Apple Consumed,other=Wild Apples Consumed)",
-      "poster_interval_description": "{0} - {1} Ground Apples Consumed",
-      "rule_name": "ApplesConsumed"
-   },
-   {
-      "_type": "Scoring Rules Display Info",
       "description": "{0} {0}|plural(one=Bow Elimination,other=Bow Eliminations)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
@@ -207,6 +198,15 @@
       "poster_description": "{0}|plural(one=Each Vault Captured,other=Every {0} Vault Captures)",
       "poster_interval_description": "{0} - {1} Vault Captured",
       "rule_name": "EACH_MMO_Vault"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0}|plural(one=Each Apple Consumed,other=Every {0} Apples Consumed)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
+      "poster_description": "{0}|plural(one=Each Apple Consumed,other=Every {0} Apples Consumed)",
+      "poster_interval_description": "",
+      "rule_name": "EACH_Weapon_NumHealSelf-Item_Consumable_Apple"
    },
    {
       "_type": "Scoring Rules Display Info",
