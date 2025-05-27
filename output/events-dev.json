@@ -8209,7 +8209,7 @@
    "scoringRuleSets": {
       "DefaultScoringRuleSet": [
          {
-            "trackedStat": "PLACEMENT_STAT_INDEX",
+            "trackedStat": "UNREAL_PLACEMENT_STAT_INDEX",
             "matchRule": "lte",
             "rewardTiers": [
                {
@@ -8305,7 +8305,7 @@
             ]
          },
          {
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "trackedStat": "UNREAL_TEAM_ELIMS_STAT_INDEX",
             "matchRule": "gte",
             "rewardTiers": [
                {
