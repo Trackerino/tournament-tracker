@@ -3796,8 +3796,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "coreBR": "coreBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreBR_Bronze_PLACEMENT_STAT_INDEX",
+               "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Silver_PLACEMENT_STAT_INDEX",
+               "coreBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Gold_PLACEMENT_STAT_INDEX",
+               "coreBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Platinum_PLACEMENT_STAT_INDEX",
+               "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Diamond_PLACEMENT_STAT_INDEX",
+               "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Elite_PLACEMENT_STAT_INDEX",
+               "coreBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Unreal_PLACEMENT_STAT_INDEX",
+               "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -3908,8 +3925,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "coreBR": "coreBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreBR_Bronze_PLACEMENT_STAT_INDEX",
+               "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Silver_PLACEMENT_STAT_INDEX",
+               "coreBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Gold_PLACEMENT_STAT_INDEX",
+               "coreBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Platinum_PLACEMENT_STAT_INDEX",
+               "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Diamond_PLACEMENT_STAT_INDEX",
+               "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Elite_PLACEMENT_STAT_INDEX",
+               "coreBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Unreal_PLACEMENT_STAT_INDEX",
+               "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -4020,8 +4054,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "coreBR": "coreBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreBR_Bronze_PLACEMENT_STAT_INDEX",
+               "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Silver_PLACEMENT_STAT_INDEX",
+               "coreBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Gold_PLACEMENT_STAT_INDEX",
+               "coreBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Platinum_PLACEMENT_STAT_INDEX",
+               "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Diamond_PLACEMENT_STAT_INDEX",
+               "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Elite_PLACEMENT_STAT_INDEX",
+               "coreBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Unreal_PLACEMENT_STAT_INDEX",
+               "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -4132,8 +4183,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "coreBR": "coreBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreBR_Bronze_PLACEMENT_STAT_INDEX",
+               "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Silver_PLACEMENT_STAT_INDEX",
+               "coreBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Gold_PLACEMENT_STAT_INDEX",
+               "coreBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Platinum_PLACEMENT_STAT_INDEX",
+               "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Diamond_PLACEMENT_STAT_INDEX",
+               "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Elite_PLACEMENT_STAT_INDEX",
+               "coreBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Unreal_PLACEMENT_STAT_INDEX",
+               "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -4235,17 +4303,34 @@
             "ME"
          ],
          "regionMappings": {
-            "NAE": "NAC",
-            "NAW": "NAC",
-            "NAC": "NAC"
+            "NAE": "NACCOMP",
+            "NAW": "NACCOMP",
+            "NAC": "NACCOMP"
          },
          "platforms": [
             "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "figmentBR": "figmentBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentBR_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Silver_PLACEMENT_STAT_INDEX",
+               "figmentBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Gold_PLACEMENT_STAT_INDEX",
+               "figmentBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Elite_PLACEMENT_STAT_INDEX",
+               "figmentBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -4347,17 +4432,34 @@
             "NAC"
          ],
          "regionMappings": {
-            "NAE": "NAC",
-            "NAW": "NAC",
-            "NAC": "NAC"
+            "NAE": "NACCOMP",
+            "NAW": "NACCOMP",
+            "NAC": "NACCOMP"
          },
          "platforms": [
             "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "figmentBR": "figmentBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentBR_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Silver_PLACEMENT_STAT_INDEX",
+               "figmentBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Gold_PLACEMENT_STAT_INDEX",
+               "figmentBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Elite_PLACEMENT_STAT_INDEX",
+               "figmentBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -4459,17 +4561,34 @@
             "NAE"
          ],
          "regionMappings": {
-            "NAE": "NAC",
-            "NAW": "NAC",
-            "NAC": "NAC"
+            "NAE": "NACCOMP",
+            "NAW": "NACCOMP",
+            "NAC": "NACCOMP"
          },
          "platforms": [
             "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "figmentBR": "figmentBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentBR_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Silver_PLACEMENT_STAT_INDEX",
+               "figmentBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Gold_PLACEMENT_STAT_INDEX",
+               "figmentBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Elite_PLACEMENT_STAT_INDEX",
+               "figmentBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -4571,17 +4690,34 @@
             "NAW"
          ],
          "regionMappings": {
-            "NAE": "NAC",
-            "NAW": "NAC",
-            "NAC": "NAC"
+            "NAE": "NACCOMP",
+            "NAW": "NACCOMP",
+            "NAC": "NACCOMP"
          },
          "platforms": [
             "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "figmentBR": "figmentBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentBR_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Silver_PLACEMENT_STAT_INDEX",
+               "figmentBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Gold_PLACEMENT_STAT_INDEX",
+               "figmentBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Elite_PLACEMENT_STAT_INDEX",
+               "figmentBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -4692,8 +4828,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "berryBR": "berryBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryBR_Bronze_PLACEMENT_STAT_INDEX",
+               "berryBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Silver_PLACEMENT_STAT_INDEX",
+               "berryBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Gold_PLACEMENT_STAT_INDEX",
+               "berryBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Platinum_PLACEMENT_STAT_INDEX",
+               "berryBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Diamond_PLACEMENT_STAT_INDEX",
+               "berryBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Elite_PLACEMENT_STAT_INDEX",
+               "berryBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Unreal_PLACEMENT_STAT_INDEX",
+               "berryBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -4804,8 +4957,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "berryBR": "berryBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryBR_Bronze_PLACEMENT_STAT_INDEX",
+               "berryBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Silver_PLACEMENT_STAT_INDEX",
+               "berryBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Gold_PLACEMENT_STAT_INDEX",
+               "berryBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Platinum_PLACEMENT_STAT_INDEX",
+               "berryBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Diamond_PLACEMENT_STAT_INDEX",
+               "berryBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Elite_PLACEMENT_STAT_INDEX",
+               "berryBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Unreal_PLACEMENT_STAT_INDEX",
+               "berryBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -4916,8 +5086,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "berryBR": "berryBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryBR_Bronze_PLACEMENT_STAT_INDEX",
+               "berryBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Silver_PLACEMENT_STAT_INDEX",
+               "berryBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Gold_PLACEMENT_STAT_INDEX",
+               "berryBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Platinum_PLACEMENT_STAT_INDEX",
+               "berryBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Diamond_PLACEMENT_STAT_INDEX",
+               "berryBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Elite_PLACEMENT_STAT_INDEX",
+               "berryBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Unreal_PLACEMENT_STAT_INDEX",
+               "berryBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -5028,8 +5215,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "berryBR": "berryBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryBR_Bronze_PLACEMENT_STAT_INDEX",
+               "berryBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Silver_PLACEMENT_STAT_INDEX",
+               "berryBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Gold_PLACEMENT_STAT_INDEX",
+               "berryBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Platinum_PLACEMENT_STAT_INDEX",
+               "berryBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Diamond_PLACEMENT_STAT_INDEX",
+               "berryBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Elite_PLACEMENT_STAT_INDEX",
+               "berryBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Unreal_PLACEMENT_STAT_INDEX",
+               "berryBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -5140,8 +5344,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "coreZB": "coreZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreZB_Bronze_PLACEMENT_STAT_INDEX",
+               "coreZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Silver_PLACEMENT_STAT_INDEX",
+               "coreZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Gold_PLACEMENT_STAT_INDEX",
+               "coreZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Platinum_PLACEMENT_STAT_INDEX",
+               "coreZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Diamond_PLACEMENT_STAT_INDEX",
+               "coreZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Elite_PLACEMENT_STAT_INDEX",
+               "coreZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Unreal_PLACEMENT_STAT_INDEX",
+               "coreZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -5252,8 +5473,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "coreZB": "coreZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreZB_Bronze_PLACEMENT_STAT_INDEX",
+               "coreZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Silver_PLACEMENT_STAT_INDEX",
+               "coreZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Gold_PLACEMENT_STAT_INDEX",
+               "coreZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Platinum_PLACEMENT_STAT_INDEX",
+               "coreZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Diamond_PLACEMENT_STAT_INDEX",
+               "coreZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Elite_PLACEMENT_STAT_INDEX",
+               "coreZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Unreal_PLACEMENT_STAT_INDEX",
+               "coreZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -5364,8 +5602,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "coreZB": "coreZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreZB_Bronze_PLACEMENT_STAT_INDEX",
+               "coreZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Silver_PLACEMENT_STAT_INDEX",
+               "coreZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Gold_PLACEMENT_STAT_INDEX",
+               "coreZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Platinum_PLACEMENT_STAT_INDEX",
+               "coreZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Diamond_PLACEMENT_STAT_INDEX",
+               "coreZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Elite_PLACEMENT_STAT_INDEX",
+               "coreZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Unreal_PLACEMENT_STAT_INDEX",
+               "coreZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -5476,8 +5731,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "coreZB": "coreZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreZB_Bronze_PLACEMENT_STAT_INDEX",
+               "coreZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Silver_PLACEMENT_STAT_INDEX",
+               "coreZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Gold_PLACEMENT_STAT_INDEX",
+               "coreZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Platinum_PLACEMENT_STAT_INDEX",
+               "coreZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Diamond_PLACEMENT_STAT_INDEX",
+               "coreZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Elite_PLACEMENT_STAT_INDEX",
+               "coreZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Unreal_PLACEMENT_STAT_INDEX",
+               "coreZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -5579,17 +5851,34 @@
             "ME"
          ],
          "regionMappings": {
-            "NAE": "NAC",
-            "NAW": "NAC",
-            "NAC": "NAC"
+            "NAE": "NACCOMP",
+            "NAW": "NACCOMP",
+            "NAC": "NACCOMP"
          },
          "platforms": [
             "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "figmentZB": "figmentZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentZB_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Silver_PLACEMENT_STAT_INDEX",
+               "figmentZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Gold_PLACEMENT_STAT_INDEX",
+               "figmentZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Elite_PLACEMENT_STAT_INDEX",
+               "figmentZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -5691,17 +5980,34 @@
             "NAC"
          ],
          "regionMappings": {
-            "NAE": "NAC",
-            "NAW": "NAC",
-            "NAC": "NAC"
+            "NAE": "NACCOMP",
+            "NAW": "NACCOMP",
+            "NAC": "NACCOMP"
          },
          "platforms": [
             "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "figmentZB": "figmentZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentZB_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Silver_PLACEMENT_STAT_INDEX",
+               "figmentZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Gold_PLACEMENT_STAT_INDEX",
+               "figmentZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Elite_PLACEMENT_STAT_INDEX",
+               "figmentZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -5803,17 +6109,34 @@
             "NAE"
          ],
          "regionMappings": {
-            "NAE": "NAC",
-            "NAW": "NAC",
-            "NAC": "NAC"
+            "NAE": "NACCOMP",
+            "NAW": "NACCOMP",
+            "NAC": "NACCOMP"
          },
          "platforms": [
             "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "figmentZB": "figmentZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentZB_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Silver_PLACEMENT_STAT_INDEX",
+               "figmentZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Gold_PLACEMENT_STAT_INDEX",
+               "figmentZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Elite_PLACEMENT_STAT_INDEX",
+               "figmentZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -5915,17 +6238,34 @@
             "NAW"
          ],
          "regionMappings": {
-            "NAE": "NAC",
-            "NAW": "NAC",
-            "NAC": "NAC"
+            "NAE": "NACCOMP",
+            "NAW": "NACCOMP",
+            "NAC": "NACCOMP"
          },
          "platforms": [
             "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "figmentZB": "figmentZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentZB_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Silver_PLACEMENT_STAT_INDEX",
+               "figmentZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Gold_PLACEMENT_STAT_INDEX",
+               "figmentZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Elite_PLACEMENT_STAT_INDEX",
+               "figmentZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -6036,8 +6376,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "berryZB": "berryZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryZB_Bronze_PLACEMENT_STAT_INDEX",
+               "berryZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Silver_PLACEMENT_STAT_INDEX",
+               "berryZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Gold_PLACEMENT_STAT_INDEX",
+               "berryZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Platinum_PLACEMENT_STAT_INDEX",
+               "berryZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Diamond_PLACEMENT_STAT_INDEX",
+               "berryZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Elite_PLACEMENT_STAT_INDEX",
+               "berryZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Unreal_PLACEMENT_STAT_INDEX",
+               "berryZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -6148,8 +6505,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "berryZB": "berryZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryZB_Bronze_PLACEMENT_STAT_INDEX",
+               "berryZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Silver_PLACEMENT_STAT_INDEX",
+               "berryZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Gold_PLACEMENT_STAT_INDEX",
+               "berryZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Platinum_PLACEMENT_STAT_INDEX",
+               "berryZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Diamond_PLACEMENT_STAT_INDEX",
+               "berryZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Elite_PLACEMENT_STAT_INDEX",
+               "berryZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Unreal_PLACEMENT_STAT_INDEX",
+               "berryZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -6260,8 +6634,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "berryZB": "berryZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryZB_Bronze_PLACEMENT_STAT_INDEX",
+               "berryZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Silver_PLACEMENT_STAT_INDEX",
+               "berryZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Gold_PLACEMENT_STAT_INDEX",
+               "berryZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Platinum_PLACEMENT_STAT_INDEX",
+               "berryZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Diamond_PLACEMENT_STAT_INDEX",
+               "berryZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Elite_PLACEMENT_STAT_INDEX",
+               "berryZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Unreal_PLACEMENT_STAT_INDEX",
+               "berryZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
@@ -6372,8 +6763,25 @@
          ],
          "platformMappings": {},
          "metadata": {
+            "berryZB": "berryZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryZB_Bronze_PLACEMENT_STAT_INDEX",
+               "berryZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Silver_PLACEMENT_STAT_INDEX",
+               "berryZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Gold_PLACEMENT_STAT_INDEX",
+               "berryZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Platinum_PLACEMENT_STAT_INDEX",
+               "berryZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Diamond_PLACEMENT_STAT_INDEX",
+               "berryZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Elite_PLACEMENT_STAT_INDEX",
+               "berryZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Unreal_PLACEMENT_STAT_INDEX",
+               "berryZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {

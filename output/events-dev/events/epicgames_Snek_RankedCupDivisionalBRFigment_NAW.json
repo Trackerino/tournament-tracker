@@ -10,17 +10,34 @@
       "NAW"
    ],
    "regionMappings": {
-      "NAE": "NAC",
-      "NAW": "NAC",
-      "NAC": "NAC"
+      "NAE": "NACCOMP",
+      "NAW": "NACCOMP",
+      "NAC": "NACCOMP"
    },
    "platforms": [
       "Windows"
    ],
    "platformMappings": {},
    "metadata": {
+      "figmentBR": "figmentBR",
       "minimumAccountLevel": 15,
-      "tournamentType": "RankedCup"
+      "tournamentType": "RankedCup",
+      "TrackedStats": [
+         "figmentBR_Bronze_PLACEMENT_STAT_INDEX",
+         "figmentBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+         "figmentBR_Silver_PLACEMENT_STAT_INDEX",
+         "figmentBR_Silver_TEAM_ELIMS_STAT_INDEX",
+         "figmentBR_Gold_PLACEMENT_STAT_INDEX",
+         "figmentBR_Gold_TEAM_ELIMS_STAT_INDEX",
+         "figmentBR_Platinum_PLACEMENT_STAT_INDEX",
+         "figmentBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+         "figmentBR_Diamond_PLACEMENT_STAT_INDEX",
+         "figmentBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+         "figmentBR_Elite_PLACEMENT_STAT_INDEX",
+         "figmentBR_Elite_TEAM_ELIMS_STAT_INDEX",
+         "figmentBR_Unreal_PLACEMENT_STAT_INDEX",
+         "figmentBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+      ]
    },
    "eventWindows": [
       {

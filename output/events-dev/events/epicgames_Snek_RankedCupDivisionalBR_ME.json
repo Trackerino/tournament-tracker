@@ -19,8 +19,25 @@
    ],
    "platformMappings": {},
    "metadata": {
+      "coreBR": "coreBR",
       "minimumAccountLevel": 15,
-      "tournamentType": "RankedCup"
+      "tournamentType": "RankedCup",
+      "TrackedStats": [
+         "coreBR_Bronze_PLACEMENT_STAT_INDEX",
+         "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+         "coreBR_Silver_PLACEMENT_STAT_INDEX",
+         "coreBR_Silver_TEAM_ELIMS_STAT_INDEX",
+         "coreBR_Gold_PLACEMENT_STAT_INDEX",
+         "coreBR_Gold_TEAM_ELIMS_STAT_INDEX",
+         "coreBR_Platinum_PLACEMENT_STAT_INDEX",
+         "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+         "coreBR_Diamond_PLACEMENT_STAT_INDEX",
+         "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+         "coreBR_Elite_PLACEMENT_STAT_INDEX",
+         "coreBR_Elite_TEAM_ELIMS_STAT_INDEX",
+         "coreBR_Unreal_PLACEMENT_STAT_INDEX",
+         "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+      ]
    },
    "eventWindows": [
       {

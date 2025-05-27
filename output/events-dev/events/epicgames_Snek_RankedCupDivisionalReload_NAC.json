@@ -19,8 +19,25 @@
    ],
    "platformMappings": {},
    "metadata": {
+      "berryBR": "berryBR",
       "minimumAccountLevel": 15,
-      "tournamentType": "RankedCup"
+      "tournamentType": "RankedCup",
+      "TrackedStats": [
+         "berryBR_Bronze_PLACEMENT_STAT_INDEX",
+         "berryBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+         "berryBR_Silver_PLACEMENT_STAT_INDEX",
+         "berryBR_Silver_TEAM_ELIMS_STAT_INDEX",
+         "berryBR_Gold_PLACEMENT_STAT_INDEX",
+         "berryBR_Gold_TEAM_ELIMS_STAT_INDEX",
+         "berryBR_Platinum_PLACEMENT_STAT_INDEX",
+         "berryBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+         "berryBR_Diamond_PLACEMENT_STAT_INDEX",
+         "berryBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+         "berryBR_Elite_PLACEMENT_STAT_INDEX",
+         "berryBR_Elite_TEAM_ELIMS_STAT_INDEX",
+         "berryBR_Unreal_PLACEMENT_STAT_INDEX",
+         "berryBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+      ]
    },
    "eventWindows": [
       {
