@@ -7302,7 +7302,7 @@
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
          "leaderboardInstanceIdFormat": "${windowId}",
          "maxSessionHistorySize": 21,
-         "useIndividualScores": false,
+         "useIndividualScores": true,
          "tiebreakerFormula": {
             "basePointsBits": 11,
             "components": [
