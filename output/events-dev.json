@@ -7052,29 +7052,29 @@
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
          "leaderboardInstanceIdFormat": "${windowId}_Champion",
          "maxSessionHistorySize": 21,
-         "useIndividualScores": false,
+         "useIndividualScores": true,
          "tiebreakerFormula": {
             "basePointsBits": 11,
             "components": [
                {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "trackedStat": "CHAMPION_VICTORY_ROYALE_STAT",
                   "bits": 4,
                   "aggregation": "sum"
                },
                {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "trackedStat": "CHAMPION_TEAM_ELIMS_STAT_INDEX",
                   "bits": 12,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "trackedStat": "CHAMPION_PLACEMENT_TIEBREAKER_STAT",
                   "bits": 14,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "TIME_ALIVE_STAT",
+                  "trackedStat": "CHAMPION_TIME_ALIVE_STAT",
                   "bits": 11,
                   "aggregation": "avg"
                }
@@ -7092,29 +7092,29 @@
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
          "leaderboardInstanceIdFormat": "${windowId}_Diamond",
          "maxSessionHistorySize": 21,
-         "useIndividualScores": false,
+         "useIndividualScores": true,
          "tiebreakerFormula": {
             "basePointsBits": 11,
             "components": [
                {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "trackedStat": "DIAMOND_VICTORY_ROYALE_STAT",
                   "bits": 4,
                   "aggregation": "sum"
                },
                {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "trackedStat": "DIAMOND_TEAM_ELIMS_STAT_INDEX",
                   "bits": 12,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "trackedStat": "DIAMOND_PLACEMENT_TIEBREAKER_STAT",
                   "bits": 14,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "TIME_ALIVE_STAT",
+                  "trackedStat": "DIAMOND_TIME_ALIVE_STAT",
                   "bits": 11,
                   "aggregation": "avg"
                }
