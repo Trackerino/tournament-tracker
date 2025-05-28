@@ -5,29 +5,29 @@
    "leaderboardInstanceGroupingKeyFormat": "${eventId}",
    "leaderboardInstanceIdFormat": "${windowId}_Elite",
    "maxSessionHistorySize": 21,
-   "useIndividualScores": false,
+   "useIndividualScores": true,
    "tiebreakerFormula": {
       "basePointsBits": 11,
       "components": [
          {
-            "trackedStat": "VICTORY_ROYALE_STAT",
+            "trackedStat": "ELITE_VICTORY_ROYALE_STAT",
             "bits": 4,
             "aggregation": "sum"
          },
          {
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "trackedStat": "ELITE_TEAM_ELIMS_STAT_INDEX",
             "bits": 12,
             "aggregation": "avg",
             "multiplier": 100
          },
          {
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+            "trackedStat": "ELITE_PLACEMENT_TIEBREAKER_STAT",
             "bits": 14,
             "aggregation": "avg",
             "multiplier": 100
          },
          {
-            "trackedStat": "TIME_ALIVE_STAT",
+            "trackedStat": "ELITE_TIME_ALIVE_STAT",
             "bits": 11,
             "aggregation": "avg"
          }

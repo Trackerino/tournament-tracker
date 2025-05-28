@@ -5,29 +5,29 @@
    "leaderboardInstanceGroupingKeyFormat": "${eventId}",
    "leaderboardInstanceIdFormat": "${windowId}_Silver",
    "maxSessionHistorySize": 21,
-   "useIndividualScores": false,
+   "useIndividualScores": true,
    "tiebreakerFormula": {
       "basePointsBits": 11,
       "components": [
          {
-            "trackedStat": "VICTORY_ROYALE_STAT",
+            "trackedStat": "SILVER_VICTORY_ROYALE_STAT",
             "bits": 4,
             "aggregation": "sum"
          },
          {
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "trackedStat": "SILVER_TEAM_ELIMS_STAT_INDEX",
             "bits": 12,
             "aggregation": "avg",
             "multiplier": 100
          },
          {
-            "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+            "trackedStat": "SILVER_PLACEMENT_TIEBREAKER_STAT",
             "bits": 14,
             "aggregation": "avg",
             "multiplier": 100
          },
          {
-            "trackedStat": "TIME_ALIVE_STAT",
+            "trackedStat": "SILVER_TIME_ALIVE_STAT",
             "bits": 11,
             "aggregation": "avg"
          }
@@ -35,10 +35,6 @@
    },
    "scoringRuleSetId": "${windowId}_Silver",
    "clampsToZero": true,
-   "payoutsConfig": {
-      "payoutTableIdFormat": "${windowId}_Silver",
-      "payoutDate": "instantiation+PT0S"
-   },
    "hidePlayerScores": false,
    "requiredPlayerListings": []
 }

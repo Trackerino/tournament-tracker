@@ -7012,29 +7012,29 @@
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
          "leaderboardInstanceIdFormat": "${windowId}_Bronze",
          "maxSessionHistorySize": 21,
-         "useIndividualScores": false,
+         "useIndividualScores": true,
          "tiebreakerFormula": {
             "basePointsBits": 11,
             "components": [
                {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "trackedStat": "BRONZE_VICTORY_ROYALE_STAT",
                   "bits": 4,
                   "aggregation": "sum"
                },
                {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "trackedStat": "BRONZE_TEAM_ELIMS_STAT_INDEX",
                   "bits": 12,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "trackedStat": "BRONZE_PLACEMENT_TIEBREAKER_STAT",
                   "bits": 14,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "TIME_ALIVE_STAT",
+                  "trackedStat": "BRONZE_TIME_ALIVE_STAT",
                   "bits": 11,
                   "aggregation": "avg"
                }
@@ -7042,10 +7042,6 @@
          },
          "scoringRuleSetId": "${windowId}_Bronze",
          "clampsToZero": true,
-         "payoutsConfig": {
-            "payoutTableIdFormat": "Payout_Bronze",
-            "payoutDate": "instantiation+PT0S"
-         },
          "hidePlayerScores": false,
          "requiredPlayerListings": []
       },
@@ -7136,29 +7132,29 @@
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
          "leaderboardInstanceIdFormat": "${windowId}_Elite",
          "maxSessionHistorySize": 21,
-         "useIndividualScores": false,
+         "useIndividualScores": true,
          "tiebreakerFormula": {
             "basePointsBits": 11,
             "components": [
                {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "trackedStat": "ELITE_VICTORY_ROYALE_STAT",
                   "bits": 4,
                   "aggregation": "sum"
                },
                {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "trackedStat": "ELITE_TEAM_ELIMS_STAT_INDEX",
                   "bits": 12,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "trackedStat": "ELITE_PLACEMENT_TIEBREAKER_STAT",
                   "bits": 14,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "TIME_ALIVE_STAT",
+                  "trackedStat": "ELITE_TIME_ALIVE_STAT",
                   "bits": 11,
                   "aggregation": "avg"
                }
@@ -7176,29 +7172,29 @@
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
          "leaderboardInstanceIdFormat": "${windowId}_Gold",
          "maxSessionHistorySize": 21,
-         "useIndividualScores": false,
+         "useIndividualScores": true,
          "tiebreakerFormula": {
             "basePointsBits": 11,
             "components": [
                {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "trackedStat": "GOLD_VICTORY_ROYALE_STAT",
                   "bits": 4,
                   "aggregation": "sum"
                },
                {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "trackedStat": "GOLD_TEAM_ELIMS_STAT_INDEX",
                   "bits": 12,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "trackedStat": "GOLD_PLACEMENT_TIEBREAKER_STAT",
                   "bits": 14,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "TIME_ALIVE_STAT",
+                  "trackedStat": "GOLD_TIME_ALIVE_STAT",
                   "bits": 11,
                   "aggregation": "avg"
                }
@@ -7342,29 +7338,29 @@
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
          "leaderboardInstanceIdFormat": "${windowId}_Platinum",
          "maxSessionHistorySize": 21,
-         "useIndividualScores": false,
+         "useIndividualScores": true,
          "tiebreakerFormula": {
             "basePointsBits": 11,
             "components": [
                {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "trackedStat": "PLATINUM_VICTORY_ROYALE_STAT",
                   "bits": 4,
                   "aggregation": "sum"
                },
                {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "trackedStat": "PLATINUM_TEAM_ELIMS_STAT_INDEX",
                   "bits": 12,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "trackedStat": "PLATINUM_PLACEMENT_TIEBREAKER_STAT",
                   "bits": 14,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "TIME_ALIVE_STAT",
+                  "trackedStat": "PLATINUM_TIME_ALIVE_STAT",
                   "bits": 11,
                   "aggregation": "avg"
                }
@@ -7682,29 +7678,29 @@
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
          "leaderboardInstanceIdFormat": "${windowId}_Silver",
          "maxSessionHistorySize": 21,
-         "useIndividualScores": false,
+         "useIndividualScores": true,
          "tiebreakerFormula": {
             "basePointsBits": 11,
             "components": [
                {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "trackedStat": "SILVER_VICTORY_ROYALE_STAT",
                   "bits": 4,
                   "aggregation": "sum"
                },
                {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "trackedStat": "SILVER_TEAM_ELIMS_STAT_INDEX",
                   "bits": 12,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "trackedStat": "SILVER_PLACEMENT_TIEBREAKER_STAT",
                   "bits": 14,
                   "aggregation": "avg",
                   "multiplier": 100
                },
                {
-                  "trackedStat": "TIME_ALIVE_STAT",
+                  "trackedStat": "SILVER_TIME_ALIVE_STAT",
                   "bits": 11,
                   "aggregation": "avg"
                }
@@ -7712,10 +7708,6 @@
          },
          "scoringRuleSetId": "${windowId}_Silver",
          "clampsToZero": true,
-         "payoutsConfig": {
-            "payoutTableIdFormat": "${windowId}_Silver",
-            "payoutDate": "instantiation+PT0S"
-         },
          "hidePlayerScores": false,
          "requiredPlayerListings": []
       },
@@ -7803,39 +7795,6 @@
       }
    ],
    "payoutTables": {
-      "Payout_Bronze": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 10,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaPickaxe:pickaxe_agentxkoi",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_a_036_athena_commando_f_obsidian",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaBackpack:backpack_auricvine",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
       "S29RankedCupPayout": [
          {
             "scoringType": "value",
@@ -7887,204 +7846,6 @@
                         "value": "AthenaGlider:umbrella_rankedhalt",
                         "quantity": 1,
                         "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S35_ranked_blastberry_build_Silver": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 10,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaBackpack:bid_734_wickedduckmale",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_377_athena_commando_f_darkshaman",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_soupgoal",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S35_ranked_blastberry_nobuild_Silver": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 10,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaBackpack:bid_734_wickedduckmale",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_377_athena_commando_f_darkshaman",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_soupgoal",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S35_ranked-br_Silver": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 10,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaBackpack:bid_734_wickedduckmale",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_377_athena_commando_f_darkshaman",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_soupgoal",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S35_ranked-figment-build_Silver": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 10,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaBackpack:bid_734_wickedduckmale",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_377_athena_commando_f_darkshaman",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_soupgoal",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S35_ranked-figment-nobuild_Silver": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 10,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaBackpack:bid_734_wickedduckmale",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_377_athena_commando_f_darkshaman",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_soupgoal",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S35_ranked-zb_Silver": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 10,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaBackpack:bid_734_wickedduckmale",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:cid_377_athena_commando_f_darkshaman",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     },
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_soupgoal",
-                        "quantity": 1,
-                        "notifiesPlayer": true
                      }
                   ]
                }
