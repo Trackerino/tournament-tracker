@@ -35,6 +35,10 @@
    },
    "scoringRuleSetId": "${windowId}_Champion",
    "clampsToZero": true,
+   "payoutsConfig": {
+      "payoutTableIdFormat": "${windowId}_Champion",
+      "payoutDate": "windowEnd+PT0S"
+   },
    "hidePlayerScores": false,
    "requiredPlayerListings": []
 }

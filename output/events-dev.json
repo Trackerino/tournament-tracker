@@ -5778,6 +5778,10 @@
          },
          "scoringRuleSetId": "${windowId}_Champion",
          "clampsToZero": true,
+         "payoutsConfig": {
+            "payoutTableIdFormat": "${windowId}_Champion",
+            "payoutDate": "windowEnd+PT0S"
+         },
          "hidePlayerScores": false,
          "requiredPlayerListings": []
       },
@@ -5858,6 +5862,10 @@
          },
          "scoringRuleSetId": "${windowId}_Elite",
          "clampsToZero": true,
+         "payoutsConfig": {
+            "payoutTableIdFormat": "${windowId}_Elite",
+            "payoutDate": "windowEnd+PT0S"
+         },
          "hidePlayerScores": false,
          "requiredPlayerListings": []
       },
@@ -6486,6 +6494,10 @@
          },
          "scoringRuleSetId": "${windowId}_Unreal",
          "clampsToZero": true,
+         "payoutsConfig": {
+            "payoutTableIdFormat": "${windowId}_Unreal",
+            "payoutDate": "windowEnd+PT0S"
+         },
          "hidePlayerScores": false,
          "requiredPlayerListings": []
       }
@@ -6542,6 +6554,402 @@
                         "value": "AthenaGlider:umbrella_rankedhalt",
                         "quantity": 1,
                         "notifiesPlayer": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked_blastberry_build_Champion": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_844_athena_commando_f_hightowermango",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked_blastberry_build_Elite": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_761_athena_commando_m_cyclonespace",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked_blastberry_build_Unreal": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_706_athena_commando_m_henchmanbad_34lvu",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked_blastberry_nobuild_Champion": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_a_088_athena_commando_f_hardwood_d_wphx2",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked_blastberry_nobuild_Elite": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_683_athena_commando_f_tigerfashion",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked_blastberry_nobuild_Unreal": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_606_athena_commando_f_jetski",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked-br_Champion": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_710_athena_commando_m_fishheadslurp",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked-br_Elite": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_a_424_athena_commando_m_lancelot",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked-br_Unreal": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_695_athena_commando_f_desertopscamo",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked-zb_Champion": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_742_athena_commando_m_chocobunny",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked-zb_Elite": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_a_149_athena_commando_f_pliant_c",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked-zb_Unreal": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_703_athena_commando_m_cyclone",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
                      }
                   ]
                }
