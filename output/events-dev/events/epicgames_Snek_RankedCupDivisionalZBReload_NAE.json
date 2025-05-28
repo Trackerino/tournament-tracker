@@ -19,25 +19,8 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "berryZB": "berryZB",
       "minimumAccountLevel": 15,
-      "tournamentType": "RankedCup",
-      "TrackedStats": [
-         "berryZB_Bronze_PLACEMENT_STAT_INDEX",
-         "berryZB_Bronze_TEAM_ELIMS_STAT_INDEX",
-         "berryZB_Silver_PLACEMENT_STAT_INDEX",
-         "berryZB_Silver_TEAM_ELIMS_STAT_INDEX",
-         "berryZB_Gold_PLACEMENT_STAT_INDEX",
-         "berryZB_Gold_TEAM_ELIMS_STAT_INDEX",
-         "berryZB_Platinum_PLACEMENT_STAT_INDEX",
-         "berryZB_Platinum_TEAM_ELIMS_STAT_INDEX",
-         "berryZB_Diamond_PLACEMENT_STAT_INDEX",
-         "berryZB_Diamond_TEAM_ELIMS_STAT_INDEX",
-         "berryZB_Elite_PLACEMENT_STAT_INDEX",
-         "berryZB_Elite_TEAM_ELIMS_STAT_INDEX",
-         "berryZB_Unreal_PLACEMENT_STAT_INDEX",
-         "berryZB_Unreal_TEAM_ELIMS_STAT_INDEX"
-      ]
+      "tournamentType": "RankedCup"
    },
    "eventWindows": [
       {
@@ -47,7 +30,7 @@
          "beginTime": "2025-04-21T23:00:00Z",
          "endTime": "2026-04-12T03:00:00Z",
          "round": 0,
-         "payoutDelay": 32,
+         "payoutDelay": 2,
          "isTBD": false,
          "visibility": "private",
          "additionalRequirements": [

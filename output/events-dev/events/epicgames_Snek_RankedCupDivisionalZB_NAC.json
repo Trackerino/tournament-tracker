@@ -19,25 +19,8 @@
    ],
    "platformMappings": {},
    "metadata": {
-      "coreZB": "coreZB",
       "minimumAccountLevel": 15,
-      "tournamentType": "RankedCup",
-      "TrackedStats": [
-         "coreZB_Bronze_PLACEMENT_STAT_INDEX",
-         "coreZB_Bronze_TEAM_ELIMS_STAT_INDEX",
-         "coreZB_Silver_PLACEMENT_STAT_INDEX",
-         "coreZB_Silver_TEAM_ELIMS_STAT_INDEX",
-         "coreZB_Gold_PLACEMENT_STAT_INDEX",
-         "coreZB_Gold_TEAM_ELIMS_STAT_INDEX",
-         "coreZB_Platinum_PLACEMENT_STAT_INDEX",
-         "coreZB_Platinum_TEAM_ELIMS_STAT_INDEX",
-         "coreZB_Diamond_PLACEMENT_STAT_INDEX",
-         "coreZB_Diamond_TEAM_ELIMS_STAT_INDEX",
-         "coreZB_Elite_PLACEMENT_STAT_INDEX",
-         "coreZB_Elite_TEAM_ELIMS_STAT_INDEX",
-         "coreZB_Unreal_PLACEMENT_STAT_INDEX",
-         "coreZB_Unreal_TEAM_ELIMS_STAT_INDEX"
-      ]
+      "tournamentType": "RankedCup"
    },
    "eventWindows": [
       {
@@ -47,7 +30,7 @@
          "beginTime": "2025-04-22T01:00:00Z",
          "endTime": "2026-04-12T05:00:00Z",
          "round": 0,
-         "payoutDelay": 32,
+         "payoutDelay": 2,
          "isTBD": false,
          "visibility": "private",
          "additionalRequirements": [
