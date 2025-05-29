@@ -3075,72 +3075,6 @@
       },
       {
          "gameId": "Fortnite",
-         "eventId": "epicgames_S31_PlatformReloadDuosCashCupPC_OCE",
-         "beginTime": "2024-08-30T08:00:00Z",
-         "endTime": "2025-02-27T10:00:00Z",
-         "displayDataId": "s12_fncs_week1_large",
-         "eventGroup": "Season31PlatformReloadDuosCashCupPC",
-         "announcementTime": "2024-08-16T04:00:00Z",
-         "regions": [
-            "NAE"
-         ],
-         "regionMappings": {
-            "NAE": "NAC",
-            "NAW": "NAC"
-         },
-         "platforms": [
-            "Windows"
-         ],
-         "platformMappings": {},
-         "metadata": {
-            "minimumAccountLevel": 0
-         },
-         "eventWindows": [
-            {
-               "eventWindowId": "S31_PlatformReloadDuosCashCupPC_Event1Round1_OCE",
-               "eventTemplateId": "EventTemplate_S31_PlatformReloadDuosCashCup_Round1",
-               "countdownBeginTime": "2024-08-30T06:00:00Z",
-               "beginTime": "2024-08-30T08:00:00Z",
-               "endTime": "2025-02-27T10:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "private",
-               "additionalRequirements": [
-                  "eula:crab",
-                  "mfa",
-                  "QAAnalyst"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeaderboardDef_S31_Platform_Reload_Duos_Cash_Cup_R_1",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "RoundType": "Qualifiers",
-                  "ServerReplays": true
-               }
-            }
-         ],
-         "link": {
-            "type": "br:tournament",
-            "code": "tournament_epicgames_s31_platformreloadduoscashcuppc_oce",
-            "version": 1
-         }
-      },
-      {
-         "gameId": "Fortnite",
          "eventId": "epicgames_S35_RankedCupBSGSolo_OCE",
          "beginTime": "2025-05-14T08:00:02Z",
          "endTime": "2025-05-28T12:00:02Z",
@@ -5952,51 +5886,6 @@
       },
       {
          "gameId": "Fortnite",
-         "leaderboardDefId": "LeaderboardDef_S31_Platform_Reload_Duos_Cash_Cup_R_1",
-         "leaderboardStorageId": "Fortnite_GLOBAL",
-         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-         "leaderboardInstanceIdFormat": "${windowId}",
-         "maxSessionHistorySize": 10,
-         "useIndividualScores": false,
-         "tiebreakerFormula": {
-            "basePointsBits": 11,
-            "components": [
-               {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
-                  "bits": 4,
-                  "aggregation": "sum"
-               },
-               {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-                  "bits": 13,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
-                  "bits": 14,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "TIME_ALIVE_STAT",
-                  "bits": 11,
-                  "aggregation": "avg"
-               }
-            ]
-         },
-         "scoringRuleSetId": "Scoringrules_S31_Platform_Reload_Duos_Cash_Cup",
-         "clampsToZero": true,
-         "payoutsConfig": {
-            "payoutTableIdFormat": "${windowId}",
-            "payoutDate": "windowEnd+PT32M"
-         },
-         "hidePlayerScores": false,
-         "percentileAccuracy": 1,
-         "requiredPlayerListings": []
-      },
-      {
-         "gameId": "Fortnite",
          "leaderboardDefId": "MainLeaderboardDef",
          "leaderboardStorageId": "Fortnite_GLOBAL",
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
@@ -6514,25 +6403,6 @@
                         "rewardType": "game",
                         "rewardMode": "standard",
                         "value": "AthenaGlider:umbrella_rankedpantheon",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S31_PlatformReloadDuosCashCupPC_Event1Round1_OCE": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 20,
-                  "payouts": [
-                     {
-                        "rewardType": "token",
-                        "rewardMode": "standard",
-                        "value": "S31_PlatformReloadDuosCashCupPC_Event1_Round2_OCE",
                         "quantity": 1,
                         "notifiesPlayer": true
                      }
@@ -11582,80 +11452,6 @@
             ]
          }
       ],
-      "Scoringrules_S31_Platform_Reload_Duos_Cash_Cup": [
-         {
-            "trackedStat": "PLACEMENT_STAT_INDEX",
-            "matchRule": "lte",
-            "rewardTiers": [
-               {
-                  "keyValue": 1,
-                  "pointsEarned": 5,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 2,
-                  "pointsEarned": 2,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 3,
-                  "pointsEarned": 2,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 4,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 5,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 6,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 7,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 8,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 9,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               }
-            ]
-         },
-         {
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-            "matchRule": "gte",
-            "rewardTiers": [
-               {
-                  "keyValue": 4,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 8,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 12,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               }
-            ]
-         }
-      ],
       "test_RC_tournament_solo": [
          {
             "trackedStat": "PLACEMENT_STAT_INDEX",
@@ -12790,43 +12586,6 @@
          },
          "gameId": "Fortnite",
          "eventTemplateId": "EventTemplate_S30_RankedCupSquads",
-         "scoringRules": [],
-         "payoutTable": [],
-         "liveSessionAttributes": [],
-         "clampsToZero": false
-      },
-      {
-         "playlistId": "Playlist_ShowdownTournament_PunchBerryDuo_NoFill",
-         "matchCap": 7,
-         "tiebreakerFormula": {
-            "basePointsBits": 11,
-            "components": [
-               {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
-                  "bits": 4,
-                  "aggregation": "sum"
-               },
-               {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-                  "bits": 13,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
-                  "bits": 14,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "TIME_ALIVE_STAT",
-                  "bits": 11,
-                  "aggregation": "avg"
-               }
-            ]
-         },
-         "gameId": "Fortnite",
-         "eventTemplateId": "EventTemplate_S31_PlatformReloadDuosCashCup_Round1",
          "scoringRules": [],
          "payoutTable": [],
          "liveSessionAttributes": [],
