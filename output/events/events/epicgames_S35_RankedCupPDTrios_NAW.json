@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S35_RankedCupPDTrios_NAW",
    "beginTime": "2025-05-19T01:00:01Z",
-   "endTime": "2025-06-02T05:00:01Z",
+   "endTime": "2025-05-26T05:00:01Z",
    "displayDataId": "s35_ranked_trios_pd",
    "eventGroup": "Season35_RankedCupPDTrios",
    "announcementTime": "2025-05-02T08:00:01Z",
@@ -86,45 +86,6 @@
          "countdownBeginTime": "2025-05-25T23:00:01Z",
          "beginTime": "2025-05-26T01:00:01Z",
          "endTime": "2025-05-26T05:00:01Z",
-         "round": 0,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "currentRankingMax:ranked-br:14",
-            "mfa",
-            "eula:s35_ranked_rules",
-            "currentRanking:ranked-br:9"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S35_RankedCupTriosPD_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S35_RankedCupPDTrios_Event3_NAW",
-         "eventTemplateId": "EventTemplate_S35_RankedCupTrios",
-         "countdownBeginTime": "2025-06-01T23:00:01Z",
-         "beginTime": "2025-06-02T01:00:01Z",
-         "endTime": "2025-06-02T05:00:01Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
