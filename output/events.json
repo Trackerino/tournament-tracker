@@ -79586,17 +79586,11 @@
          "clampsToZero": true,
          "payoutsConfig": {
             "payoutTableIdFormat": "PayoutTable_Acrocanthosaurus_Day1",
-            "payoutDate": "windowEnd+PT72H",
-            "ledgerKeyFormat": "${eventId}"
+            "payoutDate": "windowEnd+PT72H"
          },
          "hidePlayerScores": false,
          "percentileAccuracy": 1,
-         "requiredPlayerListings": [],
-         "metadata": {
-            "payout": {
-               "alg": "v2"
-            }
-         }
+         "requiredPlayerListings": []
       },
       {
          "gameId": "Fortnite",
