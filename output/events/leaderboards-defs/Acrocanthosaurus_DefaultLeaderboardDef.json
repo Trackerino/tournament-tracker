@@ -37,9 +37,15 @@
    "clampsToZero": true,
    "payoutsConfig": {
       "payoutTableIdFormat": "PayoutTable_Acrocanthosaurus_Day1",
-      "payoutDate": "windowEnd+PT72H"
+      "payoutDate": "windowEnd+PT72H",
+      "ledgerKeyFormat": "${eventId}"
    },
    "hidePlayerScores": false,
    "percentileAccuracy": 1,
-   "requiredPlayerListings": []
+   "requiredPlayerListings": [],
+   "metadata": {
+      "payout": {
+         "alg": "v2"
+      }
+   }
 }
