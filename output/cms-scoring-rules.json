@@ -104,6 +104,24 @@
    },
    {
       "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Bronze Elimination,other=Bronze Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Bronze Elimination,other=Bronze Eliminations)",
+      "poster_interval_description": "{0} - {1} Bronze Eliminations",
+      "rule_name": "EACH_BRONZE_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Champion Elimination,other=Champion Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Champion Elimination,other=Champion Eliminations)",
+      "poster_interval_description": "{0} - {1} Champion Eliminations",
+      "rule_name": "EACH_CHAMPION_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
       "description": "{0}|plural(one=AI Elimination,other=Every {0} AI Eliminations)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
@@ -174,6 +192,33 @@
    },
    {
       "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Diamond Elimination,other=Diamond Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Diamond Elimination,other=Diamond Eliminations)",
+      "poster_interval_description": "{0} - {1} Diamond Eliminations",
+      "rule_name": "EACH_DIAMOND_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Elite Elimination,other=Elite Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Elite Elimination,other=Elite Eliminations)",
+      "poster_interval_description": "{0} - {1} Elite Eliminations",
+      "rule_name": "EACH_ELITE_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Gold Elimination,other=Gold Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Gold Elimination,other=Gold Eliminations)",
+      "poster_interval_description": "{0} - {1} Gold Eliminations",
+      "rule_name": "EACH_GOLD_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
       "description": "{0}|plural(one=Each Cache Captured, other=Every {0} Cache Captures)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
@@ -198,6 +243,33 @@
       "poster_description": "{0}|plural(one=Each Vault Captured,other=Every {0} Vault Captures)",
       "poster_interval_description": "{0} - {1} Vault Captured",
       "rule_name": "EACH_MMO_Vault"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Platinum Elimination,other=Platinum Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Platinum Elimination,other=Platinum Eliminations)",
+      "poster_interval_description": "{0} - {1} Platinum Eliminations",
+      "rule_name": "EACH_PLATINUM_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Silver Elimination,other=Silver Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Silver Elimination,other=Silver Eliminations)",
+      "poster_interval_description": "{0} - {1} Silver Eliminations",
+      "rule_name": "EACH_SILVER_TEAM_ELIMS_STAT_INDEX"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Unreal Elimination,other=Unreal Eliminations)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
+      "poster_description": "{0} {0}|plural(one=Unreal Elimination,other=Unreal Eliminations)",
+      "poster_interval_description": "{0} - {1} Unreal Eliminations",
+      "rule_name": "EACH_UNREAL_TEAM_ELIMS_STAT_INDEX"
    },
    {
       "_type": "Scoring Rules Display Info",
