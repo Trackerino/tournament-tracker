@@ -15,7 +15,10 @@
       "NAC": "NACCOMP"
    },
    "platforms": [
-      "Windows"
+      "Android",
+      "PS5",
+      "Windows",
+      "iOS"
    ],
    "platformMappings": {},
    "metadata": {

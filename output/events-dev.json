@@ -3576,7 +3576,10 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -3688,7 +3691,10 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -3800,7 +3806,10 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -3912,7 +3921,10 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -4024,7 +4036,10 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -4136,7 +4151,10 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -4248,7 +4266,10 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -4360,7 +4381,10 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -4472,7 +4496,10 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -4584,7 +4611,10 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -4696,7 +4726,10 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -4808,7 +4841,10 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -4920,7 +4956,10 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -5032,7 +5071,10 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -5144,7 +5186,10 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
@@ -5256,7 +5301,10 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Windows"
+            "Android",
+            "PS5",
+            "Windows",
+            "iOS"
          ],
          "platformMappings": {},
          "metadata": {
