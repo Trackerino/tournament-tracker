@@ -1,11 +1,11 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_Snek_RankedCupDivisionalZBReload_NAE",
-   "beginTime": "2025-06-01T23:00:00Z",
+   "beginTime": "2025-06-02T23:00:00Z",
    "endTime": "2026-04-12T03:00:00Z",
    "displayDataId": "s34_rankedcup_elite_solo",
    "eventGroup": "TEST",
-   "announcementTime": "2024-10-01T11:00:00Z",
+   "announcementTime": "2025-06-01T11:00:00Z",
    "regions": [
       "NAE"
    ],
@@ -27,7 +27,7 @@
          "eventWindowId": "S35_ranked_blastberry_nobuild",
          "eventTemplateId": "EventTemplate_SunflowerDuo_NoFill",
          "countdownBeginTime": "2025-05-20T21:00:00Z",
-         "beginTime": "2025-06-01T23:00:00Z",
+         "beginTime": "2025-06-02T23:00:00Z",
          "endTime": "2026-04-12T03:00:00Z",
          "round": 0,
          "payoutDelay": 2,
@@ -37,7 +37,7 @@
             "mfa",
             "eula:crab",
             "adps:g-a81a33a3b9a7",
-            "currentRanking:ranked_blastberry_nobuild:1"
+            "currentRanking:ranked_blastberry_nobuild:0"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],

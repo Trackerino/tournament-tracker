@@ -3562,11 +3562,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalBR_ME",
-         "beginTime": "2025-06-01T22:00:00Z",
+         "beginTime": "2025-06-02T22:00:00Z",
          "endTime": "2026-04-12T02:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T10:00:00Z",
+         "announcementTime": "2025-06-01T10:00:00Z",
          "regions": [
             "ME"
          ],
@@ -3588,7 +3588,7 @@
                "eventWindowId": "S35_ranked-br",
                "eventTemplateId": "EventTemplate_RC_Solo",
                "countdownBeginTime": "2025-05-20T20:00:00Z",
-               "beginTime": "2025-06-01T22:00:00Z",
+               "beginTime": "2025-06-02T22:00:00Z",
                "endTime": "2026-04-12T02:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -3598,7 +3598,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked-br:1"
+                  "currentRanking:ranked-br:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -3674,11 +3674,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalBR_NAC",
-         "beginTime": "2025-06-02T01:00:00Z",
+         "beginTime": "2025-06-03T01:00:00Z",
          "endTime": "2026-04-12T05:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T13:00:00Z",
+         "announcementTime": "2025-06-01T13:00:00Z",
          "regions": [
             "NAC"
          ],
@@ -3700,7 +3700,7 @@
                "eventWindowId": "S35_ranked-br",
                "eventTemplateId": "EventTemplate_RC_Solo",
                "countdownBeginTime": "2025-05-20T23:00:00Z",
-               "beginTime": "2025-06-02T01:00:00Z",
+               "beginTime": "2025-06-03T01:00:00Z",
                "endTime": "2026-04-12T05:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -3710,7 +3710,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked-br:1"
+                  "currentRanking:ranked-br:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -3786,11 +3786,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalBR_NAE",
-         "beginTime": "2025-06-01T23:00:00Z",
+         "beginTime": "2025-06-02T23:00:00Z",
          "endTime": "2026-04-12T03:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T11:00:00Z",
+         "announcementTime": "2025-06-01T11:00:00Z",
          "regions": [
             "NAE"
          ],
@@ -3812,7 +3812,7 @@
                "eventWindowId": "S35_ranked-br",
                "eventTemplateId": "EventTemplate_RC_Solo",
                "countdownBeginTime": "2025-05-20T21:00:00Z",
-               "beginTime": "2025-06-01T23:00:00Z",
+               "beginTime": "2025-06-02T23:00:00Z",
                "endTime": "2026-04-12T03:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -3822,7 +3822,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked-br:1"
+                  "currentRanking:ranked-br:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -3898,11 +3898,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalBR_NAW",
-         "beginTime": "2025-06-02T02:00:00Z",
+         "beginTime": "2025-06-03T02:00:00Z",
          "endTime": "2026-04-12T06:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T14:00:00Z",
+         "announcementTime": "2025-06-01T14:00:00Z",
          "regions": [
             "NAW"
          ],
@@ -3924,7 +3924,7 @@
                "eventWindowId": "S35_ranked-br",
                "eventTemplateId": "EventTemplate_RC_Solo",
                "countdownBeginTime": "2025-05-21T00:00:00Z",
-               "beginTime": "2025-06-02T02:00:00Z",
+               "beginTime": "2025-06-03T02:00:00Z",
                "endTime": "2026-04-12T06:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -3934,7 +3934,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked-br:1"
+                  "currentRanking:ranked-br:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -4010,11 +4010,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalReload_ME",
-         "beginTime": "2025-06-01T22:00:00Z",
+         "beginTime": "2025-06-02T22:00:00Z",
          "endTime": "2026-04-12T02:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T10:00:00Z",
+         "announcementTime": "2025-06-01T10:00:00Z",
          "regions": [
             "ME"
          ],
@@ -4036,7 +4036,7 @@
                "eventWindowId": "S35_ranked_blastberry_build",
                "eventTemplateId": "EventTemplate_BlastBerryDuo_Fill",
                "countdownBeginTime": "2025-05-20T20:00:00Z",
-               "beginTime": "2025-06-01T22:00:00Z",
+               "beginTime": "2025-06-02T22:00:00Z",
                "endTime": "2026-04-12T02:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -4046,7 +4046,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked_blastberry_build:1"
+                  "currentRanking:ranked_blastberry_build:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -4122,11 +4122,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalReload_NAC",
-         "beginTime": "2025-06-02T01:00:00Z",
+         "beginTime": "2025-06-03T01:00:00Z",
          "endTime": "2026-04-12T05:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T13:00:00Z",
+         "announcementTime": "2025-06-01T13:00:00Z",
          "regions": [
             "NAC"
          ],
@@ -4148,7 +4148,7 @@
                "eventWindowId": "S35_ranked_blastberry_build",
                "eventTemplateId": "EventTemplate_BlastBerryDuo_Fill",
                "countdownBeginTime": "2025-05-20T23:00:00Z",
-               "beginTime": "2025-06-02T01:00:00Z",
+               "beginTime": "2025-06-03T01:00:00Z",
                "endTime": "2026-04-12T05:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -4158,7 +4158,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked_blastberry_build:1"
+                  "currentRanking:ranked_blastberry_build:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -4234,11 +4234,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalReload_NAE",
-         "beginTime": "2025-06-01T23:00:00Z",
+         "beginTime": "2025-06-02T23:00:00Z",
          "endTime": "2026-04-12T03:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T11:00:00Z",
+         "announcementTime": "2025-06-01T11:00:00Z",
          "regions": [
             "NAE"
          ],
@@ -4260,7 +4260,7 @@
                "eventWindowId": "S35_ranked_blastberry_build",
                "eventTemplateId": "EventTemplate_BlastBerryDuo_Fill",
                "countdownBeginTime": "2025-05-20T21:00:00Z",
-               "beginTime": "2025-06-01T23:00:00Z",
+               "beginTime": "2025-06-02T23:00:00Z",
                "endTime": "2026-04-12T03:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -4270,7 +4270,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked_blastberry_build:1"
+                  "currentRanking:ranked_blastberry_build:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -4346,11 +4346,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalReload_NAW",
-         "beginTime": "2025-06-02T02:00:00Z",
+         "beginTime": "2025-06-03T02:00:00Z",
          "endTime": "2026-04-12T06:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T14:00:00Z",
+         "announcementTime": "2025-06-01T14:00:00Z",
          "regions": [
             "NAW"
          ],
@@ -4372,7 +4372,7 @@
                "eventWindowId": "S35_ranked_blastberry_build",
                "eventTemplateId": "EventTemplate_BlastBerryDuo_Fill",
                "countdownBeginTime": "2025-05-21T00:00:00Z",
-               "beginTime": "2025-06-02T02:00:00Z",
+               "beginTime": "2025-06-03T02:00:00Z",
                "endTime": "2026-04-12T06:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -4382,7 +4382,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked_blastberry_build:1"
+                  "currentRanking:ranked_blastberry_build:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -4458,11 +4458,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZB_ME",
-         "beginTime": "2025-06-01T22:00:00Z",
+         "beginTime": "2025-06-02T22:00:00Z",
          "endTime": "2026-04-12T02:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T10:00:00Z",
+         "announcementTime": "2025-06-01T10:00:00Z",
          "regions": [
             "ME"
          ],
@@ -4484,7 +4484,7 @@
                "eventWindowId": "S35_ranked-zb",
                "eventTemplateId": "EventTemplate_NoBuildBR_RC_Duos",
                "countdownBeginTime": "2025-05-20T20:00:00Z",
-               "beginTime": "2025-06-01T22:00:00Z",
+               "beginTime": "2025-06-02T22:00:00Z",
                "endTime": "2026-04-12T02:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -4494,7 +4494,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked-zb:1"
+                  "currentRanking:ranked-zb:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -4570,11 +4570,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZB_NAC",
-         "beginTime": "2025-06-02T01:00:00Z",
+         "beginTime": "2025-06-03T01:00:00Z",
          "endTime": "2026-04-12T05:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T13:00:00Z",
+         "announcementTime": "2025-06-01T13:00:00Z",
          "regions": [
             "NAC"
          ],
@@ -4596,7 +4596,7 @@
                "eventWindowId": "S35_ranked-zb",
                "eventTemplateId": "EventTemplate_NoBuildBR_RC_Duos",
                "countdownBeginTime": "2025-05-20T23:00:00Z",
-               "beginTime": "2025-06-02T01:00:00Z",
+               "beginTime": "2025-06-03T01:00:00Z",
                "endTime": "2026-04-12T05:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -4606,7 +4606,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked-zb:1"
+                  "currentRanking:ranked-zb:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -4682,11 +4682,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZB_NAE",
-         "beginTime": "2025-06-01T23:00:00Z",
+         "beginTime": "2025-06-02T23:00:00Z",
          "endTime": "2026-04-12T03:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T11:00:00Z",
+         "announcementTime": "2025-06-01T11:00:00Z",
          "regions": [
             "NAE"
          ],
@@ -4708,7 +4708,7 @@
                "eventWindowId": "S35_ranked-zb",
                "eventTemplateId": "EventTemplate_NoBuildBR_RC_Duos",
                "countdownBeginTime": "2025-05-20T21:00:00Z",
-               "beginTime": "2025-06-01T23:00:00Z",
+               "beginTime": "2025-06-02T23:00:00Z",
                "endTime": "2026-04-12T03:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -4718,7 +4718,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked-zb:1"
+                  "currentRanking:ranked-zb:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -4794,11 +4794,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZB_NAW",
-         "beginTime": "2025-06-02T02:00:00Z",
+         "beginTime": "2025-06-03T02:00:00Z",
          "endTime": "2026-04-12T06:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T14:00:00Z",
+         "announcementTime": "2025-06-01T14:00:00Z",
          "regions": [
             "NAW"
          ],
@@ -4820,7 +4820,7 @@
                "eventWindowId": "S35_ranked-zb",
                "eventTemplateId": "EventTemplate_NoBuildBR_RC_Duos",
                "countdownBeginTime": "2025-05-21T00:00:00Z",
-               "beginTime": "2025-06-02T02:00:00Z",
+               "beginTime": "2025-06-03T02:00:00Z",
                "endTime": "2026-04-12T06:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -4830,7 +4830,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked-zb:1"
+                  "currentRanking:ranked-zb:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -4906,11 +4906,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZBReload_ME",
-         "beginTime": "2025-06-01T22:00:00Z",
+         "beginTime": "2025-06-02T22:00:00Z",
          "endTime": "2026-04-12T02:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T10:00:00Z",
+         "announcementTime": "2025-06-01T10:00:00Z",
          "regions": [
             "ME"
          ],
@@ -4932,7 +4932,7 @@
                "eventWindowId": "S35_ranked_blastberry_nobuild",
                "eventTemplateId": "EventTemplate_SunflowerDuo_NoFill",
                "countdownBeginTime": "2025-05-20T20:00:00Z",
-               "beginTime": "2025-06-01T22:00:00Z",
+               "beginTime": "2025-06-02T22:00:00Z",
                "endTime": "2026-04-12T02:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -4942,7 +4942,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked_blastberry_nobuild:1"
+                  "currentRanking:ranked_blastberry_nobuild:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -5018,11 +5018,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZBReload_NAC",
-         "beginTime": "2025-06-02T01:00:00Z",
+         "beginTime": "2025-06-03T01:00:00Z",
          "endTime": "2026-04-12T05:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T13:00:00Z",
+         "announcementTime": "2025-06-01T13:00:00Z",
          "regions": [
             "NAC"
          ],
@@ -5044,7 +5044,7 @@
                "eventWindowId": "S35_ranked_blastberry_nobuild",
                "eventTemplateId": "EventTemplate_SunflowerDuo_NoFill",
                "countdownBeginTime": "2025-05-20T23:00:00Z",
-               "beginTime": "2025-06-02T01:00:00Z",
+               "beginTime": "2025-06-03T01:00:00Z",
                "endTime": "2026-04-12T05:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -5054,7 +5054,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked_blastberry_nobuild:1"
+                  "currentRanking:ranked_blastberry_nobuild:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -5130,11 +5130,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZBReload_NAE",
-         "beginTime": "2025-06-01T23:00:00Z",
+         "beginTime": "2025-06-02T23:00:00Z",
          "endTime": "2026-04-12T03:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T11:00:00Z",
+         "announcementTime": "2025-06-01T11:00:00Z",
          "regions": [
             "NAE"
          ],
@@ -5156,7 +5156,7 @@
                "eventWindowId": "S35_ranked_blastberry_nobuild",
                "eventTemplateId": "EventTemplate_SunflowerDuo_NoFill",
                "countdownBeginTime": "2025-05-20T21:00:00Z",
-               "beginTime": "2025-06-01T23:00:00Z",
+               "beginTime": "2025-06-02T23:00:00Z",
                "endTime": "2026-04-12T03:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -5166,7 +5166,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked_blastberry_nobuild:1"
+                  "currentRanking:ranked_blastberry_nobuild:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
@@ -5242,11 +5242,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZBReload_NAW",
-         "beginTime": "2025-06-02T02:00:00Z",
+         "beginTime": "2025-06-03T02:00:00Z",
          "endTime": "2026-04-12T06:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2024-10-01T14:00:00Z",
+         "announcementTime": "2025-06-01T14:00:00Z",
          "regions": [
             "NAW"
          ],
@@ -5268,7 +5268,7 @@
                "eventWindowId": "S35_ranked_blastberry_nobuild",
                "eventTemplateId": "EventTemplate_SunflowerDuo_NoFill",
                "countdownBeginTime": "2025-05-21T00:00:00Z",
-               "beginTime": "2025-06-02T02:00:00Z",
+               "beginTime": "2025-06-03T02:00:00Z",
                "endTime": "2026-04-12T06:00:00Z",
                "round": 0,
                "payoutDelay": 2,
@@ -5278,7 +5278,7 @@
                   "mfa",
                   "eula:crab",
                   "adps:g-a81a33a3b9a7",
-                  "currentRanking:ranked_blastberry_nobuild:1"
+                  "currentRanking:ranked_blastberry_nobuild:0"
                ],
                "teammateEligibility": "all",
                "blackoutPeriods": [],
