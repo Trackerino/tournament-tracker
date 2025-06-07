@@ -12,26 +12,7 @@
    "regionMappings": {
       "EU": "EUCOMP"
    },
-   "platforms": [
-      "Android",
-      "GFN",
-      "GFNMobile",
-      "Helios",
-      "HeliosMobile",
-      "IOS",
-      "Luna",
-      "LunaMobile",
-      "Mac",
-      "PS4",
-      "PS5",
-      "Switch",
-      "Windows",
-      "XCloud",
-      "XCloudMobile",
-      "XSX",
-      "XboxOne",
-      "XboxOneGDK"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
@@ -135,9 +116,9 @@
       {
          "eventWindowId": "S35_PerformanceEvaluation_Event2Round1_EU",
          "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round1",
-         "countdownBeginTime": "2025-05-16T15:00:00Z",
-         "beginTime": "2025-05-16T17:00:00Z",
-         "endTime": "2025-05-16T19:30:00Z",
+         "countdownBeginTime": "2025-05-16T16:00:00Z",
+         "beginTime": "2025-05-16T18:00:00Z",
+         "endTime": "2025-05-16T20:15:00Z",
          "round": 2,
          "payoutDelay": 32,
          "isTBD": false,
@@ -180,9 +161,9 @@
       {
          "eventWindowId": "S35_PerformanceEvaluation_Event2Round2_EU",
          "eventTemplateId": "EventTemplate_S35_PerformanceEvaluation_Round2",
-         "countdownBeginTime": "2025-05-16T18:30:00Z",
-         "beginTime": "2025-05-16T20:30:00Z",
-         "endTime": "2025-05-16T22:30:00Z",
+         "countdownBeginTime": "2025-05-16T19:00:00Z",
+         "beginTime": "2025-05-16T21:00:00Z",
+         "endTime": "2025-05-16T23:00:00Z",
          "round": 2,
          "payoutDelay": 32,
          "isTBD": false,
