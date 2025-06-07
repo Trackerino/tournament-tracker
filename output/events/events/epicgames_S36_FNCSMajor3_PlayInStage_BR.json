@@ -1,0 +1,166 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S36_FNCSMajor3_PlayInStage_BR",
+   "beginTime": "2025-07-16T21:00:00Z",
+   "endTime": "2025-07-18T00:00:00Z",
+   "displayDataId": "s36_major3_playin",
+   "eventGroup": "Season36_FNCSMajor3",
+   "announcementTime": "2025-06-07T03:00:00Z",
+   "regions": [
+      "BR"
+   ],
+   "regionMappings": {
+      "BR": "BRCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Event",
+      "minimumAccountLevel": 350,
+      "RegionLockType": "Season",
+      "requireSystemFeatures": [
+         "SecureBoot",
+         "CryptoProcessor"
+      ],
+      "TeamLockType": "Week",
+      "tournamentType": "FNCS",
+      "TrackedStats": [
+         "Headshots",
+         "DamageDealt",
+         "DamageReceived",
+         "GainedHealthTimes",
+         "GainedShieldTimes",
+         "Travel_Distance_Ground"
+      ],
+      "webId": "S36_FNCSMajor3_PlayInStage"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S36_FNCSMajor3_PlayInStage_Day1_BR",
+         "eventTemplateId": "EventTemplate_S36_FNCSMajor3_PlayInStage",
+         "countdownBeginTime": "2025-07-16T19:00:00Z",
+         "beginTime": "2025-07-16T21:00:00Z",
+         "endTime": "2025-07-17T00:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_FNCSMajor3_PlayInStage_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S36_FNCSMajor3_PlayInStage_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S34_FNCS_Division1_BR"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "RegionLock_S36_FNCSMajor3_ASIA",
+            "RegionLock_S36_FNCSMajor3_EU",
+            "RegionLock_S36_FNCSMajor3_ME",
+            "RegionLock_S36_FNCSMajor3_NAC",
+            "RegionLock_S36_FNCSMajor3_NAW",
+            "RegionLock_S36_FNCSMajor3_OCE",
+            "S36_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S36_FNCSMajor3_PlayInStage_Day2_BR",
+         "eventTemplateId": "EventTemplate_S36_FNCSMajor3_PlayInStage",
+         "countdownBeginTime": "2025-07-17T19:00:00Z",
+         "beginTime": "2025-07-17T21:00:00Z",
+         "endTime": "2025-07-18T00:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_FNCSMajor3_PlayInStage_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S36_FNCSMajor3_PlayInStage_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S34_FNCS_Division1_BR"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "RegionLock_S36_FNCSMajor3_ASIA",
+            "RegionLock_S36_FNCSMajor3_EU",
+            "RegionLock_S36_FNCSMajor3_ME",
+            "RegionLock_S36_FNCSMajor3_NAC",
+            "RegionLock_S36_FNCSMajor3_NAW",
+            "RegionLock_S36_FNCSMajor3_OCE",
+            "S36_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s36_fncsmajor3_playinstage_br"
+   }
+}
