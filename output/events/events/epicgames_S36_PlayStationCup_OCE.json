@@ -1,11 +1,11 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S36_PlayStationCup_OCE",
-   "beginTime": "2025-07-24T08:30:00Z",
-   "endTime": "2025-07-26T11:30:00Z",
+   "beginTime": "2025-07-24T08:00:00Z",
+   "endTime": "2025-07-26T11:00:00Z",
    "displayDataId": "s36_playstation",
-   "eventGroup": "S36_PlayStationCup",
-   "announcementTime": "2025-06-06T22:30:00Z",
+   "eventGroup": "Season36_PlayStationCup",
+   "announcementTime": "2025-06-06T22:00:00Z",
    "regions": [
       "OCE"
    ],
@@ -28,9 +28,9 @@
       {
          "eventWindowId": "S36_PlayStationCup_Final_OCE",
          "eventTemplateId": "S36_PlayStationCup_EventTemplate_Final",
-         "countdownBeginTime": "2025-07-26T06:30:00Z",
-         "beginTime": "2025-07-26T08:30:00Z",
-         "endTime": "2025-07-26T11:30:00Z",
+         "countdownBeginTime": "2025-07-26T06:00:00Z",
+         "beginTime": "2025-07-26T08:00:00Z",
+         "endTime": "2025-07-26T11:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -70,9 +70,9 @@
       {
          "eventWindowId": "S36_PlayStationCup_Qualifier_OCE",
          "eventTemplateId": "S36_PlayStationCup_EventTemplate_Qualifier",
-         "countdownBeginTime": "2025-07-24T06:30:00Z",
-         "beginTime": "2025-07-24T08:30:00Z",
-         "endTime": "2025-07-24T11:30:00Z",
+         "countdownBeginTime": "2025-07-24T06:00:00Z",
+         "beginTime": "2025-07-24T08:00:00Z",
+         "endTime": "2025-07-24T11:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
