@@ -1,0 +1,19 @@
+[
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 33,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S36_PerformanceEvaluation_Event3Round2_NAC",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]
