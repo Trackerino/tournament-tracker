@@ -1,0 +1,161 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S36_FNCSMajor3_Final_BR",
+   "beginTime": "2025-08-02T22:00:00Z",
+   "endTime": "2025-08-04T00:30:00Z",
+   "displayDataId": "s36_major3_finals",
+   "eventGroup": "Season36_FNCSMajor3",
+   "announcementTime": "2025-06-07T03:00:00Z",
+   "regions": [
+      "BR"
+   ],
+   "regionMappings": {
+      "BR": "BRCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Week",
+      "DisqualifyType": "Event",
+      "minimumAccountLevel": 350,
+      "requireSystemFeatures": [
+         "SecureBoot",
+         "CryptoProcessor"
+      ],
+      "TeamLockType": "Week",
+      "tournamentType": "FNCS",
+      "TrackedStats": [
+         "Headshots",
+         "DamageDealt",
+         "GainedHealthTimes",
+         "GainedShieldTimes",
+         "Travel_Distance_Ground",
+         "DamageReceived"
+      ],
+      "webId": "S36_FNCSMajor3_Final"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S36_FNCSMajor3_Final_Day1_BR",
+         "eventTemplateId": "EventTemplate_S36_FNCSMajor3_Final",
+         "countdownBeginTime": "2025-08-02T20:00:00Z",
+         "beginTime": "2025-08-02T22:00:00Z",
+         "endTime": "2025-08-03T01:30:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_FNCSMajor3_FinalDay1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S36_FNCSMajor3_Final_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S36_FNCSMajor3_GrandFinalist_BR"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S36_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 2280,
+            "ServerReplays": true,
+            "SubgroupId": "GrandFinal"
+         }
+      },
+      {
+         "eventWindowId": "S36_FNCSMajor3_Final_Day2_BR",
+         "eventTemplateId": "EventTemplate_S36_FNCSMajor3_Final",
+         "countdownBeginTime": "2025-08-03T19:00:00Z",
+         "beginTime": "2025-08-03T21:00:00Z",
+         "endTime": "2025-08-04T00:30:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_fncs_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_FNCSMajor3_Final_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S36_FNCSMajor3_FinalDay2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S36_FNCSMajor3_GrandFinalist_BR"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S36_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 2280,
+            "ServerReplays": true,
+            "SubgroupId": "GrandFinal"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s36_fncsmajor3_final_br"
+   }
+}
