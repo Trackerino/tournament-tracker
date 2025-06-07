@@ -1,0 +1,259 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S36_FNCSDivisionalCup_Division3_NAW",
+   "beginTime": "2025-06-19T01:00:00Z",
+   "endTime": "2025-06-27T04:00:00Z",
+   "displayDataId": "s36_division3",
+   "eventGroup": "Season36_FNCSDivisionalCup_Division3",
+   "announcementTime": "2025-06-07T07:00:00Z",
+   "regions": [
+      "NAW"
+   ],
+   "regionMappings": {
+      "NAW": "NAWCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Event",
+      "minimumAccountLevel": 350,
+      "requireSystemFeatures": [
+         "SecureBoot",
+         "CryptoProcessor"
+      ],
+      "TeamLockType": "Week",
+      "tournamentType": "FNCS",
+      "webId": "S36_FNCSDivisionalCup_Division3"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S36_FNCSDivisionalCup_Division3_Week1Day1_NAW",
+         "eventTemplateId": "EventTemplate_S36_FNCSDivision3Cup",
+         "countdownBeginTime": "2025-06-18T23:00:00Z",
+         "beginTime": "2025-06-19T01:00:00Z",
+         "endTime": "2025-06-19T04:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "locked",
+         "additionalRequirements": [
+            "eula:s34_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S36_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S36_DivisionLock_Division1Week1_NAW",
+            "S36_DivisionLock_Division2Week1_NAW",
+            "S36_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week1_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S36_FNCSDivisionalCup_Division3_Week1Day2_NAW",
+         "eventTemplateId": "EventTemplate_S36_FNCSDivision3Cup",
+         "countdownBeginTime": "2025-06-19T23:00:00Z",
+         "beginTime": "2025-06-20T01:00:00Z",
+         "endTime": "2025-06-20T04:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "locked",
+         "additionalRequirements": [
+            "eula:s34_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-figment-nobuild:6",
+               "currentRanking:ranked-figment-build:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S36_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S36_DivisionLock_Division1Week1_NAW",
+            "S36_DivisionLock_Division2Week1_NAW",
+            "S36_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week1_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S36_FNCSDivisionalCup_Division3_Week2Day1_NAW",
+         "eventTemplateId": "EventTemplate_S36_FNCSDivision3Cup",
+         "countdownBeginTime": "2025-06-25T23:00:00Z",
+         "beginTime": "2025-06-26T01:00:00Z",
+         "endTime": "2025-06-26T04:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "locked",
+         "additionalRequirements": [
+            "eula:s34_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-figment-nobuild:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S36_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S36_DivisionLock_Division1Week1_NAW",
+            "S36_DivisionLock_Division2Week1_NAW",
+            "S36_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week2_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S36_FNCSDivisionalCup_Division3_Week2Day2_NAW",
+         "eventTemplateId": "EventTemplate_S36_FNCSDivision3Cup",
+         "countdownBeginTime": "2025-06-26T23:00:00Z",
+         "beginTime": "2025-06-27T01:00:00Z",
+         "endTime": "2025-06-27T04:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "locked",
+         "additionalRequirements": [
+            "eula:s34_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-figment-build:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S36_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S36_DivisionLock_Division1Week1_NAW",
+            "S36_DivisionLock_Division2Week1_NAW",
+            "S36_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week2_NAW"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s36_fncsdivisionalcup_division3_naw"
+   }
+}
