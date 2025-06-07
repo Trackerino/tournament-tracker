@@ -56,7 +56,7 @@
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s34_divisional_rules",
             "adps:g-a81a33a3b9a7",
@@ -106,7 +106,7 @@
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s34_divisional_rules",
             "adps:g-a81a33a3b9a7",
@@ -158,7 +158,7 @@
          "round": 2,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s34_divisional_rules",
             "adps:g-a81a33a3b9a7",
@@ -209,7 +209,7 @@
          "round": 2,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s34_divisional_rules",
             "adps:g-a81a33a3b9a7",
