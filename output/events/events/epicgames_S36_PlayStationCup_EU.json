@@ -34,7 +34,7 @@
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
-         "visibility": "locked",
+         "visibility": "public",
          "additionalRequirements": [
             "eula:s34_playstation_rules",
             "adps:g-a81a33a3b9a7",

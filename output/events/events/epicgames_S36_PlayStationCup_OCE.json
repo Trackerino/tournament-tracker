@@ -1,0 +1,113 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S36_PlayStationCup_OCE",
+   "beginTime": "2025-07-24T08:30:00Z",
+   "endTime": "2025-07-26T11:30:00Z",
+   "displayDataId": "s36_playstation",
+   "eventGroup": "S36_PlayStationCup",
+   "announcementTime": "2025-06-06T22:30:00Z",
+   "regions": [
+      "OCE"
+   ],
+   "regionMappings": {
+      "OCE": "OCECOMP"
+   },
+   "platforms": [
+      "PS4",
+      "PS5"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "tournamentType": "CashCup",
+      "webId": "S36_PlayStationCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S36_PlayStationCup_Final_OCE",
+         "eventTemplateId": "S36_PlayStationCup_EventTemplate_Final",
+         "countdownBeginTime": "2025-07-26T06:30:00Z",
+         "beginTime": "2025-07-26T08:30:00Z",
+         "endTime": "2025-07-26T11:30:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s34_playstation_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PlayStationCup_LeaderboardDef_Final",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [
+            "S36_PlayStationCup_Final_OCE"
+         ],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S36_PlayStationCup_Qualifier_OCE",
+         "eventTemplateId": "S36_PlayStationCup_EventTemplate_Qualifier",
+         "countdownBeginTime": "2025-07-24T06:30:00Z",
+         "beginTime": "2025-07-24T08:30:00Z",
+         "endTime": "2025-07-24T11:30:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s34_playstation_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PlayStationCup_LeaderboardDef_Qualifier",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s36_playstationcup_oce"
+   }
+}
