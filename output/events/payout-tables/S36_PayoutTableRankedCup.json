@@ -1,0 +1,19 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 50,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaGlider:glider_wealthlamb_fateuniversal",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]
