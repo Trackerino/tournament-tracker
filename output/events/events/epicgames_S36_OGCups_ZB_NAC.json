@@ -45,43 +45,6 @@
    },
    "eventWindows": [
       {
-         "eventWindowId": "S36_OGCup_ZB_Event1",
-         "eventTemplateId": "S36_OGCups_EventTemplate_ZB",
-         "countdownBeginTime": "2025-06-15T16:00:00Z",
-         "beginTime": "2025-06-15T18:00:00Z",
-         "endTime": "2025-06-15T21:00:00Z",
-         "round": 1,
-         "payoutDelay": 31,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "eula:s33_og_rules",
-            "adps:g-a81a33a3b9a7",
-            "mfa"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S36_OGCups_LeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
          "eventWindowId": "S36_OGCup_ZB_Event1_NAC",
          "eventTemplateId": "S36_OGCups_EventTemplate_ZB",
          "countdownBeginTime": "2025-06-15T16:00:00Z",
@@ -119,85 +82,11 @@
          }
       },
       {
-         "eventWindowId": "S36_OGCup_ZB_Event2",
-         "eventTemplateId": "S36_OGCups_EventTemplate_ZB",
-         "countdownBeginTime": "2025-06-22T16:00:00Z",
-         "beginTime": "2025-06-22T18:00:00Z",
-         "endTime": "2025-06-22T21:00:00Z",
-         "round": 1,
-         "payoutDelay": 0,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "eula:s33_og_rules",
-            "adps:g-a81a33a3b9a7",
-            "mfa"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S36_OGCups_LeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
          "eventWindowId": "S36_OGCup_ZB_Event2_NAC",
          "eventTemplateId": "S36_OGCups_EventTemplate_ZB",
          "countdownBeginTime": "2025-06-22T16:00:00Z",
          "beginTime": "2025-06-22T18:00:00Z",
          "endTime": "2025-06-22T21:00:00Z",
-         "round": 1,
-         "payoutDelay": 0,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "eula:s33_og_rules",
-            "adps:g-a81a33a3b9a7",
-            "mfa"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S36_OGCups_LeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S36_OGCup_ZB_Event3",
-         "eventTemplateId": "S36_OGCups_EventTemplate_ZB",
-         "countdownBeginTime": "2025-07-20T16:00:00Z",
-         "beginTime": "2025-07-20T18:00:00Z",
-         "endTime": "2025-07-20T21:00:00Z",
          "round": 1,
          "payoutDelay": 0,
          "isTBD": false,
@@ -267,85 +156,11 @@
          }
       },
       {
-         "eventWindowId": "S36_OGCup_ZB_Event4",
-         "eventTemplateId": "S36_OGCups_EventTemplate_ZB",
-         "countdownBeginTime": "2025-07-27T16:00:00Z",
-         "beginTime": "2025-07-27T18:00:00Z",
-         "endTime": "2025-07-27T21:00:00Z",
-         "round": 1,
-         "payoutDelay": 0,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "eula:s33_og_rules",
-            "adps:g-a81a33a3b9a7",
-            "mfa"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S36_OGCups_LeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
          "eventWindowId": "S36_OGCup_ZB_Event4_NAC",
          "eventTemplateId": "S36_OGCups_EventTemplate_ZB",
          "countdownBeginTime": "2025-07-27T16:00:00Z",
          "beginTime": "2025-07-27T18:00:00Z",
          "endTime": "2025-07-27T21:00:00Z",
-         "round": 1,
-         "payoutDelay": 0,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "eula:s33_og_rules",
-            "adps:g-a81a33a3b9a7",
-            "mfa"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S36_OGCups_LeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S36_OGCup_ZB_Event5",
-         "eventTemplateId": "S36_OGCups_EventTemplate_ZB",
-         "countdownBeginTime": "2025-08-03T16:00:00Z",
-         "beginTime": "2025-08-03T18:00:00Z",
-         "endTime": "2025-08-03T21:00:00Z",
          "round": 1,
          "payoutDelay": 0,
          "isTBD": false,
