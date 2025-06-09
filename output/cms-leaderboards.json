@@ -28,6 +28,12 @@
    },
    {
       "_type": "Leaderboard Display Info",
+      "leaderboard_id": "BronzeLeaderboardDef",
+      "leaderboard_name": "Bronze",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
       "leaderboard_id": "cumulative:epicgames_BambiRaptor_CumulativeLeaderboard",
       "leaderboard_name": "Cumulative",
       "show_details_panel": true
