@@ -5,7 +5,7 @@
    "endTime": "2025-07-30T04:00:00Z",
    "displayDataId": "s34_perfeval",
    "eventGroup": "Season36_PerfEval",
-   "announcementTime": "2025-06-07T05:00:00Z",
+   "announcementTime": "2025-06-07T23:30:00Z",
    "regions": [
       "NAC",
       "NAE"
@@ -29,6 +29,7 @@
       "Switch",
       "Switch2",
       "Windows",
+      "XB1",
       "XCloud",
       "XCloudMobile",
       "XSX",
