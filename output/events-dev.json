@@ -3819,7 +3819,7 @@
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked-br",
-               "eventTemplateId": "EventTemplate_RC_Solo",
+               "eventTemplateId": "EventTemplate_RC_Squads",
                "countdownBeginTime": "2025-05-20T21:00:00Z",
                "beginTime": "2025-06-02T23:00:00Z",
                "endTime": "2026-04-12T03:00:00Z",
@@ -3934,7 +3934,7 @@
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked-br",
-               "eventTemplateId": "EventTemplate_RC_Solo",
+               "eventTemplateId": "EventTemplate_RC_Squads",
                "countdownBeginTime": "2025-05-21T00:00:00Z",
                "beginTime": "2025-06-03T02:00:00Z",
                "endTime": "2026-04-12T06:00:00Z",
@@ -11431,6 +11431,43 @@
          },
          "gameId": "Fortnite",
          "eventTemplateId": "EventTemplate_RC_Solo",
+         "scoringRules": [],
+         "payoutTable": [],
+         "liveSessionAttributes": [],
+         "clampsToZero": false
+      },
+      {
+         "playlistId": "Playlist_ShowdownTournament_RC_Squads",
+         "matchCap": 0,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "gameId": "Fortnite",
+         "eventTemplateId": "EventTemplate_RC_Squads",
          "scoringRules": [],
          "payoutTable": [],
          "liveSessionAttributes": [],
