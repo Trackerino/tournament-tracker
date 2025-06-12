@@ -28,7 +28,7 @@
    "eventWindows": [
       {
          "eventWindowId": "S35_ranked-br",
-         "eventTemplateId": "EventTemplate_RC_Solo",
+         "eventTemplateId": "EventTemplate_RC_Squads",
          "countdownBeginTime": "2025-05-20T20:00:00Z",
          "beginTime": "2025-06-02T22:00:00Z",
          "endTime": "2026-04-12T02:00:00Z",
