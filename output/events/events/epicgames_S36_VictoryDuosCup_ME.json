@@ -43,7 +43,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -87,7 +87,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
@@ -127,7 +127,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -171,7 +171,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
@@ -211,7 +211,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -255,7 +255,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
@@ -295,7 +295,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -339,7 +339,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
@@ -379,7 +379,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -423,7 +423,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
@@ -463,7 +463,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -507,7 +507,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:TBD",
+            "eula:s36_duosconsole_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
