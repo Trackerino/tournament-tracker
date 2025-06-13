@@ -36,7 +36,6 @@
    "metadata": {
       "ACFeatureNoBans": "false",
       "minimumAccountLevel": 1,
-      "RegionLockType": "Week",
       "requireSystemFeatures": [
          "CryptoProcessor",
          "SecureBoot"
