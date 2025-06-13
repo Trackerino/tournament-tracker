@@ -1,7 +1,7 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S36_FNCSDivisionalCup_Division1_BR",
-   "beginTime": "2025-06-18T21:00:00Z",
+   "beginTime": "2025-06-17T21:00:00Z",
    "endTime": "2025-06-28T22:00:00Z",
    "displayDataId": "s36_division1",
    "eventGroup": "Season36_FNCSDivisionalCup_Division1",
@@ -51,9 +51,9 @@
       {
          "eventWindowId": "S36_FNCSDivisionalCup_Division1_Week1Day1_BR",
          "eventTemplateId": "EventTemplate_S36_FNCSDivisionalCup",
-         "countdownBeginTime": "2025-06-18T19:00:00Z",
-         "beginTime": "2025-06-18T21:00:00Z",
-         "endTime": "2025-06-19T00:00:00Z",
+         "countdownBeginTime": "2025-06-17T19:00:00Z",
+         "beginTime": "2025-06-17T21:00:00Z",
+         "endTime": "2025-06-18T00:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
