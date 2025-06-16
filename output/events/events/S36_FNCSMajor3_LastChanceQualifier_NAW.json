@@ -130,7 +130,7 @@
          "requireAnyTokens": [
             "S34_FNCS_Division1_NAW",
             "S34_FNCS_Division2_NAW",
-            "S36_FNCS_Division1_NAW"
+            "S36_FNCS_Division3_NAW"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
