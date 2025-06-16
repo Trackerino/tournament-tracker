@@ -27,7 +27,7 @@
       "scoringType": "rank",
       "ranks": [
          {
-            "threshold": 100,
+            "threshold": 300,
             "payouts": [
                {
                   "rewardType": "token",
