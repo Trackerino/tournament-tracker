@@ -76,7 +76,9 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S36_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S33_FNCS_Division1_ME",
             "S33_FNCS_Division2_ME",
@@ -127,7 +129,9 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S36_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S33_FNCS_Division1_ME",
             "S33_FNCS_Division2_ME",
@@ -178,7 +182,9 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S36_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S33_FNCS_Division1_ME",
             "S33_FNCS_Division2_ME",
@@ -229,7 +235,9 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S36_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S33_FNCS_Division1_ME",
             "S33_FNCS_Division2_ME",
