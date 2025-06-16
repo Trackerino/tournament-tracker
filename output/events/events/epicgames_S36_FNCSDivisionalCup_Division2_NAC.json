@@ -61,7 +61,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s34_divisional_rules",
+            "eula:s36_divisional_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
@@ -114,7 +114,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s34_divisional_rules",
+            "eula:s36_divisional_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
@@ -167,7 +167,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s34_divisional_rules",
+            "eula:s36_divisional_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
@@ -220,7 +220,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s34_divisional_rules",
+            "eula:s36_divisional_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
