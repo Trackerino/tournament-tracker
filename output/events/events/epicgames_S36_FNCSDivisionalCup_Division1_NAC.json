@@ -79,7 +79,8 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S34_FNCS_Division1_NAC"
+            "S34_FNCS_Division1_NAC",
+            "S36_CashCup_Qualified"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -127,7 +128,8 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S34_FNCS_Division1_NAC"
+            "S34_FNCS_Division1_NAC",
+            "S36_CashCup_Qualified"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -219,7 +221,8 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S34_FNCS_Division1_NAC"
+            "S34_FNCS_Division1_NAC",
+            "S36_CashCup_Qualified"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -267,7 +270,8 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S34_FNCS_Division1_NAC"
+            "S34_FNCS_Division1_NAC",
+            "S36_CashCup_Qualified"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
