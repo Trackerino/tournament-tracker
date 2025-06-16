@@ -75,6 +75,10 @@
             {
                "leaderboardDefId": "S36_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S36_FNCSDivisionalCup_Division2_3_Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
             }
          ],
          "canLiveSpectate": false,
@@ -127,6 +131,10 @@
             {
                "leaderboardDefId": "S36_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S36_FNCSDivisionalCup_Division2_3_Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
             }
          ],
          "canLiveSpectate": false,
@@ -178,6 +186,10 @@
             {
                "leaderboardDefId": "S36_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S36_FNCSDivisionalCup_Division2_3_Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
             }
          ],
          "canLiveSpectate": false,
@@ -229,6 +241,10 @@
             {
                "leaderboardDefId": "S36_FNCSDivisionalCup_Division2_3_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S36_FNCSDivisionalCup_Division2_3_Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
             }
          ],
          "canLiveSpectate": false,
