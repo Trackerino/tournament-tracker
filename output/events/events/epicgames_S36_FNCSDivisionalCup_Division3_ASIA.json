@@ -188,8 +188,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban",
-            "S36_DivisionLock_Division1Week1_ASIA",
-            "S36_DivisionLock_Division2Week1_ASIA",
+            "S36_DivisionLock_Division1Week2_ASIA",
+            "S36_DivisionLock_Division2Week2_ASIA",
             "S36_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
@@ -239,8 +239,8 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban",
-            "S36_DivisionLock_Division1Week1_ASIA",
-            "S36_DivisionLock_Division2Week1_ASIA",
+            "S36_DivisionLock_Division1Week2_ASIA",
+            "S36_DivisionLock_Division2Week2_ASIA",
             "S36_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
