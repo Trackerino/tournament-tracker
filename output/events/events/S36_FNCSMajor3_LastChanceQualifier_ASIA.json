@@ -70,8 +70,7 @@
          "additionalRequirements": [
             "eula:s33_fncs_rules",
             "adps:g-a81a33a3b9a7",
-            "mfa",
-            []
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -116,8 +115,7 @@
          "additionalRequirements": [
             "eula:s33_fncs_rules",
             "adps:g-a81a33a3b9a7",
-            "mfa",
-            []
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -128,9 +126,7 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S36_CashCup_Qualified"
-         ],
+         "requireAllTokens": [],
          "requireAnyTokens": [
             "S34_FNCS_Division1_ASIA",
             "S34_FNCS_Division2_ASIA",
