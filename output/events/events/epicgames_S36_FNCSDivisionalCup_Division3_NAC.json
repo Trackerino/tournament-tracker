@@ -119,8 +119,6 @@
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
-               "currentRanking:ranked-figment-nobuild:6",
-               "currentRanking:ranked-figment-build:6",
                "currentRanking:ranked-zb:6",
                "currentRanking:ranked-br:6",
                "currentRanking:ranked_blastberry_build:6",
@@ -175,7 +173,6 @@
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
-               "currentRanking:ranked-figment-nobuild:6",
                "currentRanking:ranked-zb:6",
                "currentRanking:ranked-br:6",
                "currentRanking:ranked_blastberry_build:6",
@@ -230,7 +227,6 @@
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
-               "currentRanking:ranked-figment-build:6",
                "currentRanking:ranked-zb:6",
                "currentRanking:ranked-br:6",
                "currentRanking:ranked_blastberry_build:6",
