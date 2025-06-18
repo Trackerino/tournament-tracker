@@ -8,7 +8,7 @@
                {
                   "rewardType": "game",
                   "rewardMode": "standard",
-                  "value": "AthenaGlider:glider_wealthlamb_fateuniversal",
+                  "value": "AthenaGlider:glider_wealthlambfateuniversal",
                   "quantity": 1,
                   "notifiesPlayer": false
                }
