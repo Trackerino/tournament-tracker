@@ -3561,11 +3561,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalBR_ME",
-         "beginTime": "2025-06-02T22:00:00Z",
+         "beginTime": "2025-04-21T22:00:00Z",
          "endTime": "2026-04-12T02:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T10:00:00Z",
+         "announcementTime": "2024-10-01T10:00:00Z",
          "regions": [
             "ME"
          ],
@@ -3575,25 +3575,39 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "coreBR": "coreBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreBR_Bronze_PLACEMENT_STAT_INDEX",
+               "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Silver_PLACEMENT_STAT_INDEX",
+               "coreBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Gold_PLACEMENT_STAT_INDEX",
+               "coreBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Platinum_PLACEMENT_STAT_INDEX",
+               "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Diamond_PLACEMENT_STAT_INDEX",
+               "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Elite_PLACEMENT_STAT_INDEX",
+               "coreBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Unreal_PLACEMENT_STAT_INDEX",
+               "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked-br",
-               "eventTemplateId": "EventTemplate_RC_Squads",
-               "countdownBeginTime": "2025-05-20T20:00:00Z",
-               "beginTime": "2025-06-02T22:00:00Z",
+               "eventTemplateId": "EventTemplate_RC_Solo",
+               "countdownBeginTime": "2024-10-06T20:00:00Z",
+               "beginTime": "2025-04-21T22:00:00Z",
                "endTime": "2026-04-12T02:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -3649,20 +3663,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -3676,11 +3679,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalBR_NAC",
-         "beginTime": "2025-06-03T01:00:00Z",
+         "beginTime": "2025-04-22T01:00:00Z",
          "endTime": "2026-04-12T05:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T13:00:00Z",
+         "announcementTime": "2024-10-01T13:00:00Z",
          "regions": [
             "NAC"
          ],
@@ -3690,25 +3693,39 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "coreBR": "coreBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreBR_Bronze_PLACEMENT_STAT_INDEX",
+               "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Silver_PLACEMENT_STAT_INDEX",
+               "coreBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Gold_PLACEMENT_STAT_INDEX",
+               "coreBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Platinum_PLACEMENT_STAT_INDEX",
+               "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Diamond_PLACEMENT_STAT_INDEX",
+               "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Elite_PLACEMENT_STAT_INDEX",
+               "coreBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Unreal_PLACEMENT_STAT_INDEX",
+               "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked-br",
-               "eventTemplateId": "EventTemplate_RC_Squads",
-               "countdownBeginTime": "2025-05-20T23:00:00Z",
-               "beginTime": "2025-06-03T01:00:00Z",
+               "eventTemplateId": "EventTemplate_RC_Solo",
+               "countdownBeginTime": "2024-10-06T23:00:00Z",
+               "beginTime": "2025-04-22T01:00:00Z",
                "endTime": "2026-04-12T05:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -3764,20 +3781,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -3791,11 +3797,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalBR_NAE",
-         "beginTime": "2025-06-02T23:00:00Z",
+         "beginTime": "2025-04-21T23:00:00Z",
          "endTime": "2026-04-12T03:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T11:00:00Z",
+         "announcementTime": "2024-10-01T11:00:00Z",
          "regions": [
             "NAE"
          ],
@@ -3805,25 +3811,39 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "coreBR": "coreBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreBR_Bronze_PLACEMENT_STAT_INDEX",
+               "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Silver_PLACEMENT_STAT_INDEX",
+               "coreBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Gold_PLACEMENT_STAT_INDEX",
+               "coreBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Platinum_PLACEMENT_STAT_INDEX",
+               "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Diamond_PLACEMENT_STAT_INDEX",
+               "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Elite_PLACEMENT_STAT_INDEX",
+               "coreBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Unreal_PLACEMENT_STAT_INDEX",
+               "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked-br",
-               "eventTemplateId": "EventTemplate_RC_Squads",
-               "countdownBeginTime": "2025-05-20T21:00:00Z",
-               "beginTime": "2025-06-02T23:00:00Z",
+               "eventTemplateId": "EventTemplate_RC_Solo",
+               "countdownBeginTime": "2024-10-06T21:00:00Z",
+               "beginTime": "2025-04-21T23:00:00Z",
                "endTime": "2026-04-12T03:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -3879,20 +3899,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -3906,11 +3915,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalBR_NAW",
-         "beginTime": "2025-06-03T02:00:00Z",
+         "beginTime": "2025-04-22T02:00:00Z",
          "endTime": "2026-04-12T06:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T14:00:00Z",
+         "announcementTime": "2024-10-01T14:00:00Z",
          "regions": [
             "NAW"
          ],
@@ -3920,25 +3929,39 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "coreBR": "coreBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreBR_Bronze_PLACEMENT_STAT_INDEX",
+               "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Silver_PLACEMENT_STAT_INDEX",
+               "coreBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Gold_PLACEMENT_STAT_INDEX",
+               "coreBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Platinum_PLACEMENT_STAT_INDEX",
+               "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Diamond_PLACEMENT_STAT_INDEX",
+               "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Elite_PLACEMENT_STAT_INDEX",
+               "coreBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreBR_Unreal_PLACEMENT_STAT_INDEX",
+               "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked-br",
-               "eventTemplateId": "EventTemplate_RC_Squads",
-               "countdownBeginTime": "2025-05-21T00:00:00Z",
-               "beginTime": "2025-06-03T02:00:00Z",
+               "eventTemplateId": "EventTemplate_RC_Solo",
+               "countdownBeginTime": "2024-10-07T00:00:00Z",
+               "beginTime": "2025-04-22T02:00:00Z",
                "endTime": "2026-04-12T06:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -3994,20 +4017,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4020,12 +4032,12 @@
       },
       {
          "gameId": "Fortnite",
-         "eventId": "epicgames_Snek_RankedCupDivisionalReload_ME",
-         "beginTime": "2025-06-02T22:00:00Z",
+         "eventId": "epicgames_Snek_RankedCupDivisionalBRFigment_ME",
+         "beginTime": "2025-04-21T22:00:00Z",
          "endTime": "2026-04-12T02:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T10:00:00Z",
+         "announcementTime": "2024-10-01T10:00:00Z",
          "regions": [
             "ME"
          ],
@@ -4035,25 +4047,511 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "figmentBR": "figmentBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentBR_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Silver_PLACEMENT_STAT_INDEX",
+               "figmentBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Gold_PLACEMENT_STAT_INDEX",
+               "figmentBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Elite_PLACEMENT_STAT_INDEX",
+               "figmentBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S35_ranked-figment-build",
+               "eventTemplateId": "EventTemplate_FigmentNoBuildSolo",
+               "countdownBeginTime": "2024-10-06T20:00:00Z",
+               "beginTime": "2025-04-21T22:00:00Z",
+               "endTime": "2026-04-12T02:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "private",
+               "additionalRequirements": [
+                  "mfa",
+                  "eula:crab",
+                  "adps:g-a81a33a3b9a7",
+                  "currentRanking:ranked-figment-build:0"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "MainLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "GoldLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "PlatinumLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "DiamondLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "EliteLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "ChampionLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "hideScoreLocationsIndexes": [
+                     null
+                  ],
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_snek_rankedcupdivisionalbrfigment_me"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_Snek_RankedCupDivisionalBRFigment_NAC",
+         "beginTime": "2025-04-22T01:00:00Z",
+         "endTime": "2026-04-12T05:00:00Z",
+         "displayDataId": "s34_rankedcup_elite_solo",
+         "eventGroup": "TEST",
+         "announcementTime": "2024-10-01T13:00:00Z",
+         "regions": [
+            "NAC"
+         ],
+         "regionMappings": {
+            "NAE": "NAC",
+            "NAW": "NAC",
+            "NAC": "NAC"
+         },
+         "platforms": [
+            "Windows"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "figmentBR": "figmentBR",
+            "minimumAccountLevel": 15,
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentBR_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Silver_PLACEMENT_STAT_INDEX",
+               "figmentBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Gold_PLACEMENT_STAT_INDEX",
+               "figmentBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Elite_PLACEMENT_STAT_INDEX",
+               "figmentBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S35_ranked-figment-build",
+               "eventTemplateId": "EventTemplate_FigmentNoBuildSolo",
+               "countdownBeginTime": "2024-10-06T23:00:00Z",
+               "beginTime": "2025-04-22T01:00:00Z",
+               "endTime": "2026-04-12T05:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "private",
+               "additionalRequirements": [
+                  "mfa",
+                  "eula:crab",
+                  "adps:g-a81a33a3b9a7",
+                  "currentRanking:ranked-figment-build:0"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "MainLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "GoldLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "PlatinumLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "DiamondLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "EliteLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "ChampionLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "hideScoreLocationsIndexes": [
+                     null
+                  ],
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_snek_rankedcupdivisionalbrfigment_nac"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_Snek_RankedCupDivisionalBRFigment_NAE",
+         "beginTime": "2025-04-21T23:00:00Z",
+         "endTime": "2026-04-12T03:00:00Z",
+         "displayDataId": "s34_rankedcup_elite_solo",
+         "eventGroup": "TEST",
+         "announcementTime": "2024-10-01T11:00:00Z",
+         "regions": [
+            "NAE"
+         ],
+         "regionMappings": {
+            "NAE": "NAC",
+            "NAW": "NAC",
+            "NAC": "NAC"
+         },
+         "platforms": [
+            "Windows"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "figmentBR": "figmentBR",
+            "minimumAccountLevel": 15,
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentBR_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Silver_PLACEMENT_STAT_INDEX",
+               "figmentBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Gold_PLACEMENT_STAT_INDEX",
+               "figmentBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Elite_PLACEMENT_STAT_INDEX",
+               "figmentBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S35_ranked-figment-build",
+               "eventTemplateId": "EventTemplate_FigmentNoBuildSolo",
+               "countdownBeginTime": "2024-10-06T21:00:00Z",
+               "beginTime": "2025-04-21T23:00:00Z",
+               "endTime": "2026-04-12T03:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "private",
+               "additionalRequirements": [
+                  "mfa",
+                  "eula:crab",
+                  "adps:g-a81a33a3b9a7",
+                  "currentRanking:ranked-figment-build:0"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "MainLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "GoldLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "PlatinumLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "DiamondLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "EliteLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "ChampionLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "hideScoreLocationsIndexes": [
+                     null
+                  ],
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_snek_rankedcupdivisionalbrfigment_nae"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_Snek_RankedCupDivisionalBRFigment_NAW",
+         "beginTime": "2025-04-22T02:00:00Z",
+         "endTime": "2026-04-12T06:00:00Z",
+         "displayDataId": "s34_rankedcup_elite_solo",
+         "eventGroup": "TEST",
+         "announcementTime": "2024-10-01T14:00:00Z",
+         "regions": [
+            "NAW"
+         ],
+         "regionMappings": {
+            "NAE": "NAC",
+            "NAW": "NAC",
+            "NAC": "NAC"
+         },
+         "platforms": [
+            "Windows"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "figmentBR": "figmentBR",
+            "minimumAccountLevel": 15,
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentBR_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Silver_PLACEMENT_STAT_INDEX",
+               "figmentBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Gold_PLACEMENT_STAT_INDEX",
+               "figmentBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Elite_PLACEMENT_STAT_INDEX",
+               "figmentBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentBR_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S35_ranked-figment-build",
+               "eventTemplateId": "EventTemplate_FigmentNoBuildSolo",
+               "countdownBeginTime": "2024-10-07T00:00:00Z",
+               "beginTime": "2025-04-22T02:00:00Z",
+               "endTime": "2026-04-12T06:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "private",
+               "additionalRequirements": [
+                  "mfa",
+                  "eula:crab",
+                  "adps:g-a81a33a3b9a7",
+                  "currentRanking:ranked-figment-build:0"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "MainLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "GoldLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "PlatinumLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "DiamondLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "EliteLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "ChampionLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "hideScoreLocationsIndexes": [
+                     null
+                  ],
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_snek_rankedcupdivisionalbrfigment_naw"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_Snek_RankedCupDivisionalReload_ME",
+         "beginTime": "2025-04-21T22:00:00Z",
+         "endTime": "2026-04-12T02:00:00Z",
+         "displayDataId": "s34_rankedcup_elite_solo",
+         "eventGroup": "TEST",
+         "announcementTime": "2024-10-01T10:00:00Z",
+         "regions": [
+            "ME"
+         ],
+         "regionMappings": {
+            "NAE": "NAC",
+            "NAW": "NAC",
+            "NAC": "NAC"
+         },
+         "platforms": [
+            "Windows"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "berryBR": "berryBR",
+            "minimumAccountLevel": 15,
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryBR_Bronze_PLACEMENT_STAT_INDEX",
+               "berryBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Silver_PLACEMENT_STAT_INDEX",
+               "berryBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Gold_PLACEMENT_STAT_INDEX",
+               "berryBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Platinum_PLACEMENT_STAT_INDEX",
+               "berryBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Diamond_PLACEMENT_STAT_INDEX",
+               "berryBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Elite_PLACEMENT_STAT_INDEX",
+               "berryBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Unreal_PLACEMENT_STAT_INDEX",
+               "berryBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked_blastberry_build",
                "eventTemplateId": "EventTemplate_BlastBerryDuo_Fill",
-               "countdownBeginTime": "2025-05-20T20:00:00Z",
-               "beginTime": "2025-06-02T22:00:00Z",
+               "countdownBeginTime": "2024-10-06T20:00:00Z",
+               "beginTime": "2025-04-21T22:00:00Z",
                "endTime": "2026-04-12T02:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -4109,20 +4607,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4136,11 +4623,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalReload_NAC",
-         "beginTime": "2025-06-03T01:00:00Z",
+         "beginTime": "2025-04-22T01:00:00Z",
          "endTime": "2026-04-12T05:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T13:00:00Z",
+         "announcementTime": "2024-10-01T13:00:00Z",
          "regions": [
             "NAC"
          ],
@@ -4150,25 +4637,39 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "berryBR": "berryBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryBR_Bronze_PLACEMENT_STAT_INDEX",
+               "berryBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Silver_PLACEMENT_STAT_INDEX",
+               "berryBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Gold_PLACEMENT_STAT_INDEX",
+               "berryBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Platinum_PLACEMENT_STAT_INDEX",
+               "berryBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Diamond_PLACEMENT_STAT_INDEX",
+               "berryBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Elite_PLACEMENT_STAT_INDEX",
+               "berryBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Unreal_PLACEMENT_STAT_INDEX",
+               "berryBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked_blastberry_build",
                "eventTemplateId": "EventTemplate_BlastBerryDuo_Fill",
-               "countdownBeginTime": "2025-05-20T23:00:00Z",
-               "beginTime": "2025-06-03T01:00:00Z",
+               "countdownBeginTime": "2024-10-06T23:00:00Z",
+               "beginTime": "2025-04-22T01:00:00Z",
                "endTime": "2026-04-12T05:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -4224,20 +4725,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4251,11 +4741,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalReload_NAE",
-         "beginTime": "2025-06-02T23:00:00Z",
+         "beginTime": "2025-04-21T23:00:00Z",
          "endTime": "2026-04-12T03:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T11:00:00Z",
+         "announcementTime": "2024-10-01T11:00:00Z",
          "regions": [
             "NAE"
          ],
@@ -4265,25 +4755,39 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "berryBR": "berryBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryBR_Bronze_PLACEMENT_STAT_INDEX",
+               "berryBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Silver_PLACEMENT_STAT_INDEX",
+               "berryBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Gold_PLACEMENT_STAT_INDEX",
+               "berryBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Platinum_PLACEMENT_STAT_INDEX",
+               "berryBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Diamond_PLACEMENT_STAT_INDEX",
+               "berryBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Elite_PLACEMENT_STAT_INDEX",
+               "berryBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Unreal_PLACEMENT_STAT_INDEX",
+               "berryBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked_blastberry_build",
                "eventTemplateId": "EventTemplate_BlastBerryDuo_Fill",
-               "countdownBeginTime": "2025-05-20T21:00:00Z",
-               "beginTime": "2025-06-02T23:00:00Z",
+               "countdownBeginTime": "2024-10-06T21:00:00Z",
+               "beginTime": "2025-04-21T23:00:00Z",
                "endTime": "2026-04-12T03:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -4339,20 +4843,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4366,11 +4859,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalReload_NAW",
-         "beginTime": "2025-06-03T02:00:00Z",
+         "beginTime": "2025-04-22T02:00:00Z",
          "endTime": "2026-04-12T06:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T14:00:00Z",
+         "announcementTime": "2024-10-01T14:00:00Z",
          "regions": [
             "NAW"
          ],
@@ -4380,25 +4873,39 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "berryBR": "berryBR",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryBR_Bronze_PLACEMENT_STAT_INDEX",
+               "berryBR_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Silver_PLACEMENT_STAT_INDEX",
+               "berryBR_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Gold_PLACEMENT_STAT_INDEX",
+               "berryBR_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Platinum_PLACEMENT_STAT_INDEX",
+               "berryBR_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Diamond_PLACEMENT_STAT_INDEX",
+               "berryBR_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Elite_PLACEMENT_STAT_INDEX",
+               "berryBR_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryBR_Unreal_PLACEMENT_STAT_INDEX",
+               "berryBR_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked_blastberry_build",
                "eventTemplateId": "EventTemplate_BlastBerryDuo_Fill",
-               "countdownBeginTime": "2025-05-21T00:00:00Z",
-               "beginTime": "2025-06-03T02:00:00Z",
+               "countdownBeginTime": "2024-10-07T00:00:00Z",
+               "beginTime": "2025-04-22T02:00:00Z",
                "endTime": "2026-04-12T06:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -4454,20 +4961,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4481,11 +4977,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZB_ME",
-         "beginTime": "2025-06-02T22:00:00Z",
+         "beginTime": "2025-04-21T22:00:00Z",
          "endTime": "2026-04-12T02:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T10:00:00Z",
+         "announcementTime": "2024-10-01T10:00:00Z",
          "regions": [
             "ME"
          ],
@@ -4495,25 +4991,39 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "coreZB": "coreZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreZB_Bronze_PLACEMENT_STAT_INDEX",
+               "coreZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Silver_PLACEMENT_STAT_INDEX",
+               "coreZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Gold_PLACEMENT_STAT_INDEX",
+               "coreZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Platinum_PLACEMENT_STAT_INDEX",
+               "coreZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Diamond_PLACEMENT_STAT_INDEX",
+               "coreZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Elite_PLACEMENT_STAT_INDEX",
+               "coreZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Unreal_PLACEMENT_STAT_INDEX",
+               "coreZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked-zb",
                "eventTemplateId": "EventTemplate_NoBuildBR_RC_Duos",
-               "countdownBeginTime": "2025-05-20T20:00:00Z",
-               "beginTime": "2025-06-02T22:00:00Z",
+               "countdownBeginTime": "2024-10-06T20:00:00Z",
+               "beginTime": "2025-04-21T22:00:00Z",
                "endTime": "2026-04-12T02:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -4569,20 +5079,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4596,11 +5095,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZB_NAC",
-         "beginTime": "2025-06-03T01:00:00Z",
+         "beginTime": "2025-04-22T01:00:00Z",
          "endTime": "2026-04-12T05:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T13:00:00Z",
+         "announcementTime": "2024-10-01T13:00:00Z",
          "regions": [
             "NAC"
          ],
@@ -4610,25 +5109,39 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "coreZB": "coreZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreZB_Bronze_PLACEMENT_STAT_INDEX",
+               "coreZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Silver_PLACEMENT_STAT_INDEX",
+               "coreZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Gold_PLACEMENT_STAT_INDEX",
+               "coreZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Platinum_PLACEMENT_STAT_INDEX",
+               "coreZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Diamond_PLACEMENT_STAT_INDEX",
+               "coreZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Elite_PLACEMENT_STAT_INDEX",
+               "coreZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Unreal_PLACEMENT_STAT_INDEX",
+               "coreZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked-zb",
                "eventTemplateId": "EventTemplate_NoBuildBR_RC_Duos",
-               "countdownBeginTime": "2025-05-20T23:00:00Z",
-               "beginTime": "2025-06-03T01:00:00Z",
+               "countdownBeginTime": "2024-10-06T23:00:00Z",
+               "beginTime": "2025-04-22T01:00:00Z",
                "endTime": "2026-04-12T05:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -4684,20 +5197,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4711,11 +5213,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZB_NAE",
-         "beginTime": "2025-06-02T23:00:00Z",
+         "beginTime": "2025-04-21T23:00:00Z",
          "endTime": "2026-04-12T03:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T11:00:00Z",
+         "announcementTime": "2024-10-01T11:00:00Z",
          "regions": [
             "NAE"
          ],
@@ -4725,25 +5227,39 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "coreZB": "coreZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreZB_Bronze_PLACEMENT_STAT_INDEX",
+               "coreZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Silver_PLACEMENT_STAT_INDEX",
+               "coreZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Gold_PLACEMENT_STAT_INDEX",
+               "coreZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Platinum_PLACEMENT_STAT_INDEX",
+               "coreZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Diamond_PLACEMENT_STAT_INDEX",
+               "coreZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Elite_PLACEMENT_STAT_INDEX",
+               "coreZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Unreal_PLACEMENT_STAT_INDEX",
+               "coreZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked-zb",
                "eventTemplateId": "EventTemplate_NoBuildBR_RC_Duos",
-               "countdownBeginTime": "2025-05-20T21:00:00Z",
-               "beginTime": "2025-06-02T23:00:00Z",
+               "countdownBeginTime": "2024-10-06T21:00:00Z",
+               "beginTime": "2025-04-21T23:00:00Z",
                "endTime": "2026-04-12T03:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -4799,20 +5315,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4826,11 +5331,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZB_NAW",
-         "beginTime": "2025-06-03T02:00:00Z",
+         "beginTime": "2025-04-22T02:00:00Z",
          "endTime": "2026-04-12T06:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T14:00:00Z",
+         "announcementTime": "2024-10-01T14:00:00Z",
          "regions": [
             "NAW"
          ],
@@ -4840,25 +5345,39 @@
             "NAC": "NACCOMP"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "coreZB": "coreZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "coreZB_Bronze_PLACEMENT_STAT_INDEX",
+               "coreZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Silver_PLACEMENT_STAT_INDEX",
+               "coreZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Gold_PLACEMENT_STAT_INDEX",
+               "coreZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Platinum_PLACEMENT_STAT_INDEX",
+               "coreZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Diamond_PLACEMENT_STAT_INDEX",
+               "coreZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Elite_PLACEMENT_STAT_INDEX",
+               "coreZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "coreZB_Unreal_PLACEMENT_STAT_INDEX",
+               "coreZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked-zb",
                "eventTemplateId": "EventTemplate_NoBuildBR_RC_Duos",
-               "countdownBeginTime": "2025-05-21T00:00:00Z",
-               "beginTime": "2025-06-03T02:00:00Z",
+               "countdownBeginTime": "2024-10-07T00:00:00Z",
+               "beginTime": "2025-04-22T02:00:00Z",
                "endTime": "2026-04-12T06:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -4914,20 +5433,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -4940,12 +5448,12 @@
       },
       {
          "gameId": "Fortnite",
-         "eventId": "epicgames_Snek_RankedCupDivisionalZBReload_ME",
-         "beginTime": "2025-06-02T22:00:00Z",
+         "eventId": "epicgames_Snek_RankedCupDivisionalZBFigment_ME",
+         "beginTime": "2025-04-21T22:00:00Z",
          "endTime": "2026-04-12T02:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T10:00:00Z",
+         "announcementTime": "2024-10-01T10:00:00Z",
          "regions": [
             "ME"
          ],
@@ -4955,25 +5463,511 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "figmentZB": "figmentZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentZB_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Silver_PLACEMENT_STAT_INDEX",
+               "figmentZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Gold_PLACEMENT_STAT_INDEX",
+               "figmentZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Elite_PLACEMENT_STAT_INDEX",
+               "figmentZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S35_ranked-figment-nobuild",
+               "eventTemplateId": "EventTemplate_FigmentSolo",
+               "countdownBeginTime": "2024-10-06T20:00:00Z",
+               "beginTime": "2025-04-21T22:00:00Z",
+               "endTime": "2026-04-12T02:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "private",
+               "additionalRequirements": [
+                  "mfa",
+                  "eula:crab",
+                  "adps:g-a81a33a3b9a7",
+                  "currentRanking:ranked-figment-nobuild:0"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "MainLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "GoldLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "PlatinumLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "DiamondLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "EliteLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "ChampionLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "hideScoreLocationsIndexes": [
+                     null
+                  ],
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_snek_rankedcupdivisionalzbfigment_me"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_Snek_RankedCupDivisionalZBFigment_NAC",
+         "beginTime": "2025-04-22T01:00:00Z",
+         "endTime": "2026-04-12T05:00:00Z",
+         "displayDataId": "s34_rankedcup_elite_solo",
+         "eventGroup": "TEST",
+         "announcementTime": "2024-10-01T13:00:00Z",
+         "regions": [
+            "NAC"
+         ],
+         "regionMappings": {
+            "NAE": "NAC",
+            "NAW": "NAC",
+            "NAC": "NAC"
+         },
+         "platforms": [
+            "Windows"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "figmentZB": "figmentZB",
+            "minimumAccountLevel": 15,
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentZB_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Silver_PLACEMENT_STAT_INDEX",
+               "figmentZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Gold_PLACEMENT_STAT_INDEX",
+               "figmentZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Elite_PLACEMENT_STAT_INDEX",
+               "figmentZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S35_ranked-figment-nobuild",
+               "eventTemplateId": "EventTemplate_FigmentSolo",
+               "countdownBeginTime": "2024-10-06T23:00:00Z",
+               "beginTime": "2025-04-22T01:00:00Z",
+               "endTime": "2026-04-12T05:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "private",
+               "additionalRequirements": [
+                  "mfa",
+                  "eula:crab",
+                  "adps:g-a81a33a3b9a7",
+                  "currentRanking:ranked-figment-nobuild:0"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "MainLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "GoldLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "PlatinumLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "DiamondLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "EliteLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "ChampionLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "hideScoreLocationsIndexes": [
+                     null
+                  ],
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_snek_rankedcupdivisionalzbfigment_nac"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_Snek_RankedCupDivisionalZBFigment_NAE",
+         "beginTime": "2025-04-21T23:00:00Z",
+         "endTime": "2026-04-12T03:00:00Z",
+         "displayDataId": "s34_rankedcup_elite_solo",
+         "eventGroup": "TEST",
+         "announcementTime": "2024-10-01T11:00:00Z",
+         "regions": [
+            "NAE"
+         ],
+         "regionMappings": {
+            "NAE": "NAC",
+            "NAW": "NAC",
+            "NAC": "NAC"
+         },
+         "platforms": [
+            "Windows"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "figmentZB": "figmentZB",
+            "minimumAccountLevel": 15,
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentZB_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Silver_PLACEMENT_STAT_INDEX",
+               "figmentZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Gold_PLACEMENT_STAT_INDEX",
+               "figmentZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Elite_PLACEMENT_STAT_INDEX",
+               "figmentZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S35_ranked-figment-nobuild",
+               "eventTemplateId": "EventTemplate_FigmentSolo",
+               "countdownBeginTime": "2024-10-06T21:00:00Z",
+               "beginTime": "2025-04-21T23:00:00Z",
+               "endTime": "2026-04-12T03:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "private",
+               "additionalRequirements": [
+                  "mfa",
+                  "eula:crab",
+                  "adps:g-a81a33a3b9a7",
+                  "currentRanking:ranked-figment-nobuild:0"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "MainLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "GoldLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "PlatinumLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "DiamondLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "EliteLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "ChampionLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "hideScoreLocationsIndexes": [
+                     null
+                  ],
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_snek_rankedcupdivisionalzbfigment_nae"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_Snek_RankedCupDivisionalZBFigment_NAW",
+         "beginTime": "2025-04-22T02:00:00Z",
+         "endTime": "2026-04-12T06:00:00Z",
+         "displayDataId": "s34_rankedcup_elite_solo",
+         "eventGroup": "TEST",
+         "announcementTime": "2024-10-01T14:00:00Z",
+         "regions": [
+            "NAW"
+         ],
+         "regionMappings": {
+            "NAE": "NAC",
+            "NAW": "NAC",
+            "NAC": "NAC"
+         },
+         "platforms": [
+            "Windows"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "figmentZB": "figmentZB",
+            "minimumAccountLevel": 15,
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "figmentZB_Bronze_PLACEMENT_STAT_INDEX",
+               "figmentZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Silver_PLACEMENT_STAT_INDEX",
+               "figmentZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Gold_PLACEMENT_STAT_INDEX",
+               "figmentZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Platinum_PLACEMENT_STAT_INDEX",
+               "figmentZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Diamond_PLACEMENT_STAT_INDEX",
+               "figmentZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Elite_PLACEMENT_STAT_INDEX",
+               "figmentZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "figmentZB_Unreal_PLACEMENT_STAT_INDEX",
+               "figmentZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S35_ranked-figment-nobuild",
+               "eventTemplateId": "EventTemplate_FigmentSolo",
+               "countdownBeginTime": "2024-10-07T00:00:00Z",
+               "beginTime": "2025-04-22T02:00:00Z",
+               "endTime": "2026-04-12T06:00:00Z",
+               "round": 0,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "private",
+               "additionalRequirements": [
+                  "mfa",
+                  "eula:crab",
+                  "adps:g-a81a33a3b9a7",
+                  "currentRanking:ranked-figment-nobuild:0"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "MainLeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "BronzeLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "SilverLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "GoldLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "PlatinumLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "DiamondLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "EliteLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "ChampionLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  },
+                  {
+                     "leaderboardDefId": "UnrealLeaderboardDef",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "metadata": {
+                  "hideScoreLocationsIndexes": [
+                     null
+                  ],
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_snek_rankedcupdivisionalzbfigment_naw"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_Snek_RankedCupDivisionalZBReload_ME",
+         "beginTime": "2025-04-21T22:00:00Z",
+         "endTime": "2026-04-12T02:00:00Z",
+         "displayDataId": "s34_rankedcup_elite_solo",
+         "eventGroup": "TEST",
+         "announcementTime": "2024-10-01T10:00:00Z",
+         "regions": [
+            "ME"
+         ],
+         "regionMappings": {
+            "NAE": "NAC",
+            "NAW": "NAC",
+            "NAC": "NAC"
+         },
+         "platforms": [
+            "Windows"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "berryZB": "berryZB",
+            "minimumAccountLevel": 15,
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryZB_Bronze_PLACEMENT_STAT_INDEX",
+               "berryZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Silver_PLACEMENT_STAT_INDEX",
+               "berryZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Gold_PLACEMENT_STAT_INDEX",
+               "berryZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Platinum_PLACEMENT_STAT_INDEX",
+               "berryZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Diamond_PLACEMENT_STAT_INDEX",
+               "berryZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Elite_PLACEMENT_STAT_INDEX",
+               "berryZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Unreal_PLACEMENT_STAT_INDEX",
+               "berryZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked_blastberry_nobuild",
                "eventTemplateId": "EventTemplate_SunflowerDuo_NoFill",
-               "countdownBeginTime": "2025-05-20T20:00:00Z",
-               "beginTime": "2025-06-02T22:00:00Z",
+               "countdownBeginTime": "2024-10-06T20:00:00Z",
+               "beginTime": "2025-04-21T22:00:00Z",
                "endTime": "2026-04-12T02:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -5029,20 +6023,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -5056,11 +6039,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZBReload_NAC",
-         "beginTime": "2025-06-03T01:00:00Z",
+         "beginTime": "2025-04-22T01:00:00Z",
          "endTime": "2026-04-12T05:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T13:00:00Z",
+         "announcementTime": "2024-10-01T13:00:00Z",
          "regions": [
             "NAC"
          ],
@@ -5070,25 +6053,39 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "berryZB": "berryZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryZB_Bronze_PLACEMENT_STAT_INDEX",
+               "berryZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Silver_PLACEMENT_STAT_INDEX",
+               "berryZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Gold_PLACEMENT_STAT_INDEX",
+               "berryZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Platinum_PLACEMENT_STAT_INDEX",
+               "berryZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Diamond_PLACEMENT_STAT_INDEX",
+               "berryZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Elite_PLACEMENT_STAT_INDEX",
+               "berryZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Unreal_PLACEMENT_STAT_INDEX",
+               "berryZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked_blastberry_nobuild",
                "eventTemplateId": "EventTemplate_SunflowerDuo_NoFill",
-               "countdownBeginTime": "2025-05-20T23:00:00Z",
-               "beginTime": "2025-06-03T01:00:00Z",
+               "countdownBeginTime": "2024-10-06T23:00:00Z",
+               "beginTime": "2025-04-22T01:00:00Z",
                "endTime": "2026-04-12T05:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -5144,20 +6141,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -5171,11 +6157,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZBReload_NAE",
-         "beginTime": "2025-06-02T23:00:00Z",
+         "beginTime": "2025-04-21T23:00:00Z",
          "endTime": "2026-04-12T03:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T11:00:00Z",
+         "announcementTime": "2024-10-01T11:00:00Z",
          "regions": [
             "NAE"
          ],
@@ -5185,25 +6171,39 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "berryZB": "berryZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryZB_Bronze_PLACEMENT_STAT_INDEX",
+               "berryZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Silver_PLACEMENT_STAT_INDEX",
+               "berryZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Gold_PLACEMENT_STAT_INDEX",
+               "berryZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Platinum_PLACEMENT_STAT_INDEX",
+               "berryZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Diamond_PLACEMENT_STAT_INDEX",
+               "berryZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Elite_PLACEMENT_STAT_INDEX",
+               "berryZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Unreal_PLACEMENT_STAT_INDEX",
+               "berryZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked_blastberry_nobuild",
                "eventTemplateId": "EventTemplate_SunflowerDuo_NoFill",
-               "countdownBeginTime": "2025-05-20T21:00:00Z",
-               "beginTime": "2025-06-02T23:00:00Z",
+               "countdownBeginTime": "2024-10-06T21:00:00Z",
+               "beginTime": "2025-04-21T23:00:00Z",
                "endTime": "2026-04-12T03:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -5259,20 +6259,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -5286,11 +6275,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Snek_RankedCupDivisionalZBReload_NAW",
-         "beginTime": "2025-06-03T02:00:00Z",
+         "beginTime": "2025-04-22T02:00:00Z",
          "endTime": "2026-04-12T06:00:00Z",
          "displayDataId": "s34_rankedcup_elite_solo",
          "eventGroup": "TEST",
-         "announcementTime": "2025-06-01T14:00:00Z",
+         "announcementTime": "2024-10-01T14:00:00Z",
          "regions": [
             "NAW"
          ],
@@ -5300,25 +6289,39 @@
             "NAC": "NAC"
          },
          "platforms": [
-            "Android",
-            "PS5",
-            "Windows",
-            "iOS"
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
+            "berryZB": "berryZB",
             "minimumAccountLevel": 15,
-            "tournamentType": "RankedCup"
+            "tournamentType": "RankedCup",
+            "TrackedStats": [
+               "berryZB_Bronze_PLACEMENT_STAT_INDEX",
+               "berryZB_Bronze_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Silver_PLACEMENT_STAT_INDEX",
+               "berryZB_Silver_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Gold_PLACEMENT_STAT_INDEX",
+               "berryZB_Gold_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Platinum_PLACEMENT_STAT_INDEX",
+               "berryZB_Platinum_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Diamond_PLACEMENT_STAT_INDEX",
+               "berryZB_Diamond_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Elite_PLACEMENT_STAT_INDEX",
+               "berryZB_Elite_TEAM_ELIMS_STAT_INDEX",
+               "berryZB_Unreal_PLACEMENT_STAT_INDEX",
+               "berryZB_Unreal_TEAM_ELIMS_STAT_INDEX"
+            ]
          },
          "eventWindows": [
             {
                "eventWindowId": "S35_ranked_blastberry_nobuild",
                "eventTemplateId": "EventTemplate_SunflowerDuo_NoFill",
-               "countdownBeginTime": "2025-05-21T00:00:00Z",
-               "beginTime": "2025-06-03T02:00:00Z",
+               "countdownBeginTime": "2024-10-07T00:00:00Z",
+               "beginTime": "2025-04-22T02:00:00Z",
                "endTime": "2026-04-12T06:00:00Z",
                "round": 0,
-               "payoutDelay": 2,
+               "payoutDelay": 32,
                "isTBD": false,
                "visibility": "private",
                "additionalRequirements": [
@@ -5374,20 +6377,9 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
-                  "defaultLeaderboardByRank": {
-                     "EliteLeaderboardDefID": "16:16",
-                     "PlatinumLeaderboardDefID": "12:14",
-                     "UnrealLeaderboardDefID": "17:17",
-                     "ChampionLeaderboardDefID": "15:15",
-                     "SilverLeaderboardDefID": "3:5",
-                     "DiamondLeaderboardDefID": "9:11",
-                     "BronzeLeaderboardDefID": "0:2",
-                     "GoldLeaderboardDefID": "6:8"
-                  },
                   "hideScoreLocationsIndexes": [
-                     0
+                     null
                   ],
-                  "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_nobuild",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true
                }
@@ -6662,6 +7654,204 @@
                         "rewardType": "game",
                         "rewardMode": "standard",
                         "value": "AthenaCharacter:cid_695_athena_commando_f_desertopscamo",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-build_Champion": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_844_athena_commando_f_hightowermango",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-build_Elite": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_761_athena_commando_m_cyclonespace",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-build_Unreal": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_706_athena_commando_m_henchmanbad_34lvu",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-nobuild_Champion": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_a_088_athena_commando_f_hardwood_d_wphx2",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-nobuild_Elite": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_683_athena_commando_f_tigerfashion",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_soupgoal",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-nobuild_Unreal": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 10,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:bid_734_wickedduckmale",
+                        "quantity": 1,
+                        "notifiesPlayer": true
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:cid_606_athena_commando_f_jetski",
                         "quantity": 1,
                         "notifiesPlayer": true
                      },
@@ -9955,6 +11145,1750 @@
             ]
          }
       ],
+      "S35_ranked-figment-build_Bronze": [
+         {
+            "trackedStat": "BRONZE_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 30,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 15,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "BRONZE_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 1,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-build_Champion": [
+         {
+            "trackedStat": "CHAMPION_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 17,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "CHAMPION_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 7,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-build_Diamond": [
+         {
+            "trackedStat": "DIAMOND_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 21,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "DIAMOND_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 5,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-build_Elite": [
+         {
+            "trackedStat": "ELITE_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 19,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "ELITE_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 6,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-build_Gold": [
+         {
+            "trackedStat": "GOLD_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 25,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "GOLD_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 3,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-build_Platinum": [
+         {
+            "trackedStat": "PLATINUM_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 23,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 12,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "PLATINUM_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 4,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-build_Silver": [
+         {
+            "trackedStat": "SILVER_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 27,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 14,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 12,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 12,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 12,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "SILVER_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 2,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-build_Unreal": [
+         {
+            "trackedStat": "UNREAL_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 15,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "UNREAL_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 8,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-nobuild_Bronze": [
+         {
+            "trackedStat": "BRONZE_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 30,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 15,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "BRONZE_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 1,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-nobuild_Champion": [
+         {
+            "trackedStat": "CHAMPION_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 17,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "CHAMPION_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 7,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-nobuild_Diamond": [
+         {
+            "trackedStat": "DIAMOND_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 21,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "DIAMOND_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 5,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-nobuild_Elite": [
+         {
+            "trackedStat": "ELITE_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 19,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "ELITE_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 6,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-nobuild_Gold": [
+         {
+            "trackedStat": "GOLD_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 25,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 13,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 11,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "GOLD_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 3,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-nobuild_Platinum": [
+         {
+            "trackedStat": "PLATINUM_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 23,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 12,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "PLATINUM_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 4,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-nobuild_Silver": [
+         {
+            "trackedStat": "SILVER_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 27,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 14,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 12,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 12,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 12,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 9,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "SILVER_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 2,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S35_ranked-figment-nobuild_Unreal": [
+         {
+            "trackedStat": "UNREAL_PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 15,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 8,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 6,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 4,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "UNREAL_TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 8,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
       "S35_ranked-zb_Bronze": [
          {
             "trackedStat": "BRONZE_PLACEMENT_STAT_INDEX",
@@ -11456,6 +14390,80 @@
          "clampsToZero": false
       },
       {
+         "playlistId": "Playlist_ShowdownTournament_FigmentNoBuildSolo",
+         "matchCap": 0,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "gameId": "Fortnite",
+         "eventTemplateId": "EventTemplate_FigmentNoBuildSolo",
+         "scoringRules": [],
+         "payoutTable": [],
+         "liveSessionAttributes": [],
+         "clampsToZero": false
+      },
+      {
+         "playlistId": "Playlist_ShowdownTournament_FigmentSolo",
+         "matchCap": 0,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "gameId": "Fortnite",
+         "eventTemplateId": "EventTemplate_FigmentSolo",
+         "scoringRules": [],
+         "payoutTable": [],
+         "liveSessionAttributes": [],
+         "clampsToZero": false
+      },
+      {
          "playlistId": "Playlist_ShowdownTournament_NoBuildBR_RC_Duos",
          "matchCap": 0,
          "tiebreakerFormula": {
@@ -11493,7 +14501,7 @@
          "clampsToZero": false
       },
       {
-         "playlistId": "Playlist_ShowdownTournament_RC_Squads",
+         "playlistId": "Playlist_ShowdownTournament_RC_Solo",
          "matchCap": 0,
          "tiebreakerFormula": {
             "basePointsBits": 11,
@@ -11523,7 +14531,7 @@
             ]
          },
          "gameId": "Fortnite",
-         "eventTemplateId": "EventTemplate_RC_Squads",
+         "eventTemplateId": "EventTemplate_RC_Solo",
          "scoringRules": [],
          "payoutTable": [],
          "liveSessionAttributes": [],

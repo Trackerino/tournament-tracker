@@ -1,5 +1,5 @@
 {
-   "playlistId": "Playlist_ShowdownTournament_RC_Squads",
+   "playlistId": "Playlist_ShowdownTournament_RC_Solo",
    "matchCap": 0,
    "tiebreakerFormula": {
       "basePointsBits": 11,
@@ -29,7 +29,7 @@
       ]
    },
    "gameId": "Fortnite",
-   "eventTemplateId": "EventTemplate_RC_Squads",
+   "eventTemplateId": "EventTemplate_RC_Solo",
    "scoringRules": [],
    "payoutTable": [],
    "liveSessionAttributes": [],
