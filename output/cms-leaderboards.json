@@ -585,7 +585,7 @@
    {
       "_type": "Leaderboard Display Info",
       "leaderboard_id": "Lemming_SeriesLeaderboard",
-      "leaderboard_name": "Weekly Series Leaderboard",
+      "leaderboard_name": "Best of Weekly Leaderboard",
       "show_details_panel": true
    },
    {
@@ -1062,6 +1062,12 @@
       ],
       "leaderboard_id": "UnrealLeaderboardDef",
       "leaderboard_name": "Unreal",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "leaderboard_id": "WeeklyLeaderboardDef",
+      "leaderboard_name": "Weekly Leaderboard",
       "show_details_panel": true
    }
 ]
