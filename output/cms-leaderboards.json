@@ -584,6 +584,12 @@
    },
    {
       "_type": "Leaderboard Display Info",
+      "leaderboard_id": "Lemming_SeriesLeaderboard",
+      "leaderboard_name": "Weekly Series Leaderboard",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
       "displayed_tracked_stat": [
          "MMO_Cache"
       ],
