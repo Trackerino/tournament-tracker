@@ -341,13 +341,13 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S36_FNCS_Division1_ASIA",
-            "S36_FNCS_Division1_BR",
-            "S36_FNCS_Division1_EU",
-            "S36_FNCS_Division1_ME",
-            "S36_FNCS_Division1_NAC",
-            "S36_FNCS_Division1_NAW",
-            "S36_FNCS_Division1_OCE"
+            "S34_FNCS_Division1_ASIA",
+            "S34_FNCS_Division1_BR",
+            "S34_FNCS_Division1_EU",
+            "S34_FNCS_Division1_ME",
+            "S34_FNCS_Division1_NAC",
+            "S34_FNCS_Division1_NAW",
+            "S34_FNCS_Division1_OCE"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
