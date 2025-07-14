@@ -98,7 +98,7 @@
             "RegionLock_S36_FNCSMajor3_NAC",
             "RegionLock_S36_FNCSMajor3_NAW",
             "RegionLock_S36_FNCSMajor3_OCE",
-            "S35_FNCS_Banned"
+            "S36_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -149,7 +149,7 @@
             "RegionLock_S36_FNCSMajor3_NAC",
             "RegionLock_S36_FNCSMajor3_NAW",
             "RegionLock_S36_FNCSMajor3_OCE",
-            "S35_FNCS_Banned"
+            "S36_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
