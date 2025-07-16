@@ -1,11 +1,11 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_Snek_RankedCupDivisionalBR_NAE",
-   "beginTime": "2025-04-21T23:00:00Z",
+   "beginTime": "2025-06-02T23:00:00Z",
    "endTime": "2026-04-12T03:00:00Z",
    "displayDataId": "s34_rankedcup_elite_solo",
    "eventGroup": "TEST",
-   "announcementTime": "2024-10-01T11:00:00Z",
+   "announcementTime": "2025-06-01T11:00:00Z",
    "regions": [
       "NAE"
    ],
@@ -15,39 +15,25 @@
       "NAC": "NACCOMP"
    },
    "platforms": [
-      "Windows"
+      "Android",
+      "PS5",
+      "Windows",
+      "iOS"
    ],
    "platformMappings": {},
    "metadata": {
-      "coreBR": "coreBR",
       "minimumAccountLevel": 15,
-      "tournamentType": "RankedCup",
-      "TrackedStats": [
-         "coreBR_Bronze_PLACEMENT_STAT_INDEX",
-         "coreBR_Bronze_TEAM_ELIMS_STAT_INDEX",
-         "coreBR_Silver_PLACEMENT_STAT_INDEX",
-         "coreBR_Silver_TEAM_ELIMS_STAT_INDEX",
-         "coreBR_Gold_PLACEMENT_STAT_INDEX",
-         "coreBR_Gold_TEAM_ELIMS_STAT_INDEX",
-         "coreBR_Platinum_PLACEMENT_STAT_INDEX",
-         "coreBR_Platinum_TEAM_ELIMS_STAT_INDEX",
-         "coreBR_Diamond_PLACEMENT_STAT_INDEX",
-         "coreBR_Diamond_TEAM_ELIMS_STAT_INDEX",
-         "coreBR_Elite_PLACEMENT_STAT_INDEX",
-         "coreBR_Elite_TEAM_ELIMS_STAT_INDEX",
-         "coreBR_Unreal_PLACEMENT_STAT_INDEX",
-         "coreBR_Unreal_TEAM_ELIMS_STAT_INDEX"
-      ]
+      "tournamentType": "RankedCup"
    },
    "eventWindows": [
       {
          "eventWindowId": "S35_ranked-br",
-         "eventTemplateId": "EventTemplate_RC_Solo",
-         "countdownBeginTime": "2024-10-06T21:00:00Z",
-         "beginTime": "2025-04-21T23:00:00Z",
+         "eventTemplateId": "EventTemplate_RC_Squads",
+         "countdownBeginTime": "2025-05-20T21:00:00Z",
+         "beginTime": "2025-06-02T23:00:00Z",
          "endTime": "2026-04-12T03:00:00Z",
          "round": 0,
-         "payoutDelay": 32,
+         "payoutDelay": 2,
          "isTBD": false,
          "visibility": "private",
          "additionalRequirements": [
@@ -103,9 +89,20 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "metadata": {
+            "defaultLeaderboardByRank": {
+               "EliteLeaderboardDefID": "16:16",
+               "PlatinumLeaderboardDefID": "12:14",
+               "UnrealLeaderboardDefID": "17:17",
+               "ChampionLeaderboardDefID": "15:15",
+               "SilverLeaderboardDefID": "3:5",
+               "DiamondLeaderboardDefID": "9:11",
+               "BronzeLeaderboardDefID": "0:2",
+               "GoldLeaderboardDefID": "6:8"
+            },
             "hideScoreLocationsIndexes": [
-               null
+               0
             ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
             "RoundType": "Qualifiers",
             "ServerReplays": true
          }
