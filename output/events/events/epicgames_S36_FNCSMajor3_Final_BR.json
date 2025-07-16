@@ -1,7 +1,7 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S36_FNCSMajor3_Final_BR",
-   "beginTime": "2025-08-02T22:00:00Z",
+   "beginTime": "2025-08-02T21:00:00Z",
    "endTime": "2025-08-04T00:30:00Z",
    "displayDataId": "s36_major3_finals",
    "eventGroup": "Season36_FNCSMajor3",
@@ -59,9 +59,9 @@
       {
          "eventWindowId": "S36_FNCSMajor3_Final_Day1_BR",
          "eventTemplateId": "EventTemplate_S36_FNCSMajor3_Final",
-         "countdownBeginTime": "2025-08-02T20:00:00Z",
-         "beginTime": "2025-08-02T22:00:00Z",
-         "endTime": "2025-08-03T01:30:00Z",
+         "countdownBeginTime": "2025-08-02T19:00:00Z",
+         "beginTime": "2025-08-02T21:00:00Z",
+         "endTime": "2025-08-03T00:30:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
