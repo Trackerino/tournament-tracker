@@ -1,0 +1,96 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 8,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaDance:spray_rowdydevilfncs",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 40,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaBackpack:backpack_fncsshield_s36",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 200,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaCharacter:character_rowdydevilfncs",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 200,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaPickaxe:pickaxe_starwandfncs",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 200,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaItemWrap:wrap_rowdydevil",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 200,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "SparksSong:sid_placeholder_621",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 200,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaBackpack:backpack_fncs_s36",
+                  "quantity": 0,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]
