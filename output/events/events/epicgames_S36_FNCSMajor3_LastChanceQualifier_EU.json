@@ -1,16 +1,16 @@
 {
    "gameId": "Fortnite",
-   "eventId": "S36_FNCSMajor3_LastChanceQualifier_ME",
-   "beginTime": "2025-07-30T15:00:00Z",
-   "endTime": "2025-07-31T16:30:00Z",
+   "eventId": "epicgames_S36_FNCSMajor3_LastChanceQualifier_EU",
+   "beginTime": "2025-07-30T17:00:00Z",
+   "endTime": "2025-07-31T18:30:00Z",
    "displayDataId": "s36_major3_lcq",
    "eventGroup": "Season36_FNCSMajor3",
-   "announcementTime": "2025-06-06T21:00:00Z",
+   "announcementTime": "2025-06-06T23:00:00Z",
    "regions": [
-      "ME"
+      "EU"
    ],
    "regionMappings": {
-      "ME": "MECOMP"
+      "EU": "EUCOMP"
    },
    "platforms": [
       "Android",
@@ -58,11 +58,11 @@
    },
    "eventWindows": [
       {
-         "eventWindowId": "S36_FNCSMajor3_LastChanceLobby_ME",
+         "eventWindowId": "S36_FNCSMajor3_LastChanceLobby_EU",
          "eventTemplateId": "EventTemplate_S36_FNCSMajor3_LastChanceQualifier",
-         "countdownBeginTime": "2025-07-31T13:00:00Z",
-         "beginTime": "2025-07-31T15:00:00Z",
-         "endTime": "2025-07-31T16:30:00Z",
+         "countdownBeginTime": "2025-07-31T15:00:00Z",
+         "beginTime": "2025-07-31T17:00:00Z",
+         "endTime": "2025-07-31T18:30:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -82,13 +82,13 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S36_FNCSMajor3_LastChanceLobby_ME"
+            "S36_FNCSMajor3_LastChanceLobby_EU"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban",
-            "S36_FNCSMajor3_GrandFinalist_ME",
+            "S36_FNCSMajor3_GrandFinalist_EU",
             "S36_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
@@ -103,11 +103,11 @@
          }
       },
       {
-         "eventWindowId": "S36_FNCSMajor3_LastChanceQualifier_ME",
+         "eventWindowId": "S36_FNCSMajor3_LastChanceQualifier_EU",
          "eventTemplateId": "EventTemplate_S36_FNCSMajor3_LastChanceQualifier",
-         "countdownBeginTime": "2025-07-30T13:00:00Z",
-         "beginTime": "2025-07-30T15:00:00Z",
-         "endTime": "2025-07-30T18:00:00Z",
+         "countdownBeginTime": "2025-07-30T15:00:00Z",
+         "beginTime": "2025-07-30T17:00:00Z",
+         "endTime": "2025-07-30T20:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -128,19 +128,20 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [
-            "S34_FNCS_Division1_ME",
-            "S34_FNCS_Division2_ME",
-            "S34_FNCS_Division3_ME"
+            "S34_FNCS_Division1_EU",
+            "S34_FNCS_Division2_EU",
+            "S34_FNCS_Division3_EU"
          ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban",
             "RegionLock_S36_FNCSMajor3_ASIA",
             "RegionLock_S36_FNCSMajor3_BR",
-            "RegionLock_S36_FNCSMajor3_EU",
+            "RegionLock_S36_FNCSMajor3_ME",
             "RegionLock_S36_FNCSMajor3_NAC",
             "RegionLock_S36_FNCSMajor3_NAW",
             "RegionLock_S36_FNCSMajor3_OCE",
+            "S36_FNCSMajor3_GrandFinalist_EU",
             "S36_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
@@ -155,6 +156,6 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_s36_fncsmajor3_lastchancequalifier_me"
+      "code": "tournament_epicgames_s36_fncsmajor3_lastchancequalifier_eu"
    }
 }

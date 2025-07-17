@@ -1,6 +1,6 @@
 {
    "gameId": "Fortnite",
-   "eventId": "S36_FNCSMajor3_LastChanceQualifier_ASIA",
+   "eventId": "epicgames_S36_FNCSMajor3_LastChanceQualifier_ASIA",
    "beginTime": "2025-07-30T09:00:00Z",
    "endTime": "2025-07-31T10:30:00Z",
    "displayDataId": "s36_major3_lcq",
@@ -141,6 +141,7 @@
             "RegionLock_S36_FNCSMajor3_NAC",
             "RegionLock_S36_FNCSMajor3_NAW",
             "RegionLock_S36_FNCSMajor3_OCE",
+            "S36_FNCSMajor3_GrandFinalist_ASIA",
             "S36_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
@@ -155,6 +156,6 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_s36_fncsmajor3_lastchancequalifier_asia"
+      "code": "tournament_epicgames_s36_fncsmajor3_lastchancequalifier_asia"
    }
 }
