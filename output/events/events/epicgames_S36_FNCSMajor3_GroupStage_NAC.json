@@ -90,6 +90,7 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban",
+            "S36_FNCSMajor3_GrandFinalist_NAC",
             "S36_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
@@ -134,6 +135,7 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban",
+            "S36_FNCSMajor3_GrandFinalist_NAC",
             "S36_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
@@ -178,6 +180,7 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban",
+            "S36_FNCSMajor3_GrandFinalist_NAC",
             "S36_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
