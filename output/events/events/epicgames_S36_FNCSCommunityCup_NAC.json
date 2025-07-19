@@ -39,7 +39,9 @@
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
-      "DisqualifyType": "Window"
+      "DisqualifyType": "Window",
+      "tournamentType": "ShopCup",
+      "webId": "S36_FNCSCommunityCup"
    },
    "eventWindows": [
       {
@@ -53,7 +55,9 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "adps:g-a81a33a3b9a7"
+            "eula:s36_fncscommunity_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -66,11 +70,11 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban"
          ],
-         "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {},
          "metadata": {
