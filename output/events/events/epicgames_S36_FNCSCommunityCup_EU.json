@@ -68,11 +68,11 @@
          "canLiveSpectate": false,
          "requireAllTokens": [],
          "requireAnyTokens": [],
-         "requireNoneTokensCaller": [],
-         "requireAllTokensCaller": [
+         "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban"
          ],
+         "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {},
          "metadata": {
