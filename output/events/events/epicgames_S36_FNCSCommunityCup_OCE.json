@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S36_FNCSCommunityCup_OCE",
-   "beginTime": "2025-07-19T08:00:00Z",
-   "endTime": "2025-07-19T09:20:00Z",
+   "beginTime": "2025-07-20T08:00:00Z",
+   "endTime": "2025-07-20T11:00:00Z",
    "displayDataId": "s36_fncscommunity",
    "eventGroup": "S36_FNCSCommunityCup",
    "announcementTime": "2025-07-16T21:00:00Z",
@@ -45,9 +45,9 @@
       {
          "eventWindowId": "S36_FNCSCommunityCup_OCE",
          "eventTemplateId": "EventTemplate_S36_FNCSCommunityCup",
-         "countdownBeginTime": "2025-07-19T07:00:00Z",
-         "beginTime": "2025-07-19T08:00:00Z",
-         "endTime": "2025-07-19T09:20:00Z",
+         "countdownBeginTime": "2025-07-20T06:00:00Z",
+         "beginTime": "2025-07-20T08:00:00Z",
+         "endTime": "2025-07-20T11:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
