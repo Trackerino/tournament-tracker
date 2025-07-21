@@ -1,5 +1,41 @@
 [
    {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 120,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaDance:emoticon_eggnogfaucet",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ],
+      "scoreId": "epicgames_S36_FantasticFourCups_OCE:S36_FantasticFourCups_OCE_TimeAlive"
+   },
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 60,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaDance:spray_flavorstock",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ],
+      "scoreId": "epicgames_S36_FantasticFourCups_OCE:S36_FantasticFourCups_OCE_TimeAlive"
+   },
+   {
       "scoringType": "rank",
       "ranks": [
          {
