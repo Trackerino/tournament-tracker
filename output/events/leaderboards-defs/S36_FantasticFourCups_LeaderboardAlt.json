@@ -34,11 +34,7 @@
       ]
    },
    "scoringRuleSetId": "S36_FantasticFourCups_ScoringRulesALT",
-   "clampsToZero": false,
-   "payoutsConfig": {
-      "payoutTableIdFormat": "S36_FantasticFourCups_PayoutTable_Time",
-      "payoutDate": "windowEnd+PT32M"
-   },
+   "clampsToZero": true,
    "hidePlayerScores": false,
    "percentileAccuracy": 1,
    "requiredPlayerListings": []

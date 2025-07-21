@@ -66549,11 +66549,7 @@
             ]
          },
          "scoringRuleSetId": "S36_FantasticFourCups_ScoringRulesALT",
-         "clampsToZero": false,
-         "payoutsConfig": {
-            "payoutTableIdFormat": "S36_FantasticFourCups_PayoutTable_Time",
-            "payoutDate": "windowEnd+PT32M"
-         },
+         "clampsToZero": true,
          "hidePlayerScores": false,
          "percentileAccuracy": 1,
          "requiredPlayerListings": []
@@ -79807,37 +79803,6 @@
                         "rewardType": "game",
                         "rewardMode": "standard",
                         "value": "AthenaBackpack:backpack_donkeycrib",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S36_FantasticFourCups_PayoutTable_Time": [
-         {
-            "scoringType": "value",
-            "ranks": [
-               {
-                  "threshold": 120,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaDance:emoticon_eggnogfaucet",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               },
-               {
-                  "threshold": 60,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaDance:spray_flavorstock",
                         "quantity": 1,
                         "notifiesPlayer": false
                      }
