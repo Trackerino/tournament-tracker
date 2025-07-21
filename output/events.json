@@ -35187,11 +35187,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_S36_FantasticFourCups_ME",
-         "beginTime": "2025-07-23T16:00:00Z",
-         "endTime": "2025-07-23T19:00:00Z",
+         "beginTime": "2025-07-23T15:00:00Z",
+         "endTime": "2025-07-23T18:00:00Z",
          "displayDataId": "s36_fantasticfour",
          "eventGroup": "S36_FantasticFourCups",
-         "announcementTime": "2025-07-21T05:00:00Z",
+         "announcementTime": "2025-07-21T04:00:00Z",
          "regions": [
             "ME"
          ],
@@ -35231,9 +35231,9 @@
             {
                "eventWindowId": "S36_FantasticFourCups_ME",
                "eventTemplateId": "EventTemplate_S36_FantasticFourCups",
-               "countdownBeginTime": "2025-07-23T14:00:00Z",
-               "beginTime": "2025-07-23T16:00:00Z",
-               "endTime": "2025-07-23T19:00:00Z",
+               "countdownBeginTime": "2025-07-23T13:00:00Z",
+               "beginTime": "2025-07-23T15:00:00Z",
+               "endTime": "2025-07-23T18:00:00Z",
                "round": 1,
                "payoutDelay": 32,
                "isTBD": false,
