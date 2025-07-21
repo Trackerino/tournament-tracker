@@ -34947,7 +34947,9 @@
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
-            "DisqualifyType": "Window"
+            "DisqualifyType": "Window",
+            "tournamentType": "ShopCup",
+            "webId": "S36_FantasticFourCups"
          },
          "eventWindows": [
             {
@@ -34961,6 +34963,7 @@
                "isTBD": false,
                "visibility": "public",
                "additionalRequirements": [
+                  "eula:s36_fantasticfour_rules",
                   "adps:g-a81a33a3b9a7",
                   "mfa"
                ],
@@ -35036,7 +35039,9 @@
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
-            "DisqualifyType": "Window"
+            "DisqualifyType": "Window",
+            "tournamentType": "ShopCup",
+            "webId": "S36_FantasticFourCups"
          },
          "eventWindows": [
             {
@@ -35050,6 +35055,7 @@
                "isTBD": false,
                "visibility": "public",
                "additionalRequirements": [
+                  "eula:s36_fantasticfour_rules",
                   "adps:g-a81a33a3b9a7",
                   "mfa"
                ],
@@ -35125,7 +35131,9 @@
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
-            "DisqualifyType": "Window"
+            "DisqualifyType": "Window",
+            "tournamentType": "ShopCup",
+            "webId": "S36_FantasticFourCups"
          },
          "eventWindows": [
             {
@@ -35139,6 +35147,7 @@
                "isTBD": false,
                "visibility": "public",
                "additionalRequirements": [
+                  "eula:s36_fantasticfour_rules",
                   "adps:g-a81a33a3b9a7",
                   "mfa"
                ],
@@ -35214,7 +35223,9 @@
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
-            "DisqualifyType": "Window"
+            "DisqualifyType": "Window",
+            "tournamentType": "ShopCup",
+            "webId": "S36_FantasticFourCups"
          },
          "eventWindows": [
             {
@@ -35228,6 +35239,7 @@
                "isTBD": false,
                "visibility": "public",
                "additionalRequirements": [
+                  "eula:s36_fantasticfour_rules",
                   "adps:g-a81a33a3b9a7",
                   "mfa"
                ],
@@ -35305,7 +35317,9 @@
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
-            "DisqualifyType": "Window"
+            "DisqualifyType": "Window",
+            "tournamentType": "ShopCup",
+            "webId": "S36_FantasticFourCups"
          },
          "eventWindows": [
             {
@@ -35319,6 +35333,7 @@
                "isTBD": false,
                "visibility": "public",
                "additionalRequirements": [
+                  "eula:s36_fantasticfour_rules",
                   "adps:g-a81a33a3b9a7",
                   "mfa"
                ],
@@ -35394,7 +35409,9 @@
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
-            "DisqualifyType": "Window"
+            "DisqualifyType": "Window",
+            "tournamentType": "ShopCup",
+            "webId": "S36_FantasticFourCups"
          },
          "eventWindows": [
             {
@@ -35408,6 +35425,7 @@
                "isTBD": false,
                "visibility": "public",
                "additionalRequirements": [
+                  "eula:s36_fantasticfour_rules",
                   "adps:g-a81a33a3b9a7",
                   "mfa"
                ],
@@ -35483,7 +35501,9 @@
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
-            "DisqualifyType": "Window"
+            "DisqualifyType": "Window",
+            "tournamentType": "ShopCup",
+            "webId": "S36_FantasticFourCups"
          },
          "eventWindows": [
             {
@@ -35497,6 +35517,7 @@
                "isTBD": false,
                "visibility": "public",
                "additionalRequirements": [
+                  "eula:s36_fantasticfour_rules",
                   "adps:g-a81a33a3b9a7",
                   "mfa"
                ],
