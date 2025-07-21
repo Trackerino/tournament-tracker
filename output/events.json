@@ -34910,6 +34910,631 @@
       },
       {
          "gameId": "Fortnite",
+         "eventId": "epicgames_S36_FantasticFourCups_ASIA",
+         "beginTime": "2025-07-23T09:00:00Z",
+         "endTime": "2025-07-23T12:00:00Z",
+         "displayDataId": "s36_fantasticfour",
+         "eventGroup": "S36_FantasticFourCups",
+         "announcementTime": "2025-07-20T22:00:00Z",
+         "regions": [
+            "ASIA"
+         ],
+         "regionMappings": {
+            "ASIA": "ASIACOMP"
+         },
+         "platforms": [
+            "Android",
+            "GFN",
+            "GFNMobile",
+            "Helios",
+            "HeliosMobile",
+            "IOS",
+            "Luna",
+            "LunaMobile",
+            "Mac",
+            "PS4",
+            "PS5",
+            "Switch",
+            "Switch2",
+            "Windows",
+            "XB1",
+            "XCloud",
+            "XCloudMobile",
+            "XSX",
+            "XboxOne",
+            "XboxOneGDK"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "AccountLockType": "Window",
+            "DisqualifyType": "Window"
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S36_FantasticFourCups_ASIA",
+               "eventTemplateId": "EventTemplate_S36_FantasticFourCups",
+               "countdownBeginTime": "2025-07-23T07:00:00Z",
+               "beginTime": "2025-07-23T09:00:00Z",
+               "endTime": "2025-07-23T12:00:00Z",
+               "round": 1,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "adps:g-a81a33a3b9a7",
+                  "mfa"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardAlt",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2",
+                  "Permanent_Tournament_Ban"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "regionMappings": {},
+               "metadata": {
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s36_fantasticfourcups_asia"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_S36_FantasticFourCups_BR",
+         "beginTime": "2025-07-23T21:00:00Z",
+         "endTime": "2025-07-24T00:00:00Z",
+         "displayDataId": "s36_fantasticfour",
+         "eventGroup": "S36_FantasticFourCups",
+         "announcementTime": "2025-07-21T10:00:00Z",
+         "regions": [
+            "BR"
+         ],
+         "regionMappings": {
+            "BR": "BRCOMP"
+         },
+         "platforms": [
+            "Android",
+            "GFN",
+            "GFNMobile",
+            "Helios",
+            "HeliosMobile",
+            "IOS",
+            "Luna",
+            "LunaMobile",
+            "Mac",
+            "PS4",
+            "PS5",
+            "Switch",
+            "Switch2",
+            "Windows",
+            "XB1",
+            "XCloud",
+            "XCloudMobile",
+            "XSX",
+            "XboxOne",
+            "XboxOneGDK"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "AccountLockType": "Window",
+            "DisqualifyType": "Window"
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S36_FantasticFourCups_BR",
+               "eventTemplateId": "EventTemplate_S36_FantasticFourCups",
+               "countdownBeginTime": "2025-07-23T19:00:00Z",
+               "beginTime": "2025-07-23T21:00:00Z",
+               "endTime": "2025-07-24T00:00:00Z",
+               "round": 1,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "adps:g-a81a33a3b9a7",
+                  "mfa"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardAlt",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2",
+                  "Permanent_Tournament_Ban"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "regionMappings": {},
+               "metadata": {
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s36_fantasticfourcups_br"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_S36_FantasticFourCups_EU",
+         "beginTime": "2025-07-23T16:00:00Z",
+         "endTime": "2025-07-23T19:00:00Z",
+         "displayDataId": "s36_fantasticfour",
+         "eventGroup": "S36_FantasticFourCups",
+         "announcementTime": "2025-07-21T05:00:00Z",
+         "regions": [
+            "EU"
+         ],
+         "regionMappings": {
+            "EU": "EUCOMP"
+         },
+         "platforms": [
+            "Android",
+            "GFN",
+            "GFNMobile",
+            "Helios",
+            "HeliosMobile",
+            "IOS",
+            "Luna",
+            "LunaMobile",
+            "Mac",
+            "PS4",
+            "PS5",
+            "Switch",
+            "Switch2",
+            "Windows",
+            "XB1",
+            "XCloud",
+            "XCloudMobile",
+            "XSX",
+            "XboxOne",
+            "XboxOneGDK"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "AccountLockType": "Window",
+            "DisqualifyType": "Window"
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S36_FantasticFourCups_EU",
+               "eventTemplateId": "EventTemplate_S36_FantasticFourCups",
+               "countdownBeginTime": "2025-07-23T14:00:00Z",
+               "beginTime": "2025-07-23T16:00:00Z",
+               "endTime": "2025-07-23T19:00:00Z",
+               "round": 1,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "adps:g-a81a33a3b9a7",
+                  "mfa"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardAlt",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2",
+                  "Permanent_Tournament_Ban"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "regionMappings": {},
+               "metadata": {
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s36_fantasticfourcups_eu"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_S36_FantasticFourCups_ME",
+         "beginTime": "2025-07-23T16:00:00Z",
+         "endTime": "2025-07-23T19:00:00Z",
+         "displayDataId": "s36_fantasticfour",
+         "eventGroup": "S36_FantasticFourCups",
+         "announcementTime": "2025-07-21T05:00:00Z",
+         "regions": [
+            "ME"
+         ],
+         "regionMappings": {
+            "ME": "MECOMP"
+         },
+         "platforms": [
+            "Android",
+            "GFN",
+            "GFNMobile",
+            "Helios",
+            "HeliosMobile",
+            "IOS",
+            "Luna",
+            "LunaMobile",
+            "Mac",
+            "PS4",
+            "PS5",
+            "Switch",
+            "Switch2",
+            "Windows",
+            "XB1",
+            "XCloud",
+            "XCloudMobile",
+            "XSX",
+            "XboxOne",
+            "XboxOneGDK"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "AccountLockType": "Window",
+            "DisqualifyType": "Window"
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S36_FantasticFourCups_ME",
+               "eventTemplateId": "EventTemplate_S36_FantasticFourCups",
+               "countdownBeginTime": "2025-07-23T14:00:00Z",
+               "beginTime": "2025-07-23T16:00:00Z",
+               "endTime": "2025-07-23T19:00:00Z",
+               "round": 1,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "adps:g-a81a33a3b9a7",
+                  "mfa"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardAlt",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2",
+                  "Permanent_Tournament_Ban"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "regionMappings": {},
+               "metadata": {
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s36_fantasticfourcups_me"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_S36_FantasticFourCups_NAC",
+         "beginTime": "2025-07-23T22:00:00Z",
+         "endTime": "2025-07-24T01:00:00Z",
+         "displayDataId": "s36_fantasticfour",
+         "eventGroup": "S36_FantasticFourCups",
+         "announcementTime": "2025-07-21T11:00:00Z",
+         "regions": [
+            "NAC",
+            "NAE"
+         ],
+         "regionMappings": {
+            "NAC": "NACCOMP",
+            "NAE": "NACCOMP"
+         },
+         "platforms": [
+            "Android",
+            "GFN",
+            "GFNMobile",
+            "Helios",
+            "HeliosMobile",
+            "IOS",
+            "Luna",
+            "LunaMobile",
+            "Mac",
+            "PS4",
+            "PS5",
+            "Switch",
+            "Switch2",
+            "Windows",
+            "XB1",
+            "XCloud",
+            "XCloudMobile",
+            "XSX",
+            "XboxOne",
+            "XboxOneGDK"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "AccountLockType": "Window",
+            "DisqualifyType": "Window"
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S36_FantasticFourCups_NAC",
+               "eventTemplateId": "EventTemplate_S36_FantasticFourCups",
+               "countdownBeginTime": "2025-07-23T20:00:00Z",
+               "beginTime": "2025-07-23T22:00:00Z",
+               "endTime": "2025-07-24T01:00:00Z",
+               "round": 1,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "adps:g-a81a33a3b9a7",
+                  "mfa"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardAlt",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2",
+                  "Permanent_Tournament_Ban"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "regionMappings": {},
+               "metadata": {
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s36_fantasticfourcups_nac"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_S36_FantasticFourCups_NAW",
+         "beginTime": "2025-07-24T01:00:00Z",
+         "endTime": "2025-07-24T04:00:00Z",
+         "displayDataId": "s36_fantasticfour",
+         "eventGroup": "S36_FantasticFourCups",
+         "announcementTime": "2025-07-21T14:00:00Z",
+         "regions": [
+            "NAW"
+         ],
+         "regionMappings": {
+            "NAW": "NAWCOMP"
+         },
+         "platforms": [
+            "Android",
+            "GFN",
+            "GFNMobile",
+            "Helios",
+            "HeliosMobile",
+            "IOS",
+            "Luna",
+            "LunaMobile",
+            "Mac",
+            "PS4",
+            "PS5",
+            "Switch",
+            "Switch2",
+            "Windows",
+            "XB1",
+            "XCloud",
+            "XCloudMobile",
+            "XSX",
+            "XboxOne",
+            "XboxOneGDK"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "AccountLockType": "Window",
+            "DisqualifyType": "Window"
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S36_FantasticFourCups_NAW",
+               "eventTemplateId": "EventTemplate_S36_FantasticFourCups",
+               "countdownBeginTime": "2025-07-23T23:00:00Z",
+               "beginTime": "2025-07-24T01:00:00Z",
+               "endTime": "2025-07-24T04:00:00Z",
+               "round": 1,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "adps:g-a81a33a3b9a7",
+                  "mfa"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardAlt",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2",
+                  "Permanent_Tournament_Ban"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "regionMappings": {},
+               "metadata": {
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s36_fantasticfourcups_naw"
+         }
+      },
+      {
+         "gameId": "Fortnite",
+         "eventId": "epicgames_S36_FantasticFourCups_OCE",
+         "beginTime": "2025-07-23T08:00:00Z",
+         "endTime": "2025-07-23T11:00:00Z",
+         "displayDataId": "s36_fantasticfour",
+         "eventGroup": "S36_FantasticFourCups",
+         "announcementTime": "2025-07-20T21:00:00Z",
+         "regions": [
+            "OCE"
+         ],
+         "regionMappings": {
+            "OCE": "OCECOMP"
+         },
+         "platforms": [
+            "Android",
+            "GFN",
+            "GFNMobile",
+            "Helios",
+            "HeliosMobile",
+            "IOS",
+            "Luna",
+            "LunaMobile",
+            "Mac",
+            "PS4",
+            "PS5",
+            "Switch",
+            "Switch2",
+            "Windows",
+            "XB1",
+            "XCloud",
+            "XCloudMobile",
+            "XSX",
+            "XboxOne",
+            "XboxOneGDK"
+         ],
+         "platformMappings": {},
+         "metadata": {
+            "AccountLockType": "Window",
+            "DisqualifyType": "Window"
+         },
+         "eventWindows": [
+            {
+               "eventWindowId": "S36_FantasticFourCups_OCE",
+               "eventTemplateId": "EventTemplate_S36_FantasticFourCups",
+               "countdownBeginTime": "2025-07-23T06:00:00Z",
+               "beginTime": "2025-07-23T08:00:00Z",
+               "endTime": "2025-07-23T11:00:00Z",
+               "round": 1,
+               "payoutDelay": 32,
+               "isTBD": false,
+               "visibility": "public",
+               "additionalRequirements": [
+                  "adps:g-a81a33a3b9a7",
+                  "mfa"
+               ],
+               "teammateEligibility": "all",
+               "blackoutPeriods": [],
+               "scoreLocations": [
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardDef",
+                     "isMainWindowLeaderboard": true
+                  },
+                  {
+                     "leaderboardDefId": "S36_FantasticFourCups_LeaderboardAlt",
+                     "isMainWindowLeaderboard": false
+                  }
+               ],
+               "canLiveSpectate": false,
+               "requireAllTokens": [],
+               "requireAnyTokens": [],
+               "requireNoneTokensCaller": [
+                  "EpicAccountPrizingRestriction_v2",
+                  "Permanent_Tournament_Ban"
+               ],
+               "requireAllTokensCaller": [],
+               "requireAnyTokensCaller": [],
+               "regionMappings": {},
+               "metadata": {
+                  "RoundType": "Qualifiers",
+                  "ServerReplays": true
+               }
+            }
+         ],
+         "link": {
+            "type": "br:tournament",
+            "code": "tournament_epicgames_s36_fantasticfourcups_oce"
+         }
+      },
+      {
+         "gameId": "Fortnite",
          "eventId": "epicgames_S36_FNCSCommunityCup_ASIA",
          "beginTime": "2025-07-19T09:00:00Z",
          "endTime": "2025-07-19T12:30:00Z",
@@ -65890,6 +66515,96 @@
       },
       {
          "gameId": "Fortnite",
+         "leaderboardDefId": "S36_FantasticFourCups_LeaderboardAlt",
+         "leaderboardStorageId": "Fortnite_GLOBAL",
+         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+         "leaderboardInstanceIdFormat": "${windowId}_TimeAlive",
+         "maxSessionHistorySize": 10,
+         "useIndividualScores": false,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "scoringRuleSetId": "S36_FantasticFourCups_ScoringRulesALT",
+         "clampsToZero": false,
+         "payoutsConfig": {
+            "payoutTableIdFormat": "S36_FantasticFourCups_PayoutTable_Time",
+            "payoutDate": "windowEnd+PT32M"
+         },
+         "hidePlayerScores": false,
+         "percentileAccuracy": 1,
+         "requiredPlayerListings": []
+      },
+      {
+         "gameId": "Fortnite",
+         "leaderboardDefId": "S36_FantasticFourCups_LeaderboardDef",
+         "leaderboardStorageId": "Fortnite_GLOBAL",
+         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+         "leaderboardInstanceIdFormat": "${windowId}",
+         "maxSessionHistorySize": 10,
+         "useIndividualScores": false,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "scoringRuleSetId": "S36_FantasticFourCups_ScoringRules",
+         "clampsToZero": false,
+         "payoutsConfig": {
+            "payoutTableIdFormat": "${windowId}",
+            "payoutDate": "windowEnd+PT32M"
+         },
+         "hidePlayerScores": false,
+         "percentileAccuracy": 1,
+         "requiredPlayerListings": []
+      },
+      {
+         "gameId": "Fortnite",
          "leaderboardDefId": "S36_FNCSCommunityCup_LeaderboardDef",
          "leaderboardStorageId": "Fortnite_GLOBAL",
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
@@ -78147,6 +78862,954 @@
             ]
          }
       ],
+      "S36_FantasticFourCups_ASIA": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 250,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaGlider:glider_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S36_FantasticFourCups_BR": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 250,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaGlider:glider_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S36_FantasticFourCups_EU": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 1650,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaGlider:glider_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S36_FantasticFourCups_ME": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 250,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaGlider:glider_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S36_FantasticFourCups_NAC": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 1100,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaGlider:glider_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S36_FantasticFourCups_NAW": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 250,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaGlider:glider_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S36_FantasticFourCups_OCE": [
+         {
+            "scoringType": "rank",
+            "ranks": [
+               {
+                  "threshold": 250,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaCharacter:character_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:eid_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaGlider:glider_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaPickaxe:pickaxe_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_campwrench",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     },
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaBackpack:backpack_donkeycrib",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "S36_FantasticFourCups_PayoutTable_Time": [
+         {
+            "scoringType": "value",
+            "ranks": [
+               {
+                  "threshold": 120,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:emoticon_eggnogfaucet",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               },
+               {
+                  "threshold": 60,
+                  "payouts": [
+                     {
+                        "rewardType": "game",
+                        "rewardMode": "standard",
+                        "value": "AthenaDance:spray_flavorstock",
+                        "quantity": 1,
+                        "notifiesPlayer": false
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
       "S36_FNCSCommunityCup_ASIA": [
          {
             "scoringType": "value",
@@ -87631,6 +89294,138 @@
             ]
          }
       ],
+      "S36_FantasticFourCups_ScoringRules": [
+         {
+            "trackedStat": "PLACEMENT_STAT_INDEX",
+            "matchRule": "lte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 10,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 2,
+                  "pointsEarned": 7,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 3,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 4,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 5,
+                  "pointsEarned": 5,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 6,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 7,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 8,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 9,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 10,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 11,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 12,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 13,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 14,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 15,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 16,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 17,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 18,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 19,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               }
+            ]
+         },
+         {
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 1,
+                  "pointsEarned": 1,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
+      "S36_FantasticFourCups_ScoringRulesALT": [
+         {
+            "trackedStat": "TIME_ALIVE_STAT",
+            "matchRule": "gte",
+            "rewardTiers": [
+               {
+                  "keyValue": 60,
+                  "pointsEarned": 1,
+                  "multiplicative": true
+               }
+            ]
+         }
+      ],
       "S36_FNCSCommunityCup_ScoringRules": [
          {
             "trackedStat": "PLACEMENT_STAT_INDEX",
@@ -92397,6 +94192,43 @@
          },
          "gameId": "Fortnite",
          "eventTemplateId": "EventTemplate_S35ReloadRankedCupDuos",
+         "scoringRules": [],
+         "payoutTable": [],
+         "liveSessionAttributes": [],
+         "clampsToZero": false
+      },
+      {
+         "playlistId": "Playlist_ShowdownTournament_Squads",
+         "matchCap": 10,
+         "tiebreakerFormula": {
+            "basePointsBits": 11,
+            "components": [
+               {
+                  "trackedStat": "VICTORY_ROYALE_STAT",
+                  "bits": 4,
+                  "aggregation": "sum"
+               },
+               {
+                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                  "bits": 13,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+                  "bits": 14,
+                  "aggregation": "avg",
+                  "multiplier": 100
+               },
+               {
+                  "trackedStat": "TIME_ALIVE_STAT",
+                  "bits": 11,
+                  "aggregation": "avg"
+               }
+            ]
+         },
+         "gameId": "Fortnite",
+         "eventTemplateId": "EventTemplate_S36_FantasticFourCups",
          "scoringRules": [],
          "payoutTable": [],
          "liveSessionAttributes": [],
