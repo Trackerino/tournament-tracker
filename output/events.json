@@ -66541,7 +66541,7 @@
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
          "leaderboardInstanceIdFormat": "${windowId}_TimeAlive",
          "maxSessionHistorySize": 10,
-         "useIndividualScores": false,
+         "useIndividualScores": true,
          "tiebreakerFormula": {
             "basePointsBits": 11,
             "components": [
@@ -66582,7 +66582,7 @@
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
          "leaderboardInstanceIdFormat": "${windowId}",
          "maxSessionHistorySize": 10,
-         "useIndividualScores": false,
+         "useIndividualScores": true,
          "tiebreakerFormula": {
             "basePointsBits": 11,
             "components": [
