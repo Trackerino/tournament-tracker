@@ -35095,11 +35095,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_S36_FantasticFourCups_EU",
-         "beginTime": "2025-07-23T16:00:00Z",
-         "endTime": "2025-07-23T19:00:00Z",
+         "beginTime": "2025-07-23T17:00:00Z",
+         "endTime": "2025-07-23T20:00:00Z",
          "displayDataId": "s36_fantasticfour",
          "eventGroup": "S36_FantasticFourCups",
-         "announcementTime": "2025-07-21T05:00:00Z",
+         "announcementTime": "2025-07-21T06:00:00Z",
          "regions": [
             "EU"
          ],
@@ -35139,9 +35139,9 @@
             {
                "eventWindowId": "S36_FantasticFourCups_EU",
                "eventTemplateId": "EventTemplate_S36_FantasticFourCups",
-               "countdownBeginTime": "2025-07-23T14:00:00Z",
-               "beginTime": "2025-07-23T16:00:00Z",
-               "endTime": "2025-07-23T19:00:00Z",
+               "countdownBeginTime": "2025-07-23T15:00:00Z",
+               "beginTime": "2025-07-23T17:00:00Z",
+               "endTime": "2025-07-23T20:00:00Z",
                "round": 1,
                "payoutDelay": 32,
                "isTBD": false,
@@ -35279,11 +35279,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_S36_FantasticFourCups_NAC",
-         "beginTime": "2025-07-23T22:00:00Z",
-         "endTime": "2025-07-24T01:00:00Z",
+         "beginTime": "2025-07-23T23:00:00Z",
+         "endTime": "2025-07-24T02:00:00Z",
          "displayDataId": "s36_fantasticfour",
          "eventGroup": "S36_FantasticFourCups",
-         "announcementTime": "2025-07-21T11:00:00Z",
+         "announcementTime": "2025-07-21T12:00:00Z",
          "regions": [
             "NAC",
             "NAE"
@@ -35325,9 +35325,9 @@
             {
                "eventWindowId": "S36_FantasticFourCups_NAC",
                "eventTemplateId": "EventTemplate_S36_FantasticFourCups",
-               "countdownBeginTime": "2025-07-23T20:00:00Z",
-               "beginTime": "2025-07-23T22:00:00Z",
-               "endTime": "2025-07-24T01:00:00Z",
+               "countdownBeginTime": "2025-07-23T21:00:00Z",
+               "beginTime": "2025-07-23T23:00:00Z",
+               "endTime": "2025-07-24T02:00:00Z",
                "round": 1,
                "payoutDelay": 32,
                "isTBD": false,
