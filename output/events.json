@@ -50734,7 +50734,7 @@
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "regionMappings": {
-                  "EU": "EUCOMPTEST"
+                  "EU": "EUCOMP"
                },
                "metadata": {
                   "RoundType": "Qualifiers",
