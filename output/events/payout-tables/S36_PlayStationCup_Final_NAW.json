@@ -9,7 +9,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 3000,
+                  "quantity": 2500,
                   "notifiesPlayer": false
                }
             ]
@@ -21,7 +21,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 1750,
+                  "quantity": 1250,
                   "notifiesPlayer": false
                }
             ]
@@ -33,13 +33,13 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 1250,
+                  "quantity": 1000,
                   "notifiesPlayer": false
                }
             ]
          },
          {
-            "threshold": 5,
+            "threshold": 4,
             "payouts": [
                {
                   "rewardType": "ecomm",
@@ -51,13 +51,25 @@
             ]
          },
          {
-            "threshold": 40,
+            "threshold": 5,
             "payouts": [
                {
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
                   "quantity": 500,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 40,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 400,
                   "notifiesPlayer": false
                }
             ]
