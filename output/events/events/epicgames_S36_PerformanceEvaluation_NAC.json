@@ -481,8 +481,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMPTEST",
-            "NAE": "NACCOMPTEST"
+            "NAC": "NACCOMP",
+            "NAE": "NACCOMP"
          },
          "metadata": {
             "RoundType": "Qualifiers",
