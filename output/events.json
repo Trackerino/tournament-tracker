@@ -77718,7 +77718,7 @@
             "scoringType": "value",
             "ranks": [
                {
-                  "threshold": 120,
+                  "threshold": 0,
                   "payouts": [
                      {
                         "rewardType": "game",
@@ -77726,18 +77726,7 @@
                         "value": "AthenaDance:emoticon_eggnogfaucet",
                         "quantity": 1,
                         "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ],
-            "scoreId": "epicgames_S36_FantasticFourCups_OCE:S36_FantasticFourCups_OCE_TimeAlive"
-         },
-         {
-            "scoringType": "value",
-            "ranks": [
-               {
-                  "threshold": 60,
-                  "payouts": [
+                     },
                      {
                         "rewardType": "game",
                         "rewardMode": "standard",
@@ -77747,8 +77736,7 @@
                      }
                   ]
                }
-            ],
-            "scoreId": "epicgames_S36_FantasticFourCups_OCE:S36_FantasticFourCups_OCE_TimeAlive"
+            ]
          },
          {
             "scoringType": "rank",
