@@ -21,6 +21,7 @@
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
       "minimumAccountLevel": 50,
+      "RegionLockType": "None",
       "tournamentType": "CashCup",
       "webId": "S36_PlayStationCup"
    },
