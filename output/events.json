@@ -76524,7 +76524,8 @@
                      }
                   ]
                }
-            ]
+            ],
+            "scoreId": "epicgames_S36_FantasticFourCups_ASIA:S36_FantasticFourCups_makegood_ASIA_TimeAlive"
          },
          {
             "scoringType": "value",
@@ -76541,7 +76542,8 @@
                      }
                   ]
                }
-            ]
+            ],
+            "scoreId": "epicgames_S36_FantasticFourCups_ASIA:S36_FantasticFourCups_makegood_ASIA_TimeAlive"
          },
          {
             "scoringType": "rank",
@@ -76689,7 +76691,8 @@
                      }
                   ]
                }
-            ]
+            ],
+            "scoreId": "epicgames_S36_FantasticFourCups_EU:S36_FantasticFourCups_makegood_EU_TimeAlive"
          },
          {
             "scoringType": "value",
@@ -76706,7 +76709,8 @@
                      }
                   ]
                }
-            ]
+            ],
+            "scoreId": "epicgames_S36_FantasticFourCups_EU:S36_FantasticFourCups_makegood_EU_TimeAlive"
          },
          {
             "scoringType": "rank",
@@ -76854,7 +76858,8 @@
                      }
                   ]
                }
-            ]
+            ],
+            "scoreId": "epicgames_S36_FantasticFourCups_ME:S36_FantasticFourCups_makegood_ME_TimeAlive"
          },
          {
             "scoringType": "value",
@@ -76871,7 +76876,8 @@
                      }
                   ]
                }
-            ]
+            ],
+            "scoreId": "epicgames_S36_FantasticFourCups_ME:S36_FantasticFourCups_makegood_ME_TimeAlive"
          },
          {
             "scoringType": "rank",
@@ -83396,7 +83402,7 @@
                      {
                         "rewardType": "game",
                         "rewardMode": "standard",
-                        "value": "AthenaDance:spray_34pscupzb ",
+                        "value": "AthenaDance:spray_34pscupzb",
                         "quantity": 1,
                         "notifiesPlayer": true
                      }
@@ -83432,7 +83438,7 @@
                      {
                         "rewardType": "game",
                         "rewardMode": "standard",
-                        "value": "AthenaDance:spray_34pscupzb ",
+                        "value": "AthenaDance:spray_34pscupzb",
                         "quantity": 1,
                         "notifiesPlayer": true
                      }
@@ -83504,7 +83510,7 @@
                      {
                         "rewardType": "game",
                         "rewardMode": "standard",
-                        "value": "AthenaDance:spray_34pscupzb ",
+                        "value": "AthenaDance:spray_34pscupzb",
                         "quantity": 1,
                         "notifiesPlayer": true
                      }
