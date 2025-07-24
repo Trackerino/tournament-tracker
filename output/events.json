@@ -77025,7 +77025,8 @@
                      }
                   ]
                }
-            ]
+            ],
+            "scoreId": "epicgames_S36_FantasticFourCups_OCE:S36_FantasticFourCups_makegood_OCE_TimeAlive"
          },
          {
             "scoringType": "value",
@@ -77042,7 +77043,8 @@
                      }
                   ]
                }
-            ]
+            ],
+            "scoreId": "epicgames_S36_FantasticFourCups_OCE:S36_FantasticFourCups_makegood_OCE_TimeAlive"
          },
          {
             "scoringType": "rank",
@@ -83294,7 +83296,7 @@
                      {
                         "rewardType": "game",
                         "rewardMode": "standard",
-                        "value": "AthenaDance:spray_34pscupzb ",
+                        "value": "AthenaDance:spray_34pscupzb",
                         "quantity": 1,
                         "notifiesPlayer": true
                      }
@@ -83366,7 +83368,7 @@
                      {
                         "rewardType": "game",
                         "rewardMode": "standard",
-                        "value": "AthenaDance:spray_34pscupzb ",
+                        "value": "AthenaDance:spray_34pscupzb",
                         "quantity": 1,
                         "notifiesPlayer": true
                      }
@@ -83474,7 +83476,7 @@
                      {
                         "rewardType": "game",
                         "rewardMode": "standard",
-                        "value": "AthenaDance:spray_34pscupzb ",
+                        "value": "AthenaDance:spray_34pscupzb",
                         "quantity": 1,
                         "notifiesPlayer": true
                      }
@@ -83491,7 +83493,7 @@
                      {
                         "rewardType": "token",
                         "rewardMode": "standard",
-                        "value": "S36_PlayStationCup_Final_NAW",
+                        "value": "S36_PlayStationCup_Final_NAC",
                         "quantity": 1,
                         "notifiesPlayer": false
                      }
