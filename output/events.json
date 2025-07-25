@@ -48718,14 +48718,14 @@
          },
          "platforms": [
             "PS4",
-            "PS5"
+            "PS5",
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
             "DisqualifyType": "Window",
             "minimumAccountLevel": 50,
-            "RegionLockType": "None",
             "tournamentType": "CashCup",
             "webId": "S36_PlayStationCup"
          },
@@ -48766,6 +48766,7 @@
                "requireAnyTokensCaller": [],
                "regionMappings": {},
                "metadata": {
+                  "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator",
                   "RoundType": "Qualifiers",
                   "ScheduledMatchmakingInitialDelaySeconds": 600,
                   "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -48839,7 +48840,6 @@
             "AccountLockType": "Window",
             "DisqualifyType": "Window",
             "minimumAccountLevel": 50,
-            "RegionLockType": "None",
             "tournamentType": "CashCup",
             "webId": "S36_PlayStationCup"
          },
@@ -48880,6 +48880,7 @@
                "requireAnyTokensCaller": [],
                "regionMappings": {},
                "metadata": {
+                  "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator",
                   "RoundType": "Qualifiers",
                   "ScheduledMatchmakingInitialDelaySeconds": 600,
                   "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -48946,14 +48947,14 @@
          },
          "platforms": [
             "PS4",
-            "PS5"
+            "PS5",
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
             "DisqualifyType": "Window",
             "minimumAccountLevel": 50,
-            "RegionLockType": "None",
             "tournamentType": "CashCup",
             "webId": "S36_PlayStationCup"
          },
@@ -48994,6 +48995,7 @@
                "requireAnyTokensCaller": [],
                "regionMappings": {},
                "metadata": {
+                  "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator",
                   "RoundType": "Qualifiers",
                   "ScheduledMatchmakingInitialDelaySeconds": 600,
                   "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -49067,7 +49069,6 @@
             "AccountLockType": "Window",
             "DisqualifyType": "Window",
             "minimumAccountLevel": 50,
-            "RegionLockType": "None",
             "tournamentType": "CashCup",
             "webId": "S36_PlayStationCup"
          },
@@ -49108,6 +49109,7 @@
                "requireAnyTokensCaller": [],
                "regionMappings": {},
                "metadata": {
+                  "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator",
                   "RoundType": "Qualifiers",
                   "ScheduledMatchmakingInitialDelaySeconds": 600,
                   "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -49176,14 +49178,14 @@
          },
          "platforms": [
             "PS4",
-            "PS5"
+            "PS5",
+            "Windows"
          ],
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
             "DisqualifyType": "Window",
             "minimumAccountLevel": 50,
-            "RegionLockType": "None",
             "tournamentType": "CashCup",
             "webId": "S36_PlayStationCup"
          },
@@ -49224,6 +49226,7 @@
                "requireAnyTokensCaller": [],
                "regionMappings": {},
                "metadata": {
+                  "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator",
                   "RoundType": "Qualifiers",
                   "ScheduledMatchmakingInitialDelaySeconds": 600,
                   "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -49297,7 +49300,6 @@
             "AccountLockType": "Window",
             "DisqualifyType": "Window",
             "minimumAccountLevel": 50,
-            "RegionLockType": "None",
             "tournamentType": "CashCup",
             "webId": "S36_PlayStationCup"
          },
@@ -49338,6 +49340,7 @@
                "requireAnyTokensCaller": [],
                "regionMappings": {},
                "metadata": {
+                  "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator",
                   "RoundType": "Qualifiers",
                   "ScheduledMatchmakingInitialDelaySeconds": 600,
                   "ScheduledMatchmakingMatchDelaySeconds": 1920,
@@ -49411,7 +49414,6 @@
             "AccountLockType": "Window",
             "DisqualifyType": "Window",
             "minimumAccountLevel": 50,
-            "RegionLockType": "None",
             "tournamentType": "CashCup",
             "webId": "S36_PlayStationCup"
          },
@@ -49452,6 +49454,7 @@
                "requireAnyTokensCaller": [],
                "regionMappings": {},
                "metadata": {
+                  "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator",
                   "RoundType": "Qualifiers",
                   "ScheduledMatchmakingInitialDelaySeconds": 600,
                   "ScheduledMatchmakingMatchDelaySeconds": 1920,
