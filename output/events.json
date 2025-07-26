@@ -81739,7 +81739,7 @@
                      {
                         "rewardType": "game",
                         "rewardMode": "standard",
-                        "value": "AthenaDance:spray_34pscupzb",
+                        "value": "AthenaDance:spray_34pscupzb ",
                         "quantity": 1,
                         "notifiesPlayer": true
                      }
@@ -81756,7 +81756,7 @@
                      {
                         "rewardType": "token",
                         "rewardMode": "standard",
-                        "value": "S36_PlayStationCup_Final_NAC",
+                        "value": "S36_PlayStationCup_Final_NAW",
                         "quantity": 1,
                         "notifiesPlayer": false
                      }
