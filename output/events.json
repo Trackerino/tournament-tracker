@@ -96,125 +96,6 @@
       },
       {
          "gameId": "Fortnite",
-         "eventId": "epicgames_S34_EliteZadieCup_NAW",
-         "beginTime": "2025-04-26T22:00:00Z",
-         "endTime": "2025-04-28T01:00:00Z",
-         "displayDataId": "s34_zadiereload",
-         "eventGroup": "Season34_EliteZadieCup",
-         "announcementTime": "2025-03-10T11:00:00Z",
-         "regions": [],
-         "regionMappings": {
-            "NAW": "NAWCOMP"
-         },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "Mac",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
-         "platformMappings": {},
-         "metadata": {
-            "AccountLockType": "Window",
-            "DisqualifyType": "Window",
-            "minimumAccountLevel": 50,
-            "tournamentType": "ShopCup",
-            "webId": "S34_EliteZadies"
-         },
-         "eventWindows": [
-            {
-               "eventWindowId": "S34_EliteZadieCup_Day1_NAW",
-               "eventTemplateId": "EventTemplate_S34_EliteZadieCup",
-               "countdownBeginTime": "2025-04-26T20:00:00Z",
-               "beginTime": "2025-04-26T22:00:00Z",
-               "endTime": "2025-04-27T01:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s34_zadie_rules"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S34_EliteZadieCup_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "RoundType": "Qualifiers",
-                  "ServerReplays": true
-               }
-            },
-            {
-               "eventWindowId": "S34_EliteZadieCup_Day2_NAW",
-               "eventTemplateId": "EventTemplate_S34_EliteZadieCup",
-               "countdownBeginTime": "2025-04-27T20:00:00Z",
-               "beginTime": "2025-04-27T22:00:00Z",
-               "endTime": "2025-04-28T01:00:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "mfa",
-                  "eula:s34_zadie_rules"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S34_EliteZadieCup_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "RoundType": "Qualifiers",
-                  "ServerReplays": true
-               }
-            }
-         ],
-         "link": {
-            "type": "br:tournament",
-            "code": "tournament_epicgames_s34_elitezadiecup_naw",
-            "version": 1
-         }
-      },
-      {
-         "gameId": "Fortnite",
          "eventId": "epicgames_S34_FNCSMajor2_Final_NAW",
          "beginTime": "2025-04-27T01:00:00Z",
          "endTime": "2025-04-28T04:30:00Z",
@@ -60126,51 +60007,6 @@
       },
       {
          "gameId": "Fortnite",
-         "leaderboardDefId": "S34_EliteZadieCup_DefaultLeaderboardDef",
-         "leaderboardStorageId": "Fortnite_GLOBAL",
-         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-         "leaderboardInstanceIdFormat": "${windowId}",
-         "maxSessionHistorySize": 10,
-         "useIndividualScores": false,
-         "tiebreakerFormula": {
-            "basePointsBits": 11,
-            "components": [
-               {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
-                  "bits": 4,
-                  "aggregation": "sum"
-               },
-               {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-                  "bits": 13,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
-                  "bits": 14,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "TIME_ALIVE_STAT",
-                  "bits": 11,
-                  "aggregation": "avg"
-               }
-            ]
-         },
-         "scoringRuleSetId": "Scoringrules_S34_EliteZadie",
-         "clampsToZero": true,
-         "payoutsConfig": {
-            "payoutTableIdFormat": "PayoutTable_EliteZadieCup",
-            "payoutDate": "windowEnd+PT32M"
-         },
-         "hidePlayerScores": false,
-         "percentileAccuracy": 1,
-         "requiredPlayerListings": []
-      },
-      {
-         "gameId": "Fortnite",
          "leaderboardDefId": "S34_FNCSMajor2_Final_CumulativeLeaderboardDef",
          "leaderboardStorageId": "Fortnite_GLOBAL",
          "leaderboardInstanceGroupingKeyFormat": "cumulative",
@@ -68095,25 +67931,6 @@
                         "rewardMode": "standard",
                         "value": "USD",
                         "quantity": 7500,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "PayoutTable_EliteZadieCup": [
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 100,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_rankedtroopernoble",
-                        "quantity": 1,
                         "notifiesPlayer": false
                      }
                   ]
@@ -86594,75 +86411,6 @@
             ]
          }
       ],
-      "Scoringrules_S34_EliteZadie": [
-         {
-            "trackedStat": "PLACEMENT_STAT_INDEX",
-            "matchRule": "lte",
-            "rewardTiers": [
-               {
-                  "keyValue": 1,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 2,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 3,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 4,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 5,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 6,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 7,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 8,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 9,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 10,
-                  "pointsEarned": 1,
-                  "multiplicative": false
-               }
-            ]
-         },
-         {
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-            "matchRule": "gte",
-            "rewardTiers": [
-               {
-                  "keyValue": 1,
-                  "pointsEarned": 1,
-                  "multiplicative": true
-               }
-            ]
-         }
-      ],
       "Scoringrules_S35_FNCS_Community_Cups": [
          {
             "trackedStat": "PLACEMENT_STAT_INDEX",
@@ -86996,43 +86744,6 @@
          },
          "gameId": "Fortnite",
          "eventTemplateId": "EventTemplate_RankedCupTrios",
-         "scoringRules": [],
-         "payoutTable": [],
-         "liveSessionAttributes": [],
-         "clampsToZero": false
-      },
-      {
-         "playlistId": "Playlist_ShowdownTournament_DashBerryDuo_NoFill",
-         "matchCap": 10,
-         "tiebreakerFormula": {
-            "basePointsBits": 11,
-            "components": [
-               {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
-                  "bits": 4,
-                  "aggregation": "sum"
-               },
-               {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-                  "bits": 13,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
-                  "bits": 14,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "TIME_ALIVE_STAT",
-                  "bits": 11,
-                  "aggregation": "avg"
-               }
-            ]
-         },
-         "gameId": "Fortnite",
-         "eventTemplateId": "EventTemplate_S34_EliteZadieCup",
          "scoringRules": [],
          "payoutTable": [],
          "liveSessionAttributes": [],
