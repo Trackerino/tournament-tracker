@@ -561,9 +561,7 @@
          "requireNoneTokensCaller": [],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
-         "regionMappings": {
-            "EU": "EUCOMPTEST"
-         },
+         "regionMappings": {},
          "metadata": {
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,

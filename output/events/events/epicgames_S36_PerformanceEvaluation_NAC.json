@@ -481,8 +481,8 @@
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {
-            "NAC": "NACCOMPTEST",
-            "NAE": "NACCOMPTEST"
+            "NAC": "NACCOMP",
+            "NAE": "NACCOMP"
          },
          "metadata": {
             "RoundType": "Qualifiers",
@@ -568,10 +568,7 @@
          "requireNoneTokensCaller": [],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
-         "regionMappings": {
-            "NAC": "NACCOMPTEST",
-            "NAE": "NACCOMPTEST"
-         },
+         "regionMappings": {},
          "metadata": {
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
