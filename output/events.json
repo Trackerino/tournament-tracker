@@ -36662,7 +36662,9 @@
                   }
                ],
                "canLiveSpectate": false,
-               "requireAllTokens": [],
+               "requireAllTokens": [
+                  "S36_CashCup_Qualified"
+               ],
                "requireAnyTokens": [
                   "S34_FNCS_Division1_ASIA",
                   "S34_FNCS_Division2_ASIA",
@@ -36823,7 +36825,9 @@
                   }
                ],
                "canLiveSpectate": false,
-               "requireAllTokens": [],
+               "requireAllTokens": [
+                  "S36_CashCup_Qualified"
+               ],
                "requireAnyTokens": [
                   "S34_FNCS_Division1_BR",
                   "S34_FNCS_Division2_BR",
@@ -36984,7 +36988,9 @@
                   }
                ],
                "canLiveSpectate": false,
-               "requireAllTokens": [],
+               "requireAllTokens": [
+                  "S36_CashCup_Qualified"
+               ],
                "requireAnyTokens": [
                   "S34_FNCS_Division1_EU",
                   "S34_FNCS_Division2_EU",
@@ -37145,7 +37151,9 @@
                   }
                ],
                "canLiveSpectate": false,
-               "requireAllTokens": [],
+               "requireAllTokens": [
+                  "S36_CashCup_Qualified"
+               ],
                "requireAnyTokens": [
                   "S34_FNCS_Division1_ME",
                   "S34_FNCS_Division2_ME",
@@ -37308,7 +37316,9 @@
                   }
                ],
                "canLiveSpectate": false,
-               "requireAllTokens": [],
+               "requireAllTokens": [
+                  "S36_CashCup_Qualified"
+               ],
                "requireAnyTokens": [
                   "S34_FNCS_Division1_NAC",
                   "S34_FNCS_Division2_NAC",
@@ -37469,7 +37479,9 @@
                   }
                ],
                "canLiveSpectate": false,
-               "requireAllTokens": [],
+               "requireAllTokens": [
+                  "S36_CashCup_Qualified"
+               ],
                "requireAnyTokens": [
                   "S34_FNCS_Division1_NAW",
                   "S34_FNCS_Division2_NAW",
@@ -37630,7 +37642,9 @@
                   }
                ],
                "canLiveSpectate": false,
-               "requireAllTokens": [],
+               "requireAllTokens": [
+                  "S36_CashCup_Qualified"
+               ],
                "requireAnyTokens": [
                   "S34_FNCS_Division1_OCE",
                   "S34_FNCS_Division2_OCE",

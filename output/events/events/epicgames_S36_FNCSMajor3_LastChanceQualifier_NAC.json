@@ -128,7 +128,9 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S36_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S34_FNCS_Division1_NAC",
             "S34_FNCS_Division2_NAC",
