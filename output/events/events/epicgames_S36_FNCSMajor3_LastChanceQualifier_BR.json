@@ -59,7 +59,7 @@
    "eventWindows": [
       {
          "eventWindowId": "S36_FNCSMajor3_LastChanceLobby_BR",
-         "eventTemplateId": "EventTemplate_S36_FNCSMajor3_LastChanceQualifier",
+         "eventTemplateId": "EventTemplate_S36_FNCSMajor3_LastChanceLobby",
          "countdownBeginTime": "2025-07-31T19:00:00Z",
          "beginTime": "2025-07-31T21:00:00Z",
          "endTime": "2025-07-31T22:30:00Z",
