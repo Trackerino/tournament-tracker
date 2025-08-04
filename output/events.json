@@ -500,73 +500,6 @@
       },
       {
          "gameId": "Fortnite",
-         "eventId": "epicgames_S35_FNCSCommunityCups_Bugha_OCE",
-         "beginTime": "2025-05-05T08:00:00Z",
-         "endTime": "2025-05-05T10:30:00Z",
-         "displayDataId": "s35_fncs_bugha",
-         "eventGroup": "Season35_FNCSCommunityCup",
-         "announcementTime": "2025-04-29T15:00:00Z",
-         "regions": [
-            "OCE"
-         ],
-         "regionMappings": {
-            "OCE": "OCECOMP"
-         },
-         "platforms": [],
-         "platformMappings": {},
-         "metadata": {
-            "AccountLockType": "Window",
-            "DisqualifyType": "Event",
-            "minimumAccountLevel": 50,
-            "tournamentType": "ShopCup"
-         },
-         "eventWindows": [
-            {
-               "eventWindowId": "S35_FNCSCommunityCups_Bugha_OCE",
-               "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
-               "countdownBeginTime": "2025-05-05T06:00:00Z",
-               "beginTime": "2025-05-05T08:00:00Z",
-               "endTime": "2025-05-05T10:30:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s35_fncscommunity_rules",
-                  "mfa",
-                  "adps:g-a81a33a3b9a7"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "Leaderboard_S35_FNCS_Community_Cups",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2",
-                  "Permanent_Tournament_Ban"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "RoundType": "Qualifiers",
-                  "ServerReplays": true
-               }
-            }
-         ],
-         "link": {
-            "type": "br:tournament",
-            "code": "tournament_epicgames_s35_fncscommunitycups_bugha_oce",
-            "version": 1
-         }
-      },
-      {
-         "gameId": "Fortnite",
          "eventId": "epicgames_S35_FNCSCommunityCups_Clix_ASIA",
          "beginTime": "2025-05-03T09:00:00Z",
          "endTime": "2025-05-09T11:30:00Z",
@@ -57185,42 +57118,6 @@
          }
       ],
       "S35_FNCSCommunityCups_Bugha_NAW": [
-         {
-            "scoringType": "value",
-            "ranks": [
-               {
-                  "threshold": 8,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaDance:spray_fncsprow1",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 150,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_sleetreceipt",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S35_FNCSCommunityCups_Bugha_OCE": [
          {
             "scoringType": "value",
             "ranks": [
