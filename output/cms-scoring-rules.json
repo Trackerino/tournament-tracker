@@ -78,6 +78,14 @@
    },
    {
       "_type": "Scoring Rules Display Info",
+      "description": "{0} {0}|plural(one=Veszprem Round Won,other=Veszprem Rounds Won)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "{0} {0}|plural(one=Veszprem Round Won,other=Veszprem Rounds Won)",
+      "rule_name": "CREATIVE_ROUNDSWON_STAT"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
       "description": "Every {0} Remaining Spawn",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
@@ -172,6 +180,14 @@
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
       "poster_description": "{0}|plural(one=Each Objective Completed,other=Every {0} Objectives Completed)",
       "rule_name": "EACH_CREATIVE_OBJECTIVES_STAT"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0}|plural(one=Each Veszprem Round Won,other=Every {0} Veszprem Rounds Won)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "{0}|plural(one=Each Veszprem Round Won,other=Every {0} Veszprem Rounds Won)",
+      "rule_name": "EACH_CREATIVE_ROUNDSWON_STAT"
    },
    {
       "_type": "Scoring Rules Display Info",
