@@ -584,6 +584,12 @@
    },
    {
       "_type": "Leaderboard Display Info",
+      "leaderboard_id": "LeadDef_BettoTest_Veszprem_Alt",
+      "leaderboard_name": "Veszprem Alt",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
       "leaderboard_id": "Lemming_SeriesLeaderboard",
       "leaderboard_name": "Best of Weekly Leaderboard",
       "show_details_panel": true
