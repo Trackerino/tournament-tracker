@@ -56340,7 +56340,7 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 2100,
+                        "quantity": 1000,
                         "notifiesPlayer": false
                      }
                   ]
@@ -56352,7 +56352,7 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 1050,
+                        "quantity": 700,
                         "notifiesPlayer": false
                      }
                   ]
@@ -56364,7 +56364,7 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 700,
+                        "quantity": 500,
                         "notifiesPlayer": false
                      }
                   ]
@@ -56376,7 +56376,7 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 595,
+                        "quantity": 400,
                         "notifiesPlayer": false
                      }
                   ]
@@ -56388,7 +56388,7 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 455,
+                        "quantity": 300,
                         "notifiesPlayer": false
                      }
                   ]
@@ -56400,7 +56400,7 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 280,
+                        "quantity": 150,
                         "notifiesPlayer": false
                      }
                   ]
@@ -56412,7 +56412,7 @@
                         "rewardType": "ecomm",
                         "rewardMode": "standard",
                         "value": "USD",
-                        "quantity": 140,
+                        "quantity": 100,
                         "notifiesPlayer": false
                      }
                   ]
