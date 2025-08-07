@@ -1,0 +1,209 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S37_EliteZadieCup_NAW",
+   "beginTime": "2025-08-30T01:00:00Z",
+   "endTime": "2025-08-30T03:00:02Z",
+   "displayDataId": "s37_elitezadie",
+   "eventGroup": "Season37_EliteZadie",
+   "announcementTime": "2025-08-02T07:00:00Z",
+   "regions": [
+      "NAW"
+   ],
+   "regionMappings": {
+      "NAW": "NAWCOP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "tournamentType": "ShopCup",
+      "webId": "S37_EliteZadieCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S37_EliteZadieCup_Round1_NAW",
+         "eventTemplateId": "EventTemplate_ReloadQuickCupsRound1",
+         "countdownBeginTime": "2025-08-29T23:00:00Z",
+         "beginTime": "2025-08-30T01:00:00Z",
+         "endTime": "2025-08-30T01:45:00Z",
+         "round": 1,
+         "payoutDelay": 24,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "eula:s37_reloadquick_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ReloadQuick_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_EliteZadieCup_Round2Group1_NAW",
+         "eventTemplateId": "EventTemplate_ReloadQuickCups",
+         "countdownBeginTime": "2025-08-30T00:15:00Z",
+         "beginTime": "2025-08-30T02:15:00Z",
+         "endTime": "2025-08-30T03:00:00Z",
+         "round": 1,
+         "payoutDelay": 24,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "eula:s37_reloadquick_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ReloadQuick_Round2Group1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_EliteZadieCup_Group1Round2_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_EliteZadieCup_Round2Group2_NAW",
+         "eventTemplateId": "EventTemplate_ReloadQuickCups",
+         "countdownBeginTime": "2025-08-30T00:15:01Z",
+         "beginTime": "2025-08-30T02:15:01Z",
+         "endTime": "2025-08-30T03:00:01Z",
+         "round": 1,
+         "payoutDelay": 24,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "eula:s37_reloadquick_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_EliteZadieCup_Round2Group2_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_EliteZadieCup_Round2Group3_NAW",
+         "eventTemplateId": "EventTemplate_ReloadQuickCups",
+         "countdownBeginTime": "2025-08-30T00:10:02Z",
+         "beginTime": "2025-08-30T02:15:02Z",
+         "endTime": "2025-08-30T03:00:02Z",
+         "round": 1,
+         "payoutDelay": 24,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "eula:s37_reloadquick_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_EliteZadieCup_Round2Group3_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s37_elitezadiecup_naw"
+   }
+}
