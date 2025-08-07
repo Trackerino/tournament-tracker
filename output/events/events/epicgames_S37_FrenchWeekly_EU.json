@@ -1,0 +1,647 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S37_FrenchWeekly_EU",
+   "beginTime": "2025-09-10T12:00:00Z",
+   "endTime": "2025-10-22T15:00:00Z",
+   "displayDataId": "S37_ranked_duosreload",
+   "eventGroup": "Season37_RankedCupReloadDuos",
+   "announcementTime": "2025-07-29T22:00:00Z",
+   "regions": [
+      "EU"
+   ],
+   "regionMappings": {
+      "EU": "EUCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "tournamentType": "RankedCup",
+      "TrackedStats": [],
+      "webId": "S37_FrenchWeekly"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S37_FrenchWeekly_Event1_EU",
+         "eventTemplateId": "EventTemplate_RankedCupReloadDuos",
+         "countdownBeginTime": "2025-09-10T10:00:00Z",
+         "beginTime": "2025-09-10T12:00:00Z",
+         "endTime": "2025-09-10T15:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S37_ranked_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked_blastberry_build:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "RankedCupDuosReload_Platinum_LeaderboardDef": "12:14",
+               "RankedCupDuosReload_Bronze_LeaderboardDef": "0:2",
+               "RankedCupDuosReload_Elite_LeaderboardDef": "16:16",
+               "RankedCupDuosReload_Diamond_LeaderboardDef": "9:11",
+               "RankedCupDuosReload_Champion_LeaderboardDef": "15:15",
+               "RankedCupDuosReload_Silver_LeaderboardDef": "3:5",
+               "RankedCupDuosReload_Unreal_LeaderboardDef": "17:17",
+               "RankedCupDuosReload_Gold_LeaderboardDef": "6:8"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_FrenchWeekly_Event2_EU",
+         "eventTemplateId": "EventTemplate_RankedCupReloadDuos",
+         "countdownBeginTime": "2025-09-17T10:00:00Z",
+         "beginTime": "2025-09-17T12:00:00Z",
+         "endTime": "2025-09-17T15:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S37_ranked_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked_blastberry_build:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "RankedCupDuosReload_Platinum_LeaderboardDef": "12:14",
+               "RankedCupDuosReload_Bronze_LeaderboardDef": "0:2",
+               "RankedCupDuosReload_Elite_LeaderboardDef": "16:16",
+               "RankedCupDuosReload_Diamond_LeaderboardDef": "9:11",
+               "RankedCupDuosReload_Champion_LeaderboardDef": "15:15",
+               "RankedCupDuosReload_Silver_LeaderboardDef": "3:5",
+               "RankedCupDuosReload_Unreal_LeaderboardDef": "17:17",
+               "RankedCupDuosReload_Gold_LeaderboardDef": "6:8"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_FrenchWeekly_Event3_EU",
+         "eventTemplateId": "EventTemplate_RankedCupReloadDuos",
+         "countdownBeginTime": "2025-09-24T10:00:00Z",
+         "beginTime": "2025-09-24T12:00:00Z",
+         "endTime": "2025-09-24T15:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S37_ranked_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked_blastberry_build:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "RankedCupDuosReload_Platinum_LeaderboardDef": "12:14",
+               "RankedCupDuosReload_Bronze_LeaderboardDef": "0:2",
+               "RankedCupDuosReload_Elite_LeaderboardDef": "16:16",
+               "RankedCupDuosReload_Diamond_LeaderboardDef": "9:11",
+               "RankedCupDuosReload_Champion_LeaderboardDef": "15:15",
+               "RankedCupDuosReload_Silver_LeaderboardDef": "3:5",
+               "RankedCupDuosReload_Unreal_LeaderboardDef": "17:17",
+               "RankedCupDuosReload_Gold_LeaderboardDef": "6:8"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_FrenchWeekly_Event4_EU",
+         "eventTemplateId": "EventTemplate_RankedCupReloadDuos",
+         "countdownBeginTime": "2025-10-01T10:00:00Z",
+         "beginTime": "2025-10-01T12:00:00Z",
+         "endTime": "2025-10-01T15:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S37_ranked_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked_blastberry_build:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "RankedCupDuosReload_Platinum_LeaderboardDef": "12:14",
+               "RankedCupDuosReload_Bronze_LeaderboardDef": "0:2",
+               "RankedCupDuosReload_Elite_LeaderboardDef": "16:16",
+               "RankedCupDuosReload_Diamond_LeaderboardDef": "9:11",
+               "RankedCupDuosReload_Champion_LeaderboardDef": "15:15",
+               "RankedCupDuosReload_Silver_LeaderboardDef": "3:5",
+               "RankedCupDuosReload_Unreal_LeaderboardDef": "17:17",
+               "RankedCupDuosReload_Gold_LeaderboardDef": "6:8"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_FrenchWeekly_Event5_EU",
+         "eventTemplateId": "EventTemplate_RankedCupReloadDuos",
+         "countdownBeginTime": "2025-10-08T10:00:00Z",
+         "beginTime": "2025-10-08T12:00:00Z",
+         "endTime": "2025-10-08T15:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S37_ranked_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked_blastberry_build:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "RankedCupDuosReload_Platinum_LeaderboardDef": "12:14",
+               "RankedCupDuosReload_Bronze_LeaderboardDef": "0:2",
+               "RankedCupDuosReload_Elite_LeaderboardDef": "16:16",
+               "RankedCupDuosReload_Diamond_LeaderboardDef": "9:11",
+               "RankedCupDuosReload_Champion_LeaderboardDef": "15:15",
+               "RankedCupDuosReload_Silver_LeaderboardDef": "3:5",
+               "RankedCupDuosReload_Unreal_LeaderboardDef": "17:17",
+               "RankedCupDuosReload_Gold_LeaderboardDef": "6:8"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_FrenchWeekly_Event6_EU",
+         "eventTemplateId": "EventTemplate_RankedCupReloadDuos",
+         "countdownBeginTime": "2025-10-15T10:00:00Z",
+         "beginTime": "2025-10-15T12:00:00Z",
+         "endTime": "2025-10-15T15:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S37_ranked_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked_blastberry_build:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "RankedCupDuosReload_Platinum_LeaderboardDef": "12:14",
+               "RankedCupDuosReload_Bronze_LeaderboardDef": "0:2",
+               "RankedCupDuosReload_Elite_LeaderboardDef": "16:16",
+               "RankedCupDuosReload_Diamond_LeaderboardDef": "9:11",
+               "RankedCupDuosReload_Champion_LeaderboardDef": "15:15",
+               "RankedCupDuosReload_Silver_LeaderboardDef": "3:5",
+               "RankedCupDuosReload_Unreal_LeaderboardDef": "17:17",
+               "RankedCupDuosReload_Gold_LeaderboardDef": "6:8"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_FrenchWeekly_Event7_EU",
+         "eventTemplateId": "EventTemplate_RankedCupReloadDuos",
+         "countdownBeginTime": "2025-10-22T10:00:00Z",
+         "beginTime": "2025-10-22T12:00:00Z",
+         "endTime": "2025-10-22T15:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:S37_ranked_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked_blastberry_build:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "RankedCupDuosReload_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "RankedCupDuosReload_Platinum_LeaderboardDef": "12:14",
+               "RankedCupDuosReload_Bronze_LeaderboardDef": "0:2",
+               "RankedCupDuosReload_Elite_LeaderboardDef": "16:16",
+               "RankedCupDuosReload_Diamond_LeaderboardDef": "9:11",
+               "RankedCupDuosReload_Champion_LeaderboardDef": "15:15",
+               "RankedCupDuosReload_Silver_LeaderboardDef": "3:5",
+               "RankedCupDuosReload_Unreal_LeaderboardDef": "17:17",
+               "RankedCupDuosReload_Gold_LeaderboardDef": "6:8"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked_blastberry_build",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s37_frenchweekly_eu"
+   }
+}
