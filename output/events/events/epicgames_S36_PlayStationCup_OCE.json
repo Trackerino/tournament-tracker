@@ -12,10 +12,7 @@
    "regionMappings": {
       "OCE": "OCECOMP"
    },
-   "platforms": [
-      "PS4",
-      "PS5"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",

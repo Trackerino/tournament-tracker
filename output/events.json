@@ -35558,11 +35558,7 @@
          "regionMappings": {
             "ASIA": "ASIACOMP"
          },
-         "platforms": [
-            "PS4",
-            "PS5",
-            "Windows"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
@@ -35673,10 +35669,7 @@
          "regionMappings": {
             "BR": "BRCOMP"
          },
-         "platforms": [
-            "PS4",
-            "PS5"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
@@ -35787,11 +35780,7 @@
          "regionMappings": {
             "EU": "EUCOMP"
          },
-         "platforms": [
-            "PS4",
-            "PS5",
-            "Windows"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
@@ -35902,10 +35891,7 @@
          "regionMappings": {
             "ME": "MECOMP"
          },
-         "platforms": [
-            "PS4",
-            "PS5"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
@@ -36018,11 +36004,7 @@
             "NAC": "NACCOMP",
             "NAE": "NACCOMP"
          },
-         "platforms": [
-            "PS4",
-            "PS5",
-            "Windows"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
@@ -36133,11 +36115,7 @@
          "regionMappings": {
             "NAW": "NAWCOMP"
          },
-         "platforms": [
-            "PS4",
-            "PS5",
-            "Windows"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",
@@ -36248,10 +36226,7 @@
          "regionMappings": {
             "OCE": "OCECOMP"
          },
-         "platforms": [
-            "PS4",
-            "PS5"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Window",

@@ -12,11 +12,7 @@
    "regionMappings": {
       "EU": "EUCOMP"
    },
-   "platforms": [
-      "PS4",
-      "PS5",
-      "Windows"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
