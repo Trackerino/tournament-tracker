@@ -1,0 +1,19 @@
+[
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 250,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S37_ConsoleDuosCashCups_Event7Round2_OCE",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]

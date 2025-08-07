@@ -1,0 +1,19 @@
+[
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 500,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S37_ConsoleDuosCashCups_Event5Round2_EU",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]
