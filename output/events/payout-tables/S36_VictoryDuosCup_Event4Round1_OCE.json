@@ -3,12 +3,12 @@
       "scoringType": "rank",
       "ranks": [
          {
-            "threshold": 500,
+            "threshold": 250,
             "payouts": [
                {
                   "rewardType": "token",
                   "rewardMode": "standard",
-                  "value": "S36_VictoryDuosCup_Event1Round2_makegood_NAC",
+                  "value": "S36_VictoryDuosCup_Event4Round2_OCE",
                   "quantity": 1,
                   "notifiesPlayer": false
                }
