@@ -106,7 +106,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S37_BladeOfChampsCup_Group1Round2_EU"
+            "S37_BladeOfChampsCup_Round2Group1_EU"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [

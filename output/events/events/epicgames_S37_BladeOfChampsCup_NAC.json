@@ -108,7 +108,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S37_BladeOfChampsCup_Group1Round2_NAC"
+            "S37_BladeOfChampsCup_Round2Group1_NAC"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
