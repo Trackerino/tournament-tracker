@@ -37621,7 +37621,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S36_RangerCup_Pink_NAC",
          "beginTime": "2025-08-06T23:00:00Z",
-         "endTime": "2025-08-07T02:00:00Z",
+         "endTime": "2025-08-07T03:00:00Z",
          "displayDataId": "s37_pinkranger",
          "eventGroup": "Season36_Pink_SoloRangerCup",
          "announcementTime": "2025-08-01T06:00:00Z",
@@ -37631,7 +37631,7 @@
          ],
          "regionMappings": {
             "NAC": "NACCOMP",
-            "NAE": "NAECOMP"
+            "NAE": "NACCOMP"
          },
          "platforms": [
             "Android",
@@ -37669,7 +37669,7 @@
                "eventTemplateId": "EventTemplate_S36_SoloRangerCup",
                "countdownBeginTime": "2025-08-06T21:00:00Z",
                "beginTime": "2025-08-06T23:00:00Z",
-               "endTime": "2025-08-07T02:00:00Z",
+               "endTime": "2025-08-07T03:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
@@ -38246,7 +38246,7 @@
          "gameId": "Fortnite",
          "eventId": "epicgames_S36_RangerCup_Red_NAC",
          "beginTime": "2025-08-06T23:00:00Z",
-         "endTime": "2025-08-07T02:00:00Z",
+         "endTime": "2025-08-07T03:00:00Z",
          "displayDataId": "s37_redranger",
          "eventGroup": "Season36_Red_SoloRangerCup",
          "announcementTime": "2025-08-01T06:00:00Z",
@@ -38256,7 +38256,7 @@
          ],
          "regionMappings": {
             "NAC": "NACCOMP",
-            "NAE": "NAECOMP"
+            "NAE": "NACCOMP"
          },
          "platforms": [
             "Android",
@@ -38294,7 +38294,7 @@
                "eventTemplateId": "EventTemplate_S36_SoloRangerCup",
                "countdownBeginTime": "2025-08-06T21:00:00Z",
                "beginTime": "2025-08-06T23:00:00Z",
-               "endTime": "2025-08-07T02:00:00Z",
+               "endTime": "2025-08-07T03:00:00Z",
                "round": 0,
                "payoutDelay": 32,
                "isTBD": false,
