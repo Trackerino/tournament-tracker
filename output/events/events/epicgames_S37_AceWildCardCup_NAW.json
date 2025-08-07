@@ -10,7 +10,7 @@
       "NAW"
    ],
    "regionMappings": {
-      "NAW": "NAWCOP"
+      "NAW": "NAWCOMP"
    },
    "platforms": [
       "Android",
