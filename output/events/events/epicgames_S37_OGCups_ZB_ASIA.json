@@ -1,0 +1,422 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S37_OGCups_ZB_ASIA",
+   "beginTime": "2025-08-17T05:00:00Z",
+   "endTime": "2025-10-26T08:00:00Z",
+   "displayDataId": "s34_og_cupzb",
+   "eventGroup": "S37_OGCups",
+   "announcementTime": "2025-08-06T23:00:00Z",
+   "regions": [
+      "ASIA"
+   ],
+   "regionMappings": {
+      "ASIA": "ASIACOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "TeamLockType": "None",
+      "tournamentType": "WorkshopCup",
+      "webId": "S37_OGCups_ZB"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S37_OGCup_ZB_Event1_ASIA",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
+         "countdownBeginTime": "2025-08-17T02:59:00Z",
+         "beginTime": "2025-08-17T05:00:00Z",
+         "endTime": "2025-08-17T08:00:00Z",
+         "round": 1,
+         "payoutDelay": 31,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_og_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_OGCups_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_OGCup_ZB_Event10_ASIA",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
+         "countdownBeginTime": "2025-10-26T02:59:00Z",
+         "beginTime": "2025-10-26T05:00:00Z",
+         "endTime": "2025-10-26T08:00:00Z",
+         "round": 1,
+         "payoutDelay": 31,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_og_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_OGCups_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_OGCup_ZB_Event2_ASIA",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
+         "countdownBeginTime": "2025-08-24T02:59:00Z",
+         "beginTime": "2025-08-24T05:00:00Z",
+         "endTime": "2025-08-24T08:00:00Z",
+         "round": 1,
+         "payoutDelay": 31,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_og_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_OGCups_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_OGCup_ZB_Event3_ASIA",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
+         "countdownBeginTime": "2025-08-31T02:59:00Z",
+         "beginTime": "2025-08-31T05:00:00Z",
+         "endTime": "2025-08-31T08:00:00Z",
+         "round": 1,
+         "payoutDelay": 31,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_og_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_OGCups_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_OGCup_ZB_Event4_ASIA",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
+         "countdownBeginTime": "2025-09-14T02:59:00Z",
+         "beginTime": "2025-09-14T05:00:00Z",
+         "endTime": "2025-09-14T08:00:00Z",
+         "round": 1,
+         "payoutDelay": 31,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_og_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_OGCups_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_OGCup_ZB_Event5_ASIA",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
+         "countdownBeginTime": "2025-09-21T02:59:00Z",
+         "beginTime": "2025-09-21T05:00:00Z",
+         "endTime": "2025-09-21T08:00:00Z",
+         "round": 1,
+         "payoutDelay": 31,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_og_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_OGCups_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_OGCup_ZB_Event6_ASIA",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
+         "countdownBeginTime": "2025-09-28T02:59:00Z",
+         "beginTime": "2025-09-28T05:00:00Z",
+         "endTime": "2025-09-28T08:00:00Z",
+         "round": 1,
+         "payoutDelay": 31,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_og_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_OGCups_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_OGCup_ZB_Event7_ASIA",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
+         "countdownBeginTime": "2025-10-05T02:59:00Z",
+         "beginTime": "2025-10-05T05:00:00Z",
+         "endTime": "2025-10-05T08:00:00Z",
+         "round": 1,
+         "payoutDelay": 31,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_og_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_OGCups_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_OGCup_ZB_Event8_ASIA",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
+         "countdownBeginTime": "2025-10-12T02:59:00Z",
+         "beginTime": "2025-10-12T05:00:00Z",
+         "endTime": "2025-10-12T08:00:00Z",
+         "round": 1,
+         "payoutDelay": 31,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_og_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_OGCups_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_OGCup_ZB_Event9_ASIA",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
+         "countdownBeginTime": "2025-10-19T02:59:00Z",
+         "beginTime": "2025-10-19T05:00:00Z",
+         "endTime": "2025-10-19T08:00:00Z",
+         "round": 1,
+         "payoutDelay": 31,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s33_og_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_OGCups_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s37_ogcups_zb_asia"
+   }
+}
