@@ -3,7 +3,7 @@
    "eventId": "epicgames_S37_FrenchWeekly_EU",
    "beginTime": "2025-09-10T12:00:00Z",
    "endTime": "2025-10-22T15:00:00Z",
-   "displayDataId": "S37_ranked_duosreload",
+   "displayDataId": "s37_ranked_duosreload",
    "eventGroup": "Season37_RankedCupReloadDuos",
    "announcementTime": "2025-07-29T22:00:00Z",
    "regions": [
