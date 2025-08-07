@@ -37,7 +37,9 @@
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
-      "DisqualifyType": "Window"
+      "DisqualifyType": "Window",
+      "tournamentType": "ShopCup",
+      "webId": "S37_FNCSCommunityCups_Bugha"
    },
    "eventWindows": [
       {
