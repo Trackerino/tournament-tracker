@@ -1,27 +1,18 @@
 {
    "gameId": "Fortnite",
-   "eventId": "epicgames_S36_SquidGroundVictoryDuosCup_ME",
-   "beginTime": "2025-07-18T12:00:00Z",
-   "endTime": "2025-08-01T16:00:00Z",
-   "displayDataId": "s36_squidcash",
-   "eventGroup": "Season36_SquidGroundVictoryDuosCup",
-   "announcementTime": "2025-06-06T18:00:00Z",
+   "eventId": "epicgames_S36_VictoryDuosCup_ASIA",
+   "beginTime": "2025-06-13T09:00:00Z",
+   "endTime": "2025-06-27T13:00:00Z",
+   "displayDataId": "s36_duosconsole",
+   "eventGroup": "Season36_VictoryDuosCup",
+   "announcementTime": "2025-06-06T15:00:00Z",
    "regions": [
-      "ME"
+      "ASIA"
    ],
    "regionMappings": {
-      "ME": "MECOMP"
+      "ASIA": "ASIACOMP"
    },
-   "platforms": [
-      "PS4",
-      "PS5",
-      "Switch",
-      "Switch2",
-      "XB1",
-      "XSX",
-      "XboxOne",
-      "XboxOneGDK"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
@@ -29,15 +20,15 @@
       "minimumAccountLevel": 50,
       "TeamLockType": "Window",
       "tournamentType": "VictoryCup",
-      "webId": "S36_SquidGroundVictoryDuosCup"
+      "webId": "S36_VictoryDuosCup"
    },
    "eventWindows": [
       {
-         "eventWindowId": "S36_VictoryDuosCup_Event4Round1_ME",
+         "eventWindowId": "S36_VictoryDuosCup_Event1Round1_ASIA",
          "eventTemplateId": "EventTemplate_S36_VictoryDuosCup_Round1",
-         "countdownBeginTime": "2025-07-18T10:00:00Z",
-         "beginTime": "2025-07-18T12:00:00Z",
-         "endTime": "2025-07-18T14:00:00Z",
+         "countdownBeginTime": "2025-06-13T07:00:00Z",
+         "beginTime": "2025-06-13T09:00:00Z",
+         "endTime": "2025-06-13T11:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -77,11 +68,11 @@
          }
       },
       {
-         "eventWindowId": "S36_VictoryDuosCup_Event4Round2_ME",
+         "eventWindowId": "S36_VictoryDuosCup_Event1Round2_ASIA",
          "eventTemplateId": "EventTemplate_S36_VictoryDuosCup_Round2",
-         "countdownBeginTime": "2025-07-18T13:00:00Z",
-         "beginTime": "2025-07-18T15:00:00Z",
-         "endTime": "2025-07-18T16:00:00Z",
+         "countdownBeginTime": "2025-06-13T09:00:00Z",
+         "beginTime": "2025-06-13T12:00:00Z",
+         "endTime": "2025-06-13T13:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -101,7 +92,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S36_VictoryDuosCup_Event4Round2_ME"
+            "S36_VictoryDuosCup_Event1Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -117,11 +108,11 @@
          }
       },
       {
-         "eventWindowId": "S36_VictoryDuosCup_Event5Round1_ME",
+         "eventWindowId": "S36_VictoryDuosCup_Event2Round1_ASIA",
          "eventTemplateId": "EventTemplate_S36_VictoryDuosCup_Round1",
-         "countdownBeginTime": "2025-07-25T07:00:00Z",
-         "beginTime": "2025-07-25T12:00:00Z",
-         "endTime": "2025-07-25T14:00:00Z",
+         "countdownBeginTime": "2025-06-20T07:00:00Z",
+         "beginTime": "2025-06-20T09:00:00Z",
+         "endTime": "2025-06-20T11:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -161,11 +152,11 @@
          }
       },
       {
-         "eventWindowId": "S36_VictoryDuosCup_Event5Round2_ME",
+         "eventWindowId": "S36_VictoryDuosCup_Event2Round2_ASIA",
          "eventTemplateId": "EventTemplate_S36_VictoryDuosCup_Round2",
-         "countdownBeginTime": "2025-07-25T13:00:00Z",
-         "beginTime": "2025-07-25T15:00:00Z",
-         "endTime": "2025-07-25T16:00:00Z",
+         "countdownBeginTime": "2025-06-20T08:00:00Z",
+         "beginTime": "2025-06-20T12:00:00Z",
+         "endTime": "2025-06-20T13:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -185,7 +176,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S36_VictoryDuosCup_Event5Round2_ME"
+            "S36_VictoryDuosCup_Event2Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -201,11 +192,11 @@
          }
       },
       {
-         "eventWindowId": "S36_VictoryDuosCup_Event6Round1_ME",
+         "eventWindowId": "S36_VictoryDuosCup_Event3Round1_ASIA",
          "eventTemplateId": "EventTemplate_S36_VictoryDuosCup_Round1",
-         "countdownBeginTime": "2025-08-01T10:00:00Z",
-         "beginTime": "2025-08-01T12:00:00Z",
-         "endTime": "2025-08-01T14:00:00Z",
+         "countdownBeginTime": "2025-06-27T07:00:00Z",
+         "beginTime": "2025-06-27T09:00:00Z",
+         "endTime": "2025-06-27T11:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -245,11 +236,11 @@
          }
       },
       {
-         "eventWindowId": "S36_VictoryDuosCup_Event6Round2_ME",
+         "eventWindowId": "S36_VictoryDuosCup_Event3Round2_ASIA",
          "eventTemplateId": "EventTemplate_S36_VictoryDuosCup_Round2",
-         "countdownBeginTime": "2025-08-01T13:00:00Z",
-         "beginTime": "2025-08-01T15:00:00Z",
-         "endTime": "2025-08-01T16:00:00Z",
+         "countdownBeginTime": "2025-06-27T10:00:00Z",
+         "beginTime": "2025-06-27T12:00:00Z",
+         "endTime": "2025-06-27T13:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -269,7 +260,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S36_VictoryDuosCup_Event6Round2_ME"
+            "S36_VictoryDuosCup_Event3Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -287,6 +278,6 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_epicgames_s36_squidgroundvictoryduoscup_me"
+      "code": "tournament_epicgames_s36_victoryduoscup_asia"
    }
 }
