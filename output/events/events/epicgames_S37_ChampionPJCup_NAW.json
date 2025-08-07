@@ -1,0 +1,87 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S37_ChampionPJCup_NAW",
+   "beginTime": "2025-08-17T01:00:00Z",
+   "endTime": "2025-08-17T04:00:00Z",
+   "displayDataId": "s37_pj",
+   "eventGroup": "Season37_ChampionPJCup",
+   "announcementTime": "2025-07-30T21:00:00Z",
+   "regions": [
+      "NAW"
+   ],
+   "regionMappings": {
+      "NAW": "NAWCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S37_ChampionPJCup_NAW",
+         "eventTemplateId": "EventTemplate_S37_ChampionPJCup",
+         "countdownBeginTime": "2025-08-16T23:00:00Z",
+         "beginTime": "2025-08-17T01:00:00Z",
+         "endTime": "2025-08-17T04:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_fncscommunity_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ChampionPJCup_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s37_championpjcup_naw"
+   }
+}

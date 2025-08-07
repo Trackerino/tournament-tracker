@@ -1,0 +1,44 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 0,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "rolling",
+                  "value": "S37_DivisionLock_Division3Week2_NAC",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               },
+               {
+                  "rewardType": "token",
+                  "rewardMode": "rolling",
+                  "value": "S34_FNCS_Division3_NAC",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 200,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S34_FNCS_Division2_NAC",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ],
+      "scoreId": "cumulative:epicgames_S37_FNCSDivisionalCup_Division3_NAC_Week2_cumulative"
+   }
+]
