@@ -1,0 +1,43 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 9,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S37_ReloadQuickCup_Event1Group3Round2_OCE",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 14,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S37_ReloadQuickCup_Event1Group2Round2_OCE",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 15,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S37_ReloadQuickCup_Event1Group1Round2_OCE",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]

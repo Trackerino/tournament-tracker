@@ -1,0 +1,45 @@
+{
+   "gameId": "Fortnite",
+   "leaderboardDefId": "RankedCupDuos_Champion_LeaderboardDef",
+   "leaderboardStorageId": "Fortnite_GLOBAL",
+   "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+   "leaderboardInstanceIdFormat": "${windowId}_champion",
+   "maxSessionHistorySize": 150,
+   "useIndividualScores": false,
+   "tiebreakerFormula": {
+      "basePointsBits": 11,
+      "components": [
+         {
+            "trackedStat": "CHAMPION_VICTORY_ROYALE_STAT",
+            "bits": 4,
+            "aggregation": "sum"
+         },
+         {
+            "trackedStat": "CHAMPION_TEAM_ELIMS_STAT_INDEX",
+            "bits": 12,
+            "aggregation": "avg",
+            "multiplier": 100
+         },
+         {
+            "trackedStat": "CHAMPION_PLACEMENT_TIEBREAKER_STAT",
+            "bits": 14,
+            "aggregation": "avg",
+            "multiplier": 100
+         },
+         {
+            "trackedStat": "CHAMPION_TIME_ALIVE_STAT",
+            "bits": 11,
+            "aggregation": "avg"
+         }
+      ]
+   },
+   "scoringRuleSetId": "ScoringRules_RankedCupDuos_Champion",
+   "clampsToZero": true,
+   "payoutsConfig": {
+      "payoutTableIdFormat": "${eventId}",
+      "payoutDate": "windowEnd+PT32M"
+   },
+   "hidePlayerScores": false,
+   "percentileAccuracy": 1,
+   "requiredPlayerListings": []
+}
