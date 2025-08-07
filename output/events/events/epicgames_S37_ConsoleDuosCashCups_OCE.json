@@ -1,0 +1,850 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S37_ConsoleDuosCashCups_OCE",
+   "beginTime": "2025-08-17T08:00:00Z",
+   "endTime": "2025-10-26T11:00:00Z",
+   "displayDataId": "s37_duosconsole",
+   "eventGroup": "S37_ConsoleDuosCashCups",
+   "announcementTime": "2025-08-06T22:00:00Z",
+   "regions": [
+      "OCE"
+   ],
+   "regionMappings": {
+      "OCE": "OCECOMP"
+   },
+   "platforms": [
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "XB1",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "TeamLockType": "Window",
+      "tournamentType": "CashCup",
+      "webId": "S37_ConsoleDuosCashCups"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event10Round1_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round1",
+         "countdownBeginTime": "2025-10-26T05:00:00Z",
+         "beginTime": "2025-10-26T07:00:00Z",
+         "endTime": "2025-10-26T09:00:00Z",
+         "round": 7,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event10Round2_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round2",
+         "countdownBeginTime": "2025-10-26T08:00:00Z",
+         "beginTime": "2025-10-26T10:00:00Z",
+         "endTime": "2025-10-26T11:00:00Z",
+         "round": 7,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_ConsoleDuosCashCups_Event10Round2_OCE"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event1Round1_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round1",
+         "countdownBeginTime": "2025-08-17T06:00:00Z",
+         "beginTime": "2025-08-17T08:00:00Z",
+         "endTime": "2025-08-17T10:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event1Round2_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round2",
+         "countdownBeginTime": "2025-08-17T09:00:00Z",
+         "beginTime": "2025-08-17T11:00:00Z",
+         "endTime": "2025-08-17T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_ConsoleDuosCashCups_Event1Round2_OCE"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event2Round1_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round1",
+         "countdownBeginTime": "2025-08-24T06:00:00Z",
+         "beginTime": "2025-08-24T08:00:00Z",
+         "endTime": "2025-08-24T10:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event2Round2_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round2",
+         "countdownBeginTime": "2025-08-24T09:00:00Z",
+         "beginTime": "2025-08-24T11:00:00Z",
+         "endTime": "2025-08-24T12:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_ConsoleDuosCashCups_Event2Round2_OCE"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event3Round1_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round1",
+         "countdownBeginTime": "2025-08-31T06:00:00Z",
+         "beginTime": "2025-08-31T08:00:00Z",
+         "endTime": "2025-08-31T10:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event3Round2_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round2",
+         "countdownBeginTime": "2025-08-31T09:00:00Z",
+         "beginTime": "2025-08-31T11:00:00Z",
+         "endTime": "2025-08-31T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_ConsoleDuosCashCups_Event3Round2_OCE"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event4Round1_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round1",
+         "countdownBeginTime": "2025-09-14T06:00:00Z",
+         "beginTime": "2025-09-14T08:00:00Z",
+         "endTime": "2025-09-14T10:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event4Round2_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round2",
+         "countdownBeginTime": "2025-09-14T09:00:00Z",
+         "beginTime": "2025-09-14T11:00:00Z",
+         "endTime": "2025-09-14T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_ConsoleDuosCashCups_Event4Round2_OCE"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event5Round1_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round1",
+         "countdownBeginTime": "2025-09-21T06:00:00Z",
+         "beginTime": "2025-09-21T08:00:00Z",
+         "endTime": "2025-09-21T10:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event5Round2_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round2",
+         "countdownBeginTime": "2025-09-21T09:00:00Z",
+         "beginTime": "2025-09-21T11:00:00Z",
+         "endTime": "2025-09-21T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_ConsoleDuosCashCups_Event5Round2_OCE"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event6Round1_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round1",
+         "countdownBeginTime": "2025-09-28T06:00:00Z",
+         "beginTime": "2025-09-28T08:00:00Z",
+         "endTime": "2025-09-28T10:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event6Round2_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round2",
+         "countdownBeginTime": "2025-09-28T09:00:00Z",
+         "beginTime": "2025-09-28T11:00:00Z",
+         "endTime": "2025-09-28T12:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_ConsoleDuosCashCups_Event6Round2_OCE"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event7Round1_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round1",
+         "countdownBeginTime": "2025-10-05T05:00:00Z",
+         "beginTime": "2025-10-05T07:00:00Z",
+         "endTime": "2025-10-05T09:00:00Z",
+         "round": 7,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event7Round2_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round2",
+         "countdownBeginTime": "2025-10-05T08:00:00Z",
+         "beginTime": "2025-10-05T10:00:00Z",
+         "endTime": "2025-10-05T11:00:00Z",
+         "round": 7,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_ConsoleDuosCashCups_Event7Round2_OCE"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event8Round1_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round1",
+         "countdownBeginTime": "2025-10-12T05:00:00Z",
+         "beginTime": "2025-10-12T07:00:00Z",
+         "endTime": "2025-10-12T09:00:00Z",
+         "round": 7,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event8Round2_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round2",
+         "countdownBeginTime": "2025-10-12T08:00:00Z",
+         "beginTime": "2025-10-12T10:00:00Z",
+         "endTime": "2025-10-12T11:00:00Z",
+         "round": 7,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_ConsoleDuosCashCups_Event8Round2_OCE"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event9Round1_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round1",
+         "countdownBeginTime": "2025-10-19T05:00:00Z",
+         "beginTime": "2025-10-19T07:00:00Z",
+         "endTime": "2025-10-19T09:00:00Z",
+         "round": 7,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ConsoleDuosCashCups_Event9Round2_OCE",
+         "eventTemplateId": "S37_ConsoleDuosCashCups_EventTemplate_Round2",
+         "countdownBeginTime": "2025-10-19T08:00:00Z",
+         "beginTime": "2025-10-19T10:00:00Z",
+         "endTime": "2025-10-19T11:00:00Z",
+         "round": 7,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosconsole_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ConsoleDuosCashCups_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_ConsoleDuosCashCups_Event9Round2_OCE"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s37_consoleduoscashcups_oce"
+   }
+}
