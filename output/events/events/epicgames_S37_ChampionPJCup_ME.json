@@ -38,7 +38,9 @@
    "metadata": {
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
-      "minimumAccountLevel": 50
+      "minimumAccountLevel": 50,
+      "tournamentType": "ShopCup",
+      "webId": "S37_ChampionPJCup"
    },
    "eventWindows": [
       {
