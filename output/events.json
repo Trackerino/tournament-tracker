@@ -304,75 +304,6 @@
       },
       {
          "gameId": "Fortnite",
-         "eventId": "epicgames_S35_FNCSCommunityCups_Lachlan_NAC",
-         "beginTime": "2025-05-07T23:00:00Z",
-         "endTime": "2025-05-08T01:30:00Z",
-         "displayDataId": "s35_fncs_lachlan",
-         "eventGroup": "Season35_FNCSCommunityCup",
-         "announcementTime": "2025-04-30T15:00:00Z",
-         "regions": [
-            "NAC",
-            "NAE"
-         ],
-         "regionMappings": {
-            "NAC": "NACCOMP",
-            "NAE": "NACCOMP"
-         },
-         "platforms": [],
-         "platformMappings": {},
-         "metadata": {
-            "AccountLockType": "Window",
-            "DisqualifyType": "Event",
-            "minimumAccountLevel": 50,
-            "tournamentType": "ShopCup"
-         },
-         "eventWindows": [
-            {
-               "eventWindowId": "S35_FNCSCommunityCups_Lachlan_NAC",
-               "eventTemplateId": "EventTemplate_S35_FNCSCommunityCups",
-               "countdownBeginTime": "2025-05-07T21:00:00Z",
-               "beginTime": "2025-05-07T23:00:00Z",
-               "endTime": "2025-05-08T01:30:00Z",
-               "round": 0,
-               "payoutDelay": 32,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "eula:s35_fncscommunity_rules",
-                  "mfa",
-                  "adps:g-a81a33a3b9a7"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "Leaderboard_S35_FNCS_Community_Cups",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "EpicAccountPrizingRestriction_v2",
-                  "Permanent_Tournament_Ban"
-               ],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "RoundType": "Qualifiers",
-                  "ServerReplays": true
-               }
-            }
-         ],
-         "link": {
-            "type": "br:tournament",
-            "code": "tournament_epicgames_s35_fncscommunitycups_lachlan_nac",
-            "version": 1
-         }
-      },
-      {
-         "gameId": "Fortnite",
          "eventId": "epicgames_S35_FNCSCommunityCups_Lachlan_NAW",
          "beginTime": "2025-05-08T01:00:00Z",
          "endTime": "2025-05-08T03:30:00Z",
@@ -57629,42 +57560,6 @@
                         "rewardType": "game",
                         "rewardMode": "standard",
                         "value": "AthenaCharacter:character_cobsink",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         }
-      ],
-      "S35_FNCSCommunityCups_Lachlan_NAC": [
-         {
-            "scoringType": "value",
-            "ranks": [
-               {
-                  "threshold": 8,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaDance:spray_fncsprow1",
-                        "quantity": 1,
-                        "notifiesPlayer": false
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "scoringType": "rank",
-            "ranks": [
-               {
-                  "threshold": 650,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaCharacter:character_coilgrip",
                         "quantity": 1,
                         "notifiesPlayer": false
                      }
