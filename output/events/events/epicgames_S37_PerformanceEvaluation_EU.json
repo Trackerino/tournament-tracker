@@ -97,7 +97,7 @@
       },
       {
          "eventWindowId": "S37_PerformanceEvaluation_Event10Round2_EU",
-         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round1",
+         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round2",
          "countdownBeginTime": "2025-10-07T18:00:00Z",
          "beginTime": "2025-10-07T20:00:00Z",
          "endTime": "2025-10-07T22:00:00Z",
@@ -190,7 +190,7 @@
       },
       {
          "eventWindowId": "S37_PerformanceEvaluation_Event11Round2_EU",
-         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round1",
+         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round2",
          "countdownBeginTime": "2025-10-14T18:00:00Z",
          "beginTime": "2025-10-14T20:00:00Z",
          "endTime": "2025-10-14T22:00:00Z",
@@ -283,7 +283,7 @@
       },
       {
          "eventWindowId": "S37_PerformanceEvaluation_Event12Round2_EU",
-         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round1",
+         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round2",
          "countdownBeginTime": "2025-10-21T18:00:00Z",
          "beginTime": "2025-10-21T20:00:00Z",
          "endTime": "2025-10-21T22:00:00Z",
@@ -469,7 +469,7 @@
       },
       {
          "eventWindowId": "S37_PerformanceEvaluation_Event2Round2_EU",
-         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round1",
+         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round2",
          "countdownBeginTime": "2025-08-12T18:00:00Z",
          "beginTime": "2025-08-12T20:00:00Z",
          "endTime": "2025-08-12T22:00:00Z",
@@ -562,7 +562,7 @@
       },
       {
          "eventWindowId": "S37_PerformanceEvaluation_Event3Round2_EU",
-         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round1",
+         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round2",
          "countdownBeginTime": "2025-08-19T18:00:00Z",
          "beginTime": "2025-08-19T20:00:00Z",
          "endTime": "2025-08-19T22:00:00Z",
@@ -655,7 +655,7 @@
       },
       {
          "eventWindowId": "S37_PerformanceEvaluation_Event4Round2_EU",
-         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round1",
+         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round2",
          "countdownBeginTime": "2025-08-26T18:00:00Z",
          "beginTime": "2025-08-26T20:00:00Z",
          "endTime": "2025-08-26T22:00:00Z",
@@ -748,7 +748,7 @@
       },
       {
          "eventWindowId": "S37_PerformanceEvaluation_Event5Round2_EU",
-         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round1",
+         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round2",
          "countdownBeginTime": "2025-09-02T18:00:00Z",
          "beginTime": "2025-09-02T20:00:00Z",
          "endTime": "2025-09-02T22:00:00Z",
@@ -841,7 +841,7 @@
       },
       {
          "eventWindowId": "S37_PerformanceEvaluation_Event6Round2_EU",
-         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round1",
+         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round2",
          "countdownBeginTime": "2025-09-09T18:00:00Z",
          "beginTime": "2025-09-09T20:00:00Z",
          "endTime": "2025-09-09T22:00:00Z",
@@ -934,7 +934,7 @@
       },
       {
          "eventWindowId": "S37_PerformanceEvaluation_Event7Round2_EU",
-         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round1",
+         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round2",
          "countdownBeginTime": "2025-09-16T18:00:00Z",
          "beginTime": "2025-09-16T20:00:00Z",
          "endTime": "2025-09-16T22:00:00Z",
@@ -1027,7 +1027,7 @@
       },
       {
          "eventWindowId": "S37_PerformanceEvaluation_Event8Round2_EU",
-         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round1",
+         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round2",
          "countdownBeginTime": "2025-09-23T18:00:00Z",
          "beginTime": "2025-09-23T20:00:00Z",
          "endTime": "2025-09-23T22:00:00Z",
@@ -1120,7 +1120,7 @@
       },
       {
          "eventWindowId": "S37_PerformanceEvaluation_Event9Round2_EU",
-         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round1",
+         "eventTemplateId": "EventTemplate_S36_PerformanceEvaluation_Round2",
          "countdownBeginTime": "2025-09-30T18:00:00Z",
          "beginTime": "2025-09-30T20:00:00Z",
          "endTime": "2025-09-30T22:00:00Z",
