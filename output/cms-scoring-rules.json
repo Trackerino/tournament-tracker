@@ -100,6 +100,7 @@
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
       "poster_description": "{0} {0}|plural(one= Round Won,other= Rounds Won)",
+      "poster_interval_description": "Round Won",
       "rule_name": "CREATIVE_ROUNDSWON_STAT"
    },
    {
@@ -223,6 +224,7 @@
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
       "poster_description": "{0}|plural(one=Each Round Won,other=Every {0} Rounds Won)",
+      "poster_interval_description": "Round Won",
       "rule_name": "EACH_CREATIVE_ROUNDSWON_STAT"
    },
    {
