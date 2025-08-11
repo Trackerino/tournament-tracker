@@ -46,6 +46,24 @@
    },
    {
       "_type": "Scoring Rules Display Info",
+      "description": "{0}|plural(one=Each Bomb Defused, other=Every {0} Bombs Defused)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "{0}|plural(one=Each Bomb Defused, other=Every {0} Bombs Defused)",
+      "poster_interval_description": "{0} - {1} Bomb Defusals",
+      "rule_name": "CREATIVE_BOMBDEFUSALS_STAT"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0}|plural(one=Each Bomb Planted, other=Every {0} Bombs Planted)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "{0}|plural(one=Each Bomb Planted, other=Every {0} Bombs Planted)",
+      "poster_interval_description": "{0} - {1} Bomb Plants",
+      "rule_name": "CREATIVE_BOMBPLANTS_STAT"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
       "description": "{0}|plural(one=Each Damage Dealt,other=Every {0} Damage Dealt)",
       "hide_score_toast_notifications": true,
       "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
@@ -78,10 +96,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "{0} {0}|plural(one=Veszprem Round Won,other=Veszprem Rounds Won)",
+      "description": "{0} {0}|plural(one=Round Won,other= Rounds Won)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "{0} {0}|plural(one=Veszprem Round Won,other=Veszprem Rounds Won)",
+      "poster_description": "{0} {0}|plural(one= Round Won,other= Rounds Won)",
       "rule_name": "CREATIVE_ROUNDSWON_STAT"
    },
    {
@@ -148,6 +166,24 @@
    },
    {
       "_type": "Scoring Rules Display Info",
+      "description": "{0}|plural(one=Each Bomb Defused, other=Every {0} Bombs Defused)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "{0}|plural(one=Each Bomb Defused, other=Every {0} Bombs Defused)",
+      "poster_interval_description": "{0} - {1} Bomb Defusals",
+      "rule_name": "EACH_CREATIVE_BOMBDEFUSALS_STAT"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
+      "description": "{0}|plural(one=Each Bomb Planted, other=Every {0} Bombs Planted)",
+      "hide_score_toast_notifications": false,
+      "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
+      "poster_description": "{0}|plural(one=Each Bomb Planted, other=Every {0} Bombs Planted)",
+      "poster_interval_description": "{0} - {1} Bomb Plants",
+      "rule_name": "EACH_CREATIVE_BOMBPLANTS_STAT"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
       "description": "{0}|plural(one=Each Item Collected,other=Every {0} Items Collected)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
@@ -183,10 +219,10 @@
    },
    {
       "_type": "Scoring Rules Display Info",
-      "description": "{0}|plural(one=Each Veszprem Round Won,other=Every {0} Veszprem Rounds Won)",
+      "description": "{0}|plural(one=Each Round Won,other=Every {0} Rounds Won)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/UI/Foundation/Textures/Icons/Quest/T-Icon-Trophy-32.T-Icon-Trophy-32",
-      "poster_description": "{0}|plural(one=Each Veszprem Round Won,other=Every {0} Veszprem Rounds Won)",
+      "poster_description": "{0}|plural(one=Each Round Won,other=Every {0} Rounds Won)",
       "rule_name": "EACH_CREATIVE_ROUNDSWON_STAT"
    },
    {
