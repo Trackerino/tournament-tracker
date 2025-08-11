@@ -55,7 +55,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s37_fncscommunity_rule",
+            "eula:s37_fncscommunity_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
