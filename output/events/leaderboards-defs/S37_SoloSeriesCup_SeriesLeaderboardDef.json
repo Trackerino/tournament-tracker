@@ -1,0 +1,22 @@
+{
+   "gameId": "Fortnite",
+   "leaderboardDefId": "S37_SoloSeriesCup_SeriesLeaderboardDef",
+   "leaderboardStorageId": "Fortnite_GLOBAL",
+   "leaderboardInstanceGroupingKeyFormat": "series",
+   "leaderboardInstanceIdFormat": "${eventId}_series",
+   "maxSessionHistorySize": 11,
+   "useIndividualScores": false,
+   "tiebreakerFormula": {
+      "basePointsBits": 53,
+      "components": []
+   },
+   "scoringRuleSetId": "EmptyScoringRules",
+   "clampsToZero": true,
+   "onlyScoreTopN": 4,
+   "payoutsConfig": {
+      "payoutTableIdFormat": "${eventId}_series",
+      "payoutDate": "2025-10-19T06:00:00Z"
+   },
+   "hidePlayerScores": false,
+   "requiredPlayerListings": []
+}

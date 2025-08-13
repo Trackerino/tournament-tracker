@@ -1,0 +1,37 @@
+{
+   "playlistId": "Playlist_ShowdownTournament_Solo",
+   "matchCap": 6,
+   "tiebreakerFormula": {
+      "basePointsBits": 11,
+      "components": [
+         {
+            "trackedStat": "VICTORY_ROYALE_STAT",
+            "bits": 4,
+            "aggregation": "sum"
+         },
+         {
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "bits": 13,
+            "aggregation": "avg",
+            "multiplier": 100
+         },
+         {
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
+            "bits": 14,
+            "aggregation": "avg",
+            "multiplier": 100
+         },
+         {
+            "trackedStat": "TIME_ALIVE_STAT",
+            "bits": 11,
+            "aggregation": "avg"
+         }
+      ]
+   },
+   "gameId": "Fortnite",
+   "eventTemplateId": "EventTemplate_S37_SoloSeriesCupFinal",
+   "scoringRules": [],
+   "payoutTable": [],
+   "liveSessionAttributes": [],
+   "clampsToZero": false
+}
