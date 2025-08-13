@@ -1,0 +1,914 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S37_DuosDivisionalCup_Division1_NAW",
+   "beginTime": "2025-09-18T01:00:00Z",
+   "endTime": "2025-10-26T00:00:00Z",
+   "displayDataId": "s37_division1_duos",
+   "eventGroup": "Season37_DuosDivisionalCup_Division1",
+   "announcementTime": "2025-06-07T07:00:00Z",
+   "regions": [
+      "NAW"
+   ],
+   "regionMappings": {
+      "NAW": "NAWCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Event",
+      "minimumAccountLevel": 350,
+      "requireSystemFeatures": [
+         "SecureBoot",
+         "CryptoProcessor"
+      ],
+      "TeamLockType": "Week",
+      "tournamentType": "CashCup",
+      "webId": "S37_DuosDivisionalCup_Division1"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week1Day1_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosNPMDivisionalCup",
+         "countdownBeginTime": "2025-09-17T23:00:00Z",
+         "beginTime": "2025-09-18T01:00:00Z",
+         "endTime": "2025-09-18T04:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified",
+            "S37_Duos_Division1_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division2Event1_NAW",
+            "S37_DuosDivisionLock_Division3Event1_NAW",
+            "S37_DuosDivisionLock_Division4Event1_NAW",
+            "S37_DuosDivisionLock_Division5Event1_NAW"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week1_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week1Day2_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosNPMDivisionalCup",
+         "countdownBeginTime": "2025-09-18T23:00:00Z",
+         "beginTime": "2025-09-19T01:00:00Z",
+         "endTime": "2025-09-19T04:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified",
+            "S37_Duos_Division1_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division2Event2_NAW",
+            "S37_DuosDivisionLock_Division3Event2_NAW",
+            "S37_DuosDivisionLock_Division4Event2_NAW",
+            "S37_DuosDivisionLock_Division5Event2_NAW"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week1_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week1Final_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup_Final",
+         "countdownBeginTime": "2025-09-20T19:00:00Z",
+         "beginTime": "2025-09-20T21:00:00Z",
+         "endTime": "2025-09-21T00:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Finals_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_Duos_Division1Week1_Final_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week1_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week2Day1_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosNPMDivisionalCup",
+         "countdownBeginTime": "2025-09-24T23:00:00Z",
+         "beginTime": "2025-09-25T01:00:00Z",
+         "endTime": "2025-09-25T04:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified",
+            "S37_Duos_Division1_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division2Event3_NAW",
+            "S37_DuosDivisionLock_Division3Event3_NAW",
+            "S37_DuosDivisionLock_Division4Event3_NAW",
+            "S37_DuosDivisionLock_Division5Event3_NAW"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week2_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week2Day2_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosNPMDivisionalCup",
+         "countdownBeginTime": "2025-09-25T23:00:00Z",
+         "beginTime": "2025-09-26T01:00:00Z",
+         "endTime": "2025-09-26T04:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified",
+            "S37_Duos_Division1_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division2Event4_NAW",
+            "S37_DuosDivisionLock_Division3Event4_NAW",
+            "S37_DuosDivisionLock_Division4Event4_NAW",
+            "S37_DuosDivisionLock_Division5Event4_NAW"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week2_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week2Final_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup_Final",
+         "countdownBeginTime": "2025-09-27T19:00:00Z",
+         "beginTime": "2025-09-27T21:00:00Z",
+         "endTime": "2025-09-28T00:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Finals_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_Duos_Division1Week2_Final_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week2_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week3Day1_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosNPMDivisionalCup",
+         "countdownBeginTime": "2025-10-01T23:00:00Z",
+         "beginTime": "2025-10-02T01:00:00Z",
+         "endTime": "2025-10-02T04:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified",
+            "S37_Duos_Division1_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division2Event5_NAW",
+            "S37_DuosDivisionLock_Division3Event5_NAW",
+            "S37_DuosDivisionLock_Division4Event5_NAW",
+            "S37_DuosDivisionLock_Division5Event5_NAW"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week3_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week3Day2_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosNPMDivisionalCup",
+         "countdownBeginTime": "2025-10-02T23:00:00Z",
+         "beginTime": "2025-10-03T01:00:00Z",
+         "endTime": "2025-10-03T04:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified",
+            "S37_Duos_Division1_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division2Event6_NAW",
+            "S37_DuosDivisionLock_Division3Event6_NAW",
+            "S37_DuosDivisionLock_Division4Event6_NAW",
+            "S37_DuosDivisionLock_Division5Event6_NAW"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week3_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week3Final_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup_Final",
+         "countdownBeginTime": "2025-10-04T19:00:00Z",
+         "beginTime": "2025-10-04T21:00:00Z",
+         "endTime": "2025-10-05T00:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Finals_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_Duos_Division1Week3_Final_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week3_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week4Day1_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosNPMDivisionalCup",
+         "countdownBeginTime": "2025-10-08T23:00:00Z",
+         "beginTime": "2025-10-09T01:00:00Z",
+         "endTime": "2025-10-09T04:00:00Z",
+         "round": 4,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified",
+            "S37_Duos_Division1_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division2Event7_NAW",
+            "S37_DuosDivisionLock_Division3Event7_NAW",
+            "S37_DuosDivisionLock_Division4Event7_NAW",
+            "S37_DuosDivisionLock_Division5Event7_NAW"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week4_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week4Day2_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosNPMDivisionalCup",
+         "countdownBeginTime": "2025-10-09T23:00:00Z",
+         "beginTime": "2025-10-10T01:00:00Z",
+         "endTime": "2025-10-10T04:00:00Z",
+         "round": 4,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified",
+            "S37_Duos_Division1_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division2Event8_NAW",
+            "S37_DuosDivisionLock_Division3Event8_NAW",
+            "S37_DuosDivisionLock_Division4Event8_NAW",
+            "S37_DuosDivisionLock_Division5Event8_NAW"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week4_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week4Final_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup_Final",
+         "countdownBeginTime": "2025-10-11T19:00:00Z",
+         "beginTime": "2025-10-11T21:00:00Z",
+         "endTime": "2025-10-12T00:00:00Z",
+         "round": 4,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Finals_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_Duos_Division1Week4_Final_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week4_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week5Day1_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosNPMDivisionalCup",
+         "countdownBeginTime": "2025-10-15T23:00:00Z",
+         "beginTime": "2025-10-16T01:00:00Z",
+         "endTime": "2025-10-16T04:00:00Z",
+         "round": 5,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified",
+            "S37_Duos_Division1_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division2Event9_NAW",
+            "S37_DuosDivisionLock_Division3Event9_NAW",
+            "S37_DuosDivisionLock_Division4Event9_NAW",
+            "S37_DuosDivisionLock_Division5Event9_NAW"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week5_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week5Day2_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosNPMDivisionalCup",
+         "countdownBeginTime": "2025-10-16T23:00:00Z",
+         "beginTime": "2025-10-17T01:00:00Z",
+         "endTime": "2025-10-17T04:00:00Z",
+         "round": 5,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified",
+            "S37_Duos_Division1_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division2Event10_NAW",
+            "S37_DuosDivisionLock_Division3Event10_NAW",
+            "S37_DuosDivisionLock_Division4Event10_NAW",
+            "S37_DuosDivisionLock_Division5Event10_NAW"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week5_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week5Final_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup_Final",
+         "countdownBeginTime": "2025-10-18T19:00:00Z",
+         "beginTime": "2025-10-18T21:00:00Z",
+         "endTime": "2025-10-19T00:00:00Z",
+         "round": 5,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Finals_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_Duos_Division1Week5_Final_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week5_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week6Day1_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosNPMDivisionalCup",
+         "countdownBeginTime": "2025-10-22T23:00:00Z",
+         "beginTime": "2025-10-23T01:00:00Z",
+         "endTime": "2025-10-23T04:00:00Z",
+         "round": 6,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified",
+            "S37_Duos_Division1_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division2Event11_NAW",
+            "S37_DuosDivisionLock_Division3Event11_NAW",
+            "S37_DuosDivisionLock_Division4Event11_NAW",
+            "S37_DuosDivisionLock_Division5Event11_NAW"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week6_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week6Day2_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosNPMDivisionalCup",
+         "countdownBeginTime": "2025-10-23T23:00:00Z",
+         "beginTime": "2025-10-24T01:00:00Z",
+         "endTime": "2025-10-24T04:00:00Z",
+         "round": 6,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Qualifiers_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Weekly_CumulativeLeaderboard",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified",
+            "S37_Duos_Division1_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division2Event12_NAW",
+            "S37_DuosDivisionLock_Division3Event12_NAW",
+            "S37_DuosDivisionLock_Division4Event12_NAW",
+            "S37_DuosDivisionLock_Division5Event12_NAW"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week6_NAW"
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division1_Week6Final_NAW",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup_Final",
+         "countdownBeginTime": "2025-10-25T19:00:00Z",
+         "beginTime": "2025-10-25T21:00:00Z",
+         "endTime": "2025-10-26T00:00:00Z",
+         "round": 6,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_Division1Finals_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_Duos_Division1Week6_Final_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week6_NAW"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s37_duosdivisionalcup_division1_naw"
+   }
+}
