@@ -6677,7 +6677,7 @@
       "background_text_color": "161616",
       "background_title": "",
       "base_color": "FFFFFF",
-      "details_description": "It's time to Duo Up! Unlock this tournament by playing Ranked. You and your teammate must be ranked in Gold or higher in Battle Royale, Zero Build, or Reload Ranked to unlock this tournament. This tournament consists of a single session. The top 1,000 duos will be placed into Division 2. Teams placing 1,001st - 3,000th will be placed into Division 3. In EU, teams placing 3,001st - 13,000th place will be placed into Division 4; in NAC, teams placing 3,001st - 7,000th will be placed into Division 4.",
+      "details_description": "It's time to Duo Up! Unlock this tournament by playing Ranked. You and your teammate must be ranked in Gold or higher in Battle Royale, Zero Build, or Reload Ranked to unlock this tournament. This tournament consists of a single session. The top 1,000 duos will be placed into Division 2. In EU and NAC, Duos placing 1,001st - 3,000th will be placed into Division 3. In EU, duos placing 3,001st - 13,000th place will be placed into Division 4; in NAC, duos placing 3,001st - 7,000th will be placed into Division 4.",
       "flavor_description": "",
       "highlight_color": "08E164",
       "long_format_title": "Duos Trial",
