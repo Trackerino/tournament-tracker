@@ -1,0 +1,656 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S37_DuosDivisionalCup_Division5_EU",
+   "beginTime": "2025-09-17T17:00:04Z",
+   "endTime": "2025-10-23T20:00:04Z",
+   "displayDataId": "s37_division5_duos",
+   "eventGroup": "Season37_DuosDivisionalCup_Division5",
+   "announcementTime": "2025-06-06T23:00:00Z",
+   "regions": [
+      "EU"
+   ],
+   "regionMappings": {
+      "EU": "EUCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Event",
+      "minimumAccountLevel": 350,
+      "requireSystemFeatures": [
+         "SecureBoot",
+         "CryptoProcessor"
+      ],
+      "TeamLockType": "Window",
+      "tournamentType": "CashCup",
+      "webId": "S37_DuosDivisionalCup_Division5"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division5_Event1_EU",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup",
+         "countdownBeginTime": "2025-09-17T15:00:04Z",
+         "beginTime": "2025-09-17T17:00:04Z",
+         "endTime": "2025-09-17T20:00:04Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division1Week1_EU",
+            "S37_DuosDivisionLock_Division2Event1_EU",
+            "S37_DuosDivisionLock_Division3Event1_EU",
+            "S37_DuosDivisionLock_Division4Event1_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division5_Event10_EU",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup",
+         "countdownBeginTime": "2025-10-16T15:00:04Z",
+         "beginTime": "2025-10-16T17:00:04Z",
+         "endTime": "2025-10-16T20:00:04Z",
+         "round": 5,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division1Week5_EU",
+            "S37_DuosDivisionLock_Division2Event10_EU",
+            "S37_DuosDivisionLock_Division3Event10_EU",
+            "S37_DuosDivisionLock_Division4Event10_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division5_Event11_EU",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup",
+         "countdownBeginTime": "2025-10-22T15:00:04Z",
+         "beginTime": "2025-10-22T17:00:04Z",
+         "endTime": "2025-10-22T20:00:04Z",
+         "round": 6,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division1Week6_EU",
+            "S37_DuosDivisionLock_Division2Event11_EU",
+            "S37_DuosDivisionLock_Division3Event11_EU",
+            "S37_DuosDivisionLock_Division4Event11_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division5_Event12_EU",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup",
+         "countdownBeginTime": "2025-10-23T15:00:04Z",
+         "beginTime": "2025-10-23T17:00:04Z",
+         "endTime": "2025-10-23T20:00:04Z",
+         "round": 6,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division1Week6_EU",
+            "S37_DuosDivisionLock_Division2Event12_EU",
+            "S37_DuosDivisionLock_Division3Event12_EU",
+            "S37_DuosDivisionLock_Division4Event12_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division5_Event2_EU",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup",
+         "countdownBeginTime": "2025-09-18T15:00:04Z",
+         "beginTime": "2025-09-18T17:00:04Z",
+         "endTime": "2025-09-18T20:00:04Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division1Week1_EU",
+            "S37_DuosDivisionLock_Division2Event2_EU",
+            "S37_DuosDivisionLock_Division3Event2_EU",
+            "S37_DuosDivisionLock_Division4Event2_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division5_Event3_EU",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup",
+         "countdownBeginTime": "2025-09-24T15:00:04Z",
+         "beginTime": "2025-09-24T17:00:04Z",
+         "endTime": "2025-09-24T20:00:04Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division1Week2_EU",
+            "S37_DuosDivisionLock_Division2Event3_EU",
+            "S37_DuosDivisionLock_Division3Event3_EU",
+            "S37_DuosDivisionLock_Division4Event3_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division5_Event4_EU",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup",
+         "countdownBeginTime": "2025-09-25T15:00:04Z",
+         "beginTime": "2025-09-25T17:00:04Z",
+         "endTime": "2025-09-25T20:00:04Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division1Week2_EU",
+            "S37_DuosDivisionLock_Division2Event4_EU",
+            "S37_DuosDivisionLock_Division3Event4_EU",
+            "S37_DuosDivisionLock_Division4Event4_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division5_Event5_EU",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup",
+         "countdownBeginTime": "2025-10-01T15:00:04Z",
+         "beginTime": "2025-10-01T17:00:04Z",
+         "endTime": "2025-10-01T20:00:04Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division1Week3_EU",
+            "S37_DuosDivisionLock_Division2Event5_EU",
+            "S37_DuosDivisionLock_Division3Event5_EU",
+            "S37_DuosDivisionLock_Division4Event5_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division5_Event6_EU",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup",
+         "countdownBeginTime": "2025-10-02T15:00:04Z",
+         "beginTime": "2025-10-02T17:00:04Z",
+         "endTime": "2025-10-02T20:00:04Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division1Week3_EU",
+            "S37_DuosDivisionLock_Division2Event6_EU",
+            "S37_DuosDivisionLock_Division3Event6_EU",
+            "S37_DuosDivisionLock_Division4Event6_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division5_Event7_EU",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup",
+         "countdownBeginTime": "2025-10-08T15:00:04Z",
+         "beginTime": "2025-10-08T17:00:04Z",
+         "endTime": "2025-10-08T20:00:04Z",
+         "round": 4,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division1Week4_EU",
+            "S37_DuosDivisionLock_Division2Event7_EU",
+            "S37_DuosDivisionLock_Division3Event7_EU",
+            "S37_DuosDivisionLock_Division4Event7_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division5_Event8_EU",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup",
+         "countdownBeginTime": "2025-10-09T15:00:04Z",
+         "beginTime": "2025-10-09T17:00:04Z",
+         "endTime": "2025-10-09T20:00:04Z",
+         "round": 4,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division1Week4_EU",
+            "S37_DuosDivisionLock_Division2Event8_EU",
+            "S37_DuosDivisionLock_Division3Event8_EU",
+            "S37_DuosDivisionLock_Division4Event8_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_DuosDivisionalCup_Division5_Event9_EU",
+         "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup",
+         "countdownBeginTime": "2025-10-15T15:00:04Z",
+         "beginTime": "2025-10-15T17:00:04Z",
+         "endTime": "2025-10-15T20:00:04Z",
+         "round": 5,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divisional_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_DuosDivisionLock_Division1Week5_EU",
+            "S37_DuosDivisionLock_Division2Event9_EU",
+            "S37_DuosDivisionLock_Division3Event9_EU",
+            "S37_DuosDivisionLock_Division4Event9_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s37_duosdivisionalcup_division5_eu"
+   }
+}
