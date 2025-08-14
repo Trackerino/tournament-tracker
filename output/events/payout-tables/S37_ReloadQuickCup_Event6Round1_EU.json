@@ -3,7 +3,7 @@
       "scoringType": "value",
       "ranks": [
          {
-            "threshold": 9,
+            "threshold": 1,
             "payouts": [
                {
                   "rewardType": "token",
@@ -15,7 +15,7 @@
             ]
          },
          {
-            "threshold": 14,
+            "threshold": 10,
             "payouts": [
                {
                   "rewardType": "token",
