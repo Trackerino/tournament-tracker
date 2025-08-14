@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S37_ChampionPJCup_NAW",
-   "beginTime": "2025-08-16T21:00:00Z",
-   "endTime": "2025-08-17T00:00:00Z",
+   "beginTime": "2025-08-17T01:00:00Z",
+   "endTime": "2025-08-17T04:00:00Z",
    "displayDataId": "s37_pj",
    "eventGroup": "Season37_ChampionPJCup",
    "announcementTime": "2025-07-30T21:00:00Z",
@@ -46,9 +46,9 @@
       {
          "eventWindowId": "S37_ChampionPJCup_NAW",
          "eventTemplateId": "EventTemplate_S37_ChampionPJCup",
-         "countdownBeginTime": "2025-08-16T19:00:00Z",
-         "beginTime": "2025-08-16T21:00:00Z",
-         "endTime": "2025-08-17T00:00:00Z",
+         "countdownBeginTime": "2025-08-16T23:00:00Z",
+         "beginTime": "2025-08-17T01:00:00Z",
+         "endTime": "2025-08-17T04:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
