@@ -104,9 +104,9 @@
       {
          "eventWindowId": "S37_FNCSDivisionalCup_Division2_Week1Day2_ME",
          "eventTemplateId": "EventTemplate_S36_FNCSDivisionalCup",
-         "countdownBeginTime": "2025-08-16T09:00:00Z",
-         "beginTime": "2025-08-16T11:00:00Z",
-         "endTime": "2025-08-16T14:00:00Z",
+         "countdownBeginTime": "2025-08-18T13:00:00Z",
+         "beginTime": "2025-08-18T15:00:00Z",
+         "endTime": "2025-08-18T18:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
