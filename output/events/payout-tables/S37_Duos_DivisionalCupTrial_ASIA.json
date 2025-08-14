@@ -7,7 +7,7 @@
             "payouts": [
                {
                   "rewardType": "token",
-                  "rewardMode": "standard",
+                  "rewardMode": "rolling",
                   "value": "RegionLock_S37_DuosDivisionalTrial_ASIA",
                   "quantity": 1,
                   "notifiesPlayer": false

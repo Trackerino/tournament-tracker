@@ -7,7 +7,7 @@
             "payouts": [
                {
                   "rewardType": "token",
-                  "rewardMode": "standard",
+                  "rewardMode": "rolling",
                   "value": "RegionLock_S37_DuosDivisionalTrial_EU",
                   "quantity": 1,
                   "notifiesPlayer": false
@@ -32,7 +32,7 @@
             ]
          },
          {
-            "threshold": 2000,
+            "threshold": 3000,
             "payouts": [
                {
                   "rewardType": "token",
@@ -44,7 +44,7 @@
             ]
          },
          {
-            "threshold": 10000,
+            "threshold": 13000,
             "payouts": [
                {
                   "rewardType": "token",
