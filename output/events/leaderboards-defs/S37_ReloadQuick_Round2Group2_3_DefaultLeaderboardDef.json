@@ -33,7 +33,7 @@
          }
       ]
    },
-   "scoringRuleSetId": "ScoringRules_ReloadDuos",
+   "scoringRuleSetId": "ScoringRules_ReloadDuosQuick_R1",
    "clampsToZero": true,
    "hidePlayerScores": false,
    "percentileAccuracy": 1,
