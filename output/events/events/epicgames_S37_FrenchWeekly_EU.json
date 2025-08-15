@@ -55,7 +55,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S37_ranked_rules",
+            "eula:s37_ranked_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             "currentRanking:ranked_blastberry_build:0"
@@ -140,7 +140,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S37_ranked_rules",
+            "eula:s37_ranked_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             "currentRanking:ranked_blastberry_build:0"
@@ -225,7 +225,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S37_ranked_rules",
+            "eula:s37_ranked_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             "currentRanking:ranked_blastberry_build:0"
@@ -310,7 +310,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S37_ranked_rules",
+            "eula:s37_ranked_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             "currentRanking:ranked_blastberry_build:0"
@@ -395,7 +395,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S37_ranked_rules",
+            "eula:s37_ranked_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             "currentRanking:ranked_blastberry_build:0"
@@ -480,7 +480,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S37_ranked_rules",
+            "eula:s37_ranked_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             "currentRanking:ranked_blastberry_build:0"
@@ -565,7 +565,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:S37_ranked_rules",
+            "eula:s37_ranked_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             "currentRanking:ranked_blastberry_build:0"
