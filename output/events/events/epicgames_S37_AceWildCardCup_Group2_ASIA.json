@@ -1,0 +1,91 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S37_AceWildCardCup_Group2_ASIA",
+   "beginTime": "2025-08-15T10:15:01Z",
+   "endTime": "2025-08-15T11:00:01Z",
+   "displayDataId": "s37_aceswild",
+   "eventGroup": "Season37_AceWildCard",
+   "announcementTime": "2025-08-01T15:00:00Z",
+   "regions": [
+      "ASIA"
+   ],
+   "regionMappings": {
+      "ASIA": "ASIACOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "tournamentType": "ShopCup",
+      "webId": "S37_AceWildCardCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S37_AceWildCardCup_Round2Group2_ASIA",
+         "eventTemplateId": "EventTemplate_ReloadQuickCups",
+         "countdownBeginTime": "2025-08-15T08:15:01Z",
+         "beginTime": "2025-08-15T10:15:01Z",
+         "endTime": "2025-08-15T11:00:01Z",
+         "round": 1,
+         "payoutDelay": 24,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "eula:s37_reloadquick_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_AceWildCardCup_Round2Group2_ASIA"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s37_acewildcardcup_group2_asia"
+   }
+}
