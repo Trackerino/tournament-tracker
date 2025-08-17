@@ -13,7 +13,12 @@
                   "notifiesPlayer": false
                }
             ]
-         },
+         }
+      ]
+   },
+   {
+      "scoringType": "value",
+      "ranks": [
          {
             "threshold": 40,
             "payouts": [
