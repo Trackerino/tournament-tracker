@@ -5,12 +5,12 @@
       "rewardTiers": [
          {
             "keyValue": 1,
-            "pointsEarned": 11,
+            "pointsEarned": 9,
             "multiplicative": false
          },
          {
             "keyValue": 2,
-            "pointsEarned": 6,
+            "pointsEarned": 4,
             "multiplicative": false
          },
          {
@@ -30,62 +30,102 @@
          },
          {
             "keyValue": 6,
-            "pointsEarned": 3,
+            "pointsEarned": 2,
             "multiplicative": false
          },
          {
             "keyValue": 7,
-            "pointsEarned": 3,
+            "pointsEarned": 2,
             "multiplicative": false
          },
          {
             "keyValue": 8,
-            "pointsEarned": 3,
+            "pointsEarned": 2,
             "multiplicative": false
          },
          {
             "keyValue": 9,
-            "pointsEarned": 3,
+            "pointsEarned": 2,
             "multiplicative": false
          },
          {
             "keyValue": 10,
-            "pointsEarned": 3,
+            "pointsEarned": 2,
             "multiplicative": false
          },
          {
             "keyValue": 11,
-            "pointsEarned": 3,
+            "pointsEarned": 2,
             "multiplicative": false
          },
          {
             "keyValue": 12,
-            "pointsEarned": 3,
+            "pointsEarned": 2,
             "multiplicative": false
          },
          {
             "keyValue": 13,
-            "pointsEarned": 3,
+            "pointsEarned": 2,
             "multiplicative": false
          },
          {
             "keyValue": 14,
-            "pointsEarned": 3,
+            "pointsEarned": 2,
             "multiplicative": false
          },
          {
             "keyValue": 15,
-            "pointsEarned": 3,
+            "pointsEarned": 2,
             "multiplicative": false
          },
          {
             "keyValue": 16,
-            "pointsEarned": 3,
+            "pointsEarned": 2,
             "multiplicative": false
          },
          {
             "keyValue": 17,
-            "pointsEarned": 3,
+            "pointsEarned": 2,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 18,
+            "pointsEarned": 2,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 19,
+            "pointsEarned": 2,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 20,
+            "pointsEarned": 2,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 21,
+            "pointsEarned": 2,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 22,
+            "pointsEarned": 2,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 23,
+            "pointsEarned": 2,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 24,
+            "pointsEarned": 2,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 25,
+            "pointsEarned": 2,
             "multiplicative": false
          }
       ]
