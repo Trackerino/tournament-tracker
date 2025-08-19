@@ -33,7 +33,7 @@
          }
       ]
    },
-   "scoringRuleSetId": "ScoringRules_RankedCupSolo_Diamond",
+   "scoringRuleSetId": "ScoringRules_RankedCupSolo_Diamond_v2",
    "clampsToZero": true,
    "payoutsConfig": {
       "payoutTableIdFormat": "${eventId}",
