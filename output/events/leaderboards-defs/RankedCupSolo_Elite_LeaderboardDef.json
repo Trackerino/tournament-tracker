@@ -33,7 +33,7 @@
          }
       ]
    },
-   "scoringRuleSetId": "ScoringRules_RankedCupSolo_Elite",
+   "scoringRuleSetId": "ScoringRules_RankedCupSolo_Elite_v2",
    "clampsToZero": true,
    "payoutsConfig": {
       "payoutTableIdFormat": "${eventId}",
