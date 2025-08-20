@@ -22,7 +22,7 @@
    "metadata": {
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
-      "minimumAccountLevel": 50,
+      "minimumAccountLevel": 15,
       "webId": "S37_BlitzMobileCup"
    },
    "eventWindows": [
