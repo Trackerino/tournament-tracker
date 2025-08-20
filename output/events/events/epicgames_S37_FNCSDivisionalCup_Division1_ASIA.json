@@ -219,10 +219,12 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S34_FNCS_Division1_ASIA",
             "S37_CashCup_Qualified"
          ],
-         "requireAnyTokens": [],
+         "requireAnyTokens": [
+            "S34_FNCS_Division1_ASIA",
+            "global2025_participiant"
+         ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban",
@@ -268,10 +270,12 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S34_FNCS_Division1_ASIA",
             "S37_CashCup_Qualified"
          ],
-         "requireAnyTokens": [],
+         "requireAnyTokens": [
+            "S34_FNCS_Division1_ASIA",
+            "global2025_participiant"
+         ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban",
@@ -361,10 +365,12 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S34_FNCS_Division1_ASIA",
             "S37_CashCup_Qualified"
          ],
-         "requireAnyTokens": [],
+         "requireAnyTokens": [
+            "S34_FNCS_Division1_ASIA",
+            "global2025_participiant"
+         ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban",
@@ -410,10 +416,12 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S34_FNCS_Division1_ASIA",
             "S37_CashCup_Qualified"
          ],
-         "requireAnyTokens": [],
+         "requireAnyTokens": [
+            "S34_FNCS_Division1_ASIA",
+            "global2025_participiant"
+         ],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban",
