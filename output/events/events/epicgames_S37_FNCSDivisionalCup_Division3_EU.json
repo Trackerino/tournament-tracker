@@ -215,7 +215,7 @@
          "eventTemplateId": "EventTemplate_S36_FNCSDivision3Cup",
          "countdownBeginTime": "2025-08-21T15:00:02Z",
          "beginTime": "2025-08-21T17:00:02Z",
-         "endTime": "2025-08-21T20:00:02Z",
+         "endTime": "2025-08-21T20:30:02Z",
          "round": 2,
          "payoutDelay": 32,
          "isTBD": false,
