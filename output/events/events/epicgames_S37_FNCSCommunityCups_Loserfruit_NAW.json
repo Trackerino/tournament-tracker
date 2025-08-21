@@ -45,7 +45,7 @@
    "eventWindows": [
       {
          "eventWindowId": "S37_FNCSCommunityCups_Loserfruit_NAW",
-         "eventTemplateId": "EventTemplate_S37_FNCSCommunityCups",
+         "eventTemplateId": "EventTemplate_S37_FNCSCommunityCups_v2",
          "countdownBeginTime": "2025-08-21T23:00:00Z",
          "beginTime": "2025-08-22T01:00:00Z",
          "endTime": "2025-08-22T03:30:00Z",
