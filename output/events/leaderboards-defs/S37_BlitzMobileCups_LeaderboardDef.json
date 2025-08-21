@@ -36,7 +36,7 @@
    "scoringRuleSetId": "S37_BlitzCups_ScoringRules",
    "clampsToZero": true,
    "payoutsConfig": {
-      "payoutTableIdFormat": "${windowId}",
+      "payoutTableIdFormat": "${eventId}",
       "payoutDate": "windowEnd+PT32M"
    },
    "hidePlayerScores": false,
