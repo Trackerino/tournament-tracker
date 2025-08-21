@@ -45,7 +45,7 @@
    "eventWindows": [
       {
          "eventWindowId": "S37_FNCSCommunityCups_Clix_ME",
-         "eventTemplateId": "EventTemplate_S37_FNCSCommunityCups",
+         "eventTemplateId": "EventTemplate_S37_FNCSCommunityCups_v2",
          "countdownBeginTime": "2025-08-23T10:00:00Z",
          "beginTime": "2025-08-23T11:00:00Z",
          "endTime": "2025-08-23T13:30:00Z",
