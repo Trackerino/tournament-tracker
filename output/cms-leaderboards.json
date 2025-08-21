@@ -1403,6 +1403,12 @@
    },
    {
       "_type": "Leaderboard Display Info",
+      "leaderboard_id": "S37FNCSLAN_FinalCumulativeLeaderboardDef",
+      "leaderboard_name": "Cumulative",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
       "displayed_tracked_stat": [
          "SILVER_TEAM_ELIMS_STAT_INDEX",
          "SILVER_PLACEMENT_STAT_INDEX"
