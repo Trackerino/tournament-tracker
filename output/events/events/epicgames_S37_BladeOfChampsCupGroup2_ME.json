@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
-   "eventId": "epicgames_S37_BladeOfChampsCup_ME",
-   "beginTime": "2025-08-24T15:00:00Z",
-   "endTime": "2025-08-24T17:00:00Z",
+   "eventId": "epicgames_S37_BladeOfChampsCupGroup2_ME",
+   "beginTime": "2025-08-24T16:15:01Z",
+   "endTime": "2025-08-24T17:00:01Z",
    "displayDataId": "s37_bladeofchamps",
    "eventGroup": "Season37_BladeOfChamps",
    "announcementTime": "2025-08-01T21:00:00Z",
@@ -44,49 +44,11 @@
    },
    "eventWindows": [
       {
-         "eventWindowId": "S37_BladeOfChampsCup_Round1_ME",
-         "eventTemplateId": "EventTemplate_ReloadQuickCupsRound1",
-         "countdownBeginTime": "2025-08-24T13:00:00Z",
-         "beginTime": "2025-08-24T15:00:00Z",
-         "endTime": "2025-08-24T15:45:00Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadquick_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round1_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S37_BladeOfChampsCup_Round2Group1_ME",
+         "eventWindowId": "S37_BladeOfChampsCup_Round2Group2_ME",
          "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-08-24T14:15:00Z",
-         "beginTime": "2025-08-24T16:15:00Z",
-         "endTime": "2025-08-24T17:00:00Z",
+         "countdownBeginTime": "2025-08-24T14:15:01Z",
+         "beginTime": "2025-08-24T16:15:01Z",
+         "endTime": "2025-08-24T17:00:01Z",
          "round": 1,
          "payoutDelay": 24,
          "isTBD": false,
@@ -100,13 +62,13 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group1_DefaultLeaderboardDef",
+               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             }
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S37_BladeOfChampsCup_Round2Group1_ME"
+            "S37_BladeOfChampsCup_Round2Group2_ME"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -124,6 +86,6 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_epicgames_s37_bladeofchampscup_me"
+      "code": "tournament_epicgames_s37_bladeofchampscupgroup2_me"
    }
 }
