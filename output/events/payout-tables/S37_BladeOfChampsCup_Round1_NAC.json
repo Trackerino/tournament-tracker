@@ -3,6 +3,23 @@
       "scoringType": "value",
       "ranks": [
          {
+            "threshold": 8,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaDance:spray_fncsbladeofchamps",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
             "threshold": 1,
             "payouts": [
                {
@@ -10,7 +27,7 @@
                   "rewardMode": "standard",
                   "value": "S37_BladeOfChampsCup_Round2Group3_NAC",
                   "quantity": 1,
-                  "notifiesPlayer": false
+                  "notifiesPlayer": true
                }
             ]
          },
@@ -22,7 +39,7 @@
                   "rewardMode": "standard",
                   "value": "S37_BladeOfChampsCup_Round2Group2_NAC",
                   "quantity": 1,
-                  "notifiesPlayer": false
+                  "notifiesPlayer": true
                }
             ]
          },
@@ -34,7 +51,7 @@
                   "rewardMode": "standard",
                   "value": "S37_BladeOfChampsCup_Round2Group1_NAC",
                   "quantity": 1,
-                  "notifiesPlayer": false
+                  "notifiesPlayer": true
                }
             ]
          }
