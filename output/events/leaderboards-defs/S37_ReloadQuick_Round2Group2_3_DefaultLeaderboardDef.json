@@ -4,7 +4,7 @@
    "leaderboardStorageId": "Fortnite_GLOBAL",
    "leaderboardInstanceGroupingKeyFormat": "${eventId}",
    "leaderboardInstanceIdFormat": "${windowId}",
-   "maxSessionHistorySize": 3,
+   "maxSessionHistorySize": 10,
    "useIndividualScores": false,
    "tiebreakerFormula": {
       "basePointsBits": 11,
@@ -35,6 +35,10 @@
    },
    "scoringRuleSetId": "ScoringRules_ReloadDuosQuick_R1",
    "clampsToZero": true,
+   "payoutsConfig": {
+      "payoutTableIdFormat": "S37_BladeOfChampsCup_Round2Group2_3",
+      "payoutDate": "windowEnd+PT24M"
+   },
    "hidePlayerScores": false,
    "percentileAccuracy": 1,
    "requiredPlayerListings": []
