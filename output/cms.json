@@ -7178,6 +7178,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "0127A6",
+      "background_right_color": "2F7FF1",
+      "background_text_color": "161616",
+      "details_description": "It's time to celebrate the 2025 Fortnite Global Championship! Drop in for the opportunity to earn the Champion Surf Witch bundle before it hits the shop!",
+      "long_format_title": "Champion Surf Witch FNCS Blitz Cup (Mobile)",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/en-fnce-37-00-globalchampionship-discoverytile-cswfncscup-1920x1080-1920x1080-fd110470bfc1.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnce-37-00-globalchampionship-cswfncscup-single-800x800-40702d8c94c3.jpg",
+      "title_line_1": "Champion Surf Witch FNCS Blitz Cup (Mobile)",
+      "tournament_display_id": "s37_surfwitch_fncs_blitz",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-37-00-globalchampionship-cswfncscup-group-1560x1024-1ab3b53553b7.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "c60f21",
       "background_right_color": "650c18",
       "background_text_color": "161616",
