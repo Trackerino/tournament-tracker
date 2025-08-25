@@ -1,5 +1,22 @@
 [
    {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 8,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaDance:spray_fncsrankedtrooper",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   },
+   {
       "scoringType": "rank",
       "ranks": [
          {
