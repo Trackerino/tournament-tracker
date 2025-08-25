@@ -35,10 +35,6 @@
    },
    "scoringRuleSetId": "ScoringRules_ReloadDuosQuick_R1",
    "clampsToZero": true,
-   "payoutsConfig": {
-      "payoutTableIdFormat": "PayoutTable_AceWildCard_Group2_3",
-      "payoutDate": "windowEnd+PT24M"
-   },
    "hidePlayerScores": false,
    "percentileAccuracy": 1,
    "requiredPlayerListings": []
