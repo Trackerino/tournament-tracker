@@ -1,0 +1,36 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 5,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaDance:spray_fncsaxeofchamps",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 190,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaPickaxe:pickaxe_id_376_fncs",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               }
+            ]
+         }
+      ]
+   }
+]
