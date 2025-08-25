@@ -293,6 +293,50 @@
          }
       },
       {
+         "eventWindowId": "S37_FNCSDivisionalCup_Division1_Week2Final_mg_NAW",
+         "eventTemplateId": "EventTemplate_S36_FNCSDivisionalCup_Final",
+         "countdownBeginTime": "2025-08-29T23:00:00Z",
+         "beginTime": "2025-08-30T01:00:00Z",
+         "endTime": "2025-08-30T04:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_divpractice_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_FNCSDivisionalCup_Division1Finals_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_FNCS_Division1Week2_Final_NAWv2"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S37_FNCS_Banned"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week2_NAW"
+         }
+      },
+      {
          "eventWindowId": "S37_FNCSDivisionalCup_Division1_Week2Final_NAW",
          "eventTemplateId": "EventTemplate_S36_FNCSDivisionalCup_Final",
          "countdownBeginTime": "2025-08-23T23:00:00Z",
