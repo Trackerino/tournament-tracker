@@ -85,6 +85,12 @@
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
             "Permanent_Tournament_Ban",
+            "RegionLock_S37_DuosDivisionalTrial_ASIA",
+            "RegionLock_S37_DuosDivisionalTrial_BR",
+            "RegionLock_S37_DuosDivisionalTrial_EU",
+            "RegionLock_S37_DuosDivisionalTrial_ME",
+            "RegionLock_S37_DuosDivisionalTrial_NAC",
+            "RegionLock_S37_DuosDivisionalTrial_NAW",
             "S37_Duos_Division1_OCE"
          ],
          "requireAllTokensCaller": [],
