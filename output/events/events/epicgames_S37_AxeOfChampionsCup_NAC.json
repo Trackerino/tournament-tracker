@@ -56,7 +56,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:tbd",
+            "eula:s37_axeofchamps_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
