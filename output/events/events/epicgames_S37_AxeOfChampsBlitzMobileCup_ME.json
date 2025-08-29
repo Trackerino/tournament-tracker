@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S37_AxeOfChampsBlitzMobileCup_ME",
-   "beginTime": "2025-08-30T14:00:00Z",
-   "endTime": "2025-08-30T15:00:00Z",
+   "beginTime": "2025-08-30T10:00:00Z",
+   "endTime": "2025-08-30T11:00:00Z",
    "displayDataId": "s37_axeofchampionsblitz",
    "eventGroup": "Season37_AxeOfChampsBlitzMobileCup",
    "announcementTime": "2025-08-07T05:00:00Z",
@@ -27,9 +27,9 @@
       {
          "eventWindowId": "S37_AxeOfChampsBlitzMobileCup_ME",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
-         "countdownBeginTime": "2025-08-30T13:00:00Z",
-         "beginTime": "2025-08-30T14:00:00Z",
-         "endTime": "2025-08-30T15:00:00Z",
+         "countdownBeginTime": "2025-08-30T08:00:00Z",
+         "beginTime": "2025-08-30T10:00:00Z",
+         "endTime": "2025-08-30T11:00:00Z",
          "round": 0,
          "payoutDelay": 20,
          "isTBD": false,
