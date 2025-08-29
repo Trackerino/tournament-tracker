@@ -89,86 +89,6 @@
          }
       },
       {
-         "eventWindowId": "S37_ReloadQuickCup_Event1Group2Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-09-05T16:10:01Z",
-         "beginTime": "2025-09-05T18:15:01Z",
-         "endTime": "2025-09-05T19:00:01Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event1Group2Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S37_ReloadQuickCup_Event1Group3Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-09-05T16:10:02Z",
-         "beginTime": "2025-09-05T18:15:02Z",
-         "endTime": "2025-09-05T19:00:02Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event1Group3Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
          "eventWindowId": "S37_ReloadQuickCup_Event1Round1_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCupsRound1",
          "countdownBeginTime": "2025-09-05T15:00:00Z",
@@ -276,86 +196,6 @@
          "canLiveSpectate": false,
          "requireAllTokens": [
             "S37_ReloadQuickCup_Event2Group1Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S37_ReloadQuickCup_Event2Group2Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-09-12T16:10:01Z",
-         "beginTime": "2025-09-12T18:15:01Z",
-         "endTime": "2025-09-12T19:00:01Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event2Group2Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S37_ReloadQuickCup_Event2Group3Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-09-12T16:10:02Z",
-         "beginTime": "2025-09-12T18:15:02Z",
-         "endTime": "2025-09-12T19:00:02Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event2Group3Round2_EU"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -493,86 +333,6 @@
          }
       },
       {
-         "eventWindowId": "S37_ReloadQuickCup_Event3Group2Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-09-19T16:10:01Z",
-         "beginTime": "2025-09-19T18:15:01Z",
-         "endTime": "2025-09-19T19:00:01Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event3Group2Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S37_ReloadQuickCup_Event3Group3Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-09-19T16:10:02Z",
-         "beginTime": "2025-09-19T18:15:02Z",
-         "endTime": "2025-09-19T19:00:02Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event3Group3Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
          "eventWindowId": "S37_ReloadQuickCup_Event3Round1_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCupsRound1",
          "countdownBeginTime": "2025-09-19T15:00:00Z",
@@ -680,86 +440,6 @@
          "canLiveSpectate": false,
          "requireAllTokens": [
             "S37_ReloadQuickCup_Event4Group1Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S37_ReloadQuickCup_Event4Group2Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-09-26T16:10:01Z",
-         "beginTime": "2025-09-26T18:15:01Z",
-         "endTime": "2025-09-26T19:00:01Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event4Group2Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S37_ReloadQuickCup_Event4Group3Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-09-26T16:10:02Z",
-         "beginTime": "2025-09-26T18:15:02Z",
-         "endTime": "2025-09-26T19:00:02Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event4Group3Round2_EU"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -897,86 +577,6 @@
          }
       },
       {
-         "eventWindowId": "S37_ReloadQuickCup_Event5Group2Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-03T16:10:01Z",
-         "beginTime": "2025-10-03T18:15:01Z",
-         "endTime": "2025-10-03T19:00:01Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event5Group2Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S37_ReloadQuickCup_Event5Group3Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-03T16:10:02Z",
-         "beginTime": "2025-10-03T18:15:02Z",
-         "endTime": "2025-10-03T19:00:02Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event5Group3Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
          "eventWindowId": "S37_ReloadQuickCup_Event5Round1_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCupsRound1",
          "countdownBeginTime": "2025-10-03T15:00:00Z",
@@ -1061,9 +661,9 @@
       {
          "eventWindowId": "S37_ReloadQuickCup_Event6Group1Round2_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-10T16:10:00Z",
-         "beginTime": "2025-10-10T18:15:00Z",
-         "endTime": "2025-10-10T19:00:00Z",
+         "countdownBeginTime": "2025-10-09T16:10:00Z",
+         "beginTime": "2025-10-09T18:15:00Z",
+         "endTime": "2025-10-09T19:00:00Z",
          "round": 1,
          "payoutDelay": 24,
          "isTBD": false,
@@ -1099,91 +699,11 @@
          }
       },
       {
-         "eventWindowId": "S37_ReloadQuickCup_Event6Group2Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-10T16:10:01Z",
-         "beginTime": "2025-10-10T18:15:01Z",
-         "endTime": "2025-10-10T19:00:01Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event6Group2Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S37_ReloadQuickCup_Event6Group3Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-10T16:10:02Z",
-         "beginTime": "2025-10-10T18:15:02Z",
-         "endTime": "2025-10-10T19:00:02Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event6Group3Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
          "eventWindowId": "S37_ReloadQuickCup_Event6Round1_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCupsRound1",
-         "countdownBeginTime": "2025-10-10T15:00:00Z",
-         "beginTime": "2025-10-10T17:00:00Z",
-         "endTime": "2025-10-10T17:45:00Z",
+         "countdownBeginTime": "2025-10-09T15:00:00Z",
+         "beginTime": "2025-10-09T17:00:00Z",
+         "endTime": "2025-10-09T17:45:00Z",
          "round": 1,
          "payoutDelay": 24,
          "isTBD": false,
@@ -1221,9 +741,9 @@
       {
          "eventWindowId": "S37_ReloadQuickCup_Event6Round3_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-10T17:30:00Z",
-         "beginTime": "2025-10-10T19:30:00Z",
-         "endTime": "2025-10-10T20:30:00Z",
+         "countdownBeginTime": "2025-10-09T17:30:00Z",
+         "beginTime": "2025-10-09T19:30:00Z",
+         "endTime": "2025-10-09T20:30:00Z",
          "round": 1,
          "payoutDelay": 24,
          "isTBD": false,
@@ -1263,9 +783,9 @@
       {
          "eventWindowId": "S37_ReloadQuickCup_Event7Group1Round2_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-17T16:10:00Z",
-         "beginTime": "2025-10-17T18:15:00Z",
-         "endTime": "2025-10-17T19:00:00Z",
+         "countdownBeginTime": "2025-10-10T16:10:00Z",
+         "beginTime": "2025-10-10T18:15:00Z",
+         "endTime": "2025-10-10T19:00:00Z",
          "round": 1,
          "payoutDelay": 24,
          "isTBD": false,
@@ -1301,91 +821,11 @@
          }
       },
       {
-         "eventWindowId": "S37_ReloadQuickCup_Event7Group2Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-17T16:10:01Z",
-         "beginTime": "2025-10-17T18:15:01Z",
-         "endTime": "2025-10-17T19:00:01Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event7Group2Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S37_ReloadQuickCup_Event7Group3Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-17T16:10:02Z",
-         "beginTime": "2025-10-17T18:15:02Z",
-         "endTime": "2025-10-17T19:00:02Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event7Group3Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
          "eventWindowId": "S37_ReloadQuickCup_Event7Round1_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCupsRound1",
-         "countdownBeginTime": "2025-10-17T15:00:00Z",
-         "beginTime": "2025-10-17T17:00:00Z",
-         "endTime": "2025-10-17T17:45:00Z",
+         "countdownBeginTime": "2025-10-10T15:00:00Z",
+         "beginTime": "2025-10-10T17:00:00Z",
+         "endTime": "2025-10-10T17:45:00Z",
          "round": 1,
          "payoutDelay": 24,
          "isTBD": false,
@@ -1423,9 +863,9 @@
       {
          "eventWindowId": "S37_ReloadQuickCup_Event7Round3_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-17T17:30:00Z",
-         "beginTime": "2025-10-17T19:30:00Z",
-         "endTime": "2025-10-17T20:30:00Z",
+         "countdownBeginTime": "2025-10-10T17:30:00Z",
+         "beginTime": "2025-10-10T19:30:00Z",
+         "endTime": "2025-10-10T20:30:00Z",
          "round": 1,
          "payoutDelay": 24,
          "isTBD": false,
@@ -1465,9 +905,9 @@
       {
          "eventWindowId": "S37_ReloadQuickCup_Event8Group1Round2_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-24T16:10:00Z",
-         "beginTime": "2025-10-24T18:15:00Z",
-         "endTime": "2025-10-24T19:00:00Z",
+         "countdownBeginTime": "2025-10-17T16:10:00Z",
+         "beginTime": "2025-10-17T18:15:00Z",
+         "endTime": "2025-10-17T19:00:00Z",
          "round": 1,
          "payoutDelay": 24,
          "isTBD": false,
@@ -1503,87 +943,129 @@
          }
       },
       {
-         "eventWindowId": "S37_ReloadQuickCup_Event8Group2Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-24T16:10:01Z",
-         "beginTime": "2025-10-24T18:15:01Z",
-         "endTime": "2025-10-24T19:00:01Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event8Group2Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S37_ReloadQuickCup_Event8Group3Round2_EU",
-         "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-10-24T16:10:02Z",
-         "beginTime": "2025-10-24T18:15:02Z",
-         "endTime": "2025-10-24T19:00:02Z",
-         "round": 1,
-         "payoutDelay": 24,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "eula:s37_reloadrush_rules"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S37_ReloadQuick_Round2Group2_3_DefaultLeaderboardDef",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S37_ReloadQuickCup_Event8Group3Round2_EU"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
          "eventWindowId": "S37_ReloadQuickCup_Event8Round1_EU",
+         "eventTemplateId": "EventTemplate_ReloadQuickCupsRound1",
+         "countdownBeginTime": "2025-10-17T15:00:00Z",
+         "beginTime": "2025-10-17T17:00:00Z",
+         "endTime": "2025-10-17T17:45:00Z",
+         "round": 1,
+         "payoutDelay": 24,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "eula:s37_reloadrush_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ReloadQuick_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S37_CashCup_Qualified"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ReloadQuickCup_Event8Round3_EU",
+         "eventTemplateId": "EventTemplate_ReloadQuickCups",
+         "countdownBeginTime": "2025-10-17T17:30:00Z",
+         "beginTime": "2025-10-17T19:30:00Z",
+         "endTime": "2025-10-17T20:30:00Z",
+         "round": 1,
+         "payoutDelay": 24,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "eula:s37_reloadrush_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ReloadQuick_Round3_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_ReloadQuickCup_Event8Round3_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1440,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ReloadQuickCup_Event9Group1Round2_EU",
+         "eventTemplateId": "EventTemplate_ReloadQuickCups",
+         "countdownBeginTime": "2025-10-24T16:10:00Z",
+         "beginTime": "2025-10-24T18:15:00Z",
+         "endTime": "2025-10-24T19:00:00Z",
+         "round": 1,
+         "payoutDelay": 24,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "eula:s37_reloadrush_rules"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_ReloadQuick_Round2Group1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S37_ReloadQuickCup_Event9Group1Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_ReloadQuickCup_Event9Round1_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCupsRound1",
          "countdownBeginTime": "2025-10-24T15:00:00Z",
          "beginTime": "2025-10-24T17:00:00Z",
@@ -1623,7 +1105,7 @@
          }
       },
       {
-         "eventWindowId": "S37_ReloadQuickCup_Event8Round3_EU",
+         "eventWindowId": "S37_ReloadQuickCup_Event9Round3_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCups",
          "countdownBeginTime": "2025-10-24T17:30:00Z",
          "beginTime": "2025-10-24T19:30:00Z",
@@ -1647,7 +1129,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S37_ReloadQuickCup_Event8Round3_EU"
+            "S37_ReloadQuickCup_Event9Round3_EU"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
