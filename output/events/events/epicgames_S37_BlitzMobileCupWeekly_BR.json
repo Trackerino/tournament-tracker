@@ -65,6 +65,44 @@
       {
          "eventWindowId": "S37_BlitzMobileCupWeekly_Event2_BR",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
+         "countdownBeginTime": "2025-09-04T19:00:00Z",
+         "beginTime": "2025-09-04T20:00:00Z",
+         "endTime": "2025-09-04T21:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_blitzmobile_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_BlitzMobileCups_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_BlitzMobileCupWeekly_Event3_BR",
+         "eventTemplateId": "S37_BlitzCups_EventTemplate",
          "countdownBeginTime": "2025-09-11T19:00:00Z",
          "beginTime": "2025-09-11T20:00:00Z",
          "endTime": "2025-09-11T21:00:00Z",
@@ -101,7 +139,7 @@
          }
       },
       {
-         "eventWindowId": "S37_BlitzMobileCupWeekly_Event3_BR",
+         "eventWindowId": "S37_BlitzMobileCupWeekly_Event4_BR",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
          "countdownBeginTime": "2025-09-18T19:00:00Z",
          "beginTime": "2025-09-18T20:00:00Z",
@@ -139,7 +177,7 @@
          }
       },
       {
-         "eventWindowId": "S37_BlitzMobileCupWeekly_Event4_BR",
+         "eventWindowId": "S37_BlitzMobileCupWeekly_Event5_BR",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
          "countdownBeginTime": "2025-09-25T19:00:00Z",
          "beginTime": "2025-09-25T20:00:00Z",
@@ -177,7 +215,7 @@
          }
       },
       {
-         "eventWindowId": "S37_BlitzMobileCupWeekly_Event5_BR",
+         "eventWindowId": "S37_BlitzMobileCupWeekly_Event6_BR",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
          "countdownBeginTime": "2025-10-02T19:00:00Z",
          "beginTime": "2025-10-02T20:00:00Z",
@@ -215,7 +253,7 @@
          }
       },
       {
-         "eventWindowId": "S37_BlitzMobileCupWeekly_Event6_BR",
+         "eventWindowId": "S37_BlitzMobileCupWeekly_Event7_BR",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
          "countdownBeginTime": "2025-10-09T19:00:00Z",
          "beginTime": "2025-10-09T20:00:00Z",
@@ -253,7 +291,7 @@
          }
       },
       {
-         "eventWindowId": "S37_BlitzMobileCupWeekly_Event7_BR",
+         "eventWindowId": "S37_BlitzMobileCupWeekly_Event8_BR",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
          "countdownBeginTime": "2025-10-16T19:00:00Z",
          "beginTime": "2025-10-16T20:00:00Z",
@@ -291,7 +329,7 @@
          }
       },
       {
-         "eventWindowId": "S37_BlitzMobileCupWeekly_Event8_BR",
+         "eventWindowId": "S37_BlitzMobileCupWeekly_Event9_BR",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
          "countdownBeginTime": "2025-10-23T19:00:00Z",
          "beginTime": "2025-10-23T20:00:00Z",
