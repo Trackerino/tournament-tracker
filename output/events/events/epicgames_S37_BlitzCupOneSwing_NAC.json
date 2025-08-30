@@ -64,7 +64,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S37_BlitzMobileCups_LeaderboardDef",
+               "leaderboardDefId": "S37_BlitzMobileCup_LeaderboardDef",
                "isMainWindowLeaderboard": true
             }
          ],
