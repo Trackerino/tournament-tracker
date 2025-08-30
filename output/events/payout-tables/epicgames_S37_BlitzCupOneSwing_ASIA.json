@@ -17,7 +17,7 @@
       ]
    },
    {
-      "scoringType": "value",
+      "scoringType": "rank",
       "ranks": [
          {
             "threshold": 750,
