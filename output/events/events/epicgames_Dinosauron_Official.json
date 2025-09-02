@@ -1,0 +1,141 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_Dinosauron_Official",
+   "beginTime": "2025-09-05T19:59:00Z",
+   "endTime": "2025-09-07T19:59:59Z",
+   "displayDataId": "s37_gc_2025",
+   "eventGroup": "FNCS",
+   "announcementTime": "2025-08-24T09:00:00Z",
+   "regions": [
+      "ASIA",
+      "BR",
+      "EU",
+      "ME",
+      "NAC",
+      "NAE",
+      "NAW",
+      "OCE",
+      "ONSITE"
+   ],
+   "regionMappings": {},
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 0,
+      "TrackedStats": [
+         "Headshots",
+         "DamageDealt",
+         "DamageReceived",
+         "GainedHealthTimes",
+         "GainedShieldTimes",
+         "Travel_Distance_Ground"
+      ]
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "Dinosauron_Day1",
+         "eventTemplateId": "EventTemplate_Dinosauron",
+         "countdownBeginTime": "2025-09-01T06:00:00Z",
+         "beginTime": "2025-09-05T19:59:00Z",
+         "endTime": "2025-09-06T19:59:59Z",
+         "round": 0,
+         "payoutDelay": 1,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37FNCSLAN_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37FNCSLAN_FinalCumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "Dinosauron"
+         ],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "alternativeScoreLocationIndex": 1,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "FNCSLAN"
+         }
+      },
+      {
+         "eventWindowId": "Dinosauron_Day2",
+         "eventTemplateId": "EventTemplate_Dinosauron",
+         "countdownBeginTime": "2025-09-01T06:00:00Z",
+         "beginTime": "2025-09-06T22:00:00Z",
+         "endTime": "2025-09-07T19:59:59Z",
+         "round": 0,
+         "payoutDelay": 1,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37FNCSLAN_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S37FNCSLAN_FinalCumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "Dinosauron"
+         ],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "alternativeScoreLocationIndex": 1,
+            "ForceDisplayLeaderboards": true,
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "FNCSLAN"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_dinosauron_official",
+      "version": 1
+   }
+}
