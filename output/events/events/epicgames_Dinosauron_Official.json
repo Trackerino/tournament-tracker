@@ -86,6 +86,7 @@
          "requireAnyTokensCaller": [],
          "metadata": {
             "alternativeScoreLocationIndex": 1,
+            "ForceDisplayLeaderboards": true,
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ServerReplays": true,
