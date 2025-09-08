@@ -411,6 +411,8 @@
          "regionMappings": {},
          "metadata": {
             "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
             "ServerReplays": true
          }
       }
