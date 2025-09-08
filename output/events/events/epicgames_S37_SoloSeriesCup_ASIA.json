@@ -379,13 +379,7 @@
          "additionalRequirements": [
             "eula:s37_soloseries_rules",
             "adps:g-a81a33a3b9a7",
-            "mfa",
-            [
-               "currentRanking:ranked-br:6",
-               "currentRanking:ranked-zb:6",
-               "currentRanking:ranked_blastberry_build:6",
-               "currentRanking:ranked_blastberry_nobuild:6"
-            ]
+            "mfa"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
