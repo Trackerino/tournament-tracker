@@ -1494,9 +1494,9 @@
       {
          "eventWindowId": "S37_RankedCupSolo_Event7_NAC",
          "eventTemplateId": "EventTemplate_RankedCupSolo",
-         "countdownBeginTime": "2025-09-10T21:00:03Z",
-         "beginTime": "2025-09-10T23:00:03Z",
-         "endTime": "2025-09-11T02:00:03Z",
+         "countdownBeginTime": "2025-09-09T21:00:03Z",
+         "beginTime": "2025-09-09T23:00:03Z",
+         "endTime": "2025-09-10T02:00:03Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
