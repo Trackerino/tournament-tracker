@@ -1,7 +1,7 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S37_FrenchWeekly_EU",
-   "beginTime": "2025-09-10T12:00:00Z",
+   "beginTime": "2025-09-09T12:00:00Z",
    "endTime": "2025-10-22T15:00:00Z",
    "displayDataId": "s37_ranked_duosreload",
    "eventGroup": "Season37_RankedCupReloadDuos",
@@ -47,9 +47,9 @@
       {
          "eventWindowId": "S37_FrenchWeekly_Event1_EU",
          "eventTemplateId": "EventTemplate_RankedCupReloadDuos",
-         "countdownBeginTime": "2025-09-10T10:00:00Z",
-         "beginTime": "2025-09-10T12:00:00Z",
-         "endTime": "2025-09-10T15:00:00Z",
+         "countdownBeginTime": "2025-09-09T10:00:00Z",
+         "beginTime": "2025-09-09T12:00:00Z",
+         "endTime": "2025-09-09T15:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
