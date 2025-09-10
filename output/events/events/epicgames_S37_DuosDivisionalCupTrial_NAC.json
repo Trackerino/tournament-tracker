@@ -75,7 +75,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S37_DuosDivisionalCup_DefaultLeaderboardDef",
+               "leaderboardDefId": "S37_DuosDivisionalCupTrial_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             }
          ],
