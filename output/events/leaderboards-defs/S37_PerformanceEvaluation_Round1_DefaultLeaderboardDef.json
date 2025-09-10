@@ -33,7 +33,7 @@
          }
       ]
    },
-   "scoringRuleSetId": "ScoringRules_DuosDivisionalCup",
+   "scoringRuleSetId": "ScoringRules_DuosDivisionalCupTrial",
    "clampsToZero": true,
    "payoutsConfig": {
       "payoutTableIdFormat": "${windowId}",
