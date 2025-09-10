@@ -136,7 +136,7 @@
       "rewardTiers": [
          {
             "keyValue": 1,
-            "pointsEarned": 2,
+            "pointsEarned": 1,
             "multiplicative": true
          }
       ]
