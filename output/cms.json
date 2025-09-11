@@ -4145,6 +4145,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "460000",
+      "background_right_color": "C40001",
+      "background_text_color": "161616",
+      "details_description": "Kai Cenat is breaking into Fortnite and joining the Icon Series! Drop into his tournament for a chance to win early access to his bundle!",
+      "long_format_title": "Kai Cenat Icon Cup",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/fneco-37-20-essayview-competitivecup-discoverplaylisttile-1920x1080-1920x1080-b91c91996e2a.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/800x800-800x800-306dd7be56dd.jpg",
+      "title_line_1": "Kai Cenat Icon Cup",
+      "tournament_display_id": "s37_kaicenat",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/1560x1024-1560x1024-93bb2442e9a3.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "001718",
       "background_right_color": "31D9D8",
       "background_text_color": "161616",
