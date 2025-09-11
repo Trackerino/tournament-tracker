@@ -39,6 +39,7 @@
       "AccountLockType": "Window",
       "DisqualifyType": "Event",
       "minimumAccountLevel": 350,
+      "RegionLockType": "Window",
       "requireSystemFeatures": [
          "SecureBoot",
          "CryptoProcessor"
