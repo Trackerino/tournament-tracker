@@ -179,9 +179,9 @@
       {
          "eventWindowId": "S37_BlitzMobileCupWeekly_Event5_OCE",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
-         "countdownBeginTime": "2025-09-25T06:00:00Z",
-         "beginTime": "2025-09-25T07:00:00Z",
-         "endTime": "2025-09-25T08:00:00Z",
+         "countdownBeginTime": "2025-09-23T06:00:00Z",
+         "beginTime": "2025-09-23T07:00:00Z",
+         "endTime": "2025-09-23T08:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,

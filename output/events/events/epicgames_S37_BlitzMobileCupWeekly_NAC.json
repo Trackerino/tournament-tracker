@@ -181,9 +181,9 @@
       {
          "eventWindowId": "S37_BlitzMobileCupWeekly_Event5_NAC",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
-         "countdownBeginTime": "2025-09-25T21:00:00Z",
-         "beginTime": "2025-09-25T22:00:00Z",
-         "endTime": "2025-09-25T23:00:00Z",
+         "countdownBeginTime": "2025-09-23T21:00:00Z",
+         "beginTime": "2025-09-23T22:00:00Z",
+         "endTime": "2025-09-23T23:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
