@@ -171,9 +171,9 @@
       {
          "eventWindowId": "S37_ReloadQuickCup_Event4Group3Round2_EU",
          "eventTemplateId": "EventTemplate_ReloadQuickCups",
-         "countdownBeginTime": "2025-09-26T16:10:02Z",
-         "beginTime": "2025-09-26T18:15:02Z",
-         "endTime": "2025-09-26T19:00:02Z",
+         "countdownBeginTime": "2025-09-28T11:10:02Z",
+         "beginTime": "2025-09-28T13:15:02Z",
+         "endTime": "2025-09-28T14:00:02Z",
          "round": 1,
          "payoutDelay": 24,
          "isTBD": false,
