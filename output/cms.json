@@ -4185,6 +4185,21 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "2B2B2B",
+      "background_right_color": "fe7a04",
+      "background_text_color": "161616",
+      "details_description": "The iconic MrSavage is joining the Icon Series! Drop into his Duos Battle Royale tournament for a chance to win early access to his bundle!",
+      "long_format_title": "MrSavage Icon Cup",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/en-fneco-37-30-pinetrim-discoverplaylist-tiles-1920x1080-1920x1080-ec494a1950b6.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fneco-37-30-pinetrim-ingamecompetetab-solotexture-800x800-800x800-88d455134ef2.jpg",
+      "title_line_1": "MrSavage Icon Cup",
+      "title_line_2": "",
+      "tournament_display_id": "s37_mrsavage",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fneco-37-30-pinetrim-ingamecompetetab-grouptexture-1560x1024-1560x1024-a222831f6ef0.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "001718",
       "background_right_color": "31D9D8",
       "background_text_color": "161616",
