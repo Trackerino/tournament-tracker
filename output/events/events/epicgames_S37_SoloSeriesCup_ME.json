@@ -201,7 +201,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S37_SoloSeriesCup_SeriesLeaderboardDef"
+               "S37_SoloSeriesCup_DefaultLeaderboardDef"
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -254,7 +254,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S37_SoloSeriesCup_SeriesLeaderboardDef"
+               "S37_SoloSeriesCup_DefaultLeaderboardDef"
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -307,7 +307,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S37_SoloSeriesCup_SeriesLeaderboardDef"
+               "S37_SoloSeriesCup_DefaultLeaderboardDef"
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -360,7 +360,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S37_SoloSeriesCup_SeriesLeaderboardDef"
+               "S37_SoloSeriesCup_DefaultLeaderboardDef"
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
