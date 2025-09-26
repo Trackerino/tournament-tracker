@@ -217,9 +217,9 @@
       {
          "eventWindowId": "S37_BlitzMobileCupWeekly_Event6_BR",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
-         "countdownBeginTime": "2025-10-02T19:00:00Z",
-         "beginTime": "2025-10-02T20:00:00Z",
-         "endTime": "2025-10-02T21:00:00Z",
+         "countdownBeginTime": "2025-10-01T19:00:00Z",
+         "beginTime": "2025-10-01T20:00:00Z",
+         "endTime": "2025-10-01T21:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
