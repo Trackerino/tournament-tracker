@@ -35,7 +35,6 @@
    },
    "scoringRuleSetId": "ScoringRules_VictoryCup",
    "clampsToZero": true,
-   "onlyScoreTopN": 1,
    "payoutsConfig": {
       "payoutTableIdFormat": "PayoutTable_ReloadQuickCup",
       "payoutDate": "windowEnd+PT24M"
