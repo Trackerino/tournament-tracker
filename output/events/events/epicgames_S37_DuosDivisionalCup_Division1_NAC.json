@@ -725,9 +725,9 @@
       {
          "eventWindowId": "S37_DuosDivisionalCup_Division1_Week5Final_NAC",
          "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup_Final",
-         "countdownBeginTime": "2025-10-18T21:00:00Z",
-         "beginTime": "2025-10-18T23:00:00Z",
-         "endTime": "2025-10-19T02:00:00Z",
+         "countdownBeginTime": "2025-10-18T17:00:00Z",
+         "beginTime": "2025-10-18T19:00:00Z",
+         "endTime": "2025-10-18T22:00:00Z",
          "round": 5,
          "payoutDelay": 32,
          "isTBD": false,
