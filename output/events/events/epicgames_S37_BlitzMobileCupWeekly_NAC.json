@@ -235,7 +235,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S37_BlitzMobileCups_LeaderboardDef",
+               "leaderboardDefId": "S37_BlitzMobileCupsOctober_LeaderboardDef",
                "isMainWindowLeaderboard": true
             }
          ],
@@ -273,7 +273,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S37_BlitzMobileCups_LeaderboardDef",
+               "leaderboardDefId": "S37_BlitzMobileCupsOctober_LeaderboardDef",
                "isMainWindowLeaderboard": true
             }
          ],
@@ -311,7 +311,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S37_BlitzMobileCups_LeaderboardDef",
+               "leaderboardDefId": "S37_BlitzMobileCupsOctober_LeaderboardDef",
                "isMainWindowLeaderboard": true
             }
          ],
@@ -349,7 +349,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S37_BlitzMobileCups_LeaderboardDef",
+               "leaderboardDefId": "S37_BlitzMobileCupsOctober_LeaderboardDef",
                "isMainWindowLeaderboard": true
             }
          ],
