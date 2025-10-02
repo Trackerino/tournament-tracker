@@ -4025,6 +4025,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "140001",
+      "background_right_color": "3f3953",
+      "background_text_color": "161616",
+      "details_description": "It's Spooky Szn! Drop into the Early Access Cups for a chance to win access to The Dark Maw Outfit! The top 25% of Duos in each region get early access to the brand new Reload Map on October 9!",
+      "long_format_title": "Early Access Cups",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/en-fnbr-37-50-nitemare-comp-in-game-tab-earlyaccess-discoverplaylisttile-1920x1080-1920x1080-653ee0dc4413.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnbr-37-50-nitemare-comp-in-game-tab-800x800-800x800-50216aac1961.jpg",
+      "title_line_1": "Early Access Cups",
+      "tournament_display_id": "s37_earlyaccesscups",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnbr-37-50-nitemare-comp-in-game-tab-1560x1024-1560x1024-45cb3fb62f04.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "092832",
       "background_right_color": "2557FF",
       "background_text_color": "161616",
