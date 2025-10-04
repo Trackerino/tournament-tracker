@@ -1,6 +1,6 @@
 {
-   "playlistId": "Playlist_ShowdownTournament_Trios",
-   "matchCap": 6,
+   "playlistId": "Playlist_ShowdownTournament_Duos",
+   "matchCap": 7,
    "tiebreakerFormula": {
       "basePointsBits": 11,
       "components": [
