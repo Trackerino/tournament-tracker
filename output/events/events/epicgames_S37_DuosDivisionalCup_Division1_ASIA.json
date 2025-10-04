@@ -439,7 +439,7 @@
          "eventTemplateId": "EventTemplate_S37_DuosDivisionalCup_Final",
          "countdownBeginTime": "2025-10-04T07:00:00Z",
          "beginTime": "2025-10-04T09:00:00Z",
-         "endTime": "2025-10-04T12:30:00Z",
+         "endTime": "2025-10-04T12:00:00Z",
          "round": 3,
          "payoutDelay": 32,
          "isTBD": false,
