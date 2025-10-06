@@ -4214,6 +4214,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "140001",
+      "background_right_color": "3f3953",
+      "background_text_color": "161616",
+      "details_description": "It's Spooky Szn! Duo up and drop in to the new Reload map: Nitemare Island! This is an early access play session and there will be no scoring or prizing associated with this event.",
+      "long_format_title": "Nitemare Island: Early Access Cups",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/en-fnbr-37-50-nitemare-comp-in-game-tab-earlyaccess-discoverplaylisttile-1920x1080-1920x1080-653ee0dc4413.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnbr-37-50-nitemare-comp-in-game-tab-800x800-800x800-50216aac1961.jpg",
+      "title_line_1": "Nitemare Island: Early Access Cups",
+      "tournament_display_id": "s37_nitemareisland",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnbr-37-50-nitemare-comp-in-game-tab-1560x1024-1560x1024-45cb3fb62f04.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "001718",
       "background_right_color": "31D9D8",
       "background_text_color": "161616",
