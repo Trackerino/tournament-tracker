@@ -4457,8 +4457,8 @@
    },
    {
       "_type": "Tournament Display Info",
-      "background_left_color": "0664F0",
-      "background_right_color": "8912FF",
+      "background_left_color": "FFB300",
+      "background_right_color": "FFC000",
       "background_text_color": "161616",
       "background_title": "",
       "base_color": "FFFFFF",
@@ -4467,19 +4467,19 @@
       "highlight_color": "F7FF00",
       "long_format_title": "Solo Series",
       "pin_earned_text": "Winner!",
-      "playlist_tile_image": "https://cdn2.unrealengine.com/en-fneco-33-00-competitive-discoverytile-cashcup-1080x1920-1920x1080-e7ea5cd3f8f2.jpg",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/en-37-10-soloseries-discovertile-1920x1080-1920x1080-12302ace6fc9.jpg",
       "poster_fade_color": "",
       "primary_color": "977EA5",
       "schedule_info": "Various Dates",
       "secondary_color": "161616",
       "shadow_color": "",
       "short_format_title": "",
-      "square_poster_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-cash-cups-01-800x800-800x800-9705355c1c8e.jpg",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnce-37-10-soloseries-ingamecompetetab-solotexture-800x800-800x800-9744887a61a8.jpg",
       "title_color": "FFFFFF",
       "title_line_1": "Solo Series",
       "title_line_2": "",
       "tournament_display_id": "s37_soloseries",
-      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-33-30-textures-cashcup-3up-1560x1024-05ba768d2afb.jpg"
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-37-10-soloseries-ingamecompetetab-grouptexture-1560x1024-1560x1024-7db6fd7ff9b0.jpg"
    },
    {
       "_type": "Tournament Display Info",
