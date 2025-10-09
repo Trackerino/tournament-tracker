@@ -3740,8 +3740,8 @@
    },
    {
       "_type": "Tournament Display Info",
-      "background_left_color": " 0664F0",
-      "background_right_color": "8912FF",
+      "background_left_color": "00629a",
+      "background_right_color": "43D5F7",
       "background_text_color": "161616",
       "background_title": "",
       "base_color": "FFFFFF",
@@ -3765,12 +3765,12 @@
       "secondary_color": "161616",
       "shadow_color": "",
       "short_format_title": "",
-      "square_poster_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-cash-cups-03-800x800-800x800-7e4d95d3afe5.jpg",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnce-37-10-duoseries-ingamecompetetab-solotexture-800x800-800x800-41a732057459.jpg",
       "title_color": "FFFFFF",
       "title_line_1": "Duos Division 1",
       "title_line_2": "",
       "tournament_display_id": "s37_division1_duos",
-      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-33-30-textures-cashcup-03-1560x1024-f5eab45d1fca.jpg"
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-37-10-duoseries-ingamecompetetab-grouptexture-1560x1024-1560x1024-3dba8efa461f.jpg"
    },
    {
       "_type": "Tournament Display Info",
@@ -3807,8 +3807,8 @@
    },
    {
       "_type": "Tournament Display Info",
-      "background_left_color": "0664F0",
-      "background_right_color": "8912FF",
+      "background_left_color": "00629a",
+      "background_right_color": "43D5F7",
       "background_text_color": "161616",
       "background_title": "",
       "base_color": "FFFFFF",
@@ -3832,12 +3832,12 @@
       "secondary_color": "161616",
       "shadow_color": "",
       "short_format_title": "",
-      "square_poster_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-cash-cups-03-800x800-800x800-7e4d95d3afe5.jpg",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnce-37-10-duoseries-ingamecompetetab-solotexture-800x800-800x800-41a732057459.jpg",
       "title_color": "FFFFFF",
       "title_line_1": "Duos Division 2",
       "title_line_2": "",
       "tournament_display_id": "s37_division2_duos",
-      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-33-30-textures-cashcup-03-1560x1024-f5eab45d1fca.jpg"
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-37-10-duoseries-ingamecompetetab-grouptexture-1560x1024-1560x1024-3dba8efa461f.jpg"
    },
    {
       "_type": "Tournament Display Info",
@@ -3875,8 +3875,8 @@
    },
    {
       "_type": "Tournament Display Info",
-      "background_left_color": "0664F0",
-      "background_right_color": "8912FF",
+      "background_left_color": "00629a",
+      "background_right_color": "43D5F7",
       "background_text_color": "161616",
       "background_title": "",
       "base_color": "FFFFFF",
@@ -3900,17 +3900,17 @@
       "secondary_color": "161616",
       "shadow_color": "",
       "short_format_title": "",
-      "square_poster_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-cash-cups-03-800x800-800x800-7e4d95d3afe5.jpg",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnce-37-10-duoseries-ingamecompetetab-solotexture-800x800-800x800-41a732057459.jpg",
       "title_color": "FFFFFF",
       "title_line_1": "Duos Division 3",
       "title_line_2": "",
       "tournament_display_id": "s37_division3_duos",
-      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-33-30-textures-cashcup-03-1560x1024-f5eab45d1fca.jpg"
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-37-10-duoseries-ingamecompetetab-grouptexture-1560x1024-1560x1024-3dba8efa461f.jpg"
    },
    {
       "_type": "Tournament Display Info",
-      "background_left_color": "0664F0",
-      "background_right_color": "8912FF",
+      "background_left_color": "00629a",
+      "background_right_color": "43D5F7",
       "background_text_color": "161616",
       "background_title": "",
       "base_color": "FFFFFF",
@@ -3934,17 +3934,17 @@
       "secondary_color": "161616",
       "shadow_color": "",
       "short_format_title": "",
-      "square_poster_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-cash-cups-03-800x800-800x800-7e4d95d3afe5.jpg",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnce-37-10-duoseries-ingamecompetetab-solotexture-800x800-800x800-41a732057459.jpg",
       "title_color": "FFFFFF",
       "title_line_1": "Duos Division 4",
       "title_line_2": "",
       "tournament_display_id": "s37_division4_duos",
-      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-33-30-textures-cashcup-03-1560x1024-f5eab45d1fca.jpg"
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-37-10-duoseries-ingamecompetetab-grouptexture-1560x1024-1560x1024-3dba8efa461f.jpg"
    },
    {
       "_type": "Tournament Display Info",
-      "background_left_color": "0664F0",
-      "background_right_color": "8912FF",
+      "background_left_color": "00629a",
+      "background_right_color": "43D5F7",
       "background_text_color": "161616",
       "background_title": "",
       "base_color": "FFFFFF",
@@ -3968,12 +3968,12 @@
       "secondary_color": "161616",
       "shadow_color": "",
       "short_format_title": "",
-      "square_poster_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-cash-cups-03-800x800-800x800-7e4d95d3afe5.jpg",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnce-37-10-duoseries-ingamecompetetab-solotexture-800x800-800x800-41a732057459.jpg",
       "title_color": "FFFFFF",
       "title_line_1": "Duos Division 5",
       "title_line_2": "",
       "tournament_display_id": "s37_division5_duos",
-      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-33-30-textures-cashcup-03-1560x1024-f5eab45d1fca.jpg"
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-37-10-duoseries-ingamecompetetab-grouptexture-1560x1024-1560x1024-3dba8efa461f.jpg"
    },
    {
       "_type": "Tournament Display Info",
