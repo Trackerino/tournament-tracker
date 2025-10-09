@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S37_BlitzMobileCupWeekly_OCE",
    "beginTime": "2025-08-28T07:00:00Z",
-   "endTime": "2025-10-23T07:00:00Z",
+   "endTime": "2025-10-25T07:00:00Z",
    "displayDataId": "s37_blitzweekly",
    "eventGroup": "Season37_BlitzMobileCupWeekly",
    "announcementTime": "2025-08-06T22:00:00Z",
@@ -44,6 +44,120 @@
          "scoreLocations": [
             {
                "leaderboardDefId": "S37_BlitzMobileCups_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_BlitzMobileCupWeekly_Event10_OCE",
+         "eventTemplateId": "S37_BlitzCups_EventTemplate",
+         "countdownBeginTime": "2025-10-19T05:00:00Z",
+         "beginTime": "2025-10-19T06:00:00Z",
+         "endTime": "2025-10-19T07:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_blitzmobile_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_BlitzMobileCupsOctober_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_BlitzMobileCupWeekly_Event11_OCE",
+         "eventTemplateId": "S37_BlitzCups_EventTemplate",
+         "countdownBeginTime": "2025-10-23T05:00:00Z",
+         "beginTime": "2025-10-23T06:00:00Z",
+         "endTime": "2025-10-23T07:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_blitzmobile_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_BlitzMobileCupsOctober_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_BlitzMobileCupWeekly_Event12_OCE",
+         "eventTemplateId": "S37_BlitzCups_EventTemplate",
+         "countdownBeginTime": "2025-10-25T05:00:00Z",
+         "beginTime": "2025-10-25T06:00:00Z",
+         "endTime": "2025-10-25T07:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_blitzmobile_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_BlitzMobileCupsOctober_LeaderboardDef",
                "isMainWindowLeaderboard": true
             }
          ],
@@ -293,9 +407,9 @@
       {
          "eventWindowId": "S37_BlitzMobileCupWeekly_Event8_OCE",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
-         "countdownBeginTime": "2025-10-16T05:00:00Z",
-         "beginTime": "2025-10-16T06:00:00Z",
-         "endTime": "2025-10-16T07:00:00Z",
+         "countdownBeginTime": "2025-10-12T05:00:00Z",
+         "beginTime": "2025-10-12T06:00:00Z",
+         "endTime": "2025-10-12T07:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -331,9 +445,9 @@
       {
          "eventWindowId": "S37_BlitzMobileCupWeekly_Event9_OCE",
          "eventTemplateId": "S37_BlitzCups_EventTemplate",
-         "countdownBeginTime": "2025-10-23T05:00:00Z",
-         "beginTime": "2025-10-23T06:00:00Z",
-         "endTime": "2025-10-23T07:00:00Z",
+         "countdownBeginTime": "2025-10-16T05:00:00Z",
+         "beginTime": "2025-10-16T06:00:00Z",
+         "endTime": "2025-10-16T07:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
