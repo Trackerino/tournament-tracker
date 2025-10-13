@@ -4204,6 +4204,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "140000",
+      "background_right_color": "403954",
+      "background_text_color": "161616",
+      "details_description": "It’s your lucky day! Drop into the Jason Haunted Cup for a chance to win early access to the Jason Outfit!",
+      "long_format_title": "Jason Haunted Cup",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/en-fnbr-37-50-nitemare-comp-in-game-tab-jasonhauntedcup-discoverplaylisttile-1920x1080-1920x1080-5f62852ae311.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnbr-37-50-nitemareisland-jasonhauntedcup-competetab-800x800-800x800-ad7c57b0c250.jpg",
+      "title_line_1": "Jason Haunted Cup",
+      "tournament_display_id": "s37_jason",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnbr-37-50-nitemareisland-jasonhauntedcup-competetab-1560x1024-1560x1024-24ba1ee5d87e.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "460000",
       "background_right_color": "C40001",
       "background_text_color": "161616",
