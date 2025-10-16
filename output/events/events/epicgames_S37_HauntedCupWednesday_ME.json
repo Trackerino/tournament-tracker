@@ -39,7 +39,7 @@
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
       "minimumAccountLevel": 50,
-      "tournamentType": "WorkshopCup",
+      "tournamentType": "ShopCup",
       "webId": "S37_HauntedCupWednesday"
    },
    "eventWindows": [
