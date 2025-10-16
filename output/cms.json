@@ -4178,6 +4178,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "0664FO",
+      "background_right_color": "8912FF",
+      "background_text_color": "161616",
+      "details_description": "Calling all Epic Partners! Hop into this private Delulu window and have fun!",
+      "long_format_title": "Fortnite Fridays",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/en-fnce-37-50-competitive-discoverytile-fortnitefridayepicpartner-1920x1080-1920x1080-65c021937903.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnce-33-30-tileview-cash-cups-01-800x800-800x800-e6de82228dc1.jpg",
+      "title_line_1": "Fortnite Fridays",
+      "tournament_display_id": "s37_fortnitefridays_delulu",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-33-30-textures-cashcup-01-1560x1024-90dec6ef2f08.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "0127A6",
       "background_right_color": "2F7FF1",
       "background_text_color": "161616",
