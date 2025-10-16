@@ -4549,6 +4549,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "140000",
+      "background_right_color": "403954",
+      "background_text_color": "161616",
+      "details_description": "Deadpan and dangerous. Drop into the Wednesday Addams Haunted Cup for a chance to win early access to the Wednesday Addams Outfit!",
+      "long_format_title": "Wednesday Addams Haunted Cup",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/en-fnbr-37-50-nitemare-comp-in-game-tab-wednesdayaddamshauntedcup-discoverplaylisttile-1920x1080-1920x1080-8d0f6b106a7b.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnbr-37-50-nitemareisland-wednesdayaddamshauntedcup-solotexture-800x800-800x800-0738d5baf91f.jpg",
+      "title_line_1": "Wednesday Addams Haunted Cup",
+      "tournament_display_id": "s37_wednesday",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnbr-37-50-nitemareisland-wednesdayaddamshauntedcup-grouptexture-1560x1024-1560x1024-794c203c6078.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "000000",
       "background_right_color": "E6153C",
       "background_text_color": "",
