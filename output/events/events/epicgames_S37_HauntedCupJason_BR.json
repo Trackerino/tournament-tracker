@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S37_HauntedCupJason_BR",
    "beginTime": "2025-10-16T21:00:00Z",
-   "endTime": "2025-10-16T23:30:00Z",
+   "endTime": "2025-10-18T17:30:00Z",
    "displayDataId": "s37_jason",
    "eventGroup": "S37_HauntedCupJason",
    "announcementTime": "2025-10-08T03:00:00Z",
@@ -49,6 +49,44 @@
          "countdownBeginTime": "2025-10-16T19:00:00Z",
          "beginTime": "2025-10-16T21:00:00Z",
          "endTime": "2025-10-16T23:30:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_haunted_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_HauntedCup_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_HauntedCupJason_Event2_BR",
+         "eventTemplateId": "S37_HauntedCup_EventTemplate",
+         "countdownBeginTime": "2025-10-18T13:00:00Z",
+         "beginTime": "2025-10-18T15:00:00Z",
+         "endTime": "2025-10-18T17:30:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
