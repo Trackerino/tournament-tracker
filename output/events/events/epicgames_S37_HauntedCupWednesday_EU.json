@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S37_HauntedCupWednesday_EU",
-   "beginTime": "2025-10-22T17:00:00Z",
-   "endTime": "2025-10-22T19:30:00Z",
+   "beginTime": "2025-10-23T17:00:00Z",
+   "endTime": "2025-10-23T19:30:00Z",
    "displayDataId": "s37_wednesday",
    "eventGroup": "S37_HauntedCupWednesday",
    "announcementTime": "2025-10-07T23:00:00Z",
@@ -46,9 +46,9 @@
       {
          "eventWindowId": "S37_HauntedCupWednesday_EU",
          "eventTemplateId": "S37_HauntedCup_EventTemplate",
-         "countdownBeginTime": "2025-10-22T15:00:00Z",
-         "beginTime": "2025-10-22T17:00:00Z",
-         "endTime": "2025-10-22T19:30:00Z",
+         "countdownBeginTime": "2025-10-23T15:00:00Z",
+         "beginTime": "2025-10-23T17:00:00Z",
+         "endTime": "2025-10-23T19:30:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
