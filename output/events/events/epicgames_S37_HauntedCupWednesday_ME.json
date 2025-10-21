@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S37_HauntedCupWednesday_ME",
    "beginTime": "2025-10-23T15:00:00Z",
-   "endTime": "2025-10-23T17:30:00Z",
+   "endTime": "2025-10-25T11:30:00Z",
    "displayDataId": "s37_wednesday",
    "eventGroup": "S37_HauntedCupWednesday",
    "announcementTime": "2025-10-07T21:00:00Z",
@@ -39,12 +39,12 @@
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
       "minimumAccountLevel": 50,
-      "tournamentType": "ShopCup",
+      "tournamentType": "WorkshopCup",
       "webId": "S37_HauntedCupWednesday"
    },
    "eventWindows": [
       {
-         "eventWindowId": "S37_HauntedCupWednesday_ME",
+         "eventWindowId": "S37_HauntedCupWednesday_Event1_ME",
          "eventTemplateId": "S37_HauntedCup_EventTemplate",
          "countdownBeginTime": "2025-10-23T13:00:00Z",
          "beginTime": "2025-10-23T15:00:00Z",
@@ -62,7 +62,45 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S37_HauntedCup_LeaderboardDef",
+               "leaderboardDefId": "S37_HauntedCupWednesday_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_HauntedCupWednesday_Event2_ME",
+         "eventTemplateId": "S37_HauntedCup_EventTemplate",
+         "countdownBeginTime": "2025-10-25T07:00:00Z",
+         "beginTime": "2025-10-25T09:00:00Z",
+         "endTime": "2025-10-25T11:30:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_haunted_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_HauntedCupWednesday_LeaderboardDef",
                "isMainWindowLeaderboard": true
             }
          ],
