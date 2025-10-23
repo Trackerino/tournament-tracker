@@ -1,0 +1,72 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_BettoTest_S37_Pickaxe",
+   "beginTime": "2025-10-01T07:00:00Z",
+   "endTime": "2025-11-30T07:00:00Z",
+   "displayDataId": "bettotest_aqua",
+   "eventGroup": "ESTesting",
+   "announcementTime": "2025-09-01T00:07:00Z",
+   "regions": [
+      "BR",
+      "NAE"
+   ],
+   "regionMappings": {},
+   "platforms": [
+      "Windows"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 38,
+      "tournamentType": "CashCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "EW_BettoTest_S37_Pickaxe_Day2",
+         "eventTemplateId": "EventTemplate_BettoTest_Solo",
+         "countdownBeginTime": "2025-10-01T00:07:00Z",
+         "beginTime": "2025-10-01T07:00:00Z",
+         "endTime": "2025-11-30T07:00:00Z",
+         "round": 0,
+         "payoutDelay": 5,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "input-kbm",
+            "input-gamepad",
+            "adps:g-a81a33a3b9a7",
+            "input-touch",
+            "mfa",
+            "tournamentHistory:s39Events:66",
+            "currentRankingMax:ranked-zb:6",
+            "eula:crab",
+            "highestRanking:ranked_blastberry_nobuild:9",
+            "tournamentHistory:totalEvents:33",
+            "currentRanking:ranked-br:3"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "token_bettoTest"
+         ],
+         "requireAnyTokens": [
+            "QATester"
+         ],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {}
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_bettotest_s37_pickaxe",
+      "version": 1
+   }
+}
