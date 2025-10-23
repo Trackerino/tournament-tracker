@@ -391,7 +391,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S37_SoloSeries_Final_OCE"
+            "S37_SoloSeriesFinal_OCE"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
