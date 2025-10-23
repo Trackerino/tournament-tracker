@@ -2,75 +2,6 @@
    "events": [
       {
          "gameId": "Fortnite",
-         "eventId": "epicgames_BettoTest_S37_Pickaxe",
-         "beginTime": "2025-10-01T07:00:00Z",
-         "endTime": "2025-11-30T07:00:00Z",
-         "displayDataId": "bettotest_aqua",
-         "eventGroup": "ESTesting",
-         "announcementTime": "2025-09-01T00:07:00Z",
-         "regions": [
-            "BR",
-            "NAE"
-         ],
-         "regionMappings": {},
-         "platforms": [
-            "Windows"
-         ],
-         "platformMappings": {},
-         "metadata": {
-            "minimumAccountLevel": 38,
-            "tournamentType": "CashCup"
-         },
-         "eventWindows": [
-            {
-               "eventWindowId": "EW_BettoTest_S37_Pickaxe_Day2",
-               "eventTemplateId": "EventTemplate_BettoTest_Solo",
-               "countdownBeginTime": "2025-10-01T00:07:00Z",
-               "beginTime": "2025-10-01T07:00:00Z",
-               "endTime": "2025-11-30T07:00:00Z",
-               "round": 0,
-               "payoutDelay": 5,
-               "isTBD": false,
-               "visibility": "public",
-               "additionalRequirements": [
-                  "input-kbm",
-                  "input-gamepad",
-                  "adps:g-a81a33a3b9a7",
-                  "input-touch",
-                  "mfa",
-                  "tournamentHistory:s39Events:66",
-                  "currentRankingMax:ranked-zb:6",
-                  "eula:crab",
-                  "highestRanking:ranked_blastberry_nobuild:9",
-                  "tournamentHistory:totalEvents:33"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [
-                  "QATester"
-               ],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {}
-            }
-         ],
-         "link": {
-            "type": "br:tournament",
-            "code": "tournament_epicgames_bettotest_s37_pickaxe",
-            "version": 1
-         }
-      },
-      {
-         "gameId": "Fortnite",
          "eventId": "epicgames_Cobra_Solo",
          "beginTime": "2025-08-24T00:00:00Z",
          "endTime": "2026-08-22T04:00:00Z",
@@ -2535,41 +2466,6 @@
       },
       {
          "gameId": "Fortnite",
-         "leaderboardDefId": "LeadDef_BettoTest_MainWindowLB",
-         "leaderboardStorageId": "Fortnite_QA",
-         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-         "leaderboardInstanceIdFormat": "${windowId}",
-         "maxSessionHistorySize": 0,
-         "useIndividualScores": false,
-         "tiebreakerFormula": {
-            "basePointsBits": 12,
-            "components": [
-               {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
-                  "bits": 4,
-                  "aggregation": "sum"
-               },
-               {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-                  "bits": 12,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
-                  "bits": 12,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               }
-            ]
-         },
-         "scoringRuleSetId": "BettoTest_BasicRuleSet",
-         "clampsToZero": true,
-         "hidePlayerScores": false,
-         "requiredPlayerListings": []
-      },
-      {
-         "gameId": "Fortnite",
          "leaderboardDefId": "MainLeaderboardDef",
          "leaderboardStorageId": "Fortnite_GLOBAL",
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
@@ -3196,50 +3092,6 @@
       ]
    },
    "scoringRuleSets": {
-      "BettoTest_BasicRuleSet": [
-         {
-            "trackedStat": "PLACEMENT_STAT_INDEX",
-            "matchRule": "lte",
-            "rewardTiers": [
-               {
-                  "keyValue": 1,
-                  "pointsEarned": 10,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 2,
-                  "pointsEarned": 6,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 3,
-                  "pointsEarned": 4,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 4,
-                  "pointsEarned": 3,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 5,
-                  "pointsEarned": 2,
-                  "multiplicative": false
-               }
-            ]
-         },
-         {
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-            "matchRule": "gte",
-            "rewardTiers": [
-               {
-                  "keyValue": 1,
-                  "pointsEarned": 5,
-                  "multiplicative": true
-               }
-            ]
-         }
-      ],
       "DefaultScoringRuleSet": [
          {
             "trackedStat": "PLACEMENT_STAT_INDEX",
@@ -6958,38 +6810,6 @@
          },
          "gameId": "Fortnite",
          "eventTemplateId": "EventTemplate_AC_Solos",
-         "scoringRules": [],
-         "payoutTable": [],
-         "liveSessionAttributes": [],
-         "clampsToZero": false
-      },
-      {
-         "playlistId": "Playlist_ShowdownTournament_Solo",
-         "matchCap": 0,
-         "tiebreakerFormula": {
-            "basePointsBits": 11,
-            "components": [
-               {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
-                  "bits": 4,
-                  "aggregation": "sum"
-               },
-               {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-                  "bits": 13,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
-                  "bits": 13,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               }
-            ]
-         },
-         "gameId": "Fortnite",
-         "eventTemplateId": "EventTemplate_BettoTest_Solo",
          "scoringRules": [],
          "payoutTable": [],
          "liveSessionAttributes": [],
