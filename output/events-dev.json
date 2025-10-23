@@ -54,9 +54,7 @@
                   }
                ],
                "canLiveSpectate": false,
-               "requireAllTokens": [
-                  "token_bettoTest"
-               ],
+               "requireAllTokens": [],
                "requireAnyTokens": [
                   "QATester"
                ],
