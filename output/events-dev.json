@@ -125,7 +125,8 @@
          "metadata": {
             "ACFeatureNoBans": "true",
             "minimumAccountLevel": 1,
-            "RegionLockType": "Week"
+            "RegionLockType": "Week",
+            "webId": "TEST"
          },
          "eventWindows": [
             {
