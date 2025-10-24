@@ -217,8 +217,7 @@
             "minimumAccountLevel": 1,
             "requireSystemFeatures": [
                "CryptoProcessor",
-               "SecureBoot",
-               "IOMMU"
+               "SecureBoot"
             ]
          },
          "eventWindows": [
