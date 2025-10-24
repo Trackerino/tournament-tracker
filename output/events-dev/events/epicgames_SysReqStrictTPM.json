@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_SysReqStrictTPM",
    "beginTime": "2023-06-23T06:00:00Z",
-   "endTime": "2025-08-29T19:20:00Z",
+   "endTime": "2026-08-29T19:20:00Z",
    "displayDataId": "limited_test_event_Solo",
    "eventGroup": "Some_Test_Tournament",
    "announcementTime": "2023-01-04T00:00:00Z",
@@ -39,15 +39,7 @@
       "requireSystemFeatures": [
          "CryptoProcessor",
          "SecureBoot",
-         "StrictTPM",
-         "KernelCodeIntegrity",
-         "IOMMU",
-         "StableOSVersion",
-         "StrictInjectionPolicy",
-         "StrictVirtualizationPolicy",
-         "AndroidSecureDevice",
-         "IOSSecureDevice",
-         "IOSMinimumOSVersion"
+         "StrictTPM"
       ]
    },
    "eventWindows": [
@@ -56,7 +48,7 @@
          "eventTemplateId": "EventTemplate_AC_Solos",
          "countdownBeginTime": "2023-01-07T21:10:12Z",
          "beginTime": "2023-06-23T06:00:00Z",
-         "endTime": "2025-08-29T19:20:00Z",
+         "endTime": "2026-08-29T19:20:00Z",
          "round": 1,
          "payoutDelay": 5,
          "isTBD": false,
