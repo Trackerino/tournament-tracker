@@ -39,7 +39,10 @@
       "requireSystemFeatures": [
          "CryptoProcessor",
          "SecureBoot",
-         "StrictTPM"
+         "StrictTPM",
+         "AndroidSecureDevice",
+         "IOSSecureDevice",
+         "IOSMinimumOSVersion"
       ]
    },
    "eventWindows": [
