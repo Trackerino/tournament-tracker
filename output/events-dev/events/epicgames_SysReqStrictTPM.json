@@ -43,7 +43,8 @@
          "AndroidSecureDevice",
          "IOSSecureDevice",
          "IOSMinimumOSVersion"
-      ]
+      ],
+      "webId": "TEST"
    },
    "eventWindows": [
       {

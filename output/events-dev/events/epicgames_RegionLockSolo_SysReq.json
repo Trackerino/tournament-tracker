@@ -39,7 +39,8 @@
       "requireSystemFeatures": [
          "CryptoProcessor",
          "SecureBoot"
-      ]
+      ],
+      "webId": "TEST"
    },
    "eventWindows": [
       {

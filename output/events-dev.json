@@ -219,7 +219,8 @@
             "requireSystemFeatures": [
                "CryptoProcessor",
                "SecureBoot"
-            ]
+            ],
+            "webId": "TEST"
          },
          "eventWindows": [
             {
@@ -2156,7 +2157,8 @@
                "AndroidSecureDevice",
                "IOSSecureDevice",
                "IOSMinimumOSVersion"
-            ]
+            ],
+            "webId": "TEST"
          },
          "eventWindows": [
             {
