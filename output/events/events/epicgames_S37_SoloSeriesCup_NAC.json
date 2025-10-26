@@ -393,7 +393,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S37_SoloSeriesFinal_NAC"
+            "S37_SoloSeriesFinal_NAC_v2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
