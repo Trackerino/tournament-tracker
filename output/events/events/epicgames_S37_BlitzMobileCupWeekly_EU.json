@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S37_BlitzMobileCupWeekly_EU",
    "beginTime": "2025-08-28T16:00:00Z",
-   "endTime": "2025-10-26T18:00:00Z",
+   "endTime": "2025-10-30T18:00:00Z",
    "displayDataId": "s37_blitzweekly",
    "eventGroup": "Season37_BlitzMobileCupWeekly",
    "announcementTime": "2025-08-07T07:00:00Z",
@@ -144,6 +144,44 @@
          "countdownBeginTime": "2025-10-26T16:00:00Z",
          "beginTime": "2025-10-26T17:00:00Z",
          "endTime": "2025-10-26T18:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_blitzmobile_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_BlitzMobileCupsOctober_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S37_BlitzMobileCupWeekly_Event13_EU",
+         "eventTemplateId": "S37_BlitzCups_EventTemplate",
+         "countdownBeginTime": "2025-10-30T16:00:00Z",
+         "beginTime": "2025-10-30T17:00:00Z",
+         "endTime": "2025-10-30T18:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
