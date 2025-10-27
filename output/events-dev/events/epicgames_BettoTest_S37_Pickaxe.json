@@ -33,7 +33,6 @@
          "additionalRequirements": [
             "input-kbm",
             "input-gamepad",
-            "adps:g-a81a33a3b9a7",
             "input-touch",
             "mfa",
             "tournamentHistory:s39Events:66",
