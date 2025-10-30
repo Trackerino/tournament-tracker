@@ -3,7 +3,7 @@
    "leaderboardDefId": "BronzeLeaderboardDef",
    "leaderboardStorageId": "Fortnite_GLOBAL",
    "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-   "leaderboardInstanceIdFormat": "${windowId}_Bronze",
+   "leaderboardInstanceIdFormat": "${round}_Bronze",
    "maxSessionHistorySize": 21,
    "useIndividualScores": true,
    "tiebreakerFormula": {
@@ -33,7 +33,7 @@
          }
       ]
    },
-   "scoringRuleSetId": "${windowId}_Bronze",
+   "scoringRuleSetId": "${round}_Bronze",
    "clampsToZero": true,
    "hidePlayerScores": false,
    "requiredPlayerListings": []

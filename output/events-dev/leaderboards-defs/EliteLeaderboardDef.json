@@ -3,7 +3,7 @@
    "leaderboardDefId": "EliteLeaderboardDef",
    "leaderboardStorageId": "Fortnite_GLOBAL",
    "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-   "leaderboardInstanceIdFormat": "${windowId}_Elite",
+   "leaderboardInstanceIdFormat": "${round}_Elite",
    "maxSessionHistorySize": 21,
    "useIndividualScores": true,
    "tiebreakerFormula": {
@@ -33,11 +33,11 @@
          }
       ]
    },
-   "scoringRuleSetId": "${windowId}_Elite",
+   "scoringRuleSetId": "${round}_Elite",
    "clampsToZero": true,
    "payoutsConfig": {
-      "payoutTableIdFormat": "${windowId}_Elite",
-      "payoutDate": "windowEnd+PT0S"
+      "payoutTableIdFormat": "${round}_Elite",
+      "payoutDate": "eventEnd+PT0S"
    },
    "hidePlayerScores": false,
    "requiredPlayerListings": []
