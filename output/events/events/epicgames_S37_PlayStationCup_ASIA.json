@@ -12,10 +12,7 @@
    "regionMappings": {
       "ASIA": "ASIACOMP"
    },
-   "platforms": [
-      "PS4",
-      "PS5"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",

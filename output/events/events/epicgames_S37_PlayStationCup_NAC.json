@@ -14,10 +14,7 @@
       "NAC": "NACCOMP",
       "NAE": "NACCOMP"
    },
-   "platforms": [
-      "PS4",
-      "PS5"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
