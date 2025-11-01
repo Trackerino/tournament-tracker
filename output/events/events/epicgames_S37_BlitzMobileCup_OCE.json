@@ -12,10 +12,7 @@
    "regionMappings": {
       "OCE": "OCECOMP"
    },
-   "platforms": [
-      "Android",
-      "IOS"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
