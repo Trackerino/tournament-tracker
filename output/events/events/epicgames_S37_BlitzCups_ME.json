@@ -12,10 +12,7 @@
    "regionMappings": {
       "ME": "MECOMP"
    },
-   "platforms": [
-      "Android",
-      "IOS"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "DisqualifyType": "Window",

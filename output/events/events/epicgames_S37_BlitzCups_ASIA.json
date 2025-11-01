@@ -12,10 +12,7 @@
    "regionMappings": {
       "ASIA": "ASIACOMP"
    },
-   "platforms": [
-      "Android",
-      "IOS"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "DisqualifyType": "Window",

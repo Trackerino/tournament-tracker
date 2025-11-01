@@ -12,10 +12,7 @@
    "regionMappings": {
       "BR": "BRCOMP"
    },
-   "platforms": [
-      "Android",
-      "IOS"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "DisqualifyType": "Window",

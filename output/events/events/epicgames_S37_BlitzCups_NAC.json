@@ -14,10 +14,7 @@
       "NAC": "NACCOMP",
       "NAE": "NACCOMP"
    },
-   "platforms": [
-      "Android",
-      "IOS"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "DisqualifyType": "Window",

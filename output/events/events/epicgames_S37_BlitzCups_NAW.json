@@ -12,10 +12,7 @@
    "regionMappings": {
       "NAW": "NAWCOMP"
    },
-   "platforms": [
-      "Android",
-      "IOS"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "DisqualifyType": "Window",
