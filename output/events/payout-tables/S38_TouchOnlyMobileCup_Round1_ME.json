@@ -1,0 +1,43 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 10,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaBackpack:backpack_fuzzyclaw",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaBackpack:backpack_fuzzyclaw",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 8,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S38_TouchOnlyMobileCup_Final_ME",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,150 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S38_TouchOnlyMobileCup_ASIA",
+   "beginTime": "2025-11-05T08:00:00Z",
+   "endTime": "2025-11-05T12:15:00Z",
+   "displayDataId": "s38_touchonly",
+   "eventGroup": "Season38_TouchOnlyMobileCup",
+   "announcementTime": "2025-08-06T23:00:00Z",
+   "regions": [
+      "ASIA"
+   ],
+   "regionMappings": {
+      "ASIA": "ASIACOMP"
+   },
+   "platforms": [
+      "Android",
+      "IOS"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 15,
+      "webId": "S38_TouchOnlyMobileCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S38_TouchOnlyMobileCup_Final_ASIA",
+         "eventTemplateId": "S38_TouchOnlyMobileCup_EventTemplate",
+         "countdownBeginTime": "2025-08-31T10:00:00Z",
+         "beginTime": "2025-11-05T11:00:00Z",
+         "endTime": "2025-11-05T12:15:00Z",
+         "round": 0,
+         "payoutDelay": 20,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:TBD",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S38_TouchOnlyMobileCup_LeaderboardDef_Final",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S38_TouchOnlyMobileCup_Final_ASIA"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 300,
+            "ScheduledMatchmakingMatchDelaySeconds": 420,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S38_TouchOnlyMobileCup_Round1_ASIA",
+         "eventTemplateId": "S38_TouchOnlyMobileCup_EventTemplate",
+         "countdownBeginTime": "2025-08-31T07:00:00Z",
+         "beginTime": "2025-11-05T08:00:00Z",
+         "endTime": "2025-11-05T09:00:00Z",
+         "round": 0,
+         "payoutDelay": 20,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:TBD",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S38_TouchOnlyMobileCup_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S38_TouchOnlyMobileCup_Round2_ASIA",
+         "eventTemplateId": "S38_TouchOnlyMobileCup_EventTemplate",
+         "countdownBeginTime": "2025-08-31T08:30:00Z",
+         "beginTime": "2025-11-05T09:30:00Z",
+         "endTime": "2025-11-05T10:30:00Z",
+         "round": 0,
+         "payoutDelay": 20,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:TBD",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S38_TouchOnlyMobileCup_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s38_touchonlymobilecup_asia"
+   }
+}
