@@ -1,0 +1,94 @@
+[
+   {
+      "trackedStat": "PLACEMENT_STAT_INDEX",
+      "matchRule": "lte",
+      "rewardTiers": [
+         {
+            "keyValue": 1,
+            "pointsEarned": 10,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 2,
+            "pointsEarned": 5,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 3,
+            "pointsEarned": 5,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 4,
+            "pointsEarned": 5,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 5,
+            "pointsEarned": 5,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 6,
+            "pointsEarned": 3,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 7,
+            "pointsEarned": 3,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 8,
+            "pointsEarned": 3,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 9,
+            "pointsEarned": 3,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 10,
+            "pointsEarned": 3,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 11,
+            "pointsEarned": 3,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 12,
+            "pointsEarned": 3,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 13,
+            "pointsEarned": 3,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 14,
+            "pointsEarned": 3,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 15,
+            "pointsEarned": 3,
+            "multiplicative": false
+         }
+      ]
+   },
+   {
+      "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+      "matchRule": "gte",
+      "rewardTiers": [
+         {
+            "keyValue": 1,
+            "pointsEarned": 1,
+            "multiplicative": true
+         }
+      ]
+   }
+]

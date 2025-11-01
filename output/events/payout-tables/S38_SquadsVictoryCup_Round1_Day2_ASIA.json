@@ -1,0 +1,19 @@
+[
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 100,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S38_SquadsVictoryCup_Qualified_Day2_ASIA",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               }
+            ]
+         }
+      ]
+   }
+]
