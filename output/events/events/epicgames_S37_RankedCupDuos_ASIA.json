@@ -12,28 +12,7 @@
    "regionMappings": {
       "ASIA": "ASIACOMP"
    },
-   "platforms": [
-      "Android",
-      "GFN",
-      "GFNMobile",
-      "Helios",
-      "HeliosMobile",
-      "IOS",
-      "Luna",
-      "LunaMobile",
-      "Mac",
-      "PS4",
-      "PS5",
-      "Switch",
-      "Switch2",
-      "Windows",
-      "XB1",
-      "XCloud",
-      "XCloudMobile",
-      "XSX",
-      "XboxOne",
-      "XboxOneGDK"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
@@ -642,9 +621,9 @@
       {
          "eventWindowId": "S37_RankedCupDuos_Event7_ASIA",
          "eventTemplateId": "EventTemplate_RankedCupDuos",
-         "countdownBeginTime": "2025-10-03T07:00:00Z",
-         "beginTime": "2025-10-03T09:00:00Z",
-         "endTime": "2025-10-03T12:00:00Z",
+         "countdownBeginTime": "2025-10-07T07:00:00Z",
+         "beginTime": "2025-10-07T09:00:00Z",
+         "endTime": "2025-10-07T12:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,

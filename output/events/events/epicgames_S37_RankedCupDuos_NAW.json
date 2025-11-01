@@ -12,28 +12,7 @@
    "regionMappings": {
       "NAW": "NAWCOMP"
    },
-   "platforms": [
-      "Android",
-      "GFN",
-      "GFNMobile",
-      "Helios",
-      "HeliosMobile",
-      "IOS",
-      "Luna",
-      "LunaMobile",
-      "Mac",
-      "PS4",
-      "PS5",
-      "Switch",
-      "Switch2",
-      "Windows",
-      "XB1",
-      "XCloud",
-      "XCloudMobile",
-      "XSX",
-      "XboxOne",
-      "XboxOneGDK"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
@@ -642,9 +621,9 @@
       {
          "eventWindowId": "S37_RankedCupDuos_Event7_NAW",
          "eventTemplateId": "EventTemplate_RankedCupDuos",
-         "countdownBeginTime": "2025-10-03T23:00:00Z",
-         "beginTime": "2025-10-04T01:00:00Z",
-         "endTime": "2025-10-04T04:00:00Z",
+         "countdownBeginTime": "2025-10-07T23:00:00Z",
+         "beginTime": "2025-10-08T01:00:00Z",
+         "endTime": "2025-10-08T04:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
