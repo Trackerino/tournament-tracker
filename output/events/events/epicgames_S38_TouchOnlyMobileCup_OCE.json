@@ -132,7 +132,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S38_TouchOnlyMobileCup_Final_OCE"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
