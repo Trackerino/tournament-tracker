@@ -1,0 +1,153 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S38_PlayStationCupReload_BR",
+   "beginTime": "2025-11-13T21:00:00Z",
+   "endTime": "2025-11-25T23:00:00Z",
+   "displayDataId": "s38_playstationreload",
+   "eventGroup": "S38_PlayStationCupReload",
+   "announcementTime": "2025-11-01T03:00:00Z",
+   "regions": [
+      "BR"
+   ],
+   "regionMappings": {
+      "BR": "BRCOMP"
+   },
+   "platforms": [
+      "PS4",
+      "PS5"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Event",
+      "minimumAccountLevel": 50,
+      "tournamentType": "CashCup",
+      "webId": "S38_PlayStationCupReload"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S38_PlayStationCupReload_Final_BR",
+         "eventTemplateId": "S38_PlayStationCupReload_EventTemplate",
+         "countdownBeginTime": "2025-11-25T19:00:00Z",
+         "beginTime": "2025-11-25T21:00:00Z",
+         "endTime": "2025-11-25T23:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s34_playstation_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S38_PlayStationCupReload_LeaderboardDef_Final",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [
+            "S38_PlayStationCupReload_Final_BR"
+         ],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1440,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S38_PlayStationCupReload_Round1_BR",
+         "eventTemplateId": "S38_PlayStationCupReload_EventTemplate",
+         "countdownBeginTime": "2025-11-13T19:00:00Z",
+         "beginTime": "2025-11-13T21:00:00Z",
+         "endTime": "2025-11-13T22:30:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s34_playstation_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S38_PlayStationCupReload_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S38_PlayStationCupReload_Round2_BR",
+         "eventTemplateId": "S38_PlayStationCupReload_EventTemplate",
+         "countdownBeginTime": "2025-11-20T19:00:00Z",
+         "beginTime": "2025-11-20T21:00:00Z",
+         "endTime": "2025-11-20T22:30:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s34_playstation_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S38_PlayStationCupReload_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [
+            "S38_PlayStationCupReload_Round2_BR"
+         ],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s38_playstationcupreload_br"
+   }
+}
