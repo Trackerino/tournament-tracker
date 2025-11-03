@@ -1,7 +1,7 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S38_PerformanceEvaluation_EU",
-   "beginTime": "2025-11-04T20:00:00Z",
+   "beginTime": "2025-11-04T17:00:00Z",
    "endTime": "2025-11-18T22:00:00Z",
    "displayDataId": "s38_perfeval",
    "eventGroup": "Season38_PerfEval",
@@ -46,6 +46,55 @@
       "webId": "S38_PerformanceEvaluation"
    },
    "eventWindows": [
+      {
+         "eventWindowId": "S38_PerformanceEvaluation_Event1Round1_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2025-11-03T10:00:00Z",
+         "beginTime": "2025-11-04T17:00:00Z",
+         "endTime": "2025-11-04T19:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s38_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S38_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [
+            "S37_Duos_Division1_ASIA",
+            "S37_Duos_Division1_BR",
+            "S37_Duos_Division1_EU",
+            "S37_Duos_Division1_ME",
+            "S37_Duos_Division1_NAC",
+            "S37_Duos_Division1_NAW",
+            "S37_Duos_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week1"
+         }
+      },
       {
          "eventWindowId": "S38_PerformanceEvaluation_Event1Round2_EU",
          "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round2",
