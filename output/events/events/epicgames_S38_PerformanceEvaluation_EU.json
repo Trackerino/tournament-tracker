@@ -70,7 +70,9 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S38_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S37_Duos_Division1_ASIA",
             "S37_Duos_Division1_BR",
@@ -158,7 +160,9 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S38_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S37_Duos_Division1_ASIA",
             "S37_Duos_Division1_BR",
@@ -246,7 +250,9 @@
             }
          ],
          "canLiveSpectate": false,
-         "requireAllTokens": [],
+         "requireAllTokens": [
+            "S38_CashCup_Qualified"
+         ],
          "requireAnyTokens": [
             "S37_Duos_Division1_ASIA",
             "S37_Duos_Division1_BR",
