@@ -39,10 +39,6 @@
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
       "minimumAccountLevel": 350,
-      "requireSystemFeatures": [
-         "SecureBoot",
-         "CryptoProcessor"
-      ],
       "tournamentType": "WorkshopCup",
       "webId": "S38_PerformanceEvaluation"
    },
