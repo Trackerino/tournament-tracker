@@ -40,7 +40,6 @@
       "DisqualifyType": "Event",
       "minimumAccountLevel": 350,
       "requireSystemFeatures": [
-         "SecureBoot",
          "CryptoProcessor"
       ],
       "TeamLockType": "Window",
