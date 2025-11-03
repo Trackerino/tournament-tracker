@@ -2315,7 +2315,12 @@
             "ACFeatureNoBans": "false",
             "minimumAccountLevel": 1,
             "requireSystemFeatures": [
-               "CryptoProcessor"
+               "CryptoProcessor",
+               "SecureBoot",
+               "StrictTPM",
+               "AndroidSecureDevice",
+               "IOSSecureDevice",
+               "IOSMinimumOSVersion"
             ],
             "webId": "TEST"
          },
