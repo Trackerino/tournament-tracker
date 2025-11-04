@@ -37,7 +37,8 @@
       "ACFeatureNoBans": "false",
       "minimumAccountLevel": 1,
       "requireSystemFeatures": [
-         "CryptoProcessor"
+         "CryptoProcessor",
+         "SecureBoot"
       ],
       "webId": "TEST"
    },
