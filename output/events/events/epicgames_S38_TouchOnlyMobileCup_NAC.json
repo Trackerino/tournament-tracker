@@ -123,9 +123,10 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s38_mobile_rules",
             "adps:g-a81a33a3b9a7",
+            "input-touch",
             "mfa",
+            "eula:s38_mobile_rules",
             [
                "currentRanking:ranked-zb:6",
                "currentRanking:ranked-br:6",
