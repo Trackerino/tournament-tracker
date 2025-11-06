@@ -132,6 +132,8 @@
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
             "ServerReplays": true,
             "SubgroupId": "Week1"
          }
@@ -222,6 +224,8 @@
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
             "ServerReplays": true,
             "SubgroupId": "Week2"
          }
@@ -312,6 +316,8 @@
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
             "ServerReplays": true,
             "SubgroupId": "Week3"
          }
