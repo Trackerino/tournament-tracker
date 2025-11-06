@@ -15,5 +15,22 @@
             ]
          }
       ]
+   },
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 0,
+            "payouts": [
+               {
+                  "rewardType": "copy_score",
+                  "rewardMode": "standard",
+                  "value": "S38_BlitzMobileCupWeek2_SeriesLeaderboardDef",
+                  "quantity": 0,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
    }
 ]
