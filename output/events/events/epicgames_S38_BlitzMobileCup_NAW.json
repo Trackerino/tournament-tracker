@@ -50,7 +50,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S38_BlitzMobileFinal_NAW"
+            "S38_BlitzMobileFinalWeek1_NAW"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -404,7 +404,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S38_BlitzMobileFinal_NAW"
+            "S38_BlitzMobileFinalWeek2_NAW"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
