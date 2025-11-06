@@ -3,8 +3,8 @@
    "leaderboardDefId": "RankedCup_Solo_Bronze_LeaderboardDef",
    "leaderboardStorageId": "Fortnite_GLOBAL",
    "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-   "leaderboardInstanceIdFormat": "${windowId}_Bronze",
-   "maxSessionHistorySize": 150,
+   "leaderboardInstanceIdFormat": "${windowId}_${round}_Bronze",
+   "maxSessionHistorySize": 10,
    "useIndividualScores": false,
    "tiebreakerFormula": {
       "basePointsBits": 11,
@@ -33,7 +33,7 @@
          }
       ]
    },
-   "scoringRuleSetId": "ScoringRules_RankedCupSolo_Bronze_v3",
+   "scoringRuleSetId": "ScoringRules_RankedCupSolo_Bronze_${round}",
    "clampsToZero": true,
    "payoutsConfig": {
       "payoutTableIdFormat": "${eventId}",
