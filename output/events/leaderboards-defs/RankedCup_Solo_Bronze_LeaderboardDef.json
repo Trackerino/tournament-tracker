@@ -36,7 +36,7 @@
    "scoringRuleSetId": "ScoringRules_RankedCupSolo_Bronze_${round}",
    "clampsToZero": true,
    "payoutsConfig": {
-      "payoutTableIdFormat": "${eventId}",
+      "payoutTableIdFormat": "${eventId}_${round}_BSG",
       "payoutDate": "windowEnd+PT32M"
    },
    "hidePlayerScores": false,
