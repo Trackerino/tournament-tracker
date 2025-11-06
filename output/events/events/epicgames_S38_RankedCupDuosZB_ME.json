@@ -1,11 +1,11 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S38_RankedCupDuosZB_ME",
-   "beginTime": "2025-11-08T16:00:00Z",
-   "endTime": "2025-11-25T19:00:00Z",
+   "beginTime": "2025-11-08T15:00:00Z",
+   "endTime": "2025-11-25T18:00:00Z",
    "displayDataId": "s38_ranked_duoszb",
    "eventGroup": "Season38_RankedCupDuosZB",
-   "announcementTime": "2025-07-29T22:00:00Z",
+   "announcementTime": "2025-07-29T21:00:00Z",
    "regions": [
       "ME"
    ],
@@ -47,9 +47,9 @@
       {
          "eventWindowId": "S38_RankedCupDuosZB_Event1_ME",
          "eventTemplateId": "EventTemplate_RankedCupDuosZB",
-         "countdownBeginTime": "2025-11-08T14:00:00Z",
-         "beginTime": "2025-11-08T16:00:00Z",
-         "endTime": "2025-11-08T19:00:00Z",
+         "countdownBeginTime": "2025-11-08T13:00:00Z",
+         "beginTime": "2025-11-08T15:00:00Z",
+         "endTime": "2025-11-08T18:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -132,9 +132,9 @@
       {
          "eventWindowId": "S38_RankedCupDuosZB_Event2_ME",
          "eventTemplateId": "EventTemplate_RankedCupDuos",
-         "countdownBeginTime": "2025-11-15T14:00:00Z",
-         "beginTime": "2025-11-15T16:00:00Z",
-         "endTime": "2025-11-15T19:00:00Z",
+         "countdownBeginTime": "2025-11-15T13:00:00Z",
+         "beginTime": "2025-11-15T15:00:00Z",
+         "endTime": "2025-11-15T18:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -217,9 +217,9 @@
       {
          "eventWindowId": "S38_RankedCupDuosZB_Event3_ME",
          "eventTemplateId": "EventTemplate_RankedCupDuos",
-         "countdownBeginTime": "2025-11-25T14:00:00Z",
-         "beginTime": "2025-11-25T16:00:00Z",
-         "endTime": "2025-11-25T19:00:00Z",
+         "countdownBeginTime": "2025-11-25T13:00:00Z",
+         "beginTime": "2025-11-25T15:00:00Z",
+         "endTime": "2025-11-25T18:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
