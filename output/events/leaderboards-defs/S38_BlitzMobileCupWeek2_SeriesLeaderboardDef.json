@@ -1,0 +1,18 @@
+{
+   "gameId": "Fortnite",
+   "leaderboardDefId": "S38_BlitzMobileCupWeek2_SeriesLeaderboardDef",
+   "leaderboardStorageId": "Fortnite_GLOBAL",
+   "leaderboardInstanceGroupingKeyFormat": "series",
+   "leaderboardInstanceIdFormat": "${eventId}_Week2_series",
+   "maxSessionHistorySize": 15,
+   "useIndividualScores": false,
+   "tiebreakerFormula": {
+      "basePointsBits": 53,
+      "components": []
+   },
+   "scoringRuleSetId": "EmptyScoringRules",
+   "clampsToZero": true,
+   "onlyScoreTopN": 1,
+   "hidePlayerScores": false,
+   "requiredPlayerListings": []
+}

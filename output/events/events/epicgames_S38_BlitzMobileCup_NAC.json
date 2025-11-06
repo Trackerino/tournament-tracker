@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S38_BlitzMobileCup_NAC",
    "beginTime": "2025-11-13T23:00:00Z",
-   "endTime": "2025-11-24T02:15:00Z",
+   "endTime": "2025-11-24T02:20:00Z",
    "displayDataId": "s38_blitzmobile",
    "eventGroup": "Season38_BlitzMobileCup",
    "announcementTime": "2025-06-07T05:00:00Z",
@@ -32,7 +32,7 @@
          "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2025-11-16T22:00:00Z",
          "beginTime": "2025-11-17T01:00:00Z",
-         "endTime": "2025-11-17T02:15:00Z",
+         "endTime": "2025-11-17T02:20:00Z",
          "round": 1,
          "payoutDelay": 10,
          "isTBD": false,
@@ -65,7 +65,7 @@
          "metadata": {
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 300,
-            "ScheduledMatchmakingMatchDelaySeconds": 420,
+            "ScheduledMatchmakingMatchDelaySeconds": 480,
             "ServerReplays": true
          }
       },
@@ -99,7 +99,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S38_BlitzMobileCup_SeriesLeaderboardDef",
+               "leaderboardDefId": "S38_BlitzMobileCupWeek1_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -115,7 +115,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S38_BlitzMobileCup_SeriesLeaderboardDef"
+               "S38_BlitzMobileCupWeek1_DefaultLeaderboardDef"
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -151,7 +151,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S38_BlitzMobileCup_SeriesLeaderboardDef",
+               "leaderboardDefId": "S38_BlitzMobileCupWeek1_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -167,7 +167,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S38_BlitzMobileCup_SeriesLeaderboardDef"
+               "S38_BlitzMobileCupWeek1_DefaultLeaderboardDef"
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -203,7 +203,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S38_BlitzMobileCup_SeriesLeaderboardDef",
+               "leaderboardDefId": "S38_BlitzMobileCupWeek1_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -255,7 +255,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S38_BlitzMobileCup_SeriesLeaderboardDef",
+               "leaderboardDefId": "S38_BlitzMobileCupWeek1_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -307,7 +307,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S38_BlitzMobileCup_SeriesLeaderboardDef",
+               "leaderboardDefId": "S38_BlitzMobileCupWeek1_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -359,7 +359,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S38_BlitzMobileCup_SeriesLeaderboardDef",
+               "leaderboardDefId": "S38_BlitzMobileCupWeek1_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -386,7 +386,7 @@
          "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2025-11-23T22:00:00Z",
          "beginTime": "2025-11-24T01:00:00Z",
-         "endTime": "2025-11-24T02:15:00Z",
+         "endTime": "2025-11-24T02:20:00Z",
          "round": 2,
          "payoutDelay": 10,
          "isTBD": false,
@@ -419,7 +419,7 @@
          "metadata": {
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 300,
-            "ScheduledMatchmakingMatchDelaySeconds": 420,
+            "ScheduledMatchmakingMatchDelaySeconds": 480,
             "ServerReplays": true
          }
       },
@@ -453,7 +453,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S38_BlitzMobileCup_SeriesLeaderboardDef",
+               "leaderboardDefId": "S38_BlitzMobileCupWeek2_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -469,7 +469,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S38_BlitzMobileCup_SeriesLeaderboardDef"
+               "S38_BlitzMobileCupWeek2_DefaultLeaderboardDef"
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -505,7 +505,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S38_BlitzMobileCup_SeriesLeaderboardDef",
+               "leaderboardDefId": "S38_BlitzMobileCupWeek2_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -521,7 +521,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S38_BlitzMobileCup_SeriesLeaderboardDef"
+               "S38_BlitzMobileCupWeek2_DefaultLeaderboardDef"
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -557,7 +557,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S38_BlitzMobileCup_SeriesLeaderboardDef",
+               "leaderboardDefId": "S38_BlitzMobileCupWeek2_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -573,7 +573,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S38_BlitzMobileCupWeek1_DefaultLeaderboardDef"
+               "S38_BlitzMobileCupWeek2_DefaultLeaderboardDef"
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -609,7 +609,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S38_BlitzMobileCup_SeriesLeaderboardDef",
+               "leaderboardDefId": "S38_BlitzMobileCupWeek2_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -625,7 +625,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S38_BlitzMobileCupWeek1_DefaultLeaderboardDef"
+               "S38_BlitzMobileCupWeek2_DefaultLeaderboardDef"
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -661,7 +661,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S38_BlitzMobileCup_SeriesLeaderboardDef",
+               "leaderboardDefId": "S38_BlitzMobileCupWeek2_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -677,7 +677,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S38_BlitzMobileCupWeek1_DefaultLeaderboardDef"
+               "S38_BlitzMobileCupWeek2_DefaultLeaderboardDef"
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -713,7 +713,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S38_BlitzMobileCup_SeriesLeaderboardDef",
+               "leaderboardDefId": "S38_BlitzMobileCupWeek2_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
@@ -729,7 +729,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S38_BlitzMobileCupWeek1_DefaultLeaderboardDef"
+               "S38_BlitzMobileCupWeek2_DefaultLeaderboardDef"
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
