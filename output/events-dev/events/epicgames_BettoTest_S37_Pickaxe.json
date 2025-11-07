@@ -31,10 +31,11 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:crab",
+            "SkipTimeAlive",
+            "adps:g-a81a33a3b9a7",
             "mfa",
-            "currentRanking:ranked-br:3",
-            "adps:g-a81a33a3b9a7"
+            "eula:crab",
+            "currentRanking:ranked-br:3"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
@@ -65,10 +66,11 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:crab",
+            "SkipTimeAlive",
+            "adps:g-a81a33a3b9a7",
             "mfa",
-            "currentRanking:ranked-br:3",
-            "adps:g-a81a33a3b9a7"
+            "eula:crab",
+            "currentRanking:ranked-br:3"
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
