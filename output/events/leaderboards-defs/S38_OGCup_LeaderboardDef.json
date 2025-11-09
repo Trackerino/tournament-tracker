@@ -5,7 +5,7 @@
    "leaderboardInstanceGroupingKeyFormat": "${eventId}",
    "leaderboardInstanceIdFormat": "${windowId}",
    "maxSessionHistorySize": 10,
-   "useIndividualScores": true,
+   "useIndividualScores": false,
    "tiebreakerFormula": {
       "basePointsBits": 11,
       "components": [
