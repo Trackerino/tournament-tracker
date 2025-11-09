@@ -46,7 +46,7 @@
    "eventWindows": [
       {
          "eventWindowId": "S38_OGCup_ZB_Event1_ASIA",
-         "eventTemplateId": "S38_OGCup_EventTemplate_ZB",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
          "countdownBeginTime": "2025-11-09T03:00:00Z",
          "beginTime": "2025-11-09T05:00:00Z",
          "endTime": "2025-11-09T08:00:00Z",
@@ -83,7 +83,7 @@
       },
       {
          "eventWindowId": "S38_OGCup_ZB_Event2_ASIA",
-         "eventTemplateId": "S38_OGCup_EventTemplate_ZB",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
          "countdownBeginTime": "2025-11-16T03:00:00Z",
          "beginTime": "2025-11-16T05:00:00Z",
          "endTime": "2025-11-16T08:00:00Z",
@@ -120,7 +120,7 @@
       },
       {
          "eventWindowId": "S38_OGCup_ZB_Event3_ASIA",
-         "eventTemplateId": "S38_OGCup_EventTemplate_ZB",
+         "eventTemplateId": "S37_OGCup_EventTemplate_ZB",
          "countdownBeginTime": "2025-11-23T03:00:00Z",
          "beginTime": "2025-11-23T05:00:00Z",
          "endTime": "2025-11-23T08:00:00Z",
