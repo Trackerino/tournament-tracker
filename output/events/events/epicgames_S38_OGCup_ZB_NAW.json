@@ -1,6 +1,6 @@
 {
    "gameId": "Fortnite",
-   "eventId": "S38_OGCup_ZB_NAW",
+   "eventId": "epicgames_S38_OGCup_ZB_NAW",
    "beginTime": "2025-11-09T22:00:00Z",
    "endTime": "2025-11-24T01:00:00Z",
    "displayDataId": "s38_og_cupzb",
@@ -158,6 +158,6 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_s38_ogcup_zb_naw"
+      "code": "tournament_epicgames_s38_ogcup_zb_naw"
    }
 }

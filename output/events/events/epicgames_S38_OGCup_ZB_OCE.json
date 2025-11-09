@@ -1,9 +1,9 @@
 {
    "gameId": "Fortnite",
-   "eventId": "S38_OGCup_OCE",
+   "eventId": "epicgames_S38_OGCup_ZB_OCE",
    "beginTime": "2025-11-09T03:00:00Z",
    "endTime": "2025-11-23T06:00:00Z",
-   "displayDataId": "s38_og_cup",
+   "displayDataId": "s38_og_cupzb",
    "eventGroup": "S38_OGCup",
    "announcementTime": "2025-10-31T13:00:00Z",
    "regions": [
@@ -41,12 +41,12 @@
       "minimumAccountLevel": 50,
       "TeamLockType": "None",
       "tournamentType": "WorkshopCup",
-      "webId": "S38_OGCup"
+      "webId": "S38_OGCup_ZB"
    },
    "eventWindows": [
       {
-         "eventWindowId": "S38_OGCup_Event1_OCE",
-         "eventTemplateId": "S38_OGCup_EventTemplate",
+         "eventWindowId": "S38_OGCup_ZB_Event1_OCE",
+         "eventTemplateId": "S38_OGCup_EventTemplate_ZB",
          "countdownBeginTime": "2025-11-09T01:00:00Z",
          "beginTime": "2025-11-09T03:00:00Z",
          "endTime": "2025-11-09T06:00:00Z",
@@ -82,8 +82,8 @@
          }
       },
       {
-         "eventWindowId": "S38_OGCup_Event2_OCE",
-         "eventTemplateId": "S38_OGCup_EventTemplate",
+         "eventWindowId": "S38_OGCup_ZB_Event2_OCE",
+         "eventTemplateId": "S38_OGCup_EventTemplate_ZB",
          "countdownBeginTime": "2025-11-16T01:00:00Z",
          "beginTime": "2025-11-16T03:00:00Z",
          "endTime": "2025-11-16T06:00:00Z",
@@ -119,8 +119,8 @@
          }
       },
       {
-         "eventWindowId": "S38_OGCup_Event3_OCE",
-         "eventTemplateId": "S38_OGCup_EventTemplate",
+         "eventWindowId": "S38_OGCup_ZB_Event3_OCE",
+         "eventTemplateId": "S38_OGCup_EventTemplate_ZB",
          "countdownBeginTime": "2025-11-23T01:00:00Z",
          "beginTime": "2025-11-23T03:00:00Z",
          "endTime": "2025-11-23T06:00:00Z",
@@ -158,6 +158,6 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_s38_ogcup_oce"
+      "code": "tournament_epicgames_s38_ogcup_zb_oce"
    }
 }

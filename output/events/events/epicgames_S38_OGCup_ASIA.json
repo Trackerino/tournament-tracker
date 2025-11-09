@@ -1,16 +1,16 @@
 {
    "gameId": "Fortnite",
-   "eventId": "S38_OGCup_ZB_OCE",
-   "beginTime": "2025-11-09T03:00:00Z",
-   "endTime": "2025-11-23T06:00:00Z",
-   "displayDataId": "s38_og_cupzb",
+   "eventId": "epicgames_S38_OGCup_ASIA",
+   "beginTime": "2025-11-09T05:00:00Z",
+   "endTime": "2025-11-23T08:00:00Z",
+   "displayDataId": "s38_og_cup",
    "eventGroup": "S38_OGCup",
-   "announcementTime": "2025-10-31T13:00:00Z",
+   "announcementTime": "2025-10-31T15:00:00Z",
    "regions": [
-      "OCE"
+      "ASIA"
    ],
    "regionMappings": {
-      "OCE": "OCECOMP"
+      "ASIA": "ASIACOMP"
    },
    "platforms": [
       "Android",
@@ -41,15 +41,15 @@
       "minimumAccountLevel": 50,
       "TeamLockType": "None",
       "tournamentType": "WorkshopCup",
-      "webId": "S38_OGCup_ZB"
+      "webId": "S38_OGCup"
    },
    "eventWindows": [
       {
-         "eventWindowId": "S38_OGCup_ZB_Event1_OCE",
-         "eventTemplateId": "S38_OGCup_EventTemplate_ZB",
-         "countdownBeginTime": "2025-11-09T01:00:00Z",
-         "beginTime": "2025-11-09T03:00:00Z",
-         "endTime": "2025-11-09T06:00:00Z",
+         "eventWindowId": "S38_OGCup_Event1_ASIA",
+         "eventTemplateId": "S38_OGCup_EventTemplate",
+         "countdownBeginTime": "2025-11-09T03:00:00Z",
+         "beginTime": "2025-11-09T05:00:00Z",
+         "endTime": "2025-11-09T08:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -82,11 +82,11 @@
          }
       },
       {
-         "eventWindowId": "S38_OGCup_ZB_Event2_OCE",
-         "eventTemplateId": "S38_OGCup_EventTemplate_ZB",
-         "countdownBeginTime": "2025-11-16T01:00:00Z",
-         "beginTime": "2025-11-16T03:00:00Z",
-         "endTime": "2025-11-16T06:00:00Z",
+         "eventWindowId": "S38_OGCup_Event2_ASIA",
+         "eventTemplateId": "S38_OGCup_EventTemplate",
+         "countdownBeginTime": "2025-11-16T03:00:00Z",
+         "beginTime": "2025-11-16T05:00:00Z",
+         "endTime": "2025-11-16T08:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -119,11 +119,11 @@
          }
       },
       {
-         "eventWindowId": "S38_OGCup_ZB_Event3_OCE",
-         "eventTemplateId": "S38_OGCup_EventTemplate_ZB",
-         "countdownBeginTime": "2025-11-23T01:00:00Z",
-         "beginTime": "2025-11-23T03:00:00Z",
-         "endTime": "2025-11-23T06:00:00Z",
+         "eventWindowId": "S38_OGCup_Event3_ASIA",
+         "eventTemplateId": "S38_OGCup_EventTemplate",
+         "countdownBeginTime": "2025-11-23T03:00:00Z",
+         "beginTime": "2025-11-23T05:00:00Z",
+         "endTime": "2025-11-23T08:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -158,6 +158,6 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_s38_ogcup_zb_oce"
+      "code": "tournament_epicgames_s38_ogcup_asia"
    }
 }

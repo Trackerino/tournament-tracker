@@ -1,18 +1,16 @@
 {
    "gameId": "Fortnite",
-   "eventId": "S38_OGCup_ZB_NAC",
-   "beginTime": "2025-11-09T20:00:00Z",
-   "endTime": "2025-11-23T23:00:00Z",
+   "eventId": "epicgames_S38_OGCup_ZB_ASIA",
+   "beginTime": "2025-11-09T05:00:00Z",
+   "endTime": "2025-11-23T08:00:00Z",
    "displayDataId": "s38_og_cupzb",
    "eventGroup": "S38_OGCup",
-   "announcementTime": "2025-11-01T05:00:00Z",
+   "announcementTime": "2025-10-31T15:00:00Z",
    "regions": [
-      "NAC",
-      "NAE"
+      "ASIA"
    ],
    "regionMappings": {
-      "NAC": "NACCOMP",
-      "NAE": "NACCOMP"
+      "ASIA": "ASIACOMP"
    },
    "platforms": [
       "Android",
@@ -47,11 +45,11 @@
    },
    "eventWindows": [
       {
-         "eventWindowId": "S38_OGCup_ZB_Event1_NAC",
+         "eventWindowId": "S38_OGCup_ZB_Event1_ASIA",
          "eventTemplateId": "S38_OGCup_EventTemplate_ZB",
-         "countdownBeginTime": "2025-11-09T18:00:00Z",
-         "beginTime": "2025-11-09T20:00:00Z",
-         "endTime": "2025-11-09T23:00:00Z",
+         "countdownBeginTime": "2025-11-09T03:00:00Z",
+         "beginTime": "2025-11-09T05:00:00Z",
+         "endTime": "2025-11-09T08:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -84,11 +82,11 @@
          }
       },
       {
-         "eventWindowId": "S38_OGCup_ZB_Event2_NAC",
+         "eventWindowId": "S38_OGCup_ZB_Event2_ASIA",
          "eventTemplateId": "S38_OGCup_EventTemplate_ZB",
-         "countdownBeginTime": "2025-11-16T18:00:00Z",
-         "beginTime": "2025-11-16T20:00:00Z",
-         "endTime": "2025-11-16T23:00:00Z",
+         "countdownBeginTime": "2025-11-16T03:00:00Z",
+         "beginTime": "2025-11-16T05:00:00Z",
+         "endTime": "2025-11-16T08:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -121,11 +119,11 @@
          }
       },
       {
-         "eventWindowId": "S38_OGCup_ZB_Event3_NAC",
+         "eventWindowId": "S38_OGCup_ZB_Event3_ASIA",
          "eventTemplateId": "S38_OGCup_EventTemplate_ZB",
-         "countdownBeginTime": "2025-11-23T18:00:00Z",
-         "beginTime": "2025-11-23T20:00:00Z",
-         "endTime": "2025-11-23T23:00:00Z",
+         "countdownBeginTime": "2025-11-23T03:00:00Z",
+         "beginTime": "2025-11-23T05:00:00Z",
+         "endTime": "2025-11-23T08:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -160,6 +158,6 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_s38_ogcup_zb_nac"
+      "code": "tournament_epicgames_s38_ogcup_zb_asia"
    }
 }
