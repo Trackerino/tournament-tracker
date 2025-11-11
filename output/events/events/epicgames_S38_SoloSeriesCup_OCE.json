@@ -40,6 +40,7 @@
       "DisqualifyType": "Event",
       "minimumAccountLevel": 350,
       "requireSystemFeatures": [
+         "SecureBoot",
          "CryptoProcessor"
       ],
       "TeamLockType": "Window",
@@ -58,7 +59,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s38_soloseries_rules",
+            "eula:s38_solo_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -108,7 +109,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s38_soloseries_rules",
+            "eula:s38_solo_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             [
@@ -158,7 +159,7 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s38_soloseries_rules",
+            "eula:s38_solo_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
