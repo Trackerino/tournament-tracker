@@ -42,7 +42,8 @@
       "DisqualifyType": "Window",
       "minimumAccountLevel": 350,
       "requireSystemFeatures": [
-         "CryptoProcessor"
+         "CryptoProcessor",
+         "SecureBoot"
       ],
       "TeamLockType": "Window",
       "tournamentType": "VictoryCup",
