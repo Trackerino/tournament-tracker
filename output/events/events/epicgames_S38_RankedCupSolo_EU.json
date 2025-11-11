@@ -217,9 +217,9 @@
       {
          "eventWindowId": "S38_RankedCupSolo_Event3_EU",
          "eventTemplateId": "EventTemplate_RankedCupSolo",
-         "countdownBeginTime": "2025-11-12T12:00:00Z",
-         "beginTime": "2025-11-12T14:00:00Z",
-         "endTime": "2025-11-12T17:00:00Z",
+         "countdownBeginTime": "2025-11-12T16:00:00Z",
+         "beginTime": "2025-11-12T18:00:00Z",
+         "endTime": "2025-11-12T21:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
