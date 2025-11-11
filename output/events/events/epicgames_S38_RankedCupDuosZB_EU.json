@@ -131,7 +131,7 @@
       },
       {
          "eventWindowId": "S38_RankedCupDuosZB_Event2_EU",
-         "eventTemplateId": "EventTemplate_RankedCupDuos",
+         "eventTemplateId": "EventTemplate_RankedCupDuosZB",
          "countdownBeginTime": "2025-11-15T16:00:00Z",
          "beginTime": "2025-11-15T18:00:00Z",
          "endTime": "2025-11-15T21:00:00Z",
@@ -216,7 +216,7 @@
       },
       {
          "eventWindowId": "S38_RankedCupDuosZB_Event3_EU",
-         "eventTemplateId": "EventTemplate_RankedCupDuos",
+         "eventTemplateId": "EventTemplate_RankedCupDuosZB",
          "countdownBeginTime": "2025-11-25T16:00:00Z",
          "beginTime": "2025-11-25T18:00:00Z",
          "endTime": "2025-11-25T21:00:00Z",
