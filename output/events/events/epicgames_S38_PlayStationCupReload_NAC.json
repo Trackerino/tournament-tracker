@@ -1,11 +1,11 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S38_PlayStationCupReload_NAC",
-   "beginTime": "2025-11-14T01:00:00Z",
-   "endTime": "2025-11-26T03:00:00Z",
+   "beginTime": "2025-11-14T00:00:00Z",
+   "endTime": "2025-11-26T02:00:00Z",
    "displayDataId": "s38_playstationreload",
    "eventGroup": "S38_PlayStationCupReload",
-   "announcementTime": "2025-11-01T06:00:00Z",
+   "announcementTime": "2025-11-01T05:00:00Z",
    "regions": [
       "NAC",
       "NAE"
@@ -30,9 +30,9 @@
       {
          "eventWindowId": "S38_PlayStationCupReload_Final_NAC",
          "eventTemplateId": "S38_PlayStationCupReload_EventTemplate",
-         "countdownBeginTime": "2025-11-25T23:00:00Z",
-         "beginTime": "2025-11-26T01:00:00Z",
-         "endTime": "2025-11-26T03:00:00Z",
+         "countdownBeginTime": "2025-11-25T22:00:00Z",
+         "beginTime": "2025-11-26T00:00:00Z",
+         "endTime": "2025-11-26T02:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -72,9 +72,9 @@
       {
          "eventWindowId": "S38_PlayStationCupReload_Round1_NAC",
          "eventTemplateId": "S38_PlayStationCupReload_EventTemplate",
-         "countdownBeginTime": "2025-11-13T23:00:00Z",
-         "beginTime": "2025-11-14T01:00:00Z",
-         "endTime": "2025-11-14T02:30:00Z",
+         "countdownBeginTime": "2025-11-13T22:00:00Z",
+         "beginTime": "2025-11-14T00:00:00Z",
+         "endTime": "2025-11-14T01:30:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -110,9 +110,9 @@
       {
          "eventWindowId": "S38_PlayStationCupReload_Round2_NAC",
          "eventTemplateId": "S38_PlayStationCupReload_EventTemplate",
-         "countdownBeginTime": "2025-11-20T23:00:00Z",
-         "beginTime": "2025-11-21T01:00:00Z",
-         "endTime": "2025-11-21T02:30:00Z",
+         "countdownBeginTime": "2025-11-20T22:00:00Z",
+         "beginTime": "2025-11-21T00:00:00Z",
+         "endTime": "2025-11-21T01:30:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
