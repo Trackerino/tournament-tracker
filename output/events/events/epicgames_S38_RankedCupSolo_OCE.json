@@ -472,9 +472,9 @@
       {
          "eventWindowId": "S38_RankedCupSolo_Event6_OCE",
          "eventTemplateId": "EventTemplate_RankedCupSolo",
-         "countdownBeginTime": "2025-11-19T01:00:00Z",
-         "beginTime": "2025-11-19T03:00:00Z",
-         "endTime": "2025-11-19T06:00:00Z",
+         "countdownBeginTime": "2025-11-18T05:00:00Z",
+         "beginTime": "2025-11-18T07:00:00Z",
+         "endTime": "2025-11-18T10:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
