@@ -40,5 +40,6 @@
       "payoutDate": "eventEnd+PT0S"
    },
    "hidePlayerScores": false,
-   "requiredPlayerListings": []
+   "requiredPlayerListings": [],
+   "discardZeroScore": false
 }

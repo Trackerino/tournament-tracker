@@ -36,5 +36,6 @@
    "scoringRuleSetId": "DefaultScoringRuleSet",
    "clampsToZero": true,
    "hidePlayerScores": false,
-   "requiredPlayerListings": []
+   "requiredPlayerListings": [],
+   "discardZeroScore": false
 }

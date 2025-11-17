@@ -36,5 +36,6 @@
    "scoringRuleSetId": "${round}_Diamond",
    "clampsToZero": true,
    "hidePlayerScores": false,
-   "requiredPlayerListings": []
+   "requiredPlayerListings": [],
+   "discardZeroScore": false
 }

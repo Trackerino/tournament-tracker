@@ -36,5 +36,6 @@
    "scoringRuleSetId": "${round}_Gold",
    "clampsToZero": true,
    "hidePlayerScores": false,
-   "requiredPlayerListings": []
+   "requiredPlayerListings": [],
+   "discardZeroScore": false
 }

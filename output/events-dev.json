@@ -2544,7 +2544,8 @@
          "scoringRuleSetId": "DefaultScoringRuleSet",
          "clampsToZero": true,
          "hidePlayerScores": false,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       },
       {
          "gameId": "Fortnite",
@@ -2584,7 +2585,8 @@
          "scoringRuleSetId": "${round}_Bronze",
          "clampsToZero": true,
          "hidePlayerScores": false,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       },
       {
          "gameId": "Fortnite",
@@ -2628,7 +2630,8 @@
             "payoutDate": "eventEnd+PT0S"
          },
          "hidePlayerScores": false,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       },
       {
          "gameId": "Fortnite",
@@ -2668,7 +2671,8 @@
          "scoringRuleSetId": "${round}_Diamond",
          "clampsToZero": true,
          "hidePlayerScores": false,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       },
       {
          "gameId": "Fortnite",
@@ -2712,7 +2716,8 @@
             "payoutDate": "eventEnd+PT0S"
          },
          "hidePlayerScores": false,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       },
       {
          "gameId": "Fortnite",
@@ -2752,7 +2757,8 @@
          "scoringRuleSetId": "${round}_Gold",
          "clampsToZero": true,
          "hidePlayerScores": false,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       },
       {
          "gameId": "Fortnite",
@@ -2787,7 +2793,8 @@
          "scoringRuleSetId": "BettoTest_BasicRuleSet",
          "clampsToZero": true,
          "hidePlayerScores": false,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       },
       {
          "gameId": "Fortnite",
@@ -2827,7 +2834,8 @@
          "scoringRuleSetId": "EmptyScoringRules",
          "clampsToZero": true,
          "hidePlayerScores": false,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       },
       {
          "gameId": "Fortnite",
@@ -2867,7 +2875,8 @@
          "scoringRuleSetId": "${round}_Platinum",
          "clampsToZero": true,
          "hidePlayerScores": false,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       },
       {
          "gameId": "Fortnite",
@@ -2912,7 +2921,8 @@
          },
          "hidePlayerScores": false,
          "percentileAccuracy": 1,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       },
       {
          "gameId": "Fortnite",
@@ -2953,7 +2963,8 @@
          "clampsToZero": true,
          "hidePlayerScores": false,
          "percentileAccuracy": 1,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       },
       {
          "gameId": "Fortnite",
@@ -2993,7 +3004,8 @@
          "scoringRuleSetId": "${round}_Silver",
          "clampsToZero": true,
          "hidePlayerScores": false,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       },
       {
          "gameId": "Fortnite",
@@ -3037,7 +3049,8 @@
             "payoutDate": "eventEnd+PT0S"
          },
          "hidePlayerScores": false,
-         "requiredPlayerListings": []
+         "requiredPlayerListings": [],
+         "discardZeroScore": false
       }
    ],
    "payoutTables": {
