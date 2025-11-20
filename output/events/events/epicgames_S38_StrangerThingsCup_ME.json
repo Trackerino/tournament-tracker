@@ -1,11 +1,11 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S38_StrangerThingsCup_ME",
-   "beginTime": "2025-11-21T16:00:00Z",
-   "endTime": "2025-11-21T17:30:00Z",
+   "beginTime": "2025-11-21T14:00:00Z",
+   "endTime": "2025-11-21T15:30:00Z",
    "displayDataId": "s38_strangerthings",
    "eventGroup": "Season38_StrangerThingsCup",
-   "announcementTime": "2025-11-07T06:00:00Z",
+   "announcementTime": "2025-11-07T04:00:00Z",
    "regions": [
       "ME"
    ],
@@ -45,9 +45,9 @@
       {
          "eventWindowId": "S38_StrangerThingsCup_ME",
          "eventTemplateId": "EventTemplate_S38_StrangerThingsCup",
-         "countdownBeginTime": "2025-11-21T15:00:00Z",
-         "beginTime": "2025-11-21T16:00:00Z",
-         "endTime": "2025-11-21T17:30:00Z",
+         "countdownBeginTime": "2025-11-21T13:00:00Z",
+         "beginTime": "2025-11-21T14:00:00Z",
+         "endTime": "2025-11-21T15:30:00Z",
          "round": 0,
          "payoutDelay": 20,
          "isTBD": false,
