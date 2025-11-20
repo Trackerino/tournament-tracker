@@ -1,0 +1,75 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S38_StrangerThingsMobileCup_NAC",
+   "beginTime": "2025-11-22T02:00:00Z",
+   "endTime": "2025-11-22T03:30:00Z",
+   "displayDataId": "s38_strangerthingsblitz",
+   "eventGroup": "Season38_StrangerThingsMobileCup",
+   "announcementTime": "2025-08-07T17:00:00Z",
+   "regions": [
+      "NAC",
+      "NAE",
+      "NAW"
+   ],
+   "regionMappings": {
+      "NAC": "NACCOMP",
+      "NAE": "NACCOMP",
+      "NAW": "NACCOMP"
+   },
+   "platforms": [
+      "Android",
+      "IOS"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 15,
+      "webId": "S38_StrangerThingsMobileCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S38_StrangerThingsMobileCup_NAC",
+         "eventTemplateId": "EventTemplate_S38_StrangerThingsCup",
+         "countdownBeginTime": "2025-11-22T01:00:00Z",
+         "beginTime": "2025-11-22T02:00:00Z",
+         "endTime": "2025-11-22T03:30:00Z",
+         "round": 0,
+         "payoutDelay": 20,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s38_stranger_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "input-touch"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S38_StrangerThingsCup_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s38_strangerthingsmobilecup_nac"
+   }
+}
