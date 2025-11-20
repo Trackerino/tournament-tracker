@@ -4932,6 +4932,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "520003",
+      "background_right_color": "c62b29",
+      "background_text_color": "161616",
+      "details_description": "Mouthbreathers, am I right? Drop into the Stranger Things Cup for the chance to earn early access to the Vecna outfit!",
+      "long_format_title": "Stranger Things Cup Blitz (Mobile)",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/en-fneco-38-11-vegetable-cup-discovertile-mobile-1920x1080-1920x1080-3e8cd2c666f1.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fneco-38-11-vegetable-comp-in-game-tab-800x800-800x800-fc5f5e43c3d9.jpg",
+      "title_line_1": "Stranger Things Cup Blitz (Mobile)",
+      "tournament_display_id": "s38_strangerthingsblitz",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fneco-38-11-vegetable-comp-in-game-tab-1560x1024-1560x1024-dd55fe4fc02b.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "141414",
       "background_right_color": "545454",
       "background_text_color": "161616",
