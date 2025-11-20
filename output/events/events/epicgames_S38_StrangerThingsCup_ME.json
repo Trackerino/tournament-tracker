@@ -1,0 +1,88 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S38_StrangerThingsCup_ME",
+   "beginTime": "2025-11-21T16:00:00Z",
+   "endTime": "2025-11-21T17:30:00Z",
+   "displayDataId": "s38_strangerthings",
+   "eventGroup": "Season38_StrangerThingsCup",
+   "announcementTime": "2025-11-07T06:00:00Z",
+   "regions": [
+      "ME"
+   ],
+   "regionMappings": {
+      "ME": "MECOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "webId": "S38_StrangerThingsCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S38_StrangerThingsCup_ME",
+         "eventTemplateId": "EventTemplate_S38_StrangerThingsCup",
+         "countdownBeginTime": "2025-11-21T15:00:00Z",
+         "beginTime": "2025-11-21T16:00:00Z",
+         "endTime": "2025-11-21T17:30:00Z",
+         "round": 0,
+         "payoutDelay": 20,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s38_stranger_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S38_StrangerThingsCup_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s38_strangerthingscup_me"
+   }
+}
