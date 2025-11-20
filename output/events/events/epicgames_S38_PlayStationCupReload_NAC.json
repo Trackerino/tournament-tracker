@@ -23,6 +23,7 @@
       "AccountLockType": "Window",
       "DisqualifyType": "Event",
       "minimumAccountLevel": 50,
+      "TeamLockType": "Window",
       "tournamentType": "CashCup",
       "webId": "S38_PlayStationCupReload"
    },
