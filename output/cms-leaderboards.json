@@ -817,6 +817,294 @@
          "BRONZE_TEAM_ELIMS_STAT_INDEX",
          "BRONZE_PLACEMENT_STAT_INDEX"
       ],
+      "leaderboard_id": "RankedCup_Duos_Bronze_LeaderboardDef",
+      "leaderboard_name": "Bronze",
+      "match_history_tracked_stats": [
+         "BRONZE_TEAM_ELIMS_STAT_INDEX",
+         "BRONZE_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "CHAMPION_TEAM_ELIMS_STAT_INDEX",
+         "CHAMPION_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "CHAMPION_TEAM_ELIMS_STAT_INDEX",
+         "CHAMPION_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_Duos_Champion_LeaderboardDef",
+      "leaderboard_name": "Champion",
+      "match_history_tracked_stats": [
+         "CHAMPION_TEAM_ELIMS_STAT_INDEX",
+         "CHAMPION_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "DIAMOND_TEAM_ELIMS_STAT_INDEX",
+         "DIAMOND_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "DIAMOND_TEAM_ELIMS_STAT_INDEX",
+         "DIAMOND_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_Duos_Diamond_LeaderboardDef",
+      "leaderboard_name": "Diamond",
+      "match_history_tracked_stats": [
+         "DIAMOND_TEAM_ELIMS_STAT_INDEX",
+         "DIAMOND_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "ELITE_TEAM_ELIMS_STAT_INDEX",
+         "ELITE_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "ELITE_TEAM_ELIMS_STAT_INDEX",
+         "ELITE_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_Duos_Elite_LeaderboardDef",
+      "leaderboard_name": "Elite",
+      "match_history_tracked_stats": [
+         "ELITE_TEAM_ELIMS_STAT_INDEX",
+         "ELITE_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "GOLD_TEAM_ELIMS_STAT_INDEX",
+         "GOLD_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "GOLD_TEAM_ELIMS_STAT_INDEX",
+         "GOLD_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_Duos_Gold_LeaderboardDef",
+      "leaderboard_name": "Gold",
+      "match_history_tracked_stats": [
+         "GOLD_TEAM_ELIMS_STAT_INDEX",
+         "GOLD_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "PLATINUM_TEAM_ELIMS_STAT_INDEX",
+         "PLATINUM_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "PLATINUM_TEAM_ELIMS_STAT_INDEX",
+         "PLATINUM_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_Duos_Platinum_LeaderboardDef",
+      "leaderboard_name": "Platinum",
+      "match_history_tracked_stats": [
+         "PLATINUM_TEAM_ELIMS_STAT_INDEX",
+         "PLATINUM_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "SILVER_TEAM_ELIMS_STAT_INDEX",
+         "SILVER_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "SILVER_TEAM_ELIMS_STAT_INDEX",
+         "SILVER_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_Duos_Silver_LeaderboardDef",
+      "leaderboard_name": "Silver",
+      "match_history_tracked_stats": [
+         "SILVER_TEAM_ELIMS_STAT_INDEX",
+         "SILVER_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "UNREAL_TEAM_ELIMS_STAT_INDEX",
+         "UNREAL_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "UNREAL_TEAM_ELIMS_STAT_INDEX",
+         "UNREAL_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_Duos_Unreal_LeaderboardDef",
+      "leaderboard_name": "Unreal",
+      "match_history_tracked_stats": [
+         "UNREAL_TEAM_ELIMS_STAT_INDEX",
+         "UNREAL_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "BRONZE_TEAM_ELIMS_STAT_INDEX",
+         "BRONZE_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "BRONZE_TEAM_ELIMS_STAT_INDEX",
+         "BRONZE_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_DuosReload_Bronze_LeaderboardDef",
+      "leaderboard_name": "Bronze",
+      "match_history_tracked_stats": [
+         "BRONZE_TEAM_ELIMS_STAT_INDEX",
+         "BRONZE_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "CHAMPION_TEAM_ELIMS_STAT_INDEX",
+         "CHAMPION_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "CHAMPION_TEAM_ELIMS_STAT_INDEX",
+         "CHAMPION_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_DuosReload_Champion_LeaderboardDef",
+      "leaderboard_name": "Champion",
+      "match_history_tracked_stats": [
+         "CHAMPION_TEAM_ELIMS_STAT_INDEX",
+         "CHAMPION_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "DIAMOND_TEAM_ELIMS_STAT_INDEX",
+         "DIAMOND_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "DIAMOND_TEAM_ELIMS_STAT_INDEX",
+         "DIAMOND_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_DuosReload_Diamond_LeaderboardDef",
+      "leaderboard_name": "Diamond",
+      "match_history_tracked_stats": [
+         "DIAMOND_TEAM_ELIMS_STAT_INDEX",
+         "DIAMOND_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "ELITE_TEAM_ELIMS_STAT_INDEX",
+         "ELITE_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "ELITE_TEAM_ELIMS_STAT_INDEX",
+         "ELITE_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_DuosReload_Elite_LeaderboardDef",
+      "leaderboard_name": "Elite",
+      "match_history_tracked_stats": [
+         "ELITE_TEAM_ELIMS_STAT_INDEX",
+         "ELITE_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "GOLD_TEAM_ELIMS_STAT_INDEX",
+         "GOLD_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "GOLD_TEAM_ELIMS_STAT_INDEX",
+         "GOLD_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_DuosReload_Gold_LeaderboardDef",
+      "leaderboard_name": "Gold",
+      "match_history_tracked_stats": [
+         "GOLD_TEAM_ELIMS_STAT_INDEX",
+         "GOLD_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "PLATINUM_TEAM_ELIMS_STAT_INDEX",
+         "PLATINUM_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "PLATINUM_TEAM_ELIMS_STAT_INDEX",
+         "PLATINUM_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_DuosReload_Platinum_LeaderboardDef",
+      "leaderboard_name": "Platinum",
+      "match_history_tracked_stats": [
+         "PLATINUM_TEAM_ELIMS_STAT_INDEX",
+         "PLATINUM_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "SILVER_TEAM_ELIMS_STAT_INDEX",
+         "SILVER_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "SILVER_TEAM_ELIMS_STAT_INDEX",
+         "SILVER_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_DuosReload_Silver_LeaderboardDef",
+      "leaderboard_name": "Silver",
+      "match_history_tracked_stats": [
+         "SILVER_TEAM_ELIMS_STAT_INDEX",
+         "SILVER_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "UNREAL_TEAM_ELIMS_STAT_INDEX",
+         "UNREAL_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "UNREAL_TEAM_ELIMS_STAT_INDEX",
+         "UNREAL_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "RankedCup_DuosReload_Unreal_LeaderboardDef",
+      "leaderboard_name": "Unreal",
+      "match_history_tracked_stats": [
+         "UNREAL_TEAM_ELIMS_STAT_INDEX",
+         "UNREAL_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "BRONZE_TEAM_ELIMS_STAT_INDEX",
+         "BRONZE_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "BRONZE_TEAM_ELIMS_STAT_INDEX",
+         "BRONZE_PLACEMENT_STAT_INDEX"
+      ],
       "leaderboard_id": "RankedCup_Solo_Bronze_LeaderboardDef",
       "leaderboard_name": "Bronze",
       "match_history_tracked_stats": [
