@@ -170,91 +170,6 @@
       },
       {
          "gameId": "Fortnite",
-         "eventId": "epicgames_Cobra_Solo",
-         "beginTime": "2025-11-02T00:00:00Z",
-         "endTime": "2026-08-22T04:00:00Z",
-         "displayDataId": "s33_rankedcup_bs_solo",
-         "eventGroup": "TEST",
-         "announcementTime": "2025-01-14T08:00:00Z",
-         "regions": [
-            "NAC",
-            "NAE",
-            "NAW"
-         ],
-         "regionMappings": {
-            "NAE": "NACCOMP",
-            "NAW": "NACCOMP"
-         },
-         "platforms": [
-            "Android",
-            "GFN",
-            "GFNMobile",
-            "Helios",
-            "HeliosMobile",
-            "IOS",
-            "Luna",
-            "LunaMobile",
-            "PS4",
-            "PS5",
-            "Switch",
-            "Windows",
-            "XB1",
-            "XCloud",
-            "XCloudMobile",
-            "XSX",
-            "XboxOne",
-            "XboxOneGDK"
-         ],
-         "platformMappings": {},
-         "metadata": {
-            "minimumAccountLevel": 1,
-            "tournamentType": "RankedCup"
-         },
-         "eventWindows": [
-            {
-               "eventWindowId": "CobraSolo_Event1_NAC",
-               "eventTemplateId": "EventTemplate_S29_RankedCupSolo",
-               "countdownBeginTime": "2025-10-10T18:00:00Z",
-               "beginTime": "2025-11-02T00:00:00Z",
-               "endTime": "2026-08-22T04:00:00Z",
-               "round": 0,
-               "payoutDelay": 2,
-               "isTBD": false,
-               "visibility": "private",
-               "additionalRequirements": [
-                  "eula:crab",
-                  "mfa",
-                  "currentRanking:ranked-br:6",
-                  "currentRankingMax:ranked-br:8"
-               ],
-               "teammateEligibility": "all",
-               "blackoutPeriods": [],
-               "scoreLocations": [
-                  {
-                     "leaderboardDefId": "S29_RankedCupSolo_DefaultLeaderboardDef",
-                     "isMainWindowLeaderboard": true
-                  }
-               ],
-               "canLiveSpectate": false,
-               "requireAllTokens": [],
-               "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
-               "requireAllTokensCaller": [],
-               "requireAnyTokensCaller": [],
-               "metadata": {
-                  "RoundType": "Qualifiers",
-                  "ServerReplays": true
-               }
-            }
-         ],
-         "link": {
-            "type": "br:tournament",
-            "code": "tournament_epicgames_cobra_solo",
-            "version": 1
-         }
-      },
-      {
-         "gameId": "Fortnite",
          "eventId": "epicgames_RegionLockSolo_Asia",
          "beginTime": "2023-06-23T06:00:00Z",
          "endTime": "2026-08-29T19:20:00Z",
@@ -745,52 +660,6 @@
       },
       {
          "gameId": "Fortnite",
-         "leaderboardDefId": "S29_RankedCupSolo_DefaultLeaderboardDef",
-         "leaderboardStorageId": "Fortnite_GLOBAL",
-         "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-         "leaderboardInstanceIdFormat": "${windowId}",
-         "maxSessionHistorySize": 50,
-         "useIndividualScores": true,
-         "tiebreakerFormula": {
-            "basePointsBits": 11,
-            "components": [
-               {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
-                  "bits": 4,
-                  "aggregation": "sum"
-               },
-               {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-                  "bits": 13,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
-                  "bits": 14,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "TIME_ALIVE_STAT",
-                  "bits": 11,
-                  "aggregation": "avg"
-               }
-            ]
-         },
-         "scoringRuleSetId": "S29_ScoringRules_RankedCupSolo",
-         "clampsToZero": true,
-         "payoutsConfig": {
-            "payoutTableIdFormat": "S29RankedCupPayout",
-            "payoutDate": "windowEnd+PT1M"
-         },
-         "hidePlayerScores": false,
-         "percentileAccuracy": 1,
-         "requiredPlayerListings": [],
-         "discardZeroScore": false
-      },
-      {
-         "gameId": "Fortnite",
          "leaderboardDefId": "S38_OGCup_LeaderboardDef",
          "leaderboardStorageId": "Fortnite_GLOBAL",
          "leaderboardInstanceGroupingKeyFormat": "${eventId}",
@@ -832,27 +701,7 @@
          "discardZeroScore": false
       }
    ],
-   "payoutTables": {
-      "S29RankedCupPayout": [
-         {
-            "scoringType": "value",
-            "ranks": [
-               {
-                  "threshold": 2,
-                  "payouts": [
-                     {
-                        "rewardType": "game",
-                        "rewardMode": "standard",
-                        "value": "AthenaGlider:umbrella_rankedpantheon",
-                        "quantity": 1,
-                        "notifiesPlayer": true
-                     }
-                  ]
-               }
-            ]
-         }
-      ]
-   },
+   "payoutTables": {},
    "scoringRuleSets": {
       "BettoTest_BasicRuleSet": [
          {
@@ -967,115 +816,6 @@
                {
                   "keyValue": 1,
                   "pointsEarned": 1,
-                  "multiplicative": true
-               }
-            ]
-         }
-      ],
-      "S29_ScoringRules_RankedCupSolo": [
-         {
-            "trackedStat": "PLACEMENT_STAT_INDEX",
-            "matchRule": "lte",
-            "rewardTiers": [
-               {
-                  "keyValue": 1,
-                  "pointsEarned": 10,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 2,
-                  "pointsEarned": 7,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 3,
-                  "pointsEarned": 5,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 4,
-                  "pointsEarned": 5,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 5,
-                  "pointsEarned": 5,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 6,
-                  "pointsEarned": 3,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 7,
-                  "pointsEarned": 3,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 8,
-                  "pointsEarned": 3,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 9,
-                  "pointsEarned": 3,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 10,
-                  "pointsEarned": 3,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 15,
-                  "pointsEarned": 3,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 20,
-                  "pointsEarned": 3,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 25,
-                  "pointsEarned": 2,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 30,
-                  "pointsEarned": 2,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 35,
-                  "pointsEarned": 2,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 40,
-                  "pointsEarned": 2,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 50,
-                  "pointsEarned": 2,
-                  "multiplicative": false
-               },
-               {
-                  "keyValue": 75,
-                  "pointsEarned": 2,
-                  "multiplicative": false
-               }
-            ]
-         },
-         {
-            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-            "matchRule": "gte",
-            "rewardTiers": [
-               {
-                  "keyValue": 1,
-                  "pointsEarned": 2,
                   "multiplicative": true
                }
             ]
@@ -1268,43 +1008,6 @@
          },
          "gameId": "Fortnite",
          "eventTemplateId": "EventTemplate_BettoTest_Solo",
-         "scoringRules": [],
-         "payoutTable": [],
-         "liveSessionAttributes": [],
-         "clampsToZero": false
-      },
-      {
-         "playlistId": "Playlist_ShowdownTournament_RC_Solo",
-         "matchCap": 0,
-         "tiebreakerFormula": {
-            "basePointsBits": 11,
-            "components": [
-               {
-                  "trackedStat": "VICTORY_ROYALE_STAT",
-                  "bits": 4,
-                  "aggregation": "sum"
-               },
-               {
-                  "trackedStat": "TEAM_ELIMS_STAT_INDEX",
-                  "bits": 13,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
-                  "bits": 14,
-                  "aggregation": "avg",
-                  "multiplier": 100
-               },
-               {
-                  "trackedStat": "TIME_ALIVE_STAT",
-                  "bits": 11,
-                  "aggregation": "avg"
-               }
-            ]
-         },
-         "gameId": "Fortnite",
-         "eventTemplateId": "EventTemplate_S29_RankedCupSolo",
          "scoringRules": [],
          "payoutTable": [],
          "liveSessionAttributes": [],
