@@ -45,12 +45,48 @@
    },
    {
       "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "BRONZE_TEAM_ELIMS_STAT_INDEX",
+         "BRONZE_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "BRONZE_TEAM_ELIMS_STAT_INDEX",
+         "BRONZE_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "BronzeLeaderboardDef_2",
+      "leaderboard_name": "Bronze",
+      "match_history_tracked_stats": [
+         "BRONZE_TEAM_ELIMS_STAT_INDEX",
+         "BRONZE_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
       "displayed_tracked_stat": [
          "CHAMPION_TEAM_ELIMS_STAT_INDEX",
          "CHAMPION_PLACEMENT_STAT_INDEX"
       ],
       "leaderboard_id": "ChampionLeaderboardDef",
       "leaderboard_name": "Champion",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "CHAMPION_TEAM_ELIMS_STAT_INDEX",
+         "CHAMPION_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "CHAMPION_TEAM_ELIMS_STAT_INDEX",
+         "CHAMPION_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "ChampionLeaderboardDef_2",
+      "leaderboard_name": "Champion",
+      "match_history_tracked_stats": [
+         "CHAMPION_TEAM_ELIMS_STAT_INDEX",
+         "CHAMPION_PLACEMENT_STAT_INDEX"
+      ],
       "show_details_panel": true
    },
    {
@@ -155,6 +191,24 @@
    },
    {
       "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "DIAMOND_TEAM_ELIMS_STAT_INDEX",
+         "DIAMOND_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "DIAMOND_TEAM_ELIMS_STAT_INDEX",
+         "DIAMOND_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "DiamondLeaderboardDef_2",
+      "leaderboard_name": "Diamond",
+      "match_history_tracked_stats": [
+         "DIAMOND_TEAM_ELIMS_STAT_INDEX",
+         "DIAMOND_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
       "leaderboard_id": "Eliminations_epicgames_S21_LCHotDropDuos_ASIA:Eliminations_S21_LCHotDropDuos_ASIA",
       "leaderboard_name": "Elimination",
       "show_details_panel": true
@@ -203,6 +257,24 @@
       ],
       "leaderboard_id": "EliteLeaderboardDef",
       "leaderboard_name": "Elite",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "ELITE_TEAM_ELIMS_STAT_INDEX",
+         "ELITE_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "ELITE_TEAM_ELIMS_STAT_INDEX",
+         "ELITE_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "EliteLeaderboardDef_2",
+      "leaderboard_name": "Elite",
+      "match_history_tracked_stats": [
+         "ELITE_TEAM_ELIMS_STAT_INDEX",
+         "ELITE_PLACEMENT_STAT_INDEX"
+      ],
       "show_details_panel": true
    },
    {
@@ -542,6 +614,24 @@
    },
    {
       "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "GOLD_TEAM_ELIMS_STAT_INDEX",
+         "GOLD_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "GOLD_TEAM_ELIMS_STAT_INDEX",
+         "GOLD_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "GoldLeaderboardDef_2",
+      "leaderboard_name": "Gold",
+      "match_history_tracked_stats": [
+         "GOLD_TEAM_ELIMS_STAT_INDEX",
+         "GOLD_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
       "leaderboard_id": "Headset_epicgames_S22_SypherPKIconCup_ASIA:Headset_S22_SypherPKIconCup_ASIA",
       "leaderboard_name": "Alternate",
       "show_details_panel": true
@@ -697,6 +787,24 @@
       ],
       "leaderboard_id": "PlatinumLeaderboardDef",
       "leaderboard_name": "Platinum",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "PLATINUM_TEAM_ELIMS_STAT_INDEX",
+         "PLATINUM_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "PLATINUM_TEAM_ELIMS_STAT_INDEX",
+         "PLATINUM_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "PlatinumLeaderboardDef_2",
+      "leaderboard_name": "Platinum",
+      "match_history_tracked_stats": [
+         "PLATINUM_TEAM_ELIMS_STAT_INDEX",
+         "PLATINUM_PLACEMENT_STAT_INDEX"
+      ],
       "show_details_panel": true
    },
    {
@@ -1563,6 +1671,24 @@
    },
    {
       "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "SILVER_TEAM_ELIMS_STAT_INDEX",
+         "SILVER_TEAM_ELIMS_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "SILVER_TEAM_ELIMS_STAT_INDEX",
+         "SILVER_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "SilverLeaderboardDef_2",
+      "leaderboard_name": "Silver",
+      "match_history_tracked_stats": [
+         "SILVER_TEAM_ELIMS_STAT_INDEX",
+         "SILVER_PLACEMENT_STAT_INDEX"
+      ],
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
       "leaderboard_id": "Stamina_epicgames_S21_TournamentOfPower_ASIA:Stamina_S21_TournamentOfPower_ASIA_Event1",
       "leaderboard_name": "Kamehameha",
       "show_details_panel": true
@@ -1662,6 +1788,24 @@
       ],
       "leaderboard_id": "UnrealLeaderboardDef",
       "leaderboard_name": "Unreal",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
+      "details_panel_tracked_stats": [
+         "UNREAL_TEAM_ELIMS_STAT_INDEX",
+         "UNREAL_PLACEMENT_STAT_INDEX"
+      ],
+      "displayed_tracked_stat": [
+         "UNREAL_TEAM_ELIMS_STAT_INDEX",
+         "UNREAL_PLACEMENT_STAT_INDEX"
+      ],
+      "leaderboard_id": "UnrealLeaderboardDef_2",
+      "leaderboard_name": "Unreal",
+      "match_history_tracked_stats": [
+         "UNREAL_TEAM_ELIMS_STAT_INDEX",
+         "UNREAL_PLACEMENT_STAT_INDEX"
+      ],
       "show_details_panel": true
    },
    {
