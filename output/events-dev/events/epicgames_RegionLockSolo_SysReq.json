@@ -38,7 +38,8 @@
       "minimumAccountLevel": 1,
       "requireSystemFeatures": [
          "CryptoProcessor",
-         "SecureBoot"
+         "SecureBoot",
+         "IOMMU"
       ],
       "webId": "TEST"
    },
