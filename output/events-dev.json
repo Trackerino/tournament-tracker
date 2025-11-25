@@ -807,6 +807,41 @@
                   "keyValue": 15,
                   "pointsEarned": 2,
                   "multiplicative": false
+               },
+               {
+                  "keyValue": 20,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 25,
+                  "pointsEarned": 2,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 30,
+                  "pointsEarned": 1,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 35,
+                  "pointsEarned": 1,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 40,
+                  "pointsEarned": 1,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 50,
+                  "pointsEarned": 1,
+                  "multiplicative": false
+               },
+               {
+                  "keyValue": 75,
+                  "pointsEarned": 1,
+                  "multiplicative": false
                }
             ]
          },
