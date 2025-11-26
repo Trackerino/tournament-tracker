@@ -42,6 +42,5 @@
    },
    "hidePlayerScores": false,
    "percentileAccuracy": 1,
-   "requiredPlayerListings": [],
-   "discardZeroScore": false
+   "requiredPlayerListings": []
 }
