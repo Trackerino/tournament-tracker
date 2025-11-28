@@ -1,0 +1,19 @@
+[
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 120,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S39_ReloadCashVictoryCup_Event5Round2_ME",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]
