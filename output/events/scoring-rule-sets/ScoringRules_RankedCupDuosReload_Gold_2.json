@@ -1,0 +1,69 @@
+[
+   {
+      "trackedStat": "GOLD_PLACEMENT_STAT_INDEX",
+      "matchRule": "lte",
+      "rewardTiers": [
+         {
+            "keyValue": 1,
+            "pointsEarned": 1,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 2,
+            "pointsEarned": 1,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 3,
+            "pointsEarned": 1,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 4,
+            "pointsEarned": 1,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 5,
+            "pointsEarned": 1,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 6,
+            "pointsEarned": 1,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 7,
+            "pointsEarned": 1,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 8,
+            "pointsEarned": 1,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 9,
+            "pointsEarned": 1,
+            "multiplicative": false
+         },
+         {
+            "keyValue": 10,
+            "pointsEarned": 1,
+            "multiplicative": false
+         }
+      ]
+   },
+   {
+      "trackedStat": "GOLD_TEAM_ELIMS_STAT_INDEX",
+      "matchRule": "gte",
+      "rewardTiers": [
+         {
+            "keyValue": 1,
+            "pointsEarned": 1,
+            "multiplicative": true
+         }
+      ]
+   }
+]
