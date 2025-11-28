@@ -16,10 +16,7 @@
       "NAE": "NACCOMP",
       "NAW": "NACCOMP"
    },
-   "platforms": [
-      "Android",
-      "IOS"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
