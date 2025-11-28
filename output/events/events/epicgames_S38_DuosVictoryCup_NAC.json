@@ -14,36 +14,15 @@
       "NAC": "NACCOMP",
       "NAE": "NACCOMP"
    },
-   "platforms": [
-      "Android",
-      "GFN",
-      "GFNMobile",
-      "Helios",
-      "HeliosMobile",
-      "IOS",
-      "Luna",
-      "LunaMobile",
-      "Mac",
-      "PS4",
-      "PS5",
-      "Switch",
-      "Switch2",
-      "Windows",
-      "XB1",
-      "XCloud",
-      "XCloudMobile",
-      "XSX",
-      "XboxOne",
-      "XboxOneGDK"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
       "minimumAccountLevel": 350,
       "requireSystemFeatures": [
-         "CryptoProcessor",
-         "SecureBoot"
+         "SecureBoot",
+         "CryptoProcessor"
       ],
       "TeamLockType": "Window",
       "tournamentType": "VictoryCup",
@@ -231,7 +210,7 @@
       {
          "eventWindowId": "S38_DuosVictoryCup_Round2_Day2_NAC",
          "eventTemplateId": "EventTemplate_S38_DuosVictoryCup_Round2",
-         "countdownBeginTime": "2025-11-09T01:00:00Z",
+         "countdownBeginTime": "2025-11-16T01:00:00Z",
          "beginTime": "2025-11-16T03:00:00Z",
          "endTime": "2025-11-16T04:00:00Z",
          "round": 0,

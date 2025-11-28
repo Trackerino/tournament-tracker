@@ -12,36 +12,15 @@
    "regionMappings": {
       "EU": "EUCOMP"
    },
-   "platforms": [
-      "Android",
-      "GFN",
-      "GFNMobile",
-      "Helios",
-      "HeliosMobile",
-      "IOS",
-      "Luna",
-      "LunaMobile",
-      "Mac",
-      "PS4",
-      "PS5",
-      "Switch",
-      "Switch2",
-      "Windows",
-      "XB1",
-      "XCloud",
-      "XCloudMobile",
-      "XSX",
-      "XboxOne",
-      "XboxOneGDK"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
       "minimumAccountLevel": 350,
       "requireSystemFeatures": [
-         "CryptoProcessor",
-         "SecureBoot"
+         "SecureBoot",
+         "CryptoProcessor"
       ],
       "TeamLockType": "Window",
       "tournamentType": "VictoryCup",
@@ -229,7 +208,7 @@
       {
          "eventWindowId": "S38_DuosVictoryCup_Round2_Day2_EU",
          "eventTemplateId": "EventTemplate_S38_DuosVictoryCup_Round2",
-         "countdownBeginTime": "2025-11-08T19:00:00Z",
+         "countdownBeginTime": "2025-11-15T19:00:00Z",
          "beginTime": "2025-11-15T21:00:00Z",
          "endTime": "2025-11-15T22:00:00Z",
          "round": 0,
