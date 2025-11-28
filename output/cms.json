@@ -4988,6 +4988,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "101216",
+      "background_right_color": "1d2027",
+      "background_text_color": "161616",
+      "details_description": "Battle your way to Unreal in Battle Royale Ranked to be eligible for this tournament! This will be a single-session tournament with over $1 Million in prizing! Good luck and have fun!",
+      "long_format_title": "$1 Million Unreal Cup",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/fnce-39-00-roadtounreal-unrealcup-discoverplaylisttile-1920x1080-1920x1080-61e16d221f76.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnce-39-00-comp-unrealcup-in-game-tab-800x800-800x800-95e765960b4a.jpg",
+      "title_line_1": "$1 Million Unreal Cup",
+      "tournament_display_id": "s39_1million",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-39-00-comp-unrealcup-in-game-tab-1560x1024-1560x1024-2367d185b542.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "000000",
       "background_right_color": "E6153C",
       "background_text_color": "",
