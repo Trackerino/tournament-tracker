@@ -1,16 +1,16 @@
 {
    "gameId": "Fortnite",
-   "eventId": "epicgames_S39_DuosConsoleVictoryCupZB_NAW",
-   "beginTime": "2026-01-10T21:00:00Z",
-   "endTime": "2026-03-01T01:00:00Z",
+   "eventId": "epicgames_S39_DuosConsoleVictoryCupZB_Jan_ASIA",
+   "beginTime": "2026-01-10T04:00:00Z",
+   "endTime": "2026-02-28T08:00:00Z",
    "displayDataId": "s39_console_victory_jan",
    "eventGroup": "Season39_DuosConsoleVictoryCupZB",
-   "announcementTime": "2025-11-07T16:00:00Z",
+   "announcementTime": "2025-11-06T23:00:00Z",
    "regions": [
-      "NAW"
+      "ASIA"
    ],
    "regionMappings": {
-      "NAW": "NAWCOMP"
+      "ASIA": "ASIACOMP"
    },
    "platforms": [
       "PS4",
@@ -32,11 +32,11 @@
    },
    "eventWindows": [
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event10Round1_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event10Round1_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
-         "countdownBeginTime": "2026-01-31T20:00:00Z",
-         "beginTime": "2026-01-31T21:00:00Z",
-         "endTime": "2026-01-31T23:00:00Z",
+         "countdownBeginTime": "2026-01-31T03:00:00Z",
+         "beginTime": "2026-01-31T04:00:00Z",
+         "endTime": "2026-01-31T06:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -76,11 +76,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event10Round2_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event10Round2_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
-         "countdownBeginTime": "2026-01-31T23:00:00Z",
-         "beginTime": "2026-02-01T00:00:00Z",
-         "endTime": "2026-02-01T01:00:00Z",
+         "countdownBeginTime": "2026-01-31T06:00:00Z",
+         "beginTime": "2026-01-31T07:00:00Z",
+         "endTime": "2026-01-31T08:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -100,7 +100,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_DuosConsoleVictoryCupZB_Event10Round2_NAW"
+            "S39_DuosConsoleVictoryCupZB_Event10Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -116,11 +116,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event11Round1_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event11Round1_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
-         "countdownBeginTime": "2026-02-07T20:00:00Z",
-         "beginTime": "2026-02-07T21:00:00Z",
-         "endTime": "2026-02-07T23:00:00Z",
+         "countdownBeginTime": "2026-02-07T03:00:00Z",
+         "beginTime": "2026-02-07T04:00:00Z",
+         "endTime": "2026-02-07T06:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -160,11 +160,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event11Round2_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event11Round2_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
-         "countdownBeginTime": "2026-02-07T23:00:00Z",
-         "beginTime": "2026-02-08T00:00:00Z",
-         "endTime": "2026-02-08T01:00:00Z",
+         "countdownBeginTime": "2026-02-07T06:00:00Z",
+         "beginTime": "2026-02-07T07:00:00Z",
+         "endTime": "2026-02-07T08:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -184,7 +184,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_DuosConsoleVictoryCupZB_Event11Round2_NAW"
+            "S39_DuosConsoleVictoryCupZB_Event11Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -200,11 +200,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event12Round1_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event12Round1_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
-         "countdownBeginTime": "2026-02-14T20:00:00Z",
-         "beginTime": "2026-02-14T21:00:00Z",
-         "endTime": "2026-02-14T23:00:00Z",
+         "countdownBeginTime": "2026-02-14T03:00:00Z",
+         "beginTime": "2026-02-14T04:00:00Z",
+         "endTime": "2026-02-14T06:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -244,11 +244,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event12Round2_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event12Round2_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
-         "countdownBeginTime": "2026-02-14T23:00:00Z",
-         "beginTime": "2026-02-15T00:00:00Z",
-         "endTime": "2026-02-15T01:00:00Z",
+         "countdownBeginTime": "2026-02-14T06:00:00Z",
+         "beginTime": "2026-02-14T07:00:00Z",
+         "endTime": "2026-02-14T08:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -268,7 +268,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_DuosConsoleVictoryCupZB_Event12Round2_NAW"
+            "S39_DuosConsoleVictoryCupZB_Event12Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -284,11 +284,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event13Round1_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event13Round1_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
-         "countdownBeginTime": "2026-02-21T20:00:00Z",
-         "beginTime": "2026-02-21T21:00:00Z",
-         "endTime": "2026-02-21T23:00:00Z",
+         "countdownBeginTime": "2026-02-21T03:00:00Z",
+         "beginTime": "2026-02-21T04:00:00Z",
+         "endTime": "2026-02-21T06:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -328,11 +328,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event13Round2_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event13Round2_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
-         "countdownBeginTime": "2026-02-21T23:00:00Z",
-         "beginTime": "2026-02-22T00:00:00Z",
-         "endTime": "2026-02-22T01:00:00Z",
+         "countdownBeginTime": "2026-02-21T06:00:00Z",
+         "beginTime": "2026-02-21T07:00:00Z",
+         "endTime": "2026-02-21T08:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -352,7 +352,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_DuosConsoleVictoryCupZB_Event13Round2_NAW"
+            "S39_DuosConsoleVictoryCupZB_Event13Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -368,11 +368,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event14Round1_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event14Round1_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
-         "countdownBeginTime": "2026-02-28T20:00:00Z",
-         "beginTime": "2026-02-28T21:00:00Z",
-         "endTime": "2026-02-28T23:00:00Z",
+         "countdownBeginTime": "2026-02-28T03:00:00Z",
+         "beginTime": "2026-02-28T04:00:00Z",
+         "endTime": "2026-02-28T06:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -412,11 +412,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event14Round2_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event14Round2_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
-         "countdownBeginTime": "2026-02-28T23:00:00Z",
-         "beginTime": "2026-03-01T00:00:00Z",
-         "endTime": "2026-03-01T01:00:00Z",
+         "countdownBeginTime": "2026-02-28T06:00:00Z",
+         "beginTime": "2026-02-28T07:00:00Z",
+         "endTime": "2026-02-28T08:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -436,7 +436,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_DuosConsoleVictoryCupZB_Event14Round2_NAW"
+            "S39_DuosConsoleVictoryCupZB_Event14Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -452,11 +452,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event7Round1_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event7Round1_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
-         "countdownBeginTime": "2026-01-10T20:00:00Z",
-         "beginTime": "2026-01-10T21:00:00Z",
-         "endTime": "2026-01-10T23:00:00Z",
+         "countdownBeginTime": "2026-01-10T03:00:00Z",
+         "beginTime": "2026-01-10T04:00:00Z",
+         "endTime": "2026-01-10T06:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -496,11 +496,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event7Round2_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event7Round2_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
-         "countdownBeginTime": "2026-01-10T23:00:00Z",
-         "beginTime": "2026-01-11T00:00:00Z",
-         "endTime": "2026-01-11T01:00:00Z",
+         "countdownBeginTime": "2026-01-10T06:00:00Z",
+         "beginTime": "2026-01-10T07:00:00Z",
+         "endTime": "2026-01-10T08:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -520,7 +520,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_DuosConsoleVictoryCupZB_Event7Round2_NAW"
+            "S39_DuosConsoleVictoryCupZB_Event7Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -536,11 +536,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event8Round1_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event8Round1_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
-         "countdownBeginTime": "2026-01-17T20:00:00Z",
-         "beginTime": "2026-01-17T21:00:00Z",
-         "endTime": "2026-01-17T23:00:00Z",
+         "countdownBeginTime": "2026-01-17T03:00:00Z",
+         "beginTime": "2026-01-17T04:00:00Z",
+         "endTime": "2026-01-17T06:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -580,11 +580,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event8Round2_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event8Round2_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
-         "countdownBeginTime": "2026-01-17T23:00:00Z",
-         "beginTime": "2026-01-18T00:00:00Z",
-         "endTime": "2026-01-18T01:00:00Z",
+         "countdownBeginTime": "2026-01-17T06:00:00Z",
+         "beginTime": "2026-01-17T07:00:00Z",
+         "endTime": "2026-01-17T08:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -604,7 +604,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_DuosConsoleVictoryCupZB_Event8Round2_NAW"
+            "S39_DuosConsoleVictoryCupZB_Event8Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -620,11 +620,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event9Round1_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event9Round1_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
-         "countdownBeginTime": "2026-01-24T20:00:00Z",
-         "beginTime": "2026-01-24T21:00:00Z",
-         "endTime": "2026-01-24T23:00:00Z",
+         "countdownBeginTime": "2026-01-24T03:00:00Z",
+         "beginTime": "2026-01-24T04:00:00Z",
+         "endTime": "2026-01-24T06:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -664,11 +664,11 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event9Round2_NAW",
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event9Round2_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
-         "countdownBeginTime": "2026-01-24T23:00:00Z",
-         "beginTime": "2026-01-25T00:00:00Z",
-         "endTime": "2026-01-25T01:00:00Z",
+         "countdownBeginTime": "2026-01-24T06:00:00Z",
+         "beginTime": "2026-01-24T07:00:00Z",
+         "endTime": "2026-01-24T08:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
@@ -688,7 +688,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_DuosConsoleVictoryCupZB_Event9Round2_NAW"
+            "S39_DuosConsoleVictoryCupZB_Event9Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -706,6 +706,6 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_epicgames_s39_duosconsolevictorycupzb_naw"
+      "code": "tournament_epicgames_s39_duosconsolevictorycupzb_jan_asia"
    }
 }
