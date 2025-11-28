@@ -14,10 +14,7 @@
       "NAC": "NACCOMP",
       "NAE": "NACCOMP"
    },
-   "platforms": [
-      "Android",
-      "IOS"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
@@ -38,7 +35,6 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "input-touch",
             "eula:s38_mobile_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
@@ -393,7 +389,6 @@
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "input-touch",
             "eula:s38_mobile_rules",
             "adps:g-a81a33a3b9a7",
             "mfa"
