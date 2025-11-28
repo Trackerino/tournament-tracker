@@ -5,7 +5,7 @@
    "endTime": "2026-01-20T04:00:00Z",
    "displayDataId": "s39_duos_victory_jan",
    "eventGroup": "Season39_DuosVictoryCup",
-   "announcementTime": "2025-10-29T06:00:00Z",
+   "announcementTime": "2025-11-28T07:00:00Z",
    "regions": [
       "NAC",
       "NAE"
@@ -97,7 +97,7 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosVictoryCup_Round1_Day2_NAC",
+         "eventWindowId": "S39_DuosVictoryCup_Round1_Day2_January_NAC",
          "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round1",
          "countdownBeginTime": "2026-01-12T22:00:00Z",
          "beginTime": "2026-01-13T00:00:00Z",
@@ -143,7 +143,7 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosVictoryCup_Round1_Day3_NAC",
+         "eventWindowId": "S39_DuosVictoryCup_Round1_Day3_January_NAC",
          "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round1",
          "countdownBeginTime": "2026-01-19T22:00:00Z",
          "beginTime": "2026-01-20T00:00:00Z",
@@ -189,7 +189,7 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosVictoryCup_Round2_Day1_NAC",
+         "eventWindowId": "S39_DuosVictoryCup_Round2_Day1_January_NAC",
          "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round2",
          "countdownBeginTime": "2026-01-06T01:00:00Z",
          "beginTime": "2026-01-06T03:00:00Z",
@@ -229,7 +229,7 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosVictoryCup_Round2_Day2_NAC",
+         "eventWindowId": "S39_DuosVictoryCup_Round2_Day2_January_NAC",
          "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round2",
          "countdownBeginTime": "2026-01-13T01:00:00Z",
          "beginTime": "2026-01-13T03:00:00Z",
@@ -269,7 +269,7 @@
          }
       },
       {
-         "eventWindowId": "S39_DuosVictoryCup_Round2_Day3_NAC",
+         "eventWindowId": "S39_DuosVictoryCup_Round2_Day3_January_NAC",
          "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round1",
          "countdownBeginTime": "2026-01-20T01:00:00Z",
          "beginTime": "2026-01-20T03:00:00Z",
