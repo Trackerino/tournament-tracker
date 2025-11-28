@@ -1,16 +1,16 @@
 {
    "gameId": "Fortnite",
-   "eventId": "epicgames_S39_ReloadCashVictoryCup_ME",
-   "beginTime": "2026-01-06T15:00:00Z",
-   "endTime": "2026-01-20T19:00:00Z",
+   "eventId": "epicgames_S39_ReloadCashVictoryCup_Jan_EU",
+   "beginTime": "2026-01-06T18:00:00Z",
+   "endTime": "2026-01-20T22:00:00Z",
    "displayDataId": "s39_reload_victory_jan",
    "eventGroup": "S39_ReloadCashVictoryCup",
-   "announcementTime": "2025-11-06T05:00:00Z",
+   "announcementTime": "2025-11-06T08:00:00Z",
    "regions": [
-      "ME"
+      "EU"
    ],
    "regionMappings": {
-      "ME": "MECOMP"
+      "EU": "EUCOMP"
    },
    "platforms": [
       "Android",
@@ -45,99 +45,11 @@
    },
    "eventWindows": [
       {
-         "eventWindowId": "S39_ReloadCashVictoryCup_Event7Round1_ME",
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event7Round1_EU",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round1",
-         "countdownBeginTime": "2026-01-06T14:00:00Z",
-         "beginTime": "2026-01-06T15:00:00Z",
-         "endTime": "2026-01-06T17:00:00Z",
-         "round": 1,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "eula:s39_victory_rules",
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            [
-               "currentRanking:ranked-zb:6",
-               "currentRanking:ranked-br:6",
-               "currentRanking:ranked_blastberry_build:6",
-               "currentRanking:ranked_blastberry_nobuild:6"
-            ]
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S39_ReloadCashVictoryCup_LeaderboardDef_Round1",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S39_CashCup_Qualified"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S39_ReloadCashVictoryCup_Event7Round2_ME",
-         "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round2",
          "countdownBeginTime": "2026-01-06T17:00:00Z",
          "beginTime": "2026-01-06T18:00:00Z",
-         "endTime": "2026-01-06T19:00:00Z",
-         "round": 1,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "eula:s39_victory_rules",
-            "adps:g-a81a33a3b9a7",
-            "mfa"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S39_ReloadCashVictoryCup_LeaderboardDef_Round2",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S39_ReloadCashVictoryCup_Event7Round2_ME"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1440,
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S39_ReloadCashVictoryCup_Event8Round1_ME",
-         "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round1",
-         "countdownBeginTime": "2026-01-13T14:00:00Z",
-         "beginTime": "2026-01-13T15:00:00Z",
-         "endTime": "2026-01-13T17:00:00Z",
+         "endTime": "2026-01-06T20:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -179,53 +91,53 @@
          }
       },
       {
-         "eventWindowId": "S39_ReloadCashVictoryCup_Event8Round2_ME",
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event7Round2_EU",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round2",
+         "countdownBeginTime": "2026-01-06T20:00:00Z",
+         "beginTime": "2026-01-06T21:00:00Z",
+         "endTime": "2026-01-06T22:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_ReloadCashVictoryCup_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_ReloadCashVictoryCup_Event7Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1440,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event8Round1_EU",
+         "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round1",
          "countdownBeginTime": "2026-01-13T17:00:00Z",
          "beginTime": "2026-01-13T18:00:00Z",
-         "endTime": "2026-01-13T19:00:00Z",
-         "round": 1,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "eula:s39_victory_rules",
-            "adps:g-a81a33a3b9a7",
-            "mfa"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "S39_ReloadCashVictoryCup_LeaderboardDef_Round2",
-               "isMainWindowLeaderboard": true
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [
-            "S39_ReloadCashVictoryCup_Event8Round2_ME"
-         ],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1440,
-            "ServerReplays": true
-         }
-      },
-      {
-         "eventWindowId": "S39_ReloadCashVictoryCup_Event9Round1_ME",
-         "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round1",
-         "countdownBeginTime": "2026-01-20T14:00:00Z",
-         "beginTime": "2026-01-20T15:00:00Z",
-         "endTime": "2026-01-20T17:00:00Z",
+         "endTime": "2026-01-13T20:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -267,11 +179,11 @@
          }
       },
       {
-         "eventWindowId": "S39_ReloadCashVictoryCup_Event9Round2_ME",
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event8Round2_EU",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round2",
-         "countdownBeginTime": "2026-01-20T17:00:00Z",
-         "beginTime": "2026-01-20T18:00:00Z",
-         "endTime": "2026-01-20T19:00:00Z",
+         "countdownBeginTime": "2026-01-13T20:00:00Z",
+         "beginTime": "2026-01-13T21:00:00Z",
+         "endTime": "2026-01-13T22:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -291,7 +203,95 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_ReloadCashVictoryCup_Event9Round2_ME"
+            "S39_ReloadCashVictoryCup_Event8Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1440,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event9Round1_EU",
+         "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round1",
+         "countdownBeginTime": "2026-01-20T17:00:00Z",
+         "beginTime": "2026-01-20T18:00:00Z",
+         "endTime": "2026-01-20T20:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_ReloadCashVictoryCup_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event9Round2_EU",
+         "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round2",
+         "countdownBeginTime": "2026-01-20T20:00:00Z",
+         "beginTime": "2026-01-20T21:00:00Z",
+         "endTime": "2026-01-20T22:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_ReloadCashVictoryCup_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_ReloadCashVictoryCup_Event9Round2_EU"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -311,6 +311,6 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_epicgames_s39_reloadcashvictorycup_me"
+      "code": "tournament_epicgames_s39_reloadcashvictorycup_jan_eu"
    }
 }

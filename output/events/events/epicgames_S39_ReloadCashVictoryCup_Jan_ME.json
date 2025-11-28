@@ -1,16 +1,16 @@
 {
    "gameId": "Fortnite",
-   "eventId": "epicgames_S39_ReloadCashVictoryCup_BR",
-   "beginTime": "2026-01-06T21:00:00Z",
-   "endTime": "2026-01-21T01:00:00Z",
+   "eventId": "epicgames_S39_ReloadCashVictoryCup_Jan_ME",
+   "beginTime": "2026-01-06T15:00:00Z",
+   "endTime": "2026-01-20T19:00:00Z",
    "displayDataId": "s39_reload_victory_jan",
    "eventGroup": "S39_ReloadCashVictoryCup",
-   "announcementTime": "2025-11-06T11:00:00Z",
+   "announcementTime": "2025-11-06T05:00:00Z",
    "regions": [
-      "BR"
+      "ME"
    ],
    "regionMappings": {
-      "BR": "BRCOMP"
+      "ME": "MECOMP"
    },
    "platforms": [
       "Android",
@@ -45,11 +45,11 @@
    },
    "eventWindows": [
       {
-         "eventWindowId": "S39_ReloadCashVictoryCup_Event7Round1_BR",
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event7Round1_ME",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round1",
-         "countdownBeginTime": "2026-01-06T20:00:00Z",
-         "beginTime": "2026-01-06T21:00:00Z",
-         "endTime": "2026-01-06T23:00:00Z",
+         "countdownBeginTime": "2026-01-06T14:00:00Z",
+         "beginTime": "2026-01-06T15:00:00Z",
+         "endTime": "2026-01-06T17:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -91,11 +91,11 @@
          }
       },
       {
-         "eventWindowId": "S39_ReloadCashVictoryCup_Event7Round2_BR",
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event7Round2_ME",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round2",
-         "countdownBeginTime": "2026-01-06T23:00:00Z",
-         "beginTime": "2026-01-07T00:00:00Z",
-         "endTime": "2026-01-07T01:00:00Z",
+         "countdownBeginTime": "2026-01-06T17:00:00Z",
+         "beginTime": "2026-01-06T18:00:00Z",
+         "endTime": "2026-01-06T19:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -115,7 +115,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_ReloadCashVictoryCup_Event7Round2_BR"
+            "S39_ReloadCashVictoryCup_Event7Round2_ME"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -133,11 +133,11 @@
          }
       },
       {
-         "eventWindowId": "S39_ReloadCashVictoryCup_Event8Round1_BR",
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event8Round1_ME",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round1",
-         "countdownBeginTime": "2026-01-13T20:00:00Z",
-         "beginTime": "2026-01-13T21:00:00Z",
-         "endTime": "2026-01-13T23:00:00Z",
+         "countdownBeginTime": "2026-01-13T14:00:00Z",
+         "beginTime": "2026-01-13T15:00:00Z",
+         "endTime": "2026-01-13T17:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -179,11 +179,11 @@
          }
       },
       {
-         "eventWindowId": "S39_ReloadCashVictoryCup_Event8Round2_BR",
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event8Round2_ME",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round2",
-         "countdownBeginTime": "2026-01-13T23:00:00Z",
-         "beginTime": "2026-01-14T00:00:00Z",
-         "endTime": "2026-01-14T01:00:00Z",
+         "countdownBeginTime": "2026-01-13T17:00:00Z",
+         "beginTime": "2026-01-13T18:00:00Z",
+         "endTime": "2026-01-13T19:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -203,7 +203,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_ReloadCashVictoryCup_Event8Round2_BR"
+            "S39_ReloadCashVictoryCup_Event8Round2_ME"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -221,11 +221,11 @@
          }
       },
       {
-         "eventWindowId": "S39_ReloadCashVictoryCup_Event9Round1_BR",
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event9Round1_ME",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round1",
-         "countdownBeginTime": "2026-01-20T20:00:00Z",
-         "beginTime": "2026-01-20T21:00:00Z",
-         "endTime": "2026-01-20T23:00:00Z",
+         "countdownBeginTime": "2026-01-20T14:00:00Z",
+         "beginTime": "2026-01-20T15:00:00Z",
+         "endTime": "2026-01-20T17:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -267,11 +267,11 @@
          }
       },
       {
-         "eventWindowId": "S39_ReloadCashVictoryCup_Event9Round2_BR",
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event9Round2_ME",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round2",
-         "countdownBeginTime": "2026-01-20T23:00:00Z",
-         "beginTime": "2026-01-21T00:00:00Z",
-         "endTime": "2026-01-21T01:00:00Z",
+         "countdownBeginTime": "2026-01-20T17:00:00Z",
+         "beginTime": "2026-01-20T18:00:00Z",
+         "endTime": "2026-01-20T19:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -291,7 +291,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_ReloadCashVictoryCup_Event9Round2_BR"
+            "S39_ReloadCashVictoryCup_Event9Round2_ME"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -311,6 +311,6 @@
    ],
    "link": {
       "type": "br:tournament",
-      "code": "tournament_epicgames_s39_reloadcashvictorycup_br"
+      "code": "tournament_epicgames_s39_reloadcashvictorycup_jan_me"
    }
 }
