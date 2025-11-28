@@ -51,7 +51,7 @@
    },
    "eventWindows": [
       {
-         "eventWindowId": "S39_DuosVictoryCup_Round1_Day1_NAC",
+         "eventWindowId": "S39_DuosVictoryCup_Round1_Day1_January_NAC",
          "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round1",
          "countdownBeginTime": "2026-01-05T22:00:00Z",
          "beginTime": "2026-01-06T00:00:00Z",
@@ -299,7 +299,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_DuosVictoryCup_Qualified_Day3_Juanary_NAC"
+            "S39_DuosVictoryCup_Qualified_Day3_January_NAC"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
