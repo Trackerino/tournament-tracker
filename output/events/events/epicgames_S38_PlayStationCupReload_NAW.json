@@ -12,10 +12,7 @@
    "regionMappings": {
       "NAW": "NAWCOMP"
    },
-   "platforms": [
-      "PS4",
-      "PS5"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "AccountLockType": "Window",
@@ -62,7 +59,6 @@
          "requireAnyTokensCaller": [],
          "regionMappings": {},
          "metadata": {
-            "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
             "ScheduledMatchmakingMatchDelaySeconds": 1440,
