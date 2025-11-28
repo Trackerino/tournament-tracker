@@ -9,7 +9,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 8000,
+                  "quantity": 4000,
                   "notifiesPlayer": false
                }
             ]
@@ -21,7 +21,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 4000,
+                  "quantity": 2000,
                   "notifiesPlayer": false
                }
             ]
@@ -33,7 +33,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 2000,
+                  "quantity": 1000,
                   "notifiesPlayer": false
                }
             ]
@@ -45,7 +45,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 1500,
+                  "quantity": 750,
                   "notifiesPlayer": false
                }
             ]
@@ -57,7 +57,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 1000,
+                  "quantity": 5000,
                   "notifiesPlayer": false
                }
             ]
@@ -69,7 +69,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 600,
+                  "quantity": 300,
                   "notifiesPlayer": false
                }
             ]
@@ -81,7 +81,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 400,
+                  "quantity": 200,
                   "notifiesPlayer": false
                }
             ]
@@ -93,7 +93,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 300,
+                  "quantity": 150,
                   "notifiesPlayer": false
                }
             ]
@@ -105,7 +105,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 200,
+                  "quantity": 100,
                   "notifiesPlayer": false
                }
             ]
@@ -117,7 +117,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 100,
+                  "quantity": 50,
                   "notifiesPlayer": false
                }
             ]
