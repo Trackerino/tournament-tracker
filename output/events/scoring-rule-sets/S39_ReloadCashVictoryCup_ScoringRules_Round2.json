@@ -1,0 +1,13 @@
+[
+   {
+      "trackedStat": "PLACEMENT_STAT_INDEX",
+      "matchRule": "lte",
+      "rewardTiers": [
+         {
+            "keyValue": 1,
+            "pointsEarned": 100,
+            "multiplicative": false
+         }
+      ]
+   }
+]
