@@ -1,0 +1,543 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S39_DuosConsoleVictoryCupZB_Dec_NAW",
+   "beginTime": "2025-12-08T02:00:00Z",
+   "endTime": "2025-12-18T06:00:00Z",
+   "displayDataId": "s39_console_victory_dec",
+   "eventGroup": "Season39_DuosConsoleVictoryCupZB",
+   "announcementTime": "2025-11-07T16:00:00Z",
+   "regions": [
+      "NAW"
+   ],
+   "regionMappings": {
+      "NAW": "NAWCOMP"
+   },
+   "platforms": [
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "XB1",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "TeamLockType": "Window",
+      "webId": "S39_DuosConsoleVictoryCupZB"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event1Round1_NAW",
+         "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
+         "countdownBeginTime": "2025-12-08T01:00:00Z",
+         "beginTime": "2025-12-08T02:00:00Z",
+         "endTime": "2025-12-08T04:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_DuosConsoleVictoryCupZB_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event1Round2_NAW",
+         "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
+         "countdownBeginTime": "2025-12-08T04:00:00Z",
+         "beginTime": "2025-12-08T05:00:00Z",
+         "endTime": "2025-12-08T06:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_DuosConsoleVictoryCupZB_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_DuosConsoleVictoryCupZB_Event1Round2_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event2Round1_NAW",
+         "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
+         "countdownBeginTime": "2025-12-10T01:00:00Z",
+         "beginTime": "2025-12-10T02:00:00Z",
+         "endTime": "2025-12-10T04:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_DuosConsoleVictoryCupZB_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event2Round2_NAW",
+         "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
+         "countdownBeginTime": "2025-12-10T04:00:00Z",
+         "beginTime": "2025-12-10T05:00:00Z",
+         "endTime": "2025-12-10T06:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_DuosConsoleVictoryCupZB_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_DuosConsoleVictoryCupZB_Event2Round2_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event3Round1_NAW",
+         "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
+         "countdownBeginTime": "2025-12-11T01:00:00Z",
+         "beginTime": "2025-12-11T02:00:00Z",
+         "endTime": "2025-12-11T04:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_DuosConsoleVictoryCupZB_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event3Round2_NAW",
+         "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
+         "countdownBeginTime": "2025-12-11T04:00:00Z",
+         "beginTime": "2025-12-11T05:00:00Z",
+         "endTime": "2025-12-11T06:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_DuosConsoleVictoryCupZB_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_DuosConsoleVictoryCupZB_Event3Round2_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event4Round1_NAW",
+         "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
+         "countdownBeginTime": "2025-12-15T01:00:00Z",
+         "beginTime": "2025-12-15T02:00:00Z",
+         "endTime": "2025-12-15T04:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_DuosConsoleVictoryCupZB_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event4Round2_NAW",
+         "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
+         "countdownBeginTime": "2025-12-15T04:00:00Z",
+         "beginTime": "2025-12-15T05:00:00Z",
+         "endTime": "2025-12-15T06:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_DuosConsoleVictoryCupZB_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_DuosConsoleVictoryCupZB_Event4Round2_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event5Round1_NAW",
+         "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
+         "countdownBeginTime": "2025-12-17T01:00:00Z",
+         "beginTime": "2025-12-17T02:00:00Z",
+         "endTime": "2025-12-17T04:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_DuosConsoleVictoryCupZB_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event5Round2_NAW",
+         "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
+         "countdownBeginTime": "2025-12-17T04:00:00Z",
+         "beginTime": "2025-12-17T05:00:00Z",
+         "endTime": "2025-12-17T06:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_DuosConsoleVictoryCupZB_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_DuosConsoleVictoryCupZB_Event5Round2_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event6Round1_NAW",
+         "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
+         "countdownBeginTime": "2025-12-18T01:00:00Z",
+         "beginTime": "2025-12-18T02:00:00Z",
+         "endTime": "2025-12-18T04:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_DuosConsoleVictoryCupZB_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event6Round2_NAW",
+         "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
+         "countdownBeginTime": "2025-12-18T04:00:00Z",
+         "beginTime": "2025-12-18T05:00:00Z",
+         "endTime": "2025-12-18T06:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_DuosConsoleVictoryCupZB_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_DuosConsoleVictoryCupZB_Event6Round2_NAW"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s39_duosconsolevictorycupzb_dec_naw"
+   }
+}
