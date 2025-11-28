@@ -4,7 +4,7 @@
    "leaderboardStorageId": "Fortnite_GLOBAL",
    "leaderboardInstanceGroupingKeyFormat": "${eventId}",
    "leaderboardInstanceIdFormat": "${windowId}_Bronze",
-   "maxSessionHistorySize": 10,
+   "maxSessionHistorySize": 150,
    "useIndividualScores": false,
    "tiebreakerFormula": {
       "basePointsBits": 11,

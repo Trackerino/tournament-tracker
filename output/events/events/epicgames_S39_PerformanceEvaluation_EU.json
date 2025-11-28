@@ -1,0 +1,1045 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S39_PerformanceEvaluation_EU",
+   "beginTime": "2025-12-04T18:00:00Z",
+   "endTime": "2026-02-26T23:00:00Z",
+   "displayDataId": "s37_perfeval",
+   "eventGroup": "Season39_PerfEval",
+   "announcementTime": "2025-08-27T06:00:00Z",
+   "regions": [
+      "EU"
+   ],
+   "regionMappings": {
+      "EU": "EUCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 350,
+      "requireSystemFeatures": [
+         "SecureBoot",
+         "CryptoProcessor"
+      ],
+      "tournamentType": "WorkshopCup",
+      "webId": "S39_PerformanceEvaluation"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event10Round1_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2026-02-19T16:00:00Z",
+         "beginTime": "2026-02-19T18:00:00Z",
+         "endTime": "2026-02-19T20:00:00Z",
+         "round": 10,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S37_Duos_Division1_ASIA",
+            "S37_Duos_Division1_BR",
+            "S37_Duos_Division1_EU",
+            "S37_Duos_Division1_ME",
+            "S37_Duos_Division1_NAC",
+            "S37_Duos_Division1_NAW",
+            "S37_Duos_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week10"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event10Round2_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2026-02-19T19:00:00Z",
+         "beginTime": "2026-02-19T21:00:00Z",
+         "endTime": "2026-02-19T23:00:00Z",
+         "round": 10,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_PerformanceEvaluation_Event10Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week10"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event11Round1_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2026-02-26T16:00:00Z",
+         "beginTime": "2026-02-26T18:00:00Z",
+         "endTime": "2026-02-26T20:00:00Z",
+         "round": 11,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S37_Duos_Division1_ASIA",
+            "S37_Duos_Division1_BR",
+            "S37_Duos_Division1_EU",
+            "S37_Duos_Division1_ME",
+            "S37_Duos_Division1_NAC",
+            "S37_Duos_Division1_NAW",
+            "S37_Duos_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week11"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event11Round2_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2026-02-26T19:00:00Z",
+         "beginTime": "2026-02-26T21:00:00Z",
+         "endTime": "2026-02-26T23:00:00Z",
+         "round": 11,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_PerformanceEvaluation_Event11Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week11"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event1Round1_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2025-12-04T16:00:00Z",
+         "beginTime": "2025-12-04T18:00:00Z",
+         "endTime": "2025-12-04T20:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S37_Duos_Division1_ASIA",
+            "S37_Duos_Division1_BR",
+            "S37_Duos_Division1_EU",
+            "S37_Duos_Division1_ME",
+            "S37_Duos_Division1_NAC",
+            "S37_Duos_Division1_NAW",
+            "S37_Duos_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week1"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event1Round2_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2025-12-04T19:00:00Z",
+         "beginTime": "2025-12-04T21:00:00Z",
+         "endTime": "2025-12-04T23:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_PerformanceEvaluation_Event1Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week1"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event2Round1_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2025-12-11T16:00:00Z",
+         "beginTime": "2025-12-11T18:00:00Z",
+         "endTime": "2025-12-11T20:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S37_Duos_Division1_ASIA",
+            "S37_Duos_Division1_BR",
+            "S37_Duos_Division1_EU",
+            "S37_Duos_Division1_ME",
+            "S37_Duos_Division1_NAC",
+            "S37_Duos_Division1_NAW",
+            "S37_Duos_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week2"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event2Round2_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2025-12-11T19:00:00Z",
+         "beginTime": "2025-12-11T21:00:00Z",
+         "endTime": "2025-12-11T23:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_PerformanceEvaluation_Event2Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week2"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event3Round1_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2025-12-18T16:00:00Z",
+         "beginTime": "2025-12-18T18:00:00Z",
+         "endTime": "2025-12-18T20:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S37_Duos_Division1_ASIA",
+            "S37_Duos_Division1_BR",
+            "S37_Duos_Division1_EU",
+            "S37_Duos_Division1_ME",
+            "S37_Duos_Division1_NAC",
+            "S37_Duos_Division1_NAW",
+            "S37_Duos_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week3"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event3Round2_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2025-12-18T19:00:00Z",
+         "beginTime": "2025-12-18T21:00:00Z",
+         "endTime": "2025-12-18T23:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_PerformanceEvaluation_Event3Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week3"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event4Round1_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2026-01-09T16:00:00Z",
+         "beginTime": "2026-01-09T18:00:00Z",
+         "endTime": "2026-01-09T20:00:00Z",
+         "round": 4,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S37_Duos_Division1_ASIA",
+            "S37_Duos_Division1_BR",
+            "S37_Duos_Division1_EU",
+            "S37_Duos_Division1_ME",
+            "S37_Duos_Division1_NAC",
+            "S37_Duos_Division1_NAW",
+            "S37_Duos_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week4"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event4Round2_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2026-01-09T19:00:00Z",
+         "beginTime": "2026-01-09T21:00:00Z",
+         "endTime": "2026-01-09T23:00:00Z",
+         "round": 4,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_PerformanceEvaluation_Event4Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week4"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event5Round1_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2026-01-15T16:00:00Z",
+         "beginTime": "2026-01-15T18:00:00Z",
+         "endTime": "2026-01-15T20:00:00Z",
+         "round": 5,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S37_Duos_Division1_ASIA",
+            "S37_Duos_Division1_BR",
+            "S37_Duos_Division1_EU",
+            "S37_Duos_Division1_ME",
+            "S37_Duos_Division1_NAC",
+            "S37_Duos_Division1_NAW",
+            "S37_Duos_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week5"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event5Round2_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2026-01-15T19:00:00Z",
+         "beginTime": "2026-01-15T21:00:00Z",
+         "endTime": "2026-01-15T23:00:00Z",
+         "round": 5,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_PerformanceEvaluation_Event5Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week5"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event6Round1_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2026-01-22T16:00:00Z",
+         "beginTime": "2026-01-22T18:00:00Z",
+         "endTime": "2026-01-22T20:00:00Z",
+         "round": 6,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S37_Duos_Division1_ASIA",
+            "S37_Duos_Division1_BR",
+            "S37_Duos_Division1_EU",
+            "S37_Duos_Division1_ME",
+            "S37_Duos_Division1_NAC",
+            "S37_Duos_Division1_NAW",
+            "S37_Duos_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week6"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event6Round2_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2026-01-22T19:00:00Z",
+         "beginTime": "2026-01-22T21:00:00Z",
+         "endTime": "2026-01-22T23:00:00Z",
+         "round": 6,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_PerformanceEvaluation_Event6Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week6"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event7Round1_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2026-01-29T16:00:00Z",
+         "beginTime": "2026-01-29T18:00:00Z",
+         "endTime": "2026-01-29T20:00:00Z",
+         "round": 7,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S37_Duos_Division1_ASIA",
+            "S37_Duos_Division1_BR",
+            "S37_Duos_Division1_EU",
+            "S37_Duos_Division1_ME",
+            "S37_Duos_Division1_NAC",
+            "S37_Duos_Division1_NAW",
+            "S37_Duos_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week7"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event7Round2_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2026-01-29T19:00:00Z",
+         "beginTime": "2026-01-29T21:00:00Z",
+         "endTime": "2026-01-29T23:00:00Z",
+         "round": 7,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_PerformanceEvaluation_Event7Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week7"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event8Round1_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2026-02-05T16:00:00Z",
+         "beginTime": "2026-02-05T18:00:00Z",
+         "endTime": "2026-02-05T20:00:00Z",
+         "round": 8,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S37_Duos_Division1_ASIA",
+            "S37_Duos_Division1_BR",
+            "S37_Duos_Division1_EU",
+            "S37_Duos_Division1_ME",
+            "S37_Duos_Division1_NAC",
+            "S37_Duos_Division1_NAW",
+            "S37_Duos_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week8"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event8Round2_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2026-02-05T19:00:00Z",
+         "beginTime": "2026-02-05T21:00:00Z",
+         "endTime": "2026-02-05T23:00:00Z",
+         "round": 8,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_PerformanceEvaluation_Event8Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week8"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event9Round1_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round1",
+         "countdownBeginTime": "2026-02-12T16:00:00Z",
+         "beginTime": "2026-02-12T18:00:00Z",
+         "endTime": "2026-02-12T20:00:00Z",
+         "round": 9,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S37_PerformanceEvaluation_Round1_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [
+            "S37_Duos_Division1_ASIA",
+            "S37_Duos_Division1_BR",
+            "S37_Duos_Division1_EU",
+            "S37_Duos_Division1_ME",
+            "S37_Duos_Division1_NAC",
+            "S37_Duos_Division1_NAW",
+            "S37_Duos_Division1_OCE"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Week9"
+         }
+      },
+      {
+         "eventWindowId": "S39_PerformanceEvaluation_Event9Round2_EU",
+         "eventTemplateId": "EventTemplate_S37_PerformanceEvaluation_Round2",
+         "countdownBeginTime": "2026-02-12T19:00:00Z",
+         "beginTime": "2026-02-12T21:00:00Z",
+         "endTime": "2026-02-12T23:00:00Z",
+         "round": 9,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_perfeval_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S36_PerformanceEvaluation_Round2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_PerformanceEvaluation_Event9Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {
+            "EU": "EUCOMPTEST"
+         },
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true,
+            "SubgroupId": "Week9"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s39_performanceevaluation_eu"
+   }
+}
