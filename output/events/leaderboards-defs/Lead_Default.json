@@ -35,10 +35,6 @@
    },
    "scoringRuleSetId": "EmptyScoringRules",
    "clampsToZero": true,
-   "payoutsConfig": {
-      "payoutTableIdFormat": "${eventId}",
-      "payoutDate": "windowEnd+PT32M"
-   },
    "hidePlayerScores": false,
    "percentileAccuracy": 1,
    "requiredPlayerListings": []
