@@ -4628,6 +4628,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "4c00a9",
+      "background_right_color": "8321fb",
+      "background_text_color": "161616",
+      "details_description": "Drop in for the opportunity to earn the Chaos Champion bundle before it hits the shop! Good luck and have fun!",
+      "long_format_title": "Chaos Champion FNCS Cup",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/en-fnce-38-10-competitive-discoverytile-chaoschampioncup-1980x1020-1920x1080-d5c0e6abc666.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fncs-38-10-proam-chaoschampioncup-competetab-800x800-800x800-f266fb78ee00.jpg",
+      "title_line_1": "Chaos Champion FNCS Cup",
+      "tournament_display_id": "s38_chaos",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fncs-38-10-proam-chaoschampioncup-competetab-1560x1024-1560x1024-2218fc6cc968.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "fb33f2",
       "background_right_color": "ffa312",
       "background_text_color": "161616",
