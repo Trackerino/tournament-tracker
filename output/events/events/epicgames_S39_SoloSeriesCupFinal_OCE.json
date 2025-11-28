@@ -113,7 +113,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_SoloSeriesCupFinalDay1_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_SoloSeriesCupFinalDay2_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
