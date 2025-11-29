@@ -39,6 +39,10 @@
       "AccountLockType": "Window",
       "DisqualifyType": "Window",
       "minimumAccountLevel": 350,
+      "requireSystemFeatures": [
+         "SecureBoot",
+         "CryptoProcessor"
+      ],
       "TeamLockType": "Window",
       "webId": "S39_1MillionUnrealCup"
    },
