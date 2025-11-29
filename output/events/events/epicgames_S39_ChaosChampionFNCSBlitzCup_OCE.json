@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_ChaosChampionFNCSBlitzCup_OCE",
-   "beginTime": "2025-12-01T05:00:00Z",
-   "endTime": "2025-12-01T06:30:00Z",
+   "beginTime": "2025-12-01T06:00:00Z",
+   "endTime": "2025-12-01T07:00:00Z",
    "displayDataId": "S38_chaosblitz",
    "eventGroup": "Season39_ChaosChampionFNCSBlitzCup",
    "announcementTime": "2025-11-05T03:00:00Z",
@@ -28,9 +28,9 @@
       {
          "eventWindowId": "S39_ChaosChampionFNCSBlitzCup_OCE",
          "eventTemplateId": "EventTemplate_S39_ChaosChampionFNCSBlitzCup",
-         "countdownBeginTime": "2025-12-01T03:00:00Z",
-         "beginTime": "2025-12-01T05:00:00Z",
-         "endTime": "2025-12-01T06:30:00Z",
+         "countdownBeginTime": "2025-12-01T05:00:00Z",
+         "beginTime": "2025-12-01T06:00:00Z",
+         "endTime": "2025-12-01T07:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
