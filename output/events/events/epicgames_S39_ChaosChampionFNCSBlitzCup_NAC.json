@@ -29,7 +29,7 @@
    "eventWindows": [
       {
          "eventWindowId": "S39_ChaosChampionFNCSBlitzCup_NAC",
-         "eventTemplateId": "EventTemplate_S39_ChaosChampionFNCSBlitzCup_new",
+         "eventTemplateId": "EventTemplate_S39_ChaosChampionFNCSBlitzCup",
          "countdownBeginTime": "2025-12-01T20:00:00Z",
          "beginTime": "2025-12-01T22:00:00Z",
          "endTime": "2025-12-01T23:30:00Z",

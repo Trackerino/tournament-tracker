@@ -1,6 +1,6 @@
 {
    "playlistId": "Playlist_ShowdownTournament_ForbiddenFruitNoBuildSolo",
-   "matchCap": 15,
+   "matchCap": 10,
    "tiebreakerFormula": {
       "basePointsBits": 11,
       "components": [
@@ -29,7 +29,7 @@
       ]
    },
    "gameId": "Fortnite",
-   "eventTemplateId": "EventTemplate_S39_ChaosChampionFNCSBlitzCup_new",
+   "eventTemplateId": "EventTemplate_S39_ChaosChampionFNCSBlitzCup",
    "scoringRules": [],
    "payoutTable": [],
    "liveSessionAttributes": [],

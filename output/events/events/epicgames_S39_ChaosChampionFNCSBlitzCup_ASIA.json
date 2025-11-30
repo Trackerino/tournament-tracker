@@ -27,7 +27,7 @@
    "eventWindows": [
       {
          "eventWindowId": "S39_ChaosChampionFNCSBlitzCup_ASIA",
-         "eventTemplateId": "EventTemplate_S39_ChaosChampionFNCSBlitzCup_new",
+         "eventTemplateId": "EventTemplate_S39_ChaosChampionFNCSBlitzCup",
          "countdownBeginTime": "2025-12-01T05:00:00Z",
          "beginTime": "2025-12-01T07:00:00Z",
          "endTime": "2025-12-01T08:30:00Z",
