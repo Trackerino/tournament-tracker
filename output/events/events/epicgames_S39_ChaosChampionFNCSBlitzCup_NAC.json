@@ -1,0 +1,74 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S39_ChaosChampionFNCSBlitzCup_NAC",
+   "beginTime": "2025-12-04T22:00:00Z",
+   "endTime": "2025-12-04T23:30:00Z",
+   "displayDataId": "S38_chaosblitz",
+   "eventGroup": "Season39_ChaosChampionFNCSBlitzCup",
+   "announcementTime": "2025-11-05T20:00:00Z",
+   "regions": [
+      "NAC",
+      "NAE"
+   ],
+   "regionMappings": {
+      "NAC": "NACCOMP",
+      "NAE": "NACCOMP"
+   },
+   "platforms": [
+      "Android",
+      "IOS"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 15,
+      "tournamentType": "ShopCup",
+      "webId": "S39_ChaosChampionFNCSBlitzCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S39_ChaosChampionFNCSBlitzCup_NAC",
+         "eventTemplateId": "EventTemplate_S39_ChaosChampionFNCSBlitzCup",
+         "countdownBeginTime": "2025-12-04T20:00:00Z",
+         "beginTime": "2025-12-04T22:00:00Z",
+         "endTime": "2025-12-04T23:30:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_chaoschampion_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "input-touch"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_ChaosChampionFNCSBlitzCup_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s39_chaoschampionfncsblitzcup_nac"
+   }
+}
