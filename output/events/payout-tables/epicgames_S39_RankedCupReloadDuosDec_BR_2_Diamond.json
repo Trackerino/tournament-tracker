@@ -8,7 +8,7 @@
                {
                   "rewardType": "game",
                   "rewardMode": "standard",
-                  "value": "AthenaGlider:glider_umbrella_rankedtandem_reload",
+                  "value": "AthenaGlider:umbrella_rankedtandem_reload",
                   "quantity": 1,
                   "notifiesPlayer": false
                },
@@ -41,7 +41,7 @@
       "scoringType": "percentile",
       "ranks": [
          {
-            "threshold": 0.02,
+            "threshold": 0.01,
             "payouts": [
                {
                   "rewardType": "game",

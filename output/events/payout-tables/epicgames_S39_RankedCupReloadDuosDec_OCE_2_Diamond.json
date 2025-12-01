@@ -41,7 +41,7 @@
       "scoringType": "percentile",
       "ranks": [
          {
-            "threshold": 0.01,
+            "threshold": 0.02,
             "payouts": [
                {
                   "rewardType": "game",
