@@ -37,7 +37,6 @@
          "visibility": "public",
          "additionalRequirements": [
             "eula:s39_chaoschampion_rules",
-            "input-touch",
             "adps:g-a81a33a3b9a7",
             "mfa"
          ],
