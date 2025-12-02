@@ -36,7 +36,7 @@
    "scoringRuleSetId": "S39_ChaosChampionFNCSCup_ScoringRules",
    "clampsToZero": true,
    "payoutsConfig": {
-      "payoutTableIdFormat": "S39_ChaosChampionFNCSCup_EU",
+      "payoutTableIdFormat": "${windowId}",
       "payoutDate": "windowEnd+PT32M"
    },
    "hidePlayerScores": false,
