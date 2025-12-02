@@ -1,0 +1,127 @@
+[
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 1,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 10000,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 2,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 5000,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 3,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 2500,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 4,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 2000,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 5,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 1500,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 10,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 1000,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 50,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 500,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 100,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 250,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 1000,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 100,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 2000,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 50,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]
