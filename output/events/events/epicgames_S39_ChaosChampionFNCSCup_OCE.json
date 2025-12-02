@@ -1,7 +1,7 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_ChaosChampionFNCSCup_OCE",
-   "beginTime": "2025-12-02T07:00:00Z",
+   "beginTime": "2025-12-01T07:00:00Z",
    "endTime": "2025-12-02T10:00:00Z",
    "displayDataId": "S38_chaos",
    "eventGroup": "Season39_ChaosChampionFNCSCup",
@@ -46,6 +46,44 @@
       {
          "eventWindowId": "S39_ChaosChampionFNCSCup_OCE",
          "eventTemplateId": "EventTemplate_S39_ChaosChampionFNCSCup",
+         "countdownBeginTime": "2025-12-01T05:00:00Z",
+         "beginTime": "2025-12-01T07:00:00Z",
+         "endTime": "2025-12-01T10:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_chaoschampion_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_ChaosChampionFNCSCup_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_ChaosChampionFNCSCup_OCE_makegood",
+         "eventTemplateId": "EventTemplate_S39_ChaosChampionFNCSCup",
          "countdownBeginTime": "2025-12-02T05:00:00Z",
          "beginTime": "2025-12-02T07:00:00Z",
          "endTime": "2025-12-02T10:00:00Z",
@@ -62,7 +100,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_ChaosChampionFNCSCup_LeaderboardDef",
+               "leaderboardDefId": "S39_ChaosChampionFNCSCup_LeaderboardDef_Round2",
                "isMainWindowLeaderboard": true
             }
          ],

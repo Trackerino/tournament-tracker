@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_ChaosChampionFNCSCup_EU",
    "beginTime": "2025-12-01T18:00:00Z",
-   "endTime": "2025-12-02T21:00:01Z",
+   "endTime": "2025-12-02T21:00:00Z",
    "displayDataId": "S38_chaos",
    "eventGroup": "Season39_ChaosChampionFNCSCup",
    "announcementTime": "2025-11-05T14:00:00Z",
@@ -82,11 +82,11 @@
          }
       },
       {
-         "eventWindowId": "S39_ChaosChampionFNCSCup_EU_Round2",
+         "eventWindowId": "S39_ChaosChampionFNCSCup_EU_makegood",
          "eventTemplateId": "EventTemplate_S39_ChaosChampionFNCSCup",
          "countdownBeginTime": "2025-12-02T16:00:00Z",
-         "beginTime": "2025-12-02T18:00:01Z",
-         "endTime": "2025-12-02T21:00:01Z",
+         "beginTime": "2025-12-02T18:00:00Z",
+         "endTime": "2025-12-02T21:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
