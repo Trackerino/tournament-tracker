@@ -1,0 +1,36 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 10,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaDance:spray_s38fncsblitzcup",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 0,
+            "payouts": [
+               {
+                  "rewardType": "copy_score",
+                  "rewardMode": "standard",
+                  "value": "S39_BlitzMobileCupQual4_SeriesLeaderboardDef",
+                  "quantity": 0,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]

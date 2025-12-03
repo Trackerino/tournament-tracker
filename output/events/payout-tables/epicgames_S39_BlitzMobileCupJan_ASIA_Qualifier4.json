@@ -1,0 +1,38 @@
+[
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 500,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaPickaxe:Qual4",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               }
+            ]
+         }
+      ],
+      "scoreId": "series:epicgames_S39_BlitzMobileCupJan_ASIA_Qualifier4_series"
+   },
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 16,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S39_BlitzMobileQualifier4Jan_ASIA",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ],
+      "scoreId": "series:epicgames_S39_BlitzMobileCupJan_ASIA_Qualifier4_series"
+   }
+]
