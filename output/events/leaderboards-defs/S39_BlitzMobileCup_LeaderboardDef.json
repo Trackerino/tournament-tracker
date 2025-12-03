@@ -33,7 +33,7 @@
          }
       ]
    },
-   "scoringRuleSetId": "S38_TouchOnlyMobileCup_ScoringRules",
+   "scoringRuleSetId": "ScoringRules_MobileSeriesRounds",
    "clampsToZero": true,
    "payoutsConfig": {
       "payoutTableIdFormat": "S39_PayoutTable_BlitzMobileCup_${round}",
