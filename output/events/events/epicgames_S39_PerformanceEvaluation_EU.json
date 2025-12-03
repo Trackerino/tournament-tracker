@@ -132,7 +132,7 @@
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true,
             "SubgroupId": "Week10"
          }
@@ -222,7 +222,7 @@
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true,
             "SubgroupId": "Week11"
          }
@@ -312,7 +312,7 @@
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true,
             "SubgroupId": "Week1"
          }
@@ -402,7 +402,7 @@
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true,
             "SubgroupId": "Week2"
          }
@@ -492,7 +492,7 @@
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true,
             "SubgroupId": "Week3"
          }
@@ -582,7 +582,7 @@
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true,
             "SubgroupId": "Week4"
          }
@@ -672,7 +672,7 @@
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true,
             "SubgroupId": "Week5"
          }
@@ -762,7 +762,7 @@
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true,
             "SubgroupId": "Week6"
          }
@@ -852,7 +852,7 @@
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true,
             "SubgroupId": "Week7"
          }
@@ -942,7 +942,7 @@
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true,
             "SubgroupId": "Week8"
          }
@@ -1032,7 +1032,7 @@
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true,
             "SubgroupId": "Week9"
          }
