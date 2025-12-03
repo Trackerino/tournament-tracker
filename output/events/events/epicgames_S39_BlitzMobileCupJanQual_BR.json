@@ -1,0 +1,119 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S39_BlitzMobileCupJanQual_BR",
+   "beginTime": "2026-01-12T20:00:00Z",
+   "endTime": "2026-01-25T21:20:00Z",
+   "displayDataId": "s39_mobile_jan_qual",
+   "eventGroup": "Season39_BlitzMobileCup",
+   "announcementTime": "2025-06-07T03:00:00Z",
+   "regions": [
+      "BR"
+   ],
+   "regionMappings": {
+      "BR": "BRCOMP"
+   },
+   "platforms": [
+      "Android",
+      "IOS"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "tournamentType": "CashCup",
+      "webId": "S39_BlitzMobileCupJanQuals"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S39_BlitzMobileCup_JanQualifier3_BR",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2026-01-12T19:00:00Z",
+         "beginTime": "2026-01-12T20:00:00Z",
+         "endTime": "2026-01-12T21:20:00Z",
+         "round": 5,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s38_mobile_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "input-touch"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_BlitzMobileCupFinal_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_BlitzMobileQualifier3Jan_BR"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 300,
+            "ScheduledMatchmakingMatchDelaySeconds": 480,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_BlitzMobileCup_JanQualifier4_BR",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2026-01-25T19:00:00Z",
+         "beginTime": "2026-01-25T20:00:00Z",
+         "endTime": "2026-01-25T21:20:00Z",
+         "round": 5,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s38_mobile_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "input-touch"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_BlitzMobileCupFinal_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_BlitzMobileQualifier4Jan_BR"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 300,
+            "ScheduledMatchmakingMatchDelaySeconds": 480,
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s39_blitzmobilecupjanqual_br"
+   }
+}
