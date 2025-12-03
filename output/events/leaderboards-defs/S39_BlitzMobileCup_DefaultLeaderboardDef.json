@@ -33,7 +33,7 @@
          }
       ]
    },
-   "scoringRuleSetId": "S38_TouchOnlyMobileCup_ScoringRules",
+   "scoringRuleSetId": "ScoringRules_MobileSeriesRounds",
    "clampsToZero": true,
    "hidePlayerScores": false,
    "percentileAccuracy": 1,
