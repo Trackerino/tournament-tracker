@@ -1,0 +1,22 @@
+{
+   "gameId": "Fortnite",
+   "leaderboardDefId": "S39_BlitzMobileCup_SeriesLeaderboardDef",
+   "leaderboardStorageId": "Fortnite_GLOBAL",
+   "leaderboardInstanceGroupingKeyFormat": "series",
+   "leaderboardInstanceIdFormat": "${eventId}_Qualifier${round}_series",
+   "maxSessionHistorySize": 10,
+   "useIndividualScores": false,
+   "tiebreakerFormula": {
+      "basePointsBits": 53,
+      "components": []
+   },
+   "scoringRuleSetId": "EmptyScoringRules",
+   "clampsToZero": true,
+   "onlyScoreTopN": 1,
+   "payoutsConfig": {
+      "payoutTableIdFormat": "${eventId}_${round}",
+      "payoutDate": "2025-12-07T02:20:00Z"
+   },
+   "hidePlayerScores": false,
+   "requiredPlayerListings": []
+}

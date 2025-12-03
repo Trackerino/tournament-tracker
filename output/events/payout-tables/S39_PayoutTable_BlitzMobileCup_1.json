@@ -1,0 +1,36 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 10,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaBackpack:backpack_jackcolby",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 0,
+            "payouts": [
+               {
+                  "rewardType": "copy_score",
+                  "rewardMode": "standard",
+                  "value": "S39_BlitzMobileCup_SeriesLeaderboardDef",
+                  "quantity": 0,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]
