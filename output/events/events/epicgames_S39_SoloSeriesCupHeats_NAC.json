@@ -88,7 +88,7 @@
          "metadata": {
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true
          }
       },
@@ -130,7 +130,7 @@
          "metadata": {
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true
          }
       },
@@ -172,7 +172,7 @@
          "metadata": {
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true
          }
       },
@@ -214,7 +214,7 @@
          "metadata": {
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true
          }
       }
