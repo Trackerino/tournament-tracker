@@ -33,7 +33,7 @@
          }
       ]
    },
-   "scoringRuleSetId": "S38_TouchOnlyMobileCup_ScoringRules_Final",
+   "scoringRuleSetId": "ScoringRules_MobileSeriesQualifiers",
    "clampsToZero": true,
    "payoutsConfig": {
       "payoutTableIdFormat": "${eventId}",
