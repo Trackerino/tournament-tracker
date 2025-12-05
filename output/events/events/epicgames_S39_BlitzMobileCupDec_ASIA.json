@@ -140,7 +140,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S39_MobileSeries_LeaderboardDef_mg"
+               "S39_MobileSeries_LeaderboardDef"
             ],
             "hideScoreLocationsIndexes": [
                0
