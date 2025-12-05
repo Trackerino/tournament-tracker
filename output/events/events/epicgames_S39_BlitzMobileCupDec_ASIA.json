@@ -114,7 +114,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S39_BlitzMobileCup_LeaderboardDef",
+               "leaderboardDefId": "S39_MobileSeries_LeaderboardDef",
                "isMainWindowLeaderboard": false
             },
             {
@@ -127,14 +127,85 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S39_RegionLock_Mobile_DecQual1_BR",
+            "S39_RegionLock_Mobile_DecQual1_EU",
+            "S39_RegionLock_Mobile_DecQual1_ME",
+            "S39_RegionLock_Mobile_DecQual1_NAC",
+            "S39_RegionLock_Mobile_DecQual1_NAW",
+            "S39_RegionLock_Mobile_DecQual1_OCE"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S39_BlitzMobileCup_LeaderboardDef"
+               "S39_MobileSeries_LeaderboardDef"
+            ],
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_BlitzMobileCup_DecRound2_ASIA_makegood",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2025-12-06T05:00:00Z",
+         "beginTime": "2025-12-06T06:00:00Z",
+         "endTime": "2025-12-06T07:00:00Z",
+         "round": 1,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_mobile_rules",
+            "input-touch",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_MobileSeries_LeaderboardDef_mg",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCup_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S39_RegionLock_Mobile_DecQual1_BR",
+            "S39_RegionLock_Mobile_DecQual1_EU",
+            "S39_RegionLock_Mobile_DecQual1_ME",
+            "S39_RegionLock_Mobile_DecQual1_NAC",
+            "S39_RegionLock_Mobile_DecQual1_NAW",
+            "S39_RegionLock_Mobile_DecQual1_OCE"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "asyncPayoutsExclusiveLeaderboardDefs": [
+               "S39_MobileSeries_LeaderboardDef_mg"
             ],
             "hideScoreLocationsIndexes": [
                0
