@@ -49,7 +49,7 @@
          "eventTemplateId": "EventTemplate_RankedCupDuosZB",
          "countdownBeginTime": "2025-12-05T05:00:00Z",
          "beginTime": "2025-12-05T07:00:00Z",
-         "endTime": "2025-12-05T10:00:00Z",
+         "endTime": "2025-12-05T10:30:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
