@@ -112,11 +112,11 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S39_MobileSeries_LeaderboardDef",
+               "leaderboardDefId": "S39_BlitzMobileCup_LeaderboardDef",
                "isMainWindowLeaderboard": false
             },
             {
@@ -142,7 +142,7 @@
          "regionMappings": {},
          "metadata": {
             "asyncPayoutsExclusiveLeaderboardDefs": [
-               "S39_MobileSeries_LeaderboardDef"
+               "S39_BlitzMobileCup_LeaderboardDef"
             ],
             "hideScoreLocationsIndexes": [
                0
