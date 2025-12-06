@@ -205,9 +205,9 @@
       {
          "eventWindowId": "S39_BlitzMobileCup_JanRound3_ASIA",
          "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
-         "countdownBeginTime": "2026-01-08T07:00:00Z",
-         "beginTime": "2026-01-08T08:00:00Z",
-         "endTime": "2026-01-08T09:00:00Z",
+         "countdownBeginTime": "2026-01-07T07:00:00Z",
+         "beginTime": "2026-01-07T08:00:00Z",
+         "endTime": "2026-01-07T09:00:00Z",
          "round": 3,
          "payoutDelay": 10,
          "isTBD": false,
