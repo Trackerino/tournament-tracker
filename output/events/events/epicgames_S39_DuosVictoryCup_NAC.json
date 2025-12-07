@@ -121,7 +121,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S38_DuosVictoryCup_Round1_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_DuosVictoryCup_Round1_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             }
          ],
