@@ -1,0 +1,116 @@
+[
+   {
+      "scoringType": "value",
+      "ranks": [
+         {
+            "threshold": 8,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaDance:emoticon_bolddorm",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 40,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaCharacter:character_bolddormrise",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaDance:eid_bolddorm",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaDance:eid_bolddorm_bagel",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaBackpack:backpack_bolddormmum",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaBackPack:backpack_bolddormwork",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaPickaxe:pickaxe_bolddormrise",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaPickaxe:pickaxe_bolddormwork",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "CosmeticMimosa:companion_scrollvessel",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaItemWrap:wrap_bolddorm",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaItemWrap:emoticon_bolddorm",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 120,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaCharacter:character_bolddorwork",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               }
+            ]
+         }
+      ]
+   }
+]
