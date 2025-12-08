@@ -5030,6 +5030,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "0a2240",
+      "background_right_color": "2549b3",
+      "background_text_color": "161616",
+      "details_description": "Drop into the Courage Icon Cup! From countless iconic moments streaming Fortnite’s early days to casting the Fortnite World Cup Finals in New York City, and now joining the Icon Series! Duo up and compete for a chance to earn the Courage Bundle before it hits the shop.",
+      "long_format_title": "Courage Icon Cup",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/fneco-39-10-bolddorm-discoverplaylisttile-1920x1080-1920x1080-02384dbdbe27.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fneco-39-10-bolddorm-800x800-800x800-d48e4c00a3be.jpg",
+      "title_line_1": "Courage Icon Cup",
+      "tournament_display_id": "s39_courage",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fneco-39-10-bolddorm-1560x1024-1560x1024-8f8ccb94027a.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "f5941d",
       "background_right_color": "f9e92a",
       "background_text_color": "161616",
