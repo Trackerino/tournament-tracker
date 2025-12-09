@@ -37,5 +37,6 @@
    "clampsToZero": true,
    "hidePlayerScores": false,
    "percentileAccuracy": 1,
-   "requiredPlayerListings": []
+   "requiredPlayerListings": [],
+   "discardZeroScore": false
 }

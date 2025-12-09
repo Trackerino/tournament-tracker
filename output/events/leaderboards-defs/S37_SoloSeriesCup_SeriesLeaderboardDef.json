@@ -14,5 +14,6 @@
    "clampsToZero": true,
    "onlyScoreTopN": 4,
    "hidePlayerScores": false,
-   "requiredPlayerListings": []
+   "requiredPlayerListings": [],
+   "discardZeroScore": false
 }
