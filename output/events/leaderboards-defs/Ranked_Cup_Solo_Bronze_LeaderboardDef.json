@@ -3,42 +3,38 @@
    "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
    "leaderboardStorageId": "Fortnite_GLOBAL",
    "leaderboardInstanceGroupingKeyFormat": "${eventId}",
-   "leaderboardInstanceIdFormat": "${windowId}_${round}_Bronze",
+   "leaderboardInstanceIdFormat": "${windowId}",
    "maxSessionHistorySize": 10,
    "useIndividualScores": false,
    "tiebreakerFormula": {
       "basePointsBits": 11,
       "components": [
          {
-            "trackedStat": "BRONZE_VICTORY_ROYALE_STAT",
+            "trackedStat": "VICTORY_ROYALE_STAT",
             "bits": 4,
             "aggregation": "sum"
          },
          {
-            "trackedStat": "BRONZE_TEAM_ELIMS_STAT_INDEX",
-            "bits": 12,
+            "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+            "bits": 13,
             "aggregation": "avg",
             "multiplier": 100
          },
          {
-            "trackedStat": "BRONZE_PLACEMENT_TIEBREAKER_STAT",
+            "trackedStat": "PLACEMENT_TIEBREAKER_STAT",
             "bits": 14,
             "aggregation": "avg",
             "multiplier": 100
          },
          {
-            "trackedStat": "BRONZE_TIME_ALIVE_STAT",
+            "trackedStat": "TIME_ALIVE_STAT",
             "bits": 11,
             "aggregation": "avg"
          }
       ]
    },
-   "scoringRuleSetId": "ScoringRules_RankedCupSolo_Bronze_${round}",
+   "scoringRuleSetId": "ScoringRules_ReloadDuosQuick_R1",
    "clampsToZero": true,
-   "payoutsConfig": {
-      "payoutTableIdFormat": "${eventId}_${round}_Bronze",
-      "payoutDate": "windowEnd+PT32M"
-   },
    "hidePlayerScores": false,
    "percentileAccuracy": 1,
    "requiredPlayerListings": []
