@@ -18,6 +18,5 @@
       "payoutDate": "2026-02-22T02:20:00Z"
    },
    "hidePlayerScores": false,
-   "requiredPlayerListings": [],
-   "discardZeroScore": false
+   "requiredPlayerListings": []
 }
