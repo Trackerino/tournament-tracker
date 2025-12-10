@@ -84,13 +84,6 @@
                   "value": "AthenaItemWrap:wrap_bolddorm",
                   "quantity": 1,
                   "notifiesPlayer": true
-               },
-               {
-                  "rewardType": "game",
-                  "rewardMode": "standard",
-                  "value": "AthenaItemWrap:emoticon_bolddorm",
-                  "quantity": 1,
-                  "notifiesPlayer": true
                }
             ]
          }
@@ -105,7 +98,7 @@
                {
                   "rewardType": "game",
                   "rewardMode": "standard",
-                  "value": "AthenaCharacter:character_bolddorwork",
+                  "value": "AthenaCharacter:character_bolddormwork",
                   "quantity": 1,
                   "notifiesPlayer": true
                }
