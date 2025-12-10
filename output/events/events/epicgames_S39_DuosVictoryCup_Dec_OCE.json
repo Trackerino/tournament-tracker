@@ -188,7 +188,7 @@
       },
       {
          "eventWindowId": "S39_DuosVictoryCup_Round1_Day4_OCE",
-         "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round2",
+         "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round1",
          "countdownBeginTime": "2025-12-15T05:00:00Z",
          "beginTime": "2025-12-15T07:00:00Z",
          "endTime": "2025-12-15T09:00:00Z",
@@ -228,7 +228,7 @@
       },
       {
          "eventWindowId": "S39_DuosVictoryCup_Round1_Day5_OCE",
-         "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round2",
+         "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round1",
          "countdownBeginTime": "2025-12-17T05:00:00Z",
          "beginTime": "2025-12-17T07:00:00Z",
          "endTime": "2025-12-17T09:00:00Z",
@@ -348,7 +348,7 @@
       },
       {
          "eventWindowId": "S39_DuosVictoryCup_Round2_Day3_OCE",
-         "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round1",
+         "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round2",
          "countdownBeginTime": "2025-12-10T08:00:00Z",
          "beginTime": "2025-12-10T10:00:00Z",
          "endTime": "2025-12-10T11:00:00Z",
