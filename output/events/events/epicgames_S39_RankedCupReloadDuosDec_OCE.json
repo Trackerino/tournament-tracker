@@ -217,9 +217,9 @@
       {
          "eventWindowId": "S39_RankedCupReloadDuosDec_Event3_OCE",
          "eventTemplateId": "EventTemplate_RankedCupReloadDuos",
-         "countdownBeginTime": "2025-12-13T05:00:00Z",
-         "beginTime": "2025-12-13T07:00:00Z",
-         "endTime": "2025-12-13T10:00:00Z",
+         "countdownBeginTime": "2025-12-13T01:00:00Z",
+         "beginTime": "2025-12-13T03:00:00Z",
+         "endTime": "2025-12-13T06:00:00Z",
          "round": 2,
          "payoutDelay": 32,
          "isTBD": false,
