@@ -5168,6 +5168,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "0D0D0D",
+      "background_right_color": "4D4D4D",
+      "background_text_color": "161616",
+      "details_description": "The most iconic of all! Kim Kardashian drops into Fortnite. Top competitors in this cup will win early access to the Iconic Kim Kardashian Outfit; players who earn 8 points will also win an in-game Spray. Good luck and have fun!",
+      "long_format_title": "Kim Kardashian Cup",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/en-fnbr-39-10-quichelorraine-cup-discoverplaylisttile-1920x1080-1920x1080-5d53f1df3598.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fneco-39-10-quichelorraine-solotexture-800x800-800x800-f4a3092a23ae.jpg",
+      "title_line_1": "Kim Kardashian Cup",
+      "tournament_display_id": "s39_quichelorraine",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fneco-39-10-quichelorraine-grouptexture1560x1024-1560x1024-f150167288b7.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "00002D",
       "background_right_color": "33337D",
       "background_text_color": "",
