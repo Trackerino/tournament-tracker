@@ -1,0 +1,432 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S39_FNCSDivisionalCup_Division2_ME",
+   "beginTime": "2026-02-02T15:00:01Z",
+   "endTime": "2026-02-24T18:00:01Z",
+   "displayDataId": "s39_division2",
+   "eventGroup": "Season39_FNCSDivisionalCup_Division2",
+   "announcementTime": "2025-06-06T21:00:00Z",
+   "regions": [
+      "ME"
+   ],
+   "regionMappings": {
+      "ME": "MECOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Event",
+      "minimumAccountLevel": 350,
+      "requireSystemFeatures": [
+         "SecureBoot",
+         "CryptoProcessor"
+      ],
+      "TeamLockType": "Window",
+      "tournamentType": "CashCup",
+      "webId": "S39_FNCSDivisionalCup_Division2"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S39_FNCSDivisionalCup_Division2_Event1_ME",
+         "eventTemplateId": "EventTemplate_S39_FNCSNPMDivisionalCup",
+         "countdownBeginTime": "2026-02-02T13:00:01Z",
+         "beginTime": "2026-02-02T15:00:01Z",
+         "endTime": "2026-02-02T18:00:01Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosdiv_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_FNCSDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [
+            "S39_FNCS_Division1_ME",
+            "S39_FNCS_Division2_ME"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S39_FNCSDivisionLock_Division1Week1_ME",
+            "S39_FNCSDivisionLock_Division3Event1_ME",
+            "S39_FNCSDivisionLock_Division4Event1_ME",
+            "S39_FNCSDivisionLock_Division5Event1_ME"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_FNCSDivisionalCup_Division2_Event2_ME",
+         "eventTemplateId": "EventTemplate_S39_FNCSNPMDivisionalCup",
+         "countdownBeginTime": "2026-02-03T13:00:01Z",
+         "beginTime": "2026-02-03T15:00:01Z",
+         "endTime": "2026-02-03T18:00:01Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosdiv_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_FNCSDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [
+            "S39_FNCS_Division1_ME",
+            "S39_FNCS_Division2_ME"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S39_FNCSDivisionLock_Division1Week1_ME",
+            "S39_FNCSDivisionLock_Division3Event2_ME",
+            "S39_FNCSDivisionLock_Division4Event2_ME",
+            "S39_FNCSDivisionLock_Division5Event2_ME"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_FNCSDivisionalCup_Division2_Event3_ME",
+         "eventTemplateId": "EventTemplate_S39_FNCSNPMDivisionalCup",
+         "countdownBeginTime": "2026-02-09T13:00:01Z",
+         "beginTime": "2026-02-09T15:00:01Z",
+         "endTime": "2026-02-09T18:00:01Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosdiv_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_FNCSDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [
+            "S39_FNCS_Division1_ME",
+            "S39_FNCS_Division2_ME"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S39_FNCSDivisionLock_Division1Week2_ME",
+            "S39_FNCSDivisionLock_Division3Event3_ME",
+            "S39_FNCSDivisionLock_Division4Event3_ME",
+            "S39_FNCSDivisionLock_Division5Event3_ME"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_FNCSDivisionalCup_Division2_Event4_ME",
+         "eventTemplateId": "EventTemplate_S39_FNCSNPMDivisionalCup",
+         "countdownBeginTime": "2026-02-10T13:00:01Z",
+         "beginTime": "2026-02-10T15:00:01Z",
+         "endTime": "2026-02-10T18:00:01Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosdiv_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_FNCSDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [
+            "S39_FNCS_Division1_ME",
+            "S39_FNCS_Division2_ME"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S39_FNCSDivisionLock_Division1Week2_ME",
+            "S39_FNCSDivisionLock_Division3Event4_ME",
+            "S39_FNCSDivisionLock_Division4Event4_ME",
+            "S39_FNCSDivisionLock_Division5Event4_ME"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_FNCSDivisionalCup_Division2_Event5_ME",
+         "eventTemplateId": "EventTemplate_S39_FNCSNPMDivisionalCup",
+         "countdownBeginTime": "2026-02-16T13:00:01Z",
+         "beginTime": "2026-02-16T15:00:01Z",
+         "endTime": "2026-02-16T18:00:01Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosdiv_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_FNCSDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [
+            "S39_FNCS_Division1_ME",
+            "S39_FNCS_Division2_ME"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S39_FNCSDivisionLock_Division1Week3_ME",
+            "S39_FNCSDivisionLock_Division3Event5_ME",
+            "S39_FNCSDivisionLock_Division4Event5_ME",
+            "S39_FNCSDivisionLock_Division5Event5_ME"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_FNCSDivisionalCup_Division2_Event6_ME",
+         "eventTemplateId": "EventTemplate_S39_FNCSNPMDivisionalCup",
+         "countdownBeginTime": "2026-02-17T13:00:01Z",
+         "beginTime": "2026-02-17T15:00:01Z",
+         "endTime": "2026-02-17T18:00:01Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosdiv_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_FNCSDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [
+            "S39_FNCS_Division1_ME",
+            "S39_FNCS_Division2_ME"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S39_FNCSDivisionLock_Division1Week3_ME",
+            "S39_FNCSDivisionLock_Division3Event6_ME",
+            "S39_FNCSDivisionLock_Division4Event6_ME",
+            "S39_FNCSDivisionLock_Division5Event6_ME"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_FNCSDivisionalCup_Division2_Event7_ME",
+         "eventTemplateId": "EventTemplate_S39_FNCSNPMDivisionalCup",
+         "countdownBeginTime": "2026-02-23T13:00:01Z",
+         "beginTime": "2026-02-23T15:00:01Z",
+         "endTime": "2026-02-23T18:00:01Z",
+         "round": 4,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosdiv_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_FNCSDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [
+            "S39_FNCS_Division1_ME",
+            "S39_FNCS_Division2_ME"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S39_FNCSDivisionLock_Division1Week4_ME",
+            "S39_FNCSDivisionLock_Division3Event7_ME",
+            "S39_FNCSDivisionLock_Division4Event7_ME",
+            "S39_FNCSDivisionLock_Division5Event7_ME"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_FNCSDivisionalCup_Division2_Event8_ME",
+         "eventTemplateId": "EventTemplate_S39_FNCSNPMDivisionalCup",
+         "countdownBeginTime": "2026-02-24T13:00:01Z",
+         "beginTime": "2026-02-24T15:00:01Z",
+         "endTime": "2026-02-24T18:00:01Z",
+         "round": 4,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s37_duosdiv_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_FNCSDivisionalCup_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [
+            "S39_FNCS_Division1_ME",
+            "S39_FNCS_Division2_ME"
+         ],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S39_FNCSDivisionLock_Division1Week4_ME",
+            "S39_FNCSDivisionLock_Division3Event8_ME",
+            "S39_FNCSDivisionLock_Division4Event8_ME",
+            "S39_FNCSDivisionLock_Division5Event8_ME"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s39_fncsdivisionalcup_division2_me"
+   }
+}
