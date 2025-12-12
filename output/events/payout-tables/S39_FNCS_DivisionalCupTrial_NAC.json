@@ -8,14 +8,14 @@
                {
                   "rewardType": "token",
                   "rewardMode": "rolling",
-                  "value": "RegionLock_S39_FNCSDuosDivisionalTrial_NAC",
+                  "value": "RegionLock_S39_FNCSDivisionalTrial_NAC",
                   "quantity": 1,
                   "notifiesPlayer": false
                },
                {
                   "rewardType": "token",
                   "rewardMode": "rolling",
-                  "value": "S39_FNCSDuos_Division5_NAC",
+                  "value": "S39_FNCS_Division5_NAC",
                   "quantity": 1,
                   "notifiesPlayer": false
                }
@@ -32,7 +32,7 @@
                {
                   "rewardType": "token",
                   "rewardMode": "standard",
-                  "value": "S39_FNCSDuos_Division2_NAC",
+                  "value": "S39_FNCS_Division2_NAC",
                   "quantity": 1,
                   "notifiesPlayer": false
                }
@@ -44,7 +44,7 @@
                {
                   "rewardType": "token",
                   "rewardMode": "standard",
-                  "value": "S39_FNCSDuos_Division3_NAC",
+                  "value": "S39_FNCS_Division3_NAC",
                   "quantity": 1,
                   "notifiesPlayer": false
                }
@@ -56,7 +56,7 @@
                {
                   "rewardType": "token",
                   "rewardMode": "standard",
-                  "value": "S39_FNCSDuos_Division4_NAC",
+                  "value": "S39_FNCS_Division4_NAC",
                   "quantity": 1,
                   "notifiesPlayer": false
                }
