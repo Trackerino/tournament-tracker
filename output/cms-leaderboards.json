@@ -686,6 +686,12 @@
    },
    {
       "_type": "Leaderboard Display Info",
+      "leaderboard_id": "LookupKey_BettoTest_Durazno",
+      "leaderboard_name": "LN_Durazno",
+      "show_details_panel": true
+   },
+   {
+      "_type": "Leaderboard Display Info",
       "displayed_tracked_stat": [
          "MMO_Cache"
       ],
