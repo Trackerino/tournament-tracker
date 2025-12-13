@@ -135,7 +135,7 @@
          "countdownBeginTime": "2025-12-14T12:00:00Z",
          "beginTime": "2025-12-14T14:00:00Z",
          "endTime": "2025-12-14T17:00:00Z",
-         "round": 2,
+         "round": 3,
          "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
