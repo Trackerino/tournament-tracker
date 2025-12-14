@@ -37,7 +37,7 @@
    "clampsToZero": true,
    "payoutsConfig": {
       "payoutTableIdFormat": "${windowId}",
-      "payoutDate": "windowEnd+PT10M"
+      "payoutDate": "windowEnd+PT32M"
    },
    "hidePlayerScores": false,
    "percentileAccuracy": 1,
