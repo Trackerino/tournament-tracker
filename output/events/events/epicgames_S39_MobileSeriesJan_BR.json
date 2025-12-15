@@ -27,7 +27,7 @@
    "eventWindows": [
       {
          "eventWindowId": "S39_MobileSeries_JanRound1_BR",
-         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
          "countdownBeginTime": "2026-01-05T19:00:00Z",
          "beginTime": "2026-01-05T20:00:00Z",
          "endTime": "2026-01-05T21:00:00Z",
@@ -85,12 +85,12 @@
          }
       },
       {
-         "eventWindowId": "S39_MobileSeries_JanRound10_BR",
-         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "eventWindowId": "S39_MobileSeries_JanRound10BR",
+         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
          "countdownBeginTime": "2026-01-24T19:00:00Z",
          "beginTime": "2026-01-24T20:00:00Z",
          "endTime": "2026-01-24T21:00:00Z",
-         "round": 4,
+         "round": 5,
          "payoutDelay": 10,
          "isTBD": false,
          "visibility": "public",
@@ -110,7 +110,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -145,7 +145,7 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound2_BR",
-         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
          "countdownBeginTime": "2026-01-06T19:00:00Z",
          "beginTime": "2026-01-06T20:00:00Z",
          "endTime": "2026-01-06T21:00:00Z",
@@ -169,7 +169,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -204,10 +204,10 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound3_BR",
-         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
-         "countdownBeginTime": "2026-01-08T19:00:00Z",
-         "beginTime": "2026-01-08T20:00:00Z",
-         "endTime": "2026-01-08T21:00:00Z",
+         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
+         "countdownBeginTime": "2026-01-07T19:00:00Z",
+         "beginTime": "2026-01-07T20:00:00Z",
+         "endTime": "2026-01-07T21:00:00Z",
          "round": 3,
          "payoutDelay": 10,
          "isTBD": false,
@@ -228,7 +228,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -263,11 +263,11 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound4_BR",
-         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
          "countdownBeginTime": "2026-01-10T19:00:00Z",
          "beginTime": "2026-01-10T20:00:00Z",
          "endTime": "2026-01-10T21:00:00Z",
-         "round": 3,
+         "round": 4,
          "payoutDelay": 10,
          "isTBD": false,
          "visibility": "public",
@@ -287,7 +287,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -322,11 +322,11 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound5_BR",
-         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
          "countdownBeginTime": "2026-01-11T19:00:00Z",
          "beginTime": "2026-01-11T19:00:00Z",
          "endTime": "2026-01-11T21:00:00Z",
-         "round": 3,
+         "round": 4,
          "payoutDelay": 10,
          "isTBD": false,
          "visibility": "public",
@@ -346,7 +346,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -381,7 +381,7 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound6_BR",
-         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
          "countdownBeginTime": "2026-01-16T19:00:00Z",
          "beginTime": "2026-01-16T20:00:00Z",
          "endTime": "2026-01-16T21:00:00Z",
@@ -405,7 +405,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -440,11 +440,11 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound7_BR",
-         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
          "countdownBeginTime": "2026-01-17T19:00:00Z",
          "beginTime": "2026-01-17T20:00:00Z",
          "endTime": "2026-01-17T21:00:00Z",
-         "round": 4,
+         "round": 5,
          "payoutDelay": 10,
          "isTBD": false,
          "visibility": "public",
@@ -464,7 +464,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -499,11 +499,11 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound8_BR",
-         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
          "countdownBeginTime": "2026-01-18T19:00:00Z",
          "beginTime": "2026-01-18T20:00:00Z",
          "endTime": "2026-01-18T21:00:00Z",
-         "round": 4,
+         "round": 5,
          "payoutDelay": 10,
          "isTBD": false,
          "visibility": "public",
@@ -523,7 +523,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -558,11 +558,11 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound9_BR",
-         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
          "countdownBeginTime": "2026-01-23T19:00:00Z",
          "beginTime": "2026-01-23T20:00:00Z",
          "endTime": "2026-01-23T21:00:00Z",
-         "round": 4,
+         "round": 5,
          "payoutDelay": 10,
          "isTBD": false,
          "visibility": "public",
@@ -582,7 +582,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
