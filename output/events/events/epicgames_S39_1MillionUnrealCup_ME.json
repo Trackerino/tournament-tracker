@@ -44,7 +44,6 @@
          "CryptoProcessor"
       ],
       "TeamLockType": "Window",
-      "tournamentType": "CashCup",
       "webId": "S39_1MillionUnrealCup"
    },
    "eventWindows": [
@@ -55,11 +54,11 @@
          "beginTime": "2025-12-20T15:00:00Z",
          "endTime": "2025-12-20T18:00:00Z",
          "round": 0,
-         "payoutDelay": 20,
+         "payoutDelay": 32,
          "isTBD": false,
          "visibility": "public",
          "additionalRequirements": [
-            "eula:s39_unrealcup_rules",
+            "eula:s39_1million_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
             "currentRanking:ranked-br:17"
