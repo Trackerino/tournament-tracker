@@ -27,7 +27,7 @@
    "eventWindows": [
       {
          "eventWindowId": "S39_MobileSeriesCup_JanQualifier3_OCE",
-         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
          "countdownBeginTime": "2026-01-12T05:00:00Z",
          "beginTime": "2026-01-12T06:00:00Z",
          "endTime": "2026-01-12T07:20:00Z",
@@ -70,7 +70,7 @@
       },
       {
          "eventWindowId": "S39_MobileSeriesCup_JanQualifier4_OCE",
-         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
          "countdownBeginTime": "2026-01-25T05:00:00Z",
          "beginTime": "2026-01-25T06:00:00Z",
          "endTime": "2026-01-25T07:20:00Z",
