@@ -1,0 +1,23 @@
+{
+   "gameId": "Fortnite",
+   "leaderboardDefId": "S39_BlitzMobileCupQual4_SeriesLeaderboardDef",
+   "leaderboardStorageId": "Fortnite_GLOBAL",
+   "leaderboardInstanceGroupingKeyFormat": "series",
+   "leaderboardInstanceIdFormat": "${eventId}_Qualifier4_series",
+   "maxSessionHistorySize": 10,
+   "useIndividualScores": false,
+   "tiebreakerFormula": {
+      "basePointsBits": 53,
+      "components": []
+   },
+   "scoringRuleSetId": "EmptyScoringRules",
+   "clampsToZero": true,
+   "onlyScoreTopN": 1,
+   "payoutsConfig": {
+      "payoutTableIdFormat": "${eventId}_Qualifier4",
+      "payoutDate": "2026-01-25T02:20:00Z"
+   },
+   "hidePlayerScores": false,
+   "requiredPlayerListings": [],
+   "discardZeroScore": false
+}
