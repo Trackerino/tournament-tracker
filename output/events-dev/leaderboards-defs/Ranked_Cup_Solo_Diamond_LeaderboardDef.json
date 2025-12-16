@@ -1,0 +1,46 @@
+{
+   "gameId": "Fortnite",
+   "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+   "leaderboardStorageId": "Fortnite_GLOBAL",
+   "leaderboardInstanceGroupingKeyFormat": "${eventId}",
+   "leaderboardInstanceIdFormat": "${windowId}_${round}_diamond",
+   "maxSessionHistorySize": 10,
+   "useIndividualScores": false,
+   "tiebreakerFormula": {
+      "basePointsBits": 11,
+      "components": [
+         {
+            "trackedStat": "DIAMOND_VICTORY_ROYALE_STAT",
+            "bits": 4,
+            "aggregation": "sum"
+         },
+         {
+            "trackedStat": "DIAMOND_TEAM_ELIMS_STAT_INDEX",
+            "bits": 12,
+            "aggregation": "avg",
+            "multiplier": 100
+         },
+         {
+            "trackedStat": "DIAMOND_PLACEMENT_TIEBREAKER_STAT",
+            "bits": 14,
+            "aggregation": "avg",
+            "multiplier": 100
+         },
+         {
+            "trackedStat": "DIAMOND_TIME_ALIVE_STAT",
+            "bits": 11,
+            "aggregation": "avg"
+         }
+      ]
+   },
+   "scoringRuleSetId": "ScoringRules_RankedCupSolo_Diamond_${round}",
+   "clampsToZero": true,
+   "payoutsConfig": {
+      "payoutTableIdFormat": "${eventId}_${round}_Diamond",
+      "payoutDate": "windowEnd+PT32M"
+   },
+   "hidePlayerScores": false,
+   "percentileAccuracy": 1,
+   "requiredPlayerListings": [],
+   "discardZeroScore": true
+}
