@@ -250,9 +250,7 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [],
-               "requireNoneTokensCaller": [
-                  "QATester"
-               ],
+               "requireNoneTokensCaller": [],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
