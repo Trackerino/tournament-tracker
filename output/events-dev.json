@@ -172,11 +172,11 @@
       {
          "gameId": "Fortnite",
          "eventId": "epicgames_Cerberus_Trios",
-         "beginTime": "2027-04-27T21:00:00Z",
-         "endTime": "2027-04-28T00:30:00Z",
+         "beginTime": "2028-04-27T21:00:00Z",
+         "endTime": "2028-04-28T00:30:00Z",
          "displayDataId": "s12_fncs_week3_large",
          "eventGroup": "TEST",
-         "announcementTime": "2025-02-21T09:00:00Z",
+         "announcementTime": "2024-12-14T09:00:00Z",
          "regions": [
             "NAC",
             "NAE"
@@ -225,8 +225,8 @@
                "eventWindowId": "Cerberus_Day2_NAC",
                "eventTemplateId": "EventTemplate_S34_FNCSMajor2_Final",
                "countdownBeginTime": "2026-04-27T19:00:00Z",
-               "beginTime": "2027-04-27T21:00:00Z",
-               "endTime": "2027-04-28T00:30:00Z",
+               "beginTime": "2028-04-27T21:00:00Z",
+               "endTime": "2028-04-28T00:30:00Z",
                "round": 0,
                "payoutDelay": 1,
                "isTBD": false,
