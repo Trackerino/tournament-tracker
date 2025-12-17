@@ -12,6 +12,7 @@
    ],
    "regionMappings": {},
    "platforms": [
+      "Switch2",
       "Windows"
    ],
    "platformMappings": {},
