@@ -250,15 +250,19 @@
                "canLiveSpectate": false,
                "requireAllTokens": [],
                "requireAnyTokens": [],
-               "requireNoneTokensCaller": [],
+               "requireNoneTokensCaller": [
+                  "QATester"
+               ],
                "requireAllTokensCaller": [],
                "requireAnyTokensCaller": [],
                "metadata": {
+                  "ForceDisplayLeaderboards": true,
                   "liveSpectateAccessToken": "WeeklyTournamentSpectator",
                   "relevantFloatingScoreId": "cumulative:epicgames_Cerberus_Trios_cumulative",
                   "ScheduledMatchmakingInitialDelaySeconds": 600,
                   "ScheduledMatchmakingMatchDelaySeconds": 2280,
-                  "ServerReplays": true
+                  "ServerReplays": true,
+                  "VisualRound": 0
                }
             }
          ],
