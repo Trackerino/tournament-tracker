@@ -1,0 +1,55 @@
+[
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 5,
+            "payouts": [
+               {
+                  "rewardType": "token",
+                  "rewardMode": "standard",
+                  "value": "S39_ReloadEliteSeries2Final_EU",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 10,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 250,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 15,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 200,
+                  "notifiesPlayer": false
+               }
+            ]
+         },
+         {
+            "threshold": 20,
+            "payouts": [
+               {
+                  "rewardType": "ecomm",
+                  "rewardMode": "standard",
+                  "value": "USD",
+                  "quantity": 150,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]

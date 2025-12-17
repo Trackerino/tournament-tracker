@@ -1,0 +1,100 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S39_ReloadEliteSeries2Heat2_OCE",
+   "beginTime": "2026-02-27T07:00:01Z",
+   "endTime": "2026-02-27T10:00:01Z",
+   "displayDataId": "s39_reloadelite_heats",
+   "eventGroup": "Season39_ReloadEliteSeries2",
+   "announcementTime": "2025-06-06T14:00:00Z",
+   "regions": [
+      "OCE"
+   ],
+   "regionMappings": {
+      "OCE": "OCECOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Event",
+      "minimumAccountLevel": 350,
+      "RegionLockType": "Window",
+      "requireSystemFeatures": [
+         "SecureBoot",
+         "CryptoProcessor"
+      ],
+      "TeamLockType": "Week",
+      "tournamentType": "CashCup",
+      "webId": "S39_ReloadEliteSeriesHeats"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S39_FNCS_ReloadEliteSeries2Heat2_OCE",
+         "eventTemplateId": "EventTemplate_S39_ReloadEliteSeriesHeats",
+         "countdownBeginTime": "2026-02-27T05:00:01Z",
+         "beginTime": "2026-02-27T07:00:01Z",
+         "endTime": "2026-02-27T10:00:01Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_reload_elite_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_ReloadEliteSeriesHeat_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_ReloadEliteSereis2Heat2_OCE"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1440,
+            "ServerReplays": true,
+            "SubgroupId": "Series2_OCE"
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s39_reloadeliteseries2heat2_oce"
+   }
+}
