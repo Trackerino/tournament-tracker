@@ -126,7 +126,8 @@
             ],
             "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
             "RoundType": "Qualifiers",
-            "ServerReplays": true
+            "ServerReplays": true,
+            "VisualRound": 0
          }
       },
       {
@@ -211,7 +212,8 @@
             ],
             "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
             "RoundType": "Qualifiers",
-            "ServerReplays": true
+            "ServerReplays": true,
+            "VisualRound": 0
          }
       },
       {
@@ -296,7 +298,8 @@
             ],
             "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
             "RoundType": "Qualifiers",
-            "ServerReplays": true
+            "ServerReplays": true,
+            "VisualRound": 0
          }
       },
       {
@@ -381,7 +384,8 @@
             ],
             "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
             "RoundType": "Qualifiers",
-            "ServerReplays": true
+            "ServerReplays": true,
+            "VisualRound": 0
          }
       },
       {
@@ -466,7 +470,8 @@
             ],
             "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
             "RoundType": "Qualifiers",
-            "ServerReplays": true
+            "ServerReplays": true,
+            "VisualRound": 0
          }
       },
       {
@@ -551,7 +556,8 @@
             ],
             "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
             "RoundType": "Qualifiers",
-            "ServerReplays": true
+            "ServerReplays": true,
+            "VisualRound": 0
          }
       },
       {
@@ -636,7 +642,8 @@
             ],
             "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
             "RoundType": "Qualifiers",
-            "ServerReplays": true
+            "ServerReplays": true,
+            "VisualRound": 0
          }
       }
    ],
