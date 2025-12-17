@@ -1,0 +1,102 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_Cerberus_Trios",
+   "beginTime": "2027-04-27T21:00:00Z",
+   "endTime": "2027-04-28T00:30:00Z",
+   "displayDataId": "s12_fncs_week3_large",
+   "eventGroup": "TEST",
+   "announcementTime": "2025-02-21T09:00:00Z",
+   "regions": [
+      "NAC",
+      "NAE"
+   ],
+   "regionMappings": {
+      "NAC": "NACCOMP",
+      "NAE": "NACCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 0,
+      "tournamentType": "FNCS",
+      "TrackedStats": [
+         "Headshots",
+         "DamageDealt",
+         "DamageReceived",
+         "GainedHealthTimes",
+         "GainedShieldTimes",
+         "Travel_Distance_Ground"
+      ],
+      "webId": "TEST"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "Cerberus_Day2_NAC",
+         "eventTemplateId": "EventTemplate_S34_FNCSMajor2_Final",
+         "countdownBeginTime": "2026-04-27T19:00:00Z",
+         "beginTime": "2027-04-27T21:00:00Z",
+         "endTime": "2027-04-28T00:30:00Z",
+         "round": 0,
+         "payoutDelay": 1,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:crab",
+            "currentRanking:ranked-br:17",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S34_FNCSMajor2_FinalDay2_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S34_FNCSMajor2_Final_CumulativeLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "QATester"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "relevantFloatingScoreId": "cumulative:epicgames_Cerberus_Trios_cumulative",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 2280,
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_cerberus_trios",
+      "version": 1
+   }
+}
