@@ -1,0 +1,1428 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S39_RankedCupSoloDec_NAC",
+   "beginTime": "2025-12-05T20:00:00Z",
+   "endTime": "2025-12-21T23:00:00Z",
+   "displayDataId": "s39_ranked_solo_dec",
+   "eventGroup": "Season39_RankedCupSolo",
+   "announcementTime": "2025-11-20T06:00:00Z",
+   "regions": [
+      "NAC",
+      "NAE"
+   ],
+   "regionMappings": {
+      "NAC": "NACCOMP",
+      "NAE": "NACCOMP"
+   },
+   "platforms": [
+      "Android",
+      "GFN",
+      "GFNMobile",
+      "Helios",
+      "HeliosMobile",
+      "IOS",
+      "Luna",
+      "LunaMobile",
+      "Mac",
+      "PS4",
+      "PS5",
+      "Switch",
+      "Switch2",
+      "Windows",
+      "XB1",
+      "XCloud",
+      "XCloudMobile",
+      "XSX",
+      "XboxOne",
+      "XboxOneGDK"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "minimumAccountLevel": 50,
+      "tournamentType": "RankedCup",
+      "TrackedStats": [],
+      "webId": "TEST"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event1_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-05T18:00:00Z",
+         "beginTime": "2025-12-05T20:00:00Z",
+         "endTime": "2025-12-05T23:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event10_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-14T18:00:00Z",
+         "beginTime": "2025-12-14T20:00:00Z",
+         "endTime": "2025-12-14T23:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event11_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-15T18:00:00Z",
+         "beginTime": "2025-12-15T20:00:00Z",
+         "endTime": "2025-12-15T23:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event12_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-16T18:00:00Z",
+         "beginTime": "2025-12-16T20:00:00Z",
+         "endTime": "2025-12-16T23:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event13_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-17T18:00:00Z",
+         "beginTime": "2025-12-17T20:00:00Z",
+         "endTime": "2025-12-17T23:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event14_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-18T18:00:00Z",
+         "beginTime": "2025-12-18T20:00:00Z",
+         "endTime": "2025-12-18T23:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event15_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-19T18:00:00Z",
+         "beginTime": "2025-12-19T20:00:00Z",
+         "endTime": "2025-12-19T23:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event16_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-20T18:00:00Z",
+         "beginTime": "2025-12-20T20:00:00Z",
+         "endTime": "2025-12-20T23:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event17_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-21T18:00:00Z",
+         "beginTime": "2025-12-21T20:00:00Z",
+         "endTime": "2025-12-21T23:00:00Z",
+         "round": 3,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event2_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-06T18:00:00Z",
+         "beginTime": "2025-12-06T20:00:00Z",
+         "endTime": "2025-12-06T23:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event3_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-07T18:00:00Z",
+         "beginTime": "2025-12-07T20:00:00Z",
+         "endTime": "2025-12-07T23:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event4_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-08T18:00:00Z",
+         "beginTime": "2025-12-08T20:00:00Z",
+         "endTime": "2025-12-08T23:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event5_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-09T18:00:00Z",
+         "beginTime": "2025-12-09T20:00:00Z",
+         "endTime": "2025-12-09T23:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event6_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-10T18:00:00Z",
+         "beginTime": "2025-12-10T20:00:00Z",
+         "endTime": "2025-12-10T23:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event7_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-11T18:00:00Z",
+         "beginTime": "2025-12-11T20:00:00Z",
+         "endTime": "2025-12-11T23:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      },
+      {
+         "eventWindowId": "S39_RankedCupSoloDec_Event8_NAC",
+         "eventTemplateId": "EventTemplate_RankedCupSolo",
+         "countdownBeginTime": "2025-12-12T18:00:00Z",
+         "beginTime": "2025-12-12T20:00:00Z",
+         "endTime": "2025-12-12T23:00:00Z",
+         "round": 2,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "private",
+         "additionalRequirements": [
+            "eula:s39_rankedcup_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "currentRanking:ranked-br:0"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "Lead_Default",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Bronze_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Silver_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Gold_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Platinum_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Diamond_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Elite_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Champion_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "Ranked_Cup_Solo_Unreal_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "defaultLeaderboardByRank": {
+               "Ranked_Cup_Solo_Diamond_LeaderboardDef": "12:14",
+               "Ranked_Cup_Solo_Silver_LeaderboardDef": "3:5",
+               "Ranked_Cup_Solo_Bronze_LeaderboardDef": "0:2",
+               "Ranked_Cup_Solo_Platinum_LeaderboardDef": "9:11",
+               "Ranked_Cup_Solo_Elite_LeaderboardDef": "16:16",
+               "Ranked_Cup_Solo_Gold_LeaderboardDef": "6:8",
+               "Ranked_Cup_Solo_Champion_LeaderboardDef": "15:15",
+               "Ranked_Cup_Solo_Unreal_LeaderboardDef": "17:17"
+            },
+            "hideScoreLocationsIndexes": [
+               0
+            ],
+            "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "VisualRound": 1
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s39_rankedcupsolodec_nac"
+   }
+}
