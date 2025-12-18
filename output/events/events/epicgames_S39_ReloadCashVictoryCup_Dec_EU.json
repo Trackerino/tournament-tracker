@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_ReloadCashVictoryCup_Dec_EU",
    "beginTime": "2025-12-05T18:00:00Z",
-   "endTime": "2025-12-19T22:00:00Z",
+   "endTime": "2026-01-11T17:00:00Z",
    "displayDataId": "s39_reload_victory_dec",
    "eventGroup": "S39_ReloadCashVictoryCup",
    "announcementTime": "2025-08-06T07:00:00Z",
@@ -223,9 +223,55 @@
       {
          "eventWindowId": "S39_ReloadCashVictoryCup_Event3Round1_EU",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round1",
-         "countdownBeginTime": "2025-12-13T11:00:00Z",
-         "beginTime": "2025-12-13T13:00:00Z",
-         "endTime": "2025-12-13T15:00:00Z",
+         "countdownBeginTime": "2025-12-13T17:00:00Z",
+         "beginTime": "2025-12-13T18:00:00Z",
+         "endTime": "2025-12-13T20:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_ReloadCashVictoryCup_LeaderboardDef_Round1",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_CashCup_Qualified"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event3Round1_EU_makegood",
+         "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round1",
+         "countdownBeginTime": "2026-01-11T09:00:00Z",
+         "beginTime": "2026-01-11T13:00:00Z",
+         "endTime": "2026-01-11T15:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -269,9 +315,9 @@
       {
          "eventWindowId": "S39_ReloadCashVictoryCup_Event3Round2_EU",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round2",
-         "countdownBeginTime": "2025-12-13T14:00:00Z",
-         "beginTime": "2025-12-13T16:00:00Z",
-         "endTime": "2025-12-13T17:00:00Z",
+         "countdownBeginTime": "2025-12-13T20:00:00Z",
+         "beginTime": "2025-12-13T21:00:00Z",
+         "endTime": "2025-12-13T22:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -292,6 +338,46 @@
          "canLiveSpectate": false,
          "requireAllTokens": [
             "S39_ReloadCashVictoryCup_Event3Round2_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_ReloadCashVictoryCup_Event3Round2_EU_makegood",
+         "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round2",
+         "countdownBeginTime": "2026-01-11T15:00:00Z",
+         "beginTime": "2026-01-11T16:00:00Z",
+         "endTime": "2026-01-11T17:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_victory_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_ReloadCashVictoryCup_LeaderboardDef_Round2",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_ReloadCashVictoryCup_Event3round2_EU_makegood"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -481,9 +567,9 @@
       {
          "eventWindowId": "S39_ReloadCashVictoryCup_Event6Round1_EU",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round1",
-         "countdownBeginTime": "2025-12-19T17:00:00Z",
-         "beginTime": "2025-12-19T18:00:00Z",
-         "endTime": "2025-12-19T20:00:00Z",
+         "countdownBeginTime": "2025-12-20T12:00:00Z",
+         "beginTime": "2025-12-20T13:00:00Z",
+         "endTime": "2025-12-20T15:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -527,9 +613,9 @@
       {
          "eventWindowId": "S39_ReloadCashVictoryCup_Event6Round2_EU",
          "eventTemplateId": "S39_ReloadCashVictoryCup_EventTemplate_Round2",
-         "countdownBeginTime": "2025-12-19T20:00:00Z",
-         "beginTime": "2025-12-19T21:00:00Z",
-         "endTime": "2025-12-19T22:00:00Z",
+         "countdownBeginTime": "2025-12-20T15:00:00Z",
+         "beginTime": "2025-12-20T16:00:00Z",
+         "endTime": "2025-12-20T17:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
