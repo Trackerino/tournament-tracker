@@ -5002,6 +5002,20 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "3a6474",
+      "background_right_color": "6e9daf",
+      "background_text_color": "161616",
+      "details_description": "Thousand-Year Blood War Cup! Top competitors will win early access to BLEACH cosmetic rewards before they hit the shop. Good luck and have fun!",
+      "long_format_title": "BLEACH: Thousand-Year Blood War Cup",
+      "playlist_tile_image": "https://cdn2.unrealengine.com/en-fnbr-39-11-bleach-comp-in-game-tab-bleachcup-discoverplaylisttile-1920x1080-1920x1080-f2443c590883.jpg",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/800x800-800x800-77d7bc169008.jpg",
+      "title_line_1": "BLEACH: Thousand-Year Blood War Cup",
+      "tournament_display_id": "s39_bleach",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/1560x1024-1560x1024-342cf7cd429e.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "f5941d",
       "background_right_color": "f9e92a",
       "background_text_color": "161616",
