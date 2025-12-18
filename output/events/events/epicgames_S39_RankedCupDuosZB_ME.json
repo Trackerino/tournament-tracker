@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_RankedCupDuosZB_ME",
    "beginTime": "2025-12-05T15:00:00Z",
-   "endTime": "2025-12-19T18:00:00Z",
+   "endTime": "2025-12-15T18:00:00Z",
    "displayDataId": "s39_ranked_duoszb_dec",
    "eventGroup": "Season39_RankedCupDuosDecZB",
    "announcementTime": "2025-11-19T21:00:00Z",
@@ -222,92 +222,6 @@
          "countdownBeginTime": "2025-12-15T13:00:00Z",
          "beginTime": "2025-12-15T15:00:00Z",
          "endTime": "2025-12-15T18:00:00Z",
-         "round": 3,
-         "payoutDelay": 32,
-         "isTBD": false,
-         "visibility": "public",
-         "additionalRequirements": [
-            "eula:s39_rankedcup_rules",
-            "adps:g-a81a33a3b9a7",
-            "mfa",
-            "currentRanking:ranked-zb:0"
-         ],
-         "teammateEligibility": "all",
-         "blackoutPeriods": [],
-         "scoreLocations": [
-            {
-               "leaderboardDefId": "Lead_Default",
-               "isMainWindowLeaderboard": true
-            },
-            {
-               "leaderboardDefId": "RankedCup_Duos_Bronze_LeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "RankedCup_Duos_Silver_LeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "RankedCup_Duos_Gold_LeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "RankedCup_Duos_Platinum_LeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "RankedCup_Duos_Diamond_LeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "RankedCup_Duos_Elite_LeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "RankedCup_Duos_Champion_LeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "RankedCup_Duos_Unreal_LeaderboardDef",
-               "isMainWindowLeaderboard": false
-            }
-         ],
-         "canLiveSpectate": false,
-         "requireAllTokens": [],
-         "requireAnyTokens": [],
-         "requireNoneTokensCaller": [
-            "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
-         ],
-         "requireAllTokensCaller": [],
-         "requireAnyTokensCaller": [],
-         "regionMappings": {},
-         "metadata": {
-            "defaultLeaderboardByRank": {
-               "RankedCup_Duos_Bronze_LeaderboardDef": "0:2",
-               "RankedCup_Duos_Elite_LeaderboardDef": "16:16",
-               "RankedCup_Duos_Platinum_LeaderboardDef": "9:11",
-               "RankedCup_Duos_Gold_LeaderboardDef": "6:8",
-               "RankedCup_Duos_Diamond_LeaderboardDef": "12:14",
-               "RankedCup_Duos_Silver_LeaderboardDef": "3:5",
-               "RankedCup_Duos_Champion_LeaderboardDef": "15:15",
-               "RankedCup_Duos_Unreal_LeaderboardDef": "17:17"
-            },
-            "hideScoreLocationsIndexes": [
-               0
-            ],
-            "RankTrackTypeForMatchStatsPrefixes": "ranked-zb",
-            "RoundType": "Qualifiers",
-            "ServerReplays": true,
-            "VisualRound": 0
-         }
-      },
-      {
-         "eventWindowId": "S39_RankedCupDuosDecZB_Event4_ME",
-         "eventTemplateId": "EventTemplate_RankedCupDuosZB",
-         "countdownBeginTime": "2025-12-19T13:00:00Z",
-         "beginTime": "2025-12-19T15:00:00Z",
-         "endTime": "2025-12-19T18:00:00Z",
          "round": 3,
          "payoutDelay": 32,
          "isTBD": false,
