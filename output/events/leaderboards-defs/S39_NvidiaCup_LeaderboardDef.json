@@ -33,7 +33,7 @@
          }
       ]
    },
-   "scoringRuleSetId": "S39_NvidiaCup_ScoringRules",
+   "scoringRuleSetId": "S37_ScoringRules_SoloSeries",
    "clampsToZero": true,
    "payoutsConfig": {
       "payoutTableIdFormat": "${windowId}",
