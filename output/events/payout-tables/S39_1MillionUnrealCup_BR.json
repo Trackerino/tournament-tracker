@@ -57,7 +57,7 @@
                   "rewardType": "ecomm",
                   "rewardMode": "standard",
                   "value": "USD",
-                  "quantity": 5000,
+                  "quantity": 500,
                   "notifiesPlayer": false
                }
             ]
