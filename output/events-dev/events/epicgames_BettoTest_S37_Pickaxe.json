@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_BettoTest_S37_Pickaxe",
    "beginTime": "2025-10-01T07:00:00Z",
-   "endTime": "2025-12-31T07:00:00Z",
+   "endTime": "2025-12-11T07:00:00Z",
    "displayDataId": "bettotest_aqua",
    "eventGroup": "ESTesting",
    "announcementTime": "2025-09-01T00:07:00Z",
@@ -11,10 +11,7 @@
       "NAE"
    ],
    "regionMappings": {},
-   "platforms": [
-      "Switch2",
-      "Windows"
-   ],
+   "platforms": [],
    "platformMappings": {},
    "metadata": {
       "minimumAccountLevel": 38,
@@ -61,7 +58,7 @@
          "eventTemplateId": "EventTemplate_BettoTest_Solo",
          "countdownBeginTime": "2025-12-01T00:07:00Z",
          "beginTime": "2025-12-01T07:00:00Z",
-         "endTime": "2025-12-31T07:00:00Z",
+         "endTime": "2025-12-11T07:00:00Z",
          "round": 0,
          "payoutDelay": 5,
          "isTBD": false,
