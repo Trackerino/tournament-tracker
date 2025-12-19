@@ -318,6 +318,14 @@
    },
    {
       "_type": "Scoring Rules Display Info",
+      "description": "{0}|plural(one=Each Second Alive,other=Every {0} Seconds Alive)",
+      "hide_score_toast_notifications": true,
+      "icon": "/Game/Athena/HUD/Art/icon_health.icon_health",
+      "poster_description": "{0}|plural(one=Each Second Alive,other=Every {0} Seconds Alive)",
+      "rule_name": "EACH_TIME_ALIVE_STAT"
+   },
+   {
+      "_type": "Scoring Rules Display Info",
       "description": "{0}|plural(one=Each Unreal Elimination,other=Every {0} Unreal Eliminations)",
       "hide_score_toast_notifications": false,
       "icon": "/Game/Athena/HUD/Art/killsico_alt.KillsIco_Alt",
