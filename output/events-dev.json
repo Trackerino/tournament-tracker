@@ -110,9 +110,7 @@
             "NAE"
          ],
          "regionMappings": {},
-         "platforms": [
-            "Windows"
-         ],
+         "platforms": [],
          "platformMappings": {},
          "metadata": {
             "AccountLockType": "Week",
