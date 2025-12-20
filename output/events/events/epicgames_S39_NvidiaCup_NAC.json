@@ -46,6 +46,7 @@
          "CryptoProcessor"
       ],
       "TeamLockType": "Window",
+      "tournamentType": "CashCup",
       "webId": "S39_NvidiaCup"
    },
    "eventWindows": [
