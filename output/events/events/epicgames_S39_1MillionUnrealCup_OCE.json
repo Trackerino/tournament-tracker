@@ -62,7 +62,12 @@
             "eula:s39_1million_rules",
             "adps:g-a81a33a3b9a7",
             "mfa",
-            "currentRanking:ranked-br:17"
+            [
+               "currentRanking:ranked-br:17",
+               "currentRanking:ranked-zb:17",
+               "currentRanking:ranked_blastberry_build:17",
+               "currentRanking:ranked_blastberry_nobuild:17"
+            ]
          ],
          "teammateEligibility": "all",
          "blackoutPeriods": [],
