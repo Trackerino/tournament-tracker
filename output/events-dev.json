@@ -1488,7 +1488,7 @@
                   "RankTrackTypeForMatchStatsPrefixes": "ranked-br",
                   "RoundType": "Qualifiers",
                   "ServerReplays": true,
-                  "VisualRound": 0
+                  "VisualRound": 1
                }
             },
             {
