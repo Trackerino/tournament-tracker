@@ -13,10 +13,6 @@
    "scoringRuleSetId": "EmptyScoringRules",
    "clampsToZero": true,
    "onlyScoreTopN": 1,
-   "payoutsConfig": {
-      "payoutTableIdFormat": "${eventId}_Qualifier3",
-      "payoutDate": "2026-01-12T02:20:00Z"
-   },
    "hidePlayerScores": false,
    "requiredPlayerListings": [],
    "discardZeroScore": false
