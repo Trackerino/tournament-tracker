@@ -27,7 +27,7 @@
    "eventWindows": [
       {
          "eventWindowId": "S39_MobileSeries_JanRound1_BR",
-         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2026-01-05T19:00:00Z",
          "beginTime": "2026-01-05T20:00:00Z",
          "endTime": "2026-01-05T21:00:00Z",
