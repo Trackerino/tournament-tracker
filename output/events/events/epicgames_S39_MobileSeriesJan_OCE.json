@@ -356,6 +356,10 @@
             {
                "leaderboardDefId": "S39_BlitzMobileCupQual3_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_MobileSeriesCup_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
             }
          ],
          "canLiveSpectate": false,
@@ -373,7 +377,8 @@
                "S39_BlitzMobileCup_LeaderboardDef"
             ],
             "hideScoreLocationsIndexes": [
-               0
+               0,
+               3
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
