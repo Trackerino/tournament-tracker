@@ -147,7 +147,7 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound2_NAC",
-         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2026-01-06T22:00:00Z",
          "beginTime": "2026-01-06T23:00:00Z",
          "endTime": "2026-01-07T00:00:00Z",
