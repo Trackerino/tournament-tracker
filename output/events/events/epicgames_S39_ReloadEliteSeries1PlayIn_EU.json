@@ -50,7 +50,7 @@
    },
    "eventWindows": [
       {
-         "eventWindowId": "S39_FNCS_ReloadEliteSeries1PlayInDay1_EU",
+         "eventWindowId": "S39_ReloadEliteSeries1PlayInDay1_EU",
          "eventTemplateId": "EventTemplate_S39_ReloadEliteSeries",
          "countdownBeginTime": "2026-01-23T16:00:00Z",
          "beginTime": "2026-01-23T18:00:00Z",
@@ -95,7 +95,7 @@
          }
       },
       {
-         "eventWindowId": "S39_FNCS_ReloadEliteSeries1PlayInDay2_EU",
+         "eventWindowId": "S39_ReloadEliteSeries1PlayInDay2_EU",
          "eventTemplateId": "EventTemplate_S39_ReloadEliteSeries",
          "countdownBeginTime": "2026-01-26T16:00:00Z",
          "beginTime": "2026-01-26T18:00:00Z",
