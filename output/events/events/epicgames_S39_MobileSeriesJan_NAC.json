@@ -87,7 +87,7 @@
          }
       },
       {
-         "eventWindowId": "S39_MobileSeries_JanRound10NAC",
+         "eventWindowId": "S39_MobileSeries_JanRound10_NAC",
          "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
          "countdownBeginTime": "2026-01-24T22:00:00Z",
          "beginTime": "2026-01-24T23:00:00Z",
@@ -112,7 +112,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -171,7 +171,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -230,7 +230,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -289,7 +289,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -348,7 +348,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -412,7 +412,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -471,7 +471,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -530,7 +530,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
@@ -589,7 +589,7 @@
          "blackoutPeriods": [],
          "scoreLocations": [
             {
-               "leaderboardDefId": "S39_BlitzMobileCup_DefaultLeaderboardDef",
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
                "isMainWindowLeaderboard": true
             },
             {
