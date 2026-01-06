@@ -5,7 +5,7 @@
    "leaderboardInstanceGroupingKeyFormat": "cumulative",
    "leaderboardInstanceIdFormat": "${eventId}_cumulative",
    "maxSessionHistorySize": 24,
-   "useIndividualScores": true,
+   "useIndividualScores": false,
    "tiebreakerFormula": {
       "basePointsBits": 11,
       "components": [
