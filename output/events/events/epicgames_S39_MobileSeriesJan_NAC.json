@@ -198,7 +198,7 @@
                "S39_BlitzMobileCup_LeaderboardDef"
             ],
             "hideScoreLocationsIndexes": [
-               0
+               1
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -257,7 +257,7 @@
                "S39_BlitzMobileCup_LeaderboardDef"
             ],
             "hideScoreLocationsIndexes": [
-               0
+               1
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -316,7 +316,7 @@
                "S39_BlitzMobileCup_LeaderboardDef"
             ],
             "hideScoreLocationsIndexes": [
-               0
+               1
             ],
             "RoundType": "Qualifiers",
             "ServerReplays": true
@@ -358,6 +358,10 @@
             {
                "leaderboardDefId": "S39_BlitzMobileCupQual3_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_MobileSeriesCup_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
             }
          ],
          "canLiveSpectate": false,
@@ -375,7 +379,7 @@
                "S39_BlitzMobileCup_LeaderboardDef"
             ],
             "hideScoreLocationsIndexes": [
-               0,
+               1,
                3
             ],
             "RoundType": "Qualifiers",
