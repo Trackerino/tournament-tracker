@@ -204,7 +204,7 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound3_BR",
-         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2026-01-07T19:00:00Z",
          "beginTime": "2026-01-07T20:00:00Z",
          "endTime": "2026-01-07T21:00:00Z",
@@ -355,10 +355,6 @@
             },
             {
                "leaderboardDefId": "S39_BlitzMobileCupQual3_SeriesLeaderboardDef",
-               "isMainWindowLeaderboard": false
-            },
-            {
-               "leaderboardDefId": "S39_MobileSeriesCup_SeriesLeaderboardDef",
                "isMainWindowLeaderboard": false
             }
          ],
