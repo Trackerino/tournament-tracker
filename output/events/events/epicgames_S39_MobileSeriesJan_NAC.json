@@ -88,7 +88,7 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound10_NAC",
-         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2026-01-24T22:00:00Z",
          "beginTime": "2026-01-24T23:00:00Z",
          "endTime": "2026-01-25T00:00:00Z",
@@ -265,7 +265,7 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound4_NAC",
-         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2026-01-10T22:00:00Z",
          "beginTime": "2026-01-10T23:00:00Z",
          "endTime": "2026-01-11T00:00:00Z",
@@ -324,7 +324,7 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound5_NAC",
-         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2026-01-11T22:00:00Z",
          "beginTime": "2026-01-11T23:00:00Z",
          "endTime": "2026-01-12T00:00:00Z",
@@ -388,7 +388,7 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound6_NAC",
-         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2026-01-16T22:00:00Z",
          "beginTime": "2026-01-16T23:00:00Z",
          "endTime": "2026-01-17T00:00:00Z",
@@ -447,7 +447,7 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound7_NAC",
-         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2026-01-17T22:00:00Z",
          "beginTime": "2026-01-17T23:00:00Z",
          "endTime": "2026-01-18T00:00:00Z",
@@ -506,7 +506,7 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound8_NAC",
-         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2026-01-18T22:00:00Z",
          "beginTime": "2026-01-18T23:00:00Z",
          "endTime": "2026-01-19T00:00:00Z",
@@ -565,7 +565,7 @@
       },
       {
          "eventWindowId": "S39_MobileSeries_JanRound9_NAC",
-         "eventTemplateId": "EventTemplate_S39_MobileSeriesCup",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2026-01-23T22:00:00Z",
          "beginTime": "2026-01-23T23:00:00Z",
          "endTime": "2026-01-24T00:00:00Z",
