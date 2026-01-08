@@ -101,6 +101,7 @@
          "requireAnyTokensCaller": [],
          "regionMappings": {},
          "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ServerReplays": true
          }
@@ -155,6 +156,7 @@
          "requireAnyTokensCaller": [],
          "regionMappings": {},
          "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ServerReplays": true
          }
