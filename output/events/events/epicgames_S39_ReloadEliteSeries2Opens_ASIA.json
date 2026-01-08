@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_ReloadEliteSeries2Opens_ASIA",
    "beginTime": "2026-02-13T09:00:00Z",
-   "endTime": "2026-02-15T12:00:00Z",
+   "endTime": "2026-02-15T11:30:00Z",
    "displayDataId": "s39_reloadelite_opens",
    "eventGroup": "Season39_ReloadEliteSeries2",
    "announcementTime": "2025-06-06T15:00:00Z",
@@ -54,7 +54,7 @@
          "eventTemplateId": "EventTemplate_S39_ReloadEliteSeries",
          "countdownBeginTime": "2026-02-13T07:00:00Z",
          "beginTime": "2026-02-13T09:00:00Z",
-         "endTime": "2026-02-13T12:00:00Z",
+         "endTime": "2026-02-13T11:30:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -99,6 +99,7 @@
          "requireAnyTokensCaller": [],
          "regionMappings": {},
          "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ServerReplays": true
          }
@@ -108,7 +109,7 @@
          "eventTemplateId": "EventTemplate_S39_ReloadEliteSeries",
          "countdownBeginTime": "2026-02-15T07:00:00Z",
          "beginTime": "2026-02-15T09:00:00Z",
-         "endTime": "2026-02-15T12:00:00Z",
+         "endTime": "2026-02-15T11:30:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -153,6 +154,7 @@
          "requireAnyTokensCaller": [],
          "regionMappings": {},
          "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
             "ServerReplays": true
          }
