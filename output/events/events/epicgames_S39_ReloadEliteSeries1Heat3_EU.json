@@ -50,7 +50,7 @@
    },
    "eventWindows": [
       {
-         "eventWindowId": "S39_FNCS_ReloadEliteSeries1Heat3_EU",
+         "eventWindowId": "S39_ReloadEliteSeries1Heat3_EU",
          "eventTemplateId": "EventTemplate_S39_ReloadEliteSeriesHeats",
          "countdownBeginTime": "2026-02-01T16:00:02Z",
          "beginTime": "2026-02-01T18:00:02Z",
