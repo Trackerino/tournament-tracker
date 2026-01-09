@@ -1,0 +1,94 @@
+[
+   {
+      "scoringType": "percentile",
+      "ranks": [
+         {
+            "threshold": 0.5,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaGlider:umbrella_rankedtandem_reload",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "CosmeticVariantToken:vtid_glider_umbrella_rankedtandem_reload_styleb",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "percentile",
+      "ranks": [
+         {
+            "threshold": 0.25,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaPickaxe:pickaxe_straymanta",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "percentile",
+      "ranks": [
+         {
+            "threshold": 0.7,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaBackpack:backpack_straymanta",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "percentile",
+      "ranks": [
+         {
+            "threshold": 0.75,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaDance:emoticon_s39_rankedcup",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 10,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaCharacter:character_straymanta",
+                  "quantity": 1,
+                  "notifiesPlayer": false
+               }
+            ]
+         }
+      ]
+   }
+]
