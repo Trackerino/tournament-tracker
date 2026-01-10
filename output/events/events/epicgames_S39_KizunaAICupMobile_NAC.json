@@ -1,0 +1,74 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S39_KizunaAICupMobile_NAC",
+   "beginTime": "2026-01-13T23:00:00Z",
+   "endTime": "2026-01-14T00:00:00Z",
+   "displayDataId": "s39_kizuna_mobile",
+   "eventGroup": "Season39_KizunaAICupMobile",
+   "announcementTime": "2026-01-01T14:00:00Z",
+   "regions": [
+      "NAC",
+      "NAE"
+   ],
+   "regionMappings": {
+      "NAC": "NACCOMP",
+      "NAE": "NACCOMP"
+   },
+   "platforms": [
+      "Android",
+      "IOS"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "tournamentType": "WorkshopCup",
+      "webId": "S39_KizunaAICupMobile"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S39_KizunaAICupMobile_NAC",
+         "eventTemplateId": "EventTemplate_S39_KizunaAICupMobile",
+         "countdownBeginTime": "2026-01-13T22:00:00Z",
+         "beginTime": "2026-01-13T23:00:00Z",
+         "endTime": "2026-01-14T00:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_kizuna_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "input-touch"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_KizunaAICupMobile_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s39_kizunaaicupmobile_nac"
+   }
+}
