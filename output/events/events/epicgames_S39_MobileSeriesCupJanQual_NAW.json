@@ -51,7 +51,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_MobileSeriesQualifier3Jan_NAW"
+            "S39_MobileSeriesQualifier3Jan_NAWv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
