@@ -207,7 +207,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_ReloadCashVictoryCup_Event9Round2_ASIA"
+            "S39_ReloadCashVictoryCup_Event8Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -295,7 +295,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_ReloadCashVictoryCup_Event8Round2_ASIA"
+            "S39_ReloadCashVictoryCup_Event9Round2_ASIA"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [

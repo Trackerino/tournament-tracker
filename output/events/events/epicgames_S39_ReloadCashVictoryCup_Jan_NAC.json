@@ -209,7 +209,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_ReloadCashVictoryCup_Event9Round2_NAC"
+            "S39_ReloadCashVictoryCup_Event8Round2_NAC"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -297,7 +297,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_ReloadCashVictoryCup_Event8Round2_NAC"
+            "S39_ReloadCashVictoryCup_Event9Round2_NAC"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
