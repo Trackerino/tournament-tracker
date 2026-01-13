@@ -30,7 +30,7 @@
          "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
          "countdownBeginTime": "2026-01-13T00:00:00Z",
          "beginTime": "2026-01-13T01:00:00Z",
-         "endTime": "2026-01-13T02:20:00Z",
+         "endTime": "2026-01-13T01:00:00Z",
          "round": 5,
          "payoutDelay": 10,
          "isTBD": false,
