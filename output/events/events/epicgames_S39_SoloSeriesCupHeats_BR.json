@@ -73,7 +73,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_SoloSeriesCup_Heat1_BR"
+            "S39_SoloSeriesCup_Heat1_BRv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -115,7 +115,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_SoloSeriesCup_Heat2_BR"
+            "S39_SoloSeriesCup_Heat2_BRv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [

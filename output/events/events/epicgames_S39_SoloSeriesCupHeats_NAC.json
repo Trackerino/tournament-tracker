@@ -75,7 +75,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_SoloSeriesCup_Heat1_NAC"
+            "S39_SoloSeriesCup_Heat1_NACv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -117,7 +117,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_SoloSeriesCup_Heat2_NAC"
+            "S39_SoloSeriesCup_Heat2_NACv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -159,7 +159,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_SoloSeriesCup_Heat3_NAC"
+            "S39_SoloSeriesCup_Heat3_NACv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
@@ -201,7 +201,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_SoloSeriesCup_Heat4_NAC"
+            "S39_SoloSeriesCup_Heat4_NACv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
