@@ -1,7 +1,7 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_MobileSeriesCupJanQual_NAW",
-   "beginTime": "2026-01-13T01:00:00Z",
+   "beginTime": "2026-01-15T01:00:00Z",
    "endTime": "2026-01-26T02:20:00Z",
    "displayDataId": "s39_mobile_jan_qual",
    "eventGroup": "Season39_MobileSeriesCup",
@@ -28,9 +28,9 @@
       {
          "eventWindowId": "S39_MobileSeriesCup_JanQualifier3_NAW",
          "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
-         "countdownBeginTime": "2026-01-13T00:00:00Z",
-         "beginTime": "2026-01-13T01:00:00Z",
-         "endTime": "2026-01-13T01:00:00Z",
+         "countdownBeginTime": "2026-01-15T00:00:00Z",
+         "beginTime": "2026-01-15T01:00:00Z",
+         "endTime": "2026-01-15T02:20:00Z",
          "round": 5,
          "payoutDelay": 10,
          "isTBD": false,
@@ -51,7 +51,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_MobileSeriesQualifier3Jan_NAWv2"
+            "S39_MobileSeriesQualifier3Jan_NAwv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
