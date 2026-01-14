@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_KizunaAICup_ME",
    "beginTime": "2026-01-13T15:00:00Z",
-   "endTime": "2026-01-13T18:00:00Z",
+   "endTime": "2026-01-16T14:00:00Z",
    "displayDataId": "s39_kizuna",
    "eventGroup": "Season39_KizunaAICup",
    "announcementTime": "2026-01-01T05:00:00Z",
@@ -49,6 +49,44 @@
          "countdownBeginTime": "2026-01-13T14:00:00Z",
          "beginTime": "2026-01-13T15:00:00Z",
          "endTime": "2026-01-13T18:00:00Z",
+         "round": 0,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_kizuna_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_KizunaAICup_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_KizunaAICup_ME_mg",
+         "eventTemplateId": "EventTemplate_S39_KizunaAICup",
+         "countdownBeginTime": "2026-01-16T10:00:00Z",
+         "beginTime": "2026-01-16T11:00:00Z",
+         "endTime": "2026-01-16T14:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
