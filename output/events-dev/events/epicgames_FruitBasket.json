@@ -12,7 +12,7 @@
    ],
    "regionMappings": {
       "NAC": "NACCOMP",
-      "NAE": "NACCOMP"
+      "NAE": "NAC"
    },
    "platforms": [
       "Android",
