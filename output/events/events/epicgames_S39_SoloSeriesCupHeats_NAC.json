@@ -80,7 +80,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S39_SoloSeriesCup_Final_NAC"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -122,7 +123,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S39_SoloSeriesCup_Final_NAC"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -164,7 +166,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S39_SoloSeriesCup_Final_NAC"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -206,7 +209,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S39_SoloSeriesCup_Final_NAC"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
