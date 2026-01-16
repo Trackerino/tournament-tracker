@@ -1,0 +1,623 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S39_MobileSeriesFeb_ME",
+   "beginTime": "2026-01-30T14:00:00Z",
+   "endTime": "2026-02-21T15:00:00Z",
+   "displayDataId": "s39_mobile_jan",
+   "eventGroup": "Season39_MobileSeriesFeb",
+   "announcementTime": "2025-06-06T21:00:00Z",
+   "regions": [
+      "ME"
+   ],
+   "regionMappings": {
+      "ME": "MECOMP"
+   },
+   "platforms": [
+      "Android",
+      "IOS"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "tournamentType": "CashCup",
+      "webId": "S39_MobileSeriesJanRounds"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S39_MobileSeries_FebRound1_ME",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2026-01-30T13:00:00Z",
+         "beginTime": "2026-01-30T14:00:00Z",
+         "endTime": "2026-01-30T15:00:00Z",
+         "round": 5,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_mobile_rules",
+            "input-touch",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCup_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCupQual5_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "asyncPayoutsExclusiveLeaderboardDefs": [
+               "S39_BlitzMobileCup_LeaderboardDef"
+            ],
+            "hideScoreLocationsIndexes": [
+               1
+            ],
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_MobileSeries_FebRound10_ME",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2026-02-21T13:00:00Z",
+         "beginTime": "2026-02-21T14:00:00Z",
+         "endTime": "2026-02-21T15:00:00Z",
+         "round": 6,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_mobile_rules",
+            "input-touch",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCup_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCupQual6_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "asyncPayoutsExclusiveLeaderboardDefs": [
+               "S39_BlitzMobileCup_LeaderboardDef"
+            ],
+            "hideScoreLocationsIndexes": [
+               1
+            ],
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_MobileSeries_FebRound2_ME",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2026-01-31T13:00:00Z",
+         "beginTime": "2026-01-31T14:00:00Z",
+         "endTime": "2026-01-31T15:00:00Z",
+         "round": 6,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_mobile_rules",
+            "input-touch",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCup_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCupQual5_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "asyncPayoutsExclusiveLeaderboardDefs": [
+               "S39_BlitzMobileCup_LeaderboardDef"
+            ],
+            "hideScoreLocationsIndexes": [
+               1
+            ],
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_MobileSeries_FebRound3_ME",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2026-02-01T13:00:00Z",
+         "beginTime": "2026-02-01T14:00:00Z",
+         "endTime": "2026-02-01T15:00:00Z",
+         "round": 5,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_mobile_rules",
+            "input-touch",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCup_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCupQual5_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "asyncPayoutsExclusiveLeaderboardDefs": [
+               "S39_BlitzMobileCup_LeaderboardDef"
+            ],
+            "hideScoreLocationsIndexes": [
+               1
+            ],
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_MobileSeries_FebRound4_ME",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2026-02-06T13:00:00Z",
+         "beginTime": "2026-02-06T14:00:00Z",
+         "endTime": "2026-02-06T15:00:00Z",
+         "round": 5,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_mobile_rules",
+            "input-touch",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCup_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCupQual5_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "asyncPayoutsExclusiveLeaderboardDefs": [
+               "S39_BlitzMobileCup_LeaderboardDef"
+            ],
+            "hideScoreLocationsIndexes": [
+               1
+            ],
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_MobileSeries_FebRound5_ME",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2026-02-07T13:00:00Z",
+         "beginTime": "2026-02-07T14:00:00Z",
+         "endTime": "2026-02-07T15:00:00Z",
+         "round": 5,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_mobile_rules",
+            "input-touch",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCup_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCupQual5_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "asyncPayoutsExclusiveLeaderboardDefs": [
+               "S39_BlitzMobileCup_LeaderboardDef"
+            ],
+            "hideScoreLocationsIndexes": [
+               1
+            ],
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_MobileSeries_FebRound6_ME",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2026-02-13T13:00:00Z",
+         "beginTime": "2026-02-13T14:00:00Z",
+         "endTime": "2026-02-13T15:00:00Z",
+         "round": 6,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_mobile_rules",
+            "input-touch",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCup_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCupQual6_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "asyncPayoutsExclusiveLeaderboardDefs": [
+               "S39_BlitzMobileCup_LeaderboardDef"
+            ],
+            "hideScoreLocationsIndexes": [
+               1
+            ],
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_MobileSeries_FebRound7_ME",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2026-02-14T13:00:00Z",
+         "beginTime": "2026-02-14T14:00:00Z",
+         "endTime": "2026-02-14T15:00:00Z",
+         "round": 6,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_mobile_rules",
+            "input-touch",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCup_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCupQual6_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "asyncPayoutsExclusiveLeaderboardDefs": [
+               "S39_BlitzMobileCup_LeaderboardDef"
+            ],
+            "hideScoreLocationsIndexes": [
+               1
+            ],
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_MobileSeries_FebRound8_ME",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2026-02-15T13:00:00Z",
+         "beginTime": "2026-02-15T14:00:00Z",
+         "endTime": "2026-02-15T15:00:00Z",
+         "round": 6,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_mobile_rules",
+            "input-touch",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCup_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCupQual6_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "asyncPayoutsExclusiveLeaderboardDefs": [
+               "S39_BlitzMobileCup_LeaderboardDef"
+            ],
+            "hideScoreLocationsIndexes": [
+               1
+            ],
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_MobileSeries_FebRound9_ME",
+         "eventTemplateId": "EventTemplate_S38_BlitzMobileCup",
+         "countdownBeginTime": "2026-02-20T13:00:00Z",
+         "beginTime": "2026-02-20T14:00:00Z",
+         "endTime": "2026-02-20T15:00:00Z",
+         "round": 6,
+         "payoutDelay": 10,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_mobile_rules",
+            "input-touch",
+            "mfa",
+            "adps:g-a81a33a3b9a7",
+            [
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileSeries_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCup_LeaderboardDef",
+               "isMainWindowLeaderboard": false
+            },
+            {
+               "leaderboardDefId": "S39_BlitzMobileCupQual6_SeriesLeaderboardDef",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "asyncPayoutsExclusiveLeaderboardDefs": [
+               "S39_BlitzMobileCup_LeaderboardDef"
+            ],
+            "hideScoreLocationsIndexes": [
+               1
+            ],
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s39_mobileseriesfeb_me"
+   }
+}
