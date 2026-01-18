@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_SoloSeriesCupHeats_EU",
-   "beginTime": "2026-01-17T14:00:00Z",
-   "endTime": "2026-01-18T20:40:00Z",
+   "beginTime": "2026-01-17T18:00:00Z",
+   "endTime": "2026-01-19T17:20:00Z",
    "displayDataId": "s39_soloseries_heats",
    "eventGroup": "Season39_SoloSeriesCup",
    "announcementTime": "2025-06-06T23:00:00Z",
@@ -51,9 +51,9 @@
       {
          "eventWindowId": "S39_SoloSeriesCup_Heat1_EU",
          "eventTemplateId": "EventTemplate_S37_SoloSeriesCupFinal",
-         "countdownBeginTime": "2026-01-17T12:00:00Z",
-         "beginTime": "2026-01-17T14:00:00Z",
-         "endTime": "2026-01-17T17:10:00Z",
+         "countdownBeginTime": "2026-01-19T16:00:00Z",
+         "beginTime": "2026-01-19T17:00:00Z",
+         "endTime": "2026-01-19T17:20:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
