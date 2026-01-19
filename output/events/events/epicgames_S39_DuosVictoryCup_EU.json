@@ -268,7 +268,7 @@
       },
       {
          "eventWindowId": "S39_DuosVictoryCup_Round2_Day3_January_EU",
-         "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round1",
+         "eventTemplateId": "EventTemplate_S39_DuosVictoryCup_Round2",
          "countdownBeginTime": "2026-01-19T19:00:00Z",
          "beginTime": "2026-01-19T21:00:00Z",
          "endTime": "2026-01-19T22:00:00Z",
