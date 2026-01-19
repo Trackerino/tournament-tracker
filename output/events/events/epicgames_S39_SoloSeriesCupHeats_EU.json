@@ -78,8 +78,7 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban",
-            "S39_SoloSeriesCup_Final_EU"
+            "Permanent_Tournament_Ban"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
