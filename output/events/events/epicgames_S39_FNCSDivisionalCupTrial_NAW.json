@@ -92,6 +92,7 @@
             "RegionLock_S39_FNCSDivisionalTrial_ME",
             "RegionLock_S39_FNCSDivisionalTrial_NAC",
             "RegionLock_S39_FNCSDivisionalTrial_OCE",
+            "S39_FNCS_Banned",
             "S39_FNCS_Division1_NAW"
          ],
          "requireAllTokensCaller": [],
