@@ -89,7 +89,8 @@
             "S39_FNCSDivisionLock_Division2Event1_NAC",
             "S39_FNCSDivisionLock_Division3Event1_NAC",
             "S39_FNCSDivisionLock_Division4Event1_NAC",
-            "S39_FNCSDivisionLock_Division5Event1_NAC"
+            "S39_FNCSDivisionLock_Division5Event1_NAC",
+            "S39_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -139,7 +140,8 @@
             "S39_FNCSDivisionLock_Division2Event2_NAC",
             "S39_FNCSDivisionLock_Division3Event2_NAC",
             "S39_FNCSDivisionLock_Division4Event2_NAC",
-            "S39_FNCSDivisionLock_Division5Event2_NAC"
+            "S39_FNCSDivisionLock_Division5Event2_NAC",
+            "S39_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -180,7 +182,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S39_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -232,7 +235,8 @@
             "S39_FNCSDivisionLock_Division2Event3_NAC",
             "S39_FNCSDivisionLock_Division3Event3_NAC",
             "S39_FNCSDivisionLock_Division4Event3_NAC",
-            "S39_FNCSDivisionLock_Division5Event3_NAC"
+            "S39_FNCSDivisionLock_Division5Event3_NAC",
+            "S39_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -282,7 +286,8 @@
             "S39_FNCSDivisionLock_Division2Event4_NAC",
             "S39_FNCSDivisionLock_Division3Event4_NAC",
             "S39_FNCSDivisionLock_Division4Event4_NAC",
-            "S39_FNCSDivisionLock_Division5Event4_NAC"
+            "S39_FNCSDivisionLock_Division5Event4_NAC",
+            "S39_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -323,7 +328,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S39_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -375,7 +381,8 @@
             "S39_FNCSDivisionLock_Division2Event5_NAC",
             "S39_FNCSDivisionLock_Division3Event5_NAC",
             "S39_FNCSDivisionLock_Division4Event5_NAC",
-            "S39_FNCSDivisionLock_Division5Event5_NAC"
+            "S39_FNCSDivisionLock_Division5Event5_NAC",
+            "S39_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -425,7 +432,8 @@
             "S39_FNCSDivisionLock_Division2Event6_NAC",
             "S39_FNCSDivisionLock_Division3Event6_NAC",
             "S39_FNCSDivisionLock_Division4Event6_NAC",
-            "S39_FNCSDivisionLock_Division5Event6_NAC"
+            "S39_FNCSDivisionLock_Division5Event6_NAC",
+            "S39_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -466,7 +474,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S39_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -518,7 +527,8 @@
             "S39_FNCSDivisionLock_Division2Event7_NAC",
             "S39_FNCSDivisionLock_Division3Event7_NAC",
             "S39_FNCSDivisionLock_Division4Event7_NAC",
-            "S39_FNCSDivisionLock_Division5Event7_NAC"
+            "S39_FNCSDivisionLock_Division5Event7_NAC",
+            "S39_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -568,7 +578,8 @@
             "S39_FNCSDivisionLock_Division2Event8_NAC",
             "S39_FNCSDivisionLock_Division3Event8_NAC",
             "S39_FNCSDivisionLock_Division4Event8_NAC",
-            "S39_FNCSDivisionLock_Division5Event8_NAC"
+            "S39_FNCSDivisionLock_Division5Event8_NAC",
+            "S39_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
@@ -609,7 +620,8 @@
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
             "EpicAccountPrizingRestriction_v2",
-            "Permanent_Tournament_Ban"
+            "Permanent_Tournament_Ban",
+            "S39_FNCS_Banned"
          ],
          "requireAllTokensCaller": [],
          "requireAnyTokensCaller": [],
