@@ -3,7 +3,7 @@
    "eventId": "epicgames_S39_PlayStationCup_NAC",
    "beginTime": "2026-01-28T00:00:00Z",
    "endTime": "2026-02-02T03:00:00Z",
-   "displayDataId": "s39_playstation_",
+   "displayDataId": "s39_playstation",
    "eventGroup": "S39_PlayStationCup",
    "announcementTime": "2026-01-01T14:00:00Z",
    "regions": [

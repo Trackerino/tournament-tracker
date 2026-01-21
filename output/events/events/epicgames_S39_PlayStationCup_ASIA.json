@@ -3,7 +3,7 @@
    "eventId": "epicgames_S39_PlayStationCup_ASIA",
    "beginTime": "2026-01-27T09:00:00Z",
    "endTime": "2026-02-01T12:00:00Z",
-   "displayDataId": "s39_playstation_",
+   "displayDataId": "s39_playstation",
    "eventGroup": "S39_PlayStationCup",
    "announcementTime": "2025-12-31T23:00:00Z",
    "regions": [
