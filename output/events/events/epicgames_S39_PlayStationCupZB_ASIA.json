@@ -1,0 +1,153 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S39_PlayStationCupZB_ASIA",
+   "beginTime": "2026-01-27T09:00:00Z",
+   "endTime": "2026-02-01T08:00:00Z",
+   "displayDataId": "s39_playstation_zb",
+   "eventGroup": "S39_PlayStationCup",
+   "announcementTime": "2025-12-31T23:00:00Z",
+   "regions": [
+      "ASIA"
+   ],
+   "regionMappings": {
+      "ASIA": "ASIACOMP"
+   },
+   "platforms": [
+      "PS4",
+      "PS5"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "tournamentType": "CashCup",
+      "webId": "S39_PlayStationCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S39_PlayStationCupZB_Final_ASIA",
+         "eventTemplateId": "S39_PlayStationCup_EventTemplate_FinalZB",
+         "countdownBeginTime": "2026-02-01T04:00:00Z",
+         "beginTime": "2026-02-01T05:00:00Z",
+         "endTime": "2026-02-01T08:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_playstation_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_PlayStationCup_LeaderboardDef_Final",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [
+            "S39_PlayStationCupZB_Final_ASIA"
+         ],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator",
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_PlayStationCupZB_Qualifier1_ASIA",
+         "eventTemplateId": "S39_PlayStationCup_EventTemplate_QualifierZB",
+         "countdownBeginTime": "2026-01-27T07:00:00Z",
+         "beginTime": "2026-01-27T09:00:00Z",
+         "endTime": "2026-01-27T12:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:TBD",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_PlayStationCup_LeaderboardDef_Qualifier",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_PlayStationCupZB_Qualifier2_ASIA",
+         "eventTemplateId": "S39_PlayStationCup_EventTemplate_QualifierZB",
+         "countdownBeginTime": "2026-01-30T07:00:00Z",
+         "beginTime": "2026-01-30T09:00:00Z",
+         "endTime": "2026-01-30T12:00:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:TBD",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_PlayStationCup_LeaderboardDef_Qualifier",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S39_PlayStationCupZB_Final_ASIA"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s39_playstationcupzb_asia"
+   }
+}
