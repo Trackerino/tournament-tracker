@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_ReloadEliteSeries2Final_ME",
-   "beginTime": "2026-02-08T15:00:00Z",
-   "endTime": "2026-02-08T18:00:00Z",
+   "beginTime": "2026-03-01T15:00:00Z",
+   "endTime": "2026-03-01T18:00:00Z",
    "displayDataId": "s39_reloadelite_finals",
    "eventGroup": "Season39_ReloadEliteSeries2",
    "announcementTime": "2025-06-06T21:00:00Z",
@@ -50,11 +50,11 @@
    },
    "eventWindows": [
       {
-         "eventWindowId": "S39_FNCS_ReloadEliteSeries2Final_ME",
+         "eventWindowId": "S39_ReloadEliteSeries2Final_ME",
          "eventTemplateId": "EventTemplate_S39_ReloadEliteSeriesHeats",
-         "countdownBeginTime": "2026-02-08T13:00:00Z",
-         "beginTime": "2026-02-08T15:00:00Z",
-         "endTime": "2026-02-08T18:00:00Z",
+         "countdownBeginTime": "2026-03-01T13:00:00Z",
+         "beginTime": "2026-03-01T15:00:00Z",
+         "endTime": "2026-03-01T18:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
