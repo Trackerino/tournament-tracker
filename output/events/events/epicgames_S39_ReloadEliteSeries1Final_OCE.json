@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_ReloadEliteSeries1Final_OCE",
-   "beginTime": "2026-02-08T07:00:00Z",
-   "endTime": "2026-02-08T10:00:00Z",
+   "beginTime": "2026-02-07T07:00:00Z",
+   "endTime": "2026-02-07T10:00:00Z",
    "displayDataId": "s39_reloadelite_finals",
    "eventGroup": "Season39_ReloadEliteSeries1",
    "announcementTime": "2025-06-06T14:00:00Z",
@@ -52,9 +52,9 @@
       {
          "eventWindowId": "S39_ReloadEliteSeries1Final_OCE",
          "eventTemplateId": "EventTemplate_S39_ReloadEliteSeriesHeats",
-         "countdownBeginTime": "2026-02-08T05:00:00Z",
-         "beginTime": "2026-02-08T07:00:00Z",
-         "endTime": "2026-02-08T10:00:00Z",
+         "countdownBeginTime": "2026-02-07T05:00:00Z",
+         "beginTime": "2026-02-07T07:00:00Z",
+         "endTime": "2026-02-07T10:00:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
