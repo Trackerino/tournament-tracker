@@ -96,6 +96,52 @@
          }
       },
       {
+         "eventWindowId": "S39_ReloadEliteSeries1PlayInDay1_EU_mg",
+         "eventTemplateId": "EventTemplate_S39_ReloadEliteSeries",
+         "countdownBeginTime": "2026-01-23T18:00:00Z",
+         "beginTime": "2026-01-23T19:00:00Z",
+         "endTime": "2026-01-23T21:40:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_reload_elite_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_ReloadEliteSeriesPlayIn_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_ReloadEliteSeriesCumulative_LeaderboardDef_mg",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_ReloadEliteSeries1PlayIn_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Series1_EU"
+         }
+      },
+      {
          "eventWindowId": "S39_ReloadEliteSeries1PlayInDay2_EU",
          "eventTemplateId": "EventTemplate_S39_ReloadEliteSeries",
          "countdownBeginTime": "2026-01-26T16:00:00Z",
