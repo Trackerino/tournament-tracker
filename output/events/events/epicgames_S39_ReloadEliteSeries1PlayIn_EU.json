@@ -164,7 +164,7 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S39_ReloadEliteSeriesCumulative_LeaderboardDef",
+               "leaderboardDefId": "S39_ReloadEliteSeriesCumulative_LeaderboardDef_mg",
                "isMainWindowLeaderboard": false
             }
          ],
