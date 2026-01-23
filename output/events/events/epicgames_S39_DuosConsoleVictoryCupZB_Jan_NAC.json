@@ -30,7 +30,6 @@
       "DisqualifyType": "Window",
       "minimumAccountLevel": 50,
       "TeamLockType": "Window",
-      "tournamentType": "VictoryCup",
       "webId": "S39_DuosConsoleVictoryCupZB"
    },
    "eventWindows": [
