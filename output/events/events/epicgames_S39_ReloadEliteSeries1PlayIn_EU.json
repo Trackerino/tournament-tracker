@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_ReloadEliteSeries1PlayIn_EU",
    "beginTime": "2026-01-23T18:00:00Z",
-   "endTime": "2026-01-26T20:30:00Z",
+   "endTime": "2026-01-28T20:30:00Z",
    "displayDataId": "s39_reloadelite_playins",
    "eventGroup": "Season39_ReloadEliteSeries1",
    "announcementTime": "2025-06-06T23:00:00Z",
@@ -142,9 +142,9 @@
          }
       },
       {
-         "eventWindowId": "S39_ReloadEliteSeries1PlayInDay2_EU",
+         "eventWindowId": "S39_ReloadEliteSeries1PlayInDay1_EU_mg2",
          "eventTemplateId": "EventTemplate_S39_ReloadEliteSeries",
-         "countdownBeginTime": "2026-01-26T16:00:00Z",
+         "countdownBeginTime": "2026-01-26T17:00:00Z",
          "beginTime": "2026-01-26T18:00:00Z",
          "endTime": "2026-01-26T20:30:00Z",
          "round": 1,
@@ -164,7 +164,53 @@
                "isMainWindowLeaderboard": true
             },
             {
-               "leaderboardDefId": "S39_ReloadEliteSeriesCumulative_LeaderboardDef_mg",
+               "leaderboardDefId": "S39_ReloadEliteSeriesCumulative_LeaderboardDef_mg2",
+               "isMainWindowLeaderboard": false
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_ReloadEliteSeries1PlayIn_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "liveSpectateAccessToken": "WeeklyTournamentSpectator",
+            "RoundType": "Qualifiers",
+            "ServerReplays": true,
+            "SubgroupId": "Series1_EU"
+         }
+      },
+      {
+         "eventWindowId": "S39_ReloadEliteSeries1PlayInDay2_EU",
+         "eventTemplateId": "EventTemplate_S39_ReloadEliteSeries",
+         "countdownBeginTime": "2026-01-28T17:00:00Z",
+         "beginTime": "2026-01-28T18:00:00Z",
+         "endTime": "2026-01-28T20:30:00Z",
+         "round": 1,
+         "payoutDelay": 32,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s39_reload_elite_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_ReloadEliteSeriesPlayIn_DefaultLeaderboardDef",
+               "isMainWindowLeaderboard": true
+            },
+            {
+               "leaderboardDefId": "S39_ReloadEliteSeriesCumulative_LeaderboardDef_mg2",
                "isMainWindowLeaderboard": false
             }
          ],
