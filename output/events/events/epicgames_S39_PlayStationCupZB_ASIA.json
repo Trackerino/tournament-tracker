@@ -2,7 +2,7 @@
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_PlayStationCupZB_ASIA",
    "beginTime": "2026-01-27T09:00:00Z",
-   "endTime": "2026-02-01T08:00:00Z",
+   "endTime": "2026-02-01T11:40:00Z",
    "displayDataId": "s39_playstation_zb",
    "eventGroup": "S39_PlayStationCup",
    "announcementTime": "2025-12-31T23:00:00Z",
@@ -28,9 +28,9 @@
       {
          "eventWindowId": "S39_PlayStationCupZB_Final_ASIA",
          "eventTemplateId": "S39_PlayStationCup_EventTemplate_FinalZB",
-         "countdownBeginTime": "2026-02-01T04:00:00Z",
-         "beginTime": "2026-02-01T05:00:00Z",
-         "endTime": "2026-02-01T08:00:00Z",
+         "countdownBeginTime": "2026-02-01T08:00:00Z",
+         "beginTime": "2026-02-01T09:00:00Z",
+         "endTime": "2026-02-01T11:40:00Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
@@ -64,7 +64,7 @@
             "liveSpectateAccessToken": "S29_PSCupMarch_Final_Spectator",
             "RoundType": "Qualifiers",
             "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1920,
+            "ScheduledMatchmakingMatchDelaySeconds": 1680,
             "ServerReplays": true
          }
       },
