@@ -94,7 +94,7 @@
          ],
          "canLiveSpectate": false,
          "requireAllTokens": [
-            "S39_MobileSeriesQualifier4Jan_OCE"
+            "S39_MobileSeriesQualifier4Jan_OCEv2"
          ],
          "requireAnyTokens": [],
          "requireNoneTokensCaller": [
