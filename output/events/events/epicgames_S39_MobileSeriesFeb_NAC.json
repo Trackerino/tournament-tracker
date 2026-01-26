@@ -151,7 +151,7 @@
          "countdownBeginTime": "2026-01-31T22:00:00Z",
          "beginTime": "2026-01-31T23:00:00Z",
          "endTime": "2026-02-01T00:00:00Z",
-         "round": 6,
+         "round": 5,
          "payoutDelay": 10,
          "isTBD": false,
          "visibility": "public",
