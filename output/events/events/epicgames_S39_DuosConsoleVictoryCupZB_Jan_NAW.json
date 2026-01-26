@@ -79,9 +79,9 @@
       {
          "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event10Round2_NAW",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round2",
-         "countdownBeginTime": "2026-01-31T23:00:00Z",
-         "beginTime": "2026-02-01T00:00:00Z",
-         "endTime": "2026-02-01T01:00:00Z",
+         "countdownBeginTime": "2026-02-04T23:00:00Z",
+         "beginTime": "2026-02-05T00:00:00Z",
+         "endTime": "2026-02-05T01:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
