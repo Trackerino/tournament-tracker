@@ -35,9 +35,9 @@
       {
          "eventWindowId": "S39_DuosConsoleVictoryCupZB_Event10Round1_ASIA",
          "eventTemplateId": "EventTemplate_S39_DuosConsoleVictoryCupZB_Round1",
-         "countdownBeginTime": "2026-01-31T03:00:00Z",
-         "beginTime": "2026-01-31T04:00:00Z",
-         "endTime": "2026-01-31T06:00:00Z",
+         "countdownBeginTime": "2026-02-04T03:00:00Z",
+         "beginTime": "2026-02-04T04:00:00Z",
+         "endTime": "2026-02-04T06:00:00Z",
          "round": 0,
          "payoutDelay": 32,
          "isTBD": false,
