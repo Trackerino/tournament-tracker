@@ -8,7 +8,7 @@
                {
                   "rewardType": "game",
                   "rewardMode": "standard",
-                  "value": "thenaBackpack:backpack_scalybutcher",
+                  "value": "AthenaBackpack:backpack_scalybutcher",
                   "quantity": 1,
                   "notifiesPlayer": true
                }
