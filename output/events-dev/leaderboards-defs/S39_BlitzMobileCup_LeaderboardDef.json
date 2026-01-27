@@ -36,7 +36,7 @@
    "scoringRuleSetId": "ScoringRules_MobileSeriesRounds",
    "clampsToZero": true,
    "payoutsConfig": {
-      "payoutTableIdFormat": "S39_PayoutTable_BlitzMobileCup_${round}",
+      "payoutTableIdFormat": "MobileCup_${round}",
       "payoutDate": "windowEnd+PT10M"
    },
    "hidePlayerScores": false,

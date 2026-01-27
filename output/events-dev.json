@@ -2859,7 +2859,7 @@
          "scoringRuleSetId": "ScoringRules_MobileSeriesRounds",
          "clampsToZero": true,
          "payoutsConfig": {
-            "payoutTableIdFormat": "S39_PayoutTable_BlitzMobileCup_${round}",
+            "payoutTableIdFormat": "MobileCup_${round}",
             "payoutDate": "windowEnd+PT10M"
          },
          "hidePlayerScores": false,
@@ -4777,7 +4777,7 @@
             ]
          }
       ],
-      "S39_PayoutTable_BlitzMobileCup_1": [
+      "MobileCup_1": [
          {
             "scoringType": "value",
             "ranks": [
@@ -4796,7 +4796,7 @@
             ]
          }
       ],
-      "S39_PayoutTable_BlitzMobileCup_2": [
+      "MobileCup_2": [
          {
             "scoringType": "value",
             "ranks": [
