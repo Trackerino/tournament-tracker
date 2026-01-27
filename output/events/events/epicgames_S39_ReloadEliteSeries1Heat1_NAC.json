@@ -43,7 +43,7 @@
       "minimumAccountLevel": 350,
       "RegionLockType": "Window",
       "requireSystemFeatures": [
-         "SecureBoot",
+         "minureBoot",
          "CryptoProcessor"
       ],
       "TeamLockType": "Week",
@@ -89,8 +89,8 @@
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelaySeconds": 600,
-            "ScheduledMatchmakingMatchDelaySeconds": 1440,
+            "ScheduledMatchmakingInitialDelayminonds": 600,
+            "ScheduledMatchmakingMatchDelayminonds": 1440,
             "ServerReplays": true,
             "SubgroupId": "Series1_NAC"
          }
