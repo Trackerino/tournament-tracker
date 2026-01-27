@@ -89,8 +89,8 @@
          "metadata": {
             "liveSpectateAccessToken": "WeeklyTournamentSpectator",
             "RoundType": "Qualifiers",
-            "ScheduledMatchmakingInitialDelayminonds": 600,
-            "ScheduledMatchmakingMatchDelayminonds": 1440,
+            "ScheduledMatchmakingInitialDelaySeconds": 600,
+            "ScheduledMatchmakingMatchDelaySeconds": 1440,
             "ServerReplays": true,
             "SubgroupId": "Series1_NAC"
          }
