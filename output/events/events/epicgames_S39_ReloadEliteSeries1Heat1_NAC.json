@@ -43,7 +43,7 @@
       "minimumAccountLevel": 350,
       "RegionLockType": "Window",
       "requireSystemFeatures": [
-         "minureBoot",
+         "SecureBoot",
          "CryptoProcessor"
       ],
       "TeamLockType": "Week",

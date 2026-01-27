@@ -1,8 +1,8 @@
 {
    "gameId": "Fortnite",
    "eventId": "epicgames_S39_ReloadEliteSeries1Heat4_EU",
-   "beginTime": "2026-02-01T18:12:00Z",
-   "endTime": "2026-02-01T21:12:00Z",
+   "beginTime": "2026-02-01T18:12:01Z",
+   "endTime": "2026-02-01T21:12:01Z",
    "displayDataId": "s39_reloadelite_heats",
    "eventGroup": "Season39_ReloadEliteSeries1",
    "announcementTime": "2025-06-06T23:00:00Z",
@@ -41,7 +41,7 @@
       "minimumAccountLevel": 350,
       "RegionLockType": "Window",
       "requireSystemFeatures": [
-         "minureBoot",
+         "SecureBoot",
          "CryptoProcessor"
       ],
       "TeamLockType": "Week",
@@ -53,8 +53,8 @@
          "eventWindowId": "S39_ReloadEliteSeries1Heat4_EU",
          "eventTemplateId": "EventTemplate_S39_ReloadEliteSeriesHeats",
          "countdownBeginTime": "2026-02-01T16:00:00Z",
-         "beginTime": "2026-02-01T18:12:00Z",
-         "endTime": "2026-02-01T21:12:00Z",
+         "beginTime": "2026-02-01T18:12:01Z",
+         "endTime": "2026-02-01T21:12:01Z",
          "round": 1,
          "payoutDelay": 32,
          "isTBD": false,
