@@ -51,5 +51,43 @@
             ]
          }
       ]
+   },
+   {
+      "scoringType": "rank",
+      "ranks": [
+         {
+            "threshold": 20,
+            "payouts": [
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaCharacter:character_straymanta",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaPickaxe:pickaxe_straymanta",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaBackpack:backpack_straymanta",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               },
+               {
+                  "rewardType": "game",
+                  "rewardMode": "standard",
+                  "value": "AthenaDance:emoticon_s39_rankedcup",
+                  "quantity": 1,
+                  "notifiesPlayer": true
+               }
+            ]
+         }
+      ]
    }
 ]
