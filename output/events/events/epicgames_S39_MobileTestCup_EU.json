@@ -1,0 +1,166 @@
+{
+   "gameId": "Fortnite",
+   "eventId": "epicgames_S39_MobileTestCup_EU",
+   "beginTime": "2026-02-05T17:00:00Z",
+   "endTime": "2026-02-05T21:20:00Z",
+   "displayDataId": "s38_touchonly",
+   "eventGroup": "Season38_MobileTestCup",
+   "announcementTime": "2025-08-07T07:00:00Z",
+   "regions": [
+      "EU"
+   ],
+   "regionMappings": {
+      "EU": "EUCOMP"
+   },
+   "platforms": [
+      "Android",
+      "IOS"
+   ],
+   "platformMappings": {},
+   "metadata": {
+      "AccountLockType": "Window",
+      "DisqualifyType": "Window",
+      "minimumAccountLevel": 50,
+      "webId": "S39_MobileTestCup"
+   },
+   "eventWindows": [
+      {
+         "eventWindowId": "S39_MobileTestCup_Final_EU",
+         "eventTemplateId": "S39_EventTemplate_MobileTestCupFinal",
+         "countdownBeginTime": "2026-02-05T19:00:00Z",
+         "beginTime": "2026-02-05T20:00:00Z",
+         "endTime": "2026-02-05T21:20:00Z",
+         "round": 0,
+         "payoutDelay": 20,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "eula:s38_mobile_rules",
+            "adps:g-a81a33a3b9a7",
+            "mfa",
+            "input-touch"
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileTestCup_LeaderboardDef_Final",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [
+            "S39_MobileTestCup_Final_EU"
+         ],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ScheduledMatchmakingInitialDelaySeconds": 300,
+            "ScheduledMatchmakingMatchDelaySeconds": 480,
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_MobileTestCup_Round1_EU",
+         "eventTemplateId": "S39_EventTemplate_MobileTestCupOpens",
+         "countdownBeginTime": "2026-02-05T16:00:00Z",
+         "beginTime": "2026-02-05T17:00:00Z",
+         "endTime": "2026-02-05T18:00:00Z",
+         "round": 0,
+         "payoutDelay": 20,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "input-touch",
+            "mfa",
+            "eula:s38_mobile_rules",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileTestCup_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      },
+      {
+         "eventWindowId": "S39_MobileTestCup_Round2_EU",
+         "eventTemplateId": "S39_EventTemplate_MobileTestCupOpens",
+         "countdownBeginTime": "2026-02-05T17:30:00Z",
+         "beginTime": "2026-02-05T18:30:00Z",
+         "endTime": "2026-02-05T19:30:00Z",
+         "round": 0,
+         "payoutDelay": 20,
+         "isTBD": false,
+         "visibility": "public",
+         "additionalRequirements": [
+            "adps:g-a81a33a3b9a7",
+            "input-touch",
+            "mfa",
+            "eula:s38_mobile_rules",
+            [
+               "currentRanking:ranked-zb:6",
+               "currentRanking:ranked-br:6",
+               "currentRanking:ranked_blastberry_build:6",
+               "currentRanking:ranked_blastberry_nobuild:6"
+            ]
+         ],
+         "teammateEligibility": "all",
+         "blackoutPeriods": [],
+         "scoreLocations": [
+            {
+               "leaderboardDefId": "S39_MobileTestCup_LeaderboardDef",
+               "isMainWindowLeaderboard": true
+            }
+         ],
+         "canLiveSpectate": false,
+         "requireAllTokens": [],
+         "requireAnyTokens": [],
+         "requireNoneTokensCaller": [
+            "EpicAccountPrizingRestriction_v2",
+            "Permanent_Tournament_Ban",
+            "S39_MobileTestCup_Final_EU"
+         ],
+         "requireAllTokensCaller": [],
+         "requireAnyTokensCaller": [],
+         "regionMappings": {},
+         "metadata": {
+            "RoundType": "Qualifiers",
+            "ServerReplays": true
+         }
+      }
+   ],
+   "link": {
+      "type": "br:tournament",
+      "code": "tournament_epicgames_s39_mobiletestcup_eu"
+   }
+}
