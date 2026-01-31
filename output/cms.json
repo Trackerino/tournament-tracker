@@ -5899,6 +5899,19 @@
    },
    {
       "_type": "Tournament Display Info",
+      "background_left_color": "141414",
+      "background_right_color": "545454",
+      "background_text_color": "161616",
+      "details_description": "Drop into this mobile cup! This cup will be touch-only (no controller input). Good luck and have fun!",
+      "long_format_title": "Touch-Only Test Cup",
+      "primary_color": "977EA5",
+      "square_poster_image": "https://cdn2.unrealengine.com/fnce-37-10-blitzmobilecup-800x800-800x800-b237feb5e2ee.jpg",
+      "title_line_1": "Touch-Only Test Cup",
+      "tournament_display_id": "s39_touchonly",
+      "tournament_view_background_image": "https://cdn2.unrealengine.com/fnce-37-10-blitzmobilecup-1560x1024-1560x1024-d0dd6c9dc4d0.jpg"
+   },
+   {
+      "_type": "Tournament Display Info",
       "background_left_color": "000000",
       "background_right_color": "E6153C",
       "background_text_color": "",
