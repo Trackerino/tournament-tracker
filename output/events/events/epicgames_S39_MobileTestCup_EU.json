@@ -3,7 +3,7 @@
    "eventId": "epicgames_S39_MobileTestCup_EU",
    "beginTime": "2026-02-05T17:00:00Z",
    "endTime": "2026-02-05T21:20:00Z",
-   "displayDataId": "s39_touchonly",
+   "displayDataId": "s38_touchonly",
    "eventGroup": "Season38_MobileTestCup",
    "announcementTime": "2025-08-07T07:00:00Z",
    "regions": [
